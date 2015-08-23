@@ -13,23 +13,13 @@ struct line
 }larr[50007];
 int n;
 bool merge(int l,int r){
-	if(l==r)
-		return true;
-	int m=(l+r)>>1;
-	bool tag=merge(l,m)&&merge(m+1,r);
-	if(!tag){
-		if(larr[l].r>=larr[m+1].r){
-			return true;
-		}else{
+	for(int i=l;i<=r;++i){
+		if(larr[i].l<=larr[0].r)
+			larr[0].r=max(larr[0].r,larr[i].r);
+		else
 			return false;
-		}
 	}
-	if(larr[l].r>=larr[m+1].l){
-		larr[l].r=max(larr[l].r,larr[m+1].r);
-		return true;
-	}else{
-		return false;
-	}
+	return true;
 }
 int main(){
 	scanf("%d",&n);
