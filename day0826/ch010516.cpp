@@ -13,6 +13,6 @@ int main(){
 		totaltime+=a*1.5;
 		totaltime+=sqrt(x*x+y*y)/25.0;
 	}
-	printf("%d\n", (int)totaltime+1);
+	printf("%d\n", (int)ceil(totaltime));
 	return 0;
 }
