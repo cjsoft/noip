@@ -2,10 +2,10 @@
 #include <deque>
 int n;
 char s[2007];
-std::deque<char> q,dq;
+std::deque<char> q,lq,rq;
 int main(){
-	freopen("sun.in","r",stdin);
-	freopen("sun.out","w",stdout);
+	//freopen("sun.in","r",stdin);
+	//freopen("sun.out","w",stdout);
 	scanf("%d",&n);
 	scanf("%s",s);
 	for (int i = 0; i < n; ++i){
@@ -19,7 +19,27 @@ int main(){
 			putchar(q.back());
 			q.pop_back();
 		}else{
+			while(q.front()==q.back() && q.size()!=1){
+				lq.push_back(q.front());
+				rq.push_back(q.front());
+				if(q.front()>q.back()){
+					while(!rq.empty()){
+						putchar(rq.front());
+						rq.pop_front();
+					}
+					putchar(q.back());
+					q.pop_back();
+					while(!lq.empty()){
+						q.push_front(lq.back());
+						lq.pop_back();
+					}
+				}else{
 
+				}
+			}
+
+			if(q.size()==1)
+				putchar(q.front());
 		}
 	}
 	putchar('\n');
