@@ -19,6 +19,10 @@ int main(){
 			putchar(q.back());
 			q.pop_back();
 		}else{
+			if(q.size()==1){
+				putchar(q.front());
+				break;
+			}
 			while(q.front()==q.back() && q.size()!=1){
 				lq.push_back(q.front());
 				rq.push_back(q.front());
@@ -34,12 +38,20 @@ int main(){
 						lq.pop_back();
 					}
 				}else{
-
+					while(!rq.empty()){
+						putchar(rq.front());
+						rq.pop_front();
+					}
+					putchar(q.back());
+					q.pop_front();
+					while(!lq.empty()){
+						q.push_back(lq.back());
+						lq.pop_back();
+					}
 				}
 			}
 
-			if(q.size()==1)
-				putchar(q.front());
+			
 		}
 	}
 	putchar('\n');
