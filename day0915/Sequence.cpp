@@ -13,14 +13,17 @@ int main(){
     for (int i = 1; i <= n; i++) {
         scanf("%d",a+i);
     }
-    for (int i = 1; i <=n; i++) {
-        for (int j = i+1; j <= n; j++) {
-            for (int k = j+1; k <= n; k ++) {
-                for (int l = k+1; l <= n; l++) {
-                    if(a[i]==a[k] && a[j]==a[l] ){
-                        dp[j]=max(dp[i]+1,dp[j]);
-                        dp[k]=max(dp[i]+2,dp[k]);
-                        dp[l]=max(dp[i]+3,dp[l]);
+    for (int i = 1; i <=n-4; i++) {
+        for (int j = i+1; j <= n-3; j++) {
+            for (int k = j+1; k <= n-2; k ++) {
+                for (int l = k+1; l <= n-1; l++) {
+                    for(int m=l+1;m<=n;m++){
+                        if((a[j]==a[l] && a[k]==a[m]) || dp[i]%4==0){
+                            dp[j]=max(dp[j],dp[i]+1);
+                            dp[k]=max(dp[k],dp[i]+2);
+                            dp[l]=max(dp[l],dp[i]+3);
+                            dp[m]=max(dp[m],dp[i]+4);
+                        }
                     }
                 }
             }
