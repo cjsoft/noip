@@ -15,10 +15,7 @@ int n;
 vector <int> mp[200007];
 
 void dfs(int root,int from){
-	if(mp[root].size()==1 || 1){
-		dp[root]=1;
-		// return;
-	}
+	dp[root]=1;
 	for (vector<int>::iterator i = mp[root].begin(); i != mp[root].end(); ++i)
 	{
 		if(*i!=from)
@@ -31,11 +28,12 @@ void dfs(int root,int from){
 			dp[root]%=MOD;
 		}
 	}
-	// dp[root]++;
 	dp[root]%=MOD;
 }
 
 int main(){
+	freopen("city.in","r",stdin);
+	freopen("city.out","w",stdout);
 	ios::sync_with_stdio(false);
 	cin>>n;
 	int temp;
@@ -48,7 +46,10 @@ int main(){
 	{
 		memset(dp,0,sizeof(dp));
 		dfs(i,0);
-		cout<<dp[i]<<endl;
+		cout<<dp[i];
+		if(i!=n)
+			cout<<' ';
 	}
+	cout<<endl;
 	return 0;
 }
