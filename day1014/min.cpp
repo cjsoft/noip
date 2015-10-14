@@ -2,7 +2,7 @@
 #include <cstdio>
 #include <climits>
 #include <algorithm>
-
+#define open(a,b) freopen(a,"r",stdin);freopen(b,"w",stdout)
 using namespace std;
 const int POI=1000007;
 int a[POI];
@@ -15,6 +15,7 @@ T mabs(T a){
 }
 
 int main(){
+	open("min.in","min.out");
 	scanf("%d",&n);
 	for (int i = 0; i <n; ++i)
 	{
