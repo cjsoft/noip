@@ -2,6 +2,7 @@
 #include <cstdio>
 #include <cstring>
 #include <climits>
+#define open(a,b) freopen(a,"r",stdin);freopen(b,"w",stdout);
 using namespace std;
 int hhd[2007];
 int mp[2007][2007];
@@ -24,6 +25,7 @@ bool dfs(int root,int from,int tgt,int hxd){
     return false;
 }
 int main(){
+    open("car.in","car.out");
     scanf("%d %d %d %d",&n,&m,&k,&q);
     memset(mp,0,sizeof(mp));
     int result_total=0,t_op;
@@ -49,7 +51,7 @@ int main(){
             for (int j = 1; j <= k; ++j)
             {
                 memset(tag,false,sizeof(tag));
-                    printf("%d %d\n",j, hhd[j]);
+                    // printf("%d %d\n",j, hhd[j]);
                 if(dfs(tx,0,ty,hhd[j])){
                     result_total+=hhd[j];
                 }
