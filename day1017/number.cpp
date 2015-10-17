@@ -28,6 +28,10 @@ void dfs(int tl,int tr,int ts,int tk){
 int main(){
 	open("number.in","number.out");
 	scanf("%d %d %d",&n,&k,&s);
+	if(int(0.5*(n+n-k+1)*k)<s+1){
+		printf("0\n");
+		return 0;
+	}
 	dfs(1,n,s,k);
 	printLL(global_result);
 	putchar('\n');
