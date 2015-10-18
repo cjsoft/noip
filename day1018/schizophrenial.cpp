@@ -20,6 +20,6 @@ int main(){
     for (int i = l; i <=r; i++) {
         if(tags[i])++cnt;
     }
-    cout<<cnt;
+    cout<<cnt<<endl;
     return 0;
 }
