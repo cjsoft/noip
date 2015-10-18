@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cstdio>
+#define open(a,b) freopen(a,"r",stdin);freopen(b,"w",stdout)
 const long long mOD=1000000009;
 using namespace std;
 typedef long long ll;
@@ -30,6 +31,7 @@ ll dfs_split(int t_left,int day_left){
 }
 
 int main(){
+	open("philosophy.in","philosophy.out");
     init_jiecheng();
     cin>>n>>w>>b;
     ll result_=0;

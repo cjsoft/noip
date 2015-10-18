@@ -11,6 +11,7 @@ struct wangshichengyuan{
 };
 
 int main(){
+	open("throne.in","throne.out");
     cout<<"2"<<endl;
     return 0;
 }
