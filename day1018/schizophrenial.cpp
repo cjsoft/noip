@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdio>
 #include <cstring>
-
+#define open(a,b) freopen(a,"r",stdin);freopen(b,"w",stdout)
 using namespace std;
 int x,l,r,p;
 bool tags[1000007];
@@ -13,6 +13,7 @@ void dfs(int a,int b,int tms){
 }
 
 int main(){
+    open("schizophrenial.in","schizophrenial.out");
     memset(tags,0,sizeof(tags));
     cin>>l>>r>>p;
     dfs(1,0,0);
