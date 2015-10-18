@@ -12,11 +12,11 @@ int main(){
     open("gas.in","gas.out");
     scanf("%d",&n);
     for (int i = 0; i < n; i++) {
-        scanf("%lld",a+i);
+        scanf("%I64d",a+i);
         total+=a[i];
     }
     for (int i = 0; i < n; i++) {
-        scanf("%lld",b+i);
+        scanf("%I64d",b+i);
     }
     double avg=double(total)/n;
     for (int i = 0; i < n; ++i) {
