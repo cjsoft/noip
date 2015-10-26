@@ -47,5 +47,6 @@ int main(){
 	if(!tag)
 		cout<<"NO";
 	putchar('\n');
+	printf("%d\n", result[1]);
 	return 0;
 }
