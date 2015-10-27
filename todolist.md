@@ -1,8 +1,10 @@
 ## TO DO LIST
 
 * 线段树
-* 欧拉函数
-* 欧拉筛法
+* ~~exgcd~~
+* ~~欧拉函数~~
+* ~~欧拉筛法~~
+* 约数个数
 * LIS、LCS
 * SPFA
 * Dijkstra
