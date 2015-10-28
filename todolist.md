@@ -4,8 +4,8 @@
 * ~~exgcd~~
 * ~~欧拉函数~~
 * ~~欧拉筛法~~
-* 约数个数
-* LIS、LCS
+* ~~约数个数~~
+* ~~LIS、LCS~~
 * SPFA
 * Dijkstra
 * Prim
@@ -13,6 +13,7 @@
 * 克鲁斯卡尔
 * BFS、DFS
 * Hash
+* ~~并查集~~
 * 树状数组
 * ST表
 * Heap (Priority Queue)
