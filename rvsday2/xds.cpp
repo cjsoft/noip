@@ -1,5 +1,5 @@
 // 线段树任何对于节点的操作都pushdown一下，肯定没有坏处
-
+// 把所有节点更新操作都交给pushdown来搞，放心！、
 #include <iostream>
 #include <cstdio>
 
@@ -44,10 +44,6 @@ ll query(int root,int al,int ar,int ql,int qr){
 }
 
 void add(int root,int al,int ar,int addl,int addr,int adddata){
-	if(al==ar){
-		stree[root]+=adddata;
-		return;
-	}
 	if(addl>ar || addr<al)
 		return;
 	if(al>=addl && ar<=addr){
@@ -57,12 +53,8 @@ void add(int root,int al,int ar,int addl,int addr,int adddata){
 	}
 	pushdown(root,al,ar);
 	int m=(al+ar)>>1;
-	if(addr<=m){
-		add(lson(root),al,m,addl,addr,adddata);
-	}
-	if(addl>m){
-		add(rson(root),m+1,ar,addl,addr,adddata);
-	}
+	add(lson(root),al,m,addl,addr,adddata);
+	add(rson(root),m+1,ar,addl,addr,adddata);
 	update(root);
 }
 
