@@ -1,3 +1,5 @@
+// 然而再一次被 不（好好）读题 坑了、
+
 #include <iostream>
 #include <cstdio>
 #include <vector>
@@ -10,32 +12,34 @@ queue<int>id,cntl;
 int degree[1007];
 int ts[1007];
 int n,m;
-
+bool tag[1007];
 int main(){
 	scanf("%d %d",&n,&m);
 	memset(mp,0,sizeof(mp));
 	memset(degree,0,sizeof(degree));
 	int tsi,ttt;
+	int st=9999,ed=0;
 	for (int i = 0; i < m; ++i){
 		scanf("%d",&tsi);
 		memset(ts,0,sizeof(ts));
+		memset(tag,false,sizeof(tag));
+		st=9999;ed=0;
 		for (int j = 0; j < tsi; ++j)
 		{
 			scanf("%d",ts+j);
+			st=min(st,ts[j]);
+			ed=max(ts[j],ed);
+			tag[ts[j]]=true;
 		}
-		for (int j = 1; j <= n; ++j){
-			for (int k = 0; k <tsi ; ++k){
-				if(ts[k]==j)
-					goto JMP;
-			}
+		for (int j = st; j <= ed; ++j){
+			if(tag[j])
+				continue;
 			for (int k = 0; k <tsi ; ++k)
 			{
-				if(mp[j][ts[k]])
+				if(!mp[j][ts[k]])
 					degree[ts[k]]++;
-				else
-					mp[j][ts[k]]=1;
+				mp[j][ts[k]]=1;
 			}
-			JMP:;
 		}
 	}
 	for (int i = 1; i <=n; ++i)
@@ -49,7 +53,6 @@ int main(){
 	while(!id.empty()){
 		tid=id.front();id.pop();
 		tcntl=cntl.front();cntl.pop();
-		printf("%d\n",tcntl );
 		for (int i = 1; i <=n; ++i){
 			if(mp[tid][i]){
 				degree[i]--;

@@ -10,9 +10,9 @@
 * Dijkstra  
 * Prim  
 * Floyd k,i,j  
-* 拓扑排序  
+* ~~拓扑排序~~  
 * 克鲁斯卡尔  
-* BFS、DFS  
+* ~~BFS、DFS~~  
 * Hash  
 * ~~并查集~~  
 * 树状数组  
