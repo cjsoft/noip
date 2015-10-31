@@ -1,3 +1,10 @@
+**细心！！！**  
+明明第一题那么有机会A的  
+坑点也不是太坑  
+好好读题就能A、  
+怎么一点也不仔细呢！！、  
+  
+```c++
 #include <iostream>
 #include <cstdio>
 #define open(a,b) freopen(a,"r",stdin);freopen(b,"w",stdout)
@@ -20,10 +27,11 @@ inline void print(int &a,int &b,int &c){
 	}
 }
 void solve(){
+	// 这个循环顺序啊，怎么就是不仔细读题呢！、
 	for(int i=2;i<n;++i){
 		for(int j=1;j<i;++j){
 			for(int k=0;k<j;++k){
-				if(arr[i]+arr[j]>arr[k] && arr[i]+arr[k]>arr[j] && arr[j]+arr[k]>arr[i]){
+				if(arr[i]+arr[j]>arr[k] && arr[i]+arr[k]>arr[j] && arr[j]+arr[k]>arr[i]){ //多写个等式，程序不会因为你多一个判断就T掉，多一个判断反而更令人放心，更稳当
 					print(arr[i],arr[j],arr[k]);
 					return;
 				}
@@ -51,3 +59,4 @@ int main(){
 	}
 	return 0;
 }
+```
