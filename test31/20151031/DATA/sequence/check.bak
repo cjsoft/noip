@@ -1,0 +1,16 @@
+var     n,i,x:longint;
+begin
+        assign(input,'sequence8.in');
+        reset(input);
+        assign(output,'test.out');
+        rewrite(output);
+        readln(n);
+        i:=0;
+        while not eof do begin
+           read(x);
+           inc(i);
+        end;
+        if i=n then writeln('OK');
+        close(input);
+        close(output);
+end.
