@@ -15,7 +15,7 @@
 * ~~BFS、DFS~~  
 * Hash  
 * ~~并查集~~  
-* 树状数组  
+* ~~树状数组~~  
 * ST表  
 * Heap (Priority Queue)  
 * Queue、Stack  
