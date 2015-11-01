@@ -48,7 +48,7 @@ int main(){
 	int x,y;
 	for(int i=0;i<m;++i){
 		scanf("%d%d",&x,&y);
-		for(int j=x+1;j<y;++j){
+		for(int j=x;j<y-1;++j){
 			tempx+=10;
 			if(a[j]<a[y-1])++tempx;
 			if(a[j]>a[y-1])--tempx;
