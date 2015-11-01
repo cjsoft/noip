@@ -20,10 +20,10 @@ inline void print(int &a,int &b,int &c){
 	}
 }
 void solve(){
-	for(int i=2;i<n;++i){
-		for(int j=1;j<i;++j){
-			for(int k=0;k<j;++k){
-				if(arr[i]+arr[j]>arr[k] && arr[i]+arr[k]>arr[j] && arr[j]+arr[k]>arr[i]){
+	for(int i=0;i<n-2;++i){
+		for(int j=i+1;j<n-1;++j){
+			for(int k=j+1;k<n;++k){
+				if(arr[i]+arr[j]>arr[k] && arr[j]+arr[k]>arr[i]){
 					print(arr[i],arr[j],arr[k]);
 					return;
 				}
