@@ -18,6 +18,8 @@ inline int rson(int root){
 inline void pushdown(int root,int l,int r){
 	int m=(l+r)>>1;
 	if(taga[root]){
+		if(tage[lson(root)])pushdown(lson(root),l,m);
+		if(tage[rson(root)])pushdown(rson(root),m+1,r);
 		taga[lson(root)]+=taga[root];
 		taga[rson(root)]+=taga[root];
 		stree[lson(root)]+=taga[root]*(m-l+1);
@@ -25,6 +27,8 @@ inline void pushdown(int root,int l,int r){
 		taga[root]=0;
 	}
 	if(tage[root]){
+		if(taga[lson(root)])taga[lson(root)]=0;
+		if(taga[rson(root)])taga[rson(root)]=0;
 		tage[lson(root)]=tage[root];
 		tage[rson(root)]=tage[root];
 		stree[lson(root)]=tage[root]*(m-l+1);
@@ -82,13 +86,13 @@ void edit(int root,int l,int r,int editl,int editr,ll editd){
 	edit(rson(root),m+1,r,editl,editr,editd);
 	stree[root]=stree[lson(root)]+stree[rson(root)];
 }
-const int n=10000;
+const int n=8;
 int main(){
 	memset(arr,0,sizeof(arr));
 	memset(stree,0,sizeof(stree));
 	buildtree(1,1,n);
-	edit(1,1,n,200,300,100);
-	add(1,1,n,100,250,50);
-	cout<<query(1,1,n,200,250)<<endl;
+	edit(1,1,n,5,8,10);
+	add(1,1,n,5,6,9);
+	cout<<query(1,1,n,5,6)<<endl;
 	return 0;
 }
