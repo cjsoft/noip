@@ -6,10 +6,10 @@
 * ~~欧拉筛法~~  
 * ~~约数个数~~  
 * ~~LIS、LCS~~  
-* SPFA  
-* Dijkstra  
-* Prim  
-* Floyd k,i,j  
+* ~~SPFA~~  
+* ~~Dijkstra~~  
+* ~~Prim~~  
+* ~~Floyd k,i,j~~  
 * ~~拓扑排序~~  
 * 克鲁斯卡尔  
 * ~~BFS、DFS~~  
@@ -18,7 +18,7 @@
 * ~~树状数组~~  
 * ST表  
 * Heap (Priority Queue)  
-* Queue、Stack  
+* ~~Queue、Stack~~  
 * 双栈表达式求值  
 * 高精度  
 
