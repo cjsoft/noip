@@ -7,6 +7,7 @@ using namespace std;
 
 vector <int>a;
 const int n=100000007;
+int arr[n];
 int main(){
 	clock_t asd=clock(),b;
 	printf("init with clock at %d\n",int(asd));
@@ -35,7 +36,11 @@ int main(){
 	}
 	b=clock();
 	printf("using[] used %lf\n",double(b-asd)/CLOCKS_PER_SEC);
-
-
+	asd=clock();
+	for(int i=0;i<n;++i){
+		arr[i]=arr[i]+1;
+	}
+	b=clock();
+	printf("using array used %lf\n",double(b-asd)/CLOCKS_PER_SEC);
 	return 0;
 }
