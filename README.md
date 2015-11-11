@@ -6,5 +6,5 @@
   
 | rp |             git-repo             |status |  
 |:--:|:---------------------------------|:------|  
-|lowered because of the stupid panda |https://github.com/cjsoft/noip.git|private|  
+|seems still to be nil |https://github.com/cjsoft/noip.git|private|  
 
