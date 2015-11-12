@@ -1,7 +1,7 @@
 # noip  
 一些oi代码而已、  
 
-[noip复习to do list](todolist.md)  
+[my notes](notes/summary.md)  
 ## Ready to go!  
   
 | rp |             git-repo             |status |  
