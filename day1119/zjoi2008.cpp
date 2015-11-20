@@ -26,7 +26,7 @@ int head[MXN];
 int dep[MXN];
 int locator[MXN];
 int revlocator[MXN];
-int tot=2;
+int tot=1;
 
 void dfs_1(int root, int from, int depth) {
     if (!from) {
@@ -34,8 +34,9 @@ void dfs_1(int root, int from, int depth) {
     } else {
         fa[root] = from;
     }
-    dep[root]=depth;
-    c_sub_nodes[root] = 0;
+    dep[root] = depth;
+    c_sub_nodes[root] = 1;
+    h_son[root] = 0;
     for (int i = 0; i < v[root].size(); ++i) {
         if (v[root][i] == from) continue;
         dfs_1(v[root][i], root, depth + 1);
@@ -44,22 +45,18 @@ void dfs_1(int root, int from, int depth) {
             h_son[root]=v[root][i];
         }
     }
-    c_sub_nodes[root] += v[root].size() - 1;
 }
 
-void dfs_2(int root, int from) {
+void dfs_2(int root, int hd) {
+    locator[root] = tot;
+    revlocator[tot++] = root;
+    head[root] = hd;
     if (h_son[root]) {
-        head[h_son[root]] = head[root];
-        locator[h_son[root]] = tot;
-        revlocator[tot ++] = h_son[root];
-        dfs_2(h_son[root], root);
+        dfs_2(h_son[root], hd);
     }
     for (int i = 0; i < v[root].size(); ++i) {
-        if (v[root][i] == h_son[root] || v[root][i] == from) continue;
-        head[v[root][i]] = root;
-        locator[v[root][i]] = tot;
-        revlocator[tot ++] = v[root][i];
-        dfs_2(v[root][i], root);
+        if (v[root][i] == h_son[root] || v[root][i] == fa[root]) continue;
+        dfs_2(v[root][i], v[root][i]);
     }
 }
 
@@ -79,28 +76,30 @@ struct RMQ_QJH_XDS
     }
     void build(int root, int l, int r) {
         if (l == r) {
-            stree_rmq[root] = nodeweight[locator[l]];
-            stree_qjh[root] = nodeweight[locator[l]];
+            stree_rmq[root] = nodeweight[revlocator[l]];
+            stree_qjh[root] = nodeweight[revlocator[l]];
             return ;
         }
         int m = (l + r) >> 1;
         build(lson(root), l, m);
         build(rson(root), m + 1, r);
-        stree_rmq[root] = std::max(stree_rmq[lson(root)],stree_rmq[rson(root)]);
+        stree_rmq[root] = std::max(stree_rmq[lson(root)], stree_rmq[rson(root)]);
         stree_qjh[root] = stree_qjh[lson(root)] + stree_qjh[rson(root)];
     }
 
     ll rmq_query(int root, int l, int r, int queryl, int queryr) {
-        cout<<"stuck"<<l<<' '<<r<<endl;
+        if (queryl > queryr) std::swap(queryl, queryr);
         if (queryl > r || queryr < l) return -9999999;
-        if (queryl >= l && queryr <= r) return stree_rmq[root];
+        if (queryl <= l && queryr >= r) return stree_rmq[root];
         int m = (l + r) >> 1;
         return std::max(rmq_query(lson(root), l, m, queryl, queryr), rmq_query(rson(root), m + 1, r, queryl, queryr));
     }
 
     ll qjh_query(int root, int l, int r, int queryl, int queryr) {
+        // printf("- %d %d\n", queryl, queryr);
+        if (queryl > queryr) std::swap(queryl, queryr);
         if (queryl > r || queryr < l) return 0;
-        if (queryl >= l && queryr <= r) return stree_qjh[root];
+        if (queryl <= l && queryr >= r) return stree_qjh[root];
         int m = (l + r) >> 1;
         return qjh_query(lson(root), l, m, queryl, queryr) + qjh_query(rson(root), m + 1, r, queryl, queryr);
     }
@@ -112,7 +111,7 @@ struct RMQ_QJH_XDS
             return ;
         }
         if (pos > ((l + r) >> 1)) {
-            edit(rson(root), (l + r) >> 1 + 1, r, pos, new_data);
+            edit(rson(root), ((l + r) >> 1) + 1, r, pos, new_data);
         } else {
             edit(lson(root), l, (l + r) >> 1, pos, new_data);
         }
@@ -121,29 +120,39 @@ struct RMQ_QJH_XDS
     }
 } slpf;
 ll tree_rmq_query(int l, int r) {
-    if(dep[l] < dep[r]) std::swap(l, r);
-    while (head[l] != head[r]) l = fa[l];
-    if (head[l] == head[r]) {
-        if (locator[l] <= locator[r]) {
-            return slpf.rmq_query(1, 1, tot - 1, locator[l], locator[r]);
-        } else {
-            return slpf.rmq_query(1, 1, tot - 1, locator[r], locator[l]);
-        }
+    if (l == r) return nodeweight[l];
+    if (head[l] == head[r]) return slpf.rmq_query(1, 1, tot - 1, locator[l], locator[r]);
+    ll resu = -9999999;
+    while (head[l] != head[r]) {
+        if (dep[l] < dep[r]) std::swap(l, r);
+        resu = std::max(resu, slpf.rmq_query(1, 1, tot - 1, locator[head[l]], locator[l]));
+        l = fa[head[l]];
+        if (l == r) return std::max(resu, (ll)nodeweight[r]);
     }
-    printf("ERR RMQ\n");
+    if (l == r) return resu;
+    if (dep[l] > dep[r]) std::swap(l, r);
+    return std::max(resu, slpf.rmq_query(1, 1, tot - 1, locator[l], locator[r]));
 }
 ll tree_qjh_query(int l, int r) {
-    if(dep[l] < dep[r]) std::swap(l, r);
-    while (head[l] != head[r]) l = fa[l];
-    if (head[l] == head[r]) {
-        if (locator[l] <= locator[r]) {
-            return slpf.qjh_query(1, 1, tot - 1, locator[l], locator[r]);
-        } else {
-            return slpf.qjh_query(1, 1, tot - 1, locator[r], locator[l]);
-        }
+    if (l == r) return nodeweight[l];
+    if (head[l] == head[r]) return slpf.qjh_query(1, 1, tot - 1, locator[l], locator[r]);
+    if (dep[l] < dep[r]) std::swap(l, r);
+    if (fa[head[l]] == r) return slpf.qjh_query(1, 1, tot - 1, locator[l], locator[head[l]]) + nodeweight[r];
+    ll resu = 0;
+    while (head[l] != head[r]) {
+        if (dep[l] < dep[r]) std::swap(l, r);
+        // printf("resu +++ %d %d\n", head[l], l);
+        resu += slpf.qjh_query(1, 1, tot - 1, locator[head[l]], locator[l]);
+        l = fa[head[l]];
+        if (l == r) return resu;
+        // printf("onw %d %d\n", head[l], head[r]);
     }
-    printf("ERR QJH\n");
+    if (l == r) return resu;
+    if (dep[l] > dep[r]) std::swap(l, r);
+    // printf("resu ++ %d %d\n", h_son[l], r);
+    return resu + slpf.qjh_query(1, 1, tot - 1, locator[l], locator[r]);
 }
+
 int main() {
     CLEAR(nodeweight);
     CLEAR(c_sub_nodes);
@@ -154,25 +163,34 @@ int main() {
     CLEAR(locator);
     CLEAR(revlocator);
     scanf("%d", &n);
-    int tempa,tempb;
+    int tempa, tempb;
     for (int i = 0; i < n - 1; ++i) {
         scanf("%d %d", &tempa, &tempb);
-        v[tempa].push_back(/*edge*/(tempb));
-        v[tempb].push_back(/*edge*/(tempa));
+        v[tempa].push_back(tempb);
+        v[tempb].push_back(tempa);
     }
-    for (int i = 0; i < n; ++i) {
+    for (int i = 1; i <= n; ++i) {
         scanf("%d", &nodeweight[i]);
     }
     head[1] = 1;
     dfs_1(1, 0, 1);
-    dfs_2(1, 0);
-    locator[1] = 1;
-    revlocator[1] = 1;
+    fa[1] = 1;
+    dfs_2(1, 1);
     slpf.build(1, 1, tot - 1);
+    // for (int i = 0; i < 10; ++i)
+    // {
+    //     printf("%d ", slpf.stree_qjh[i]);
+    // }
+    // cout<<slpf.qjh_query(1, 1, tot - 1, 1, 1)<<endl;
+    // cout<<slpf.qjh_query(1, 1, tot - 1, 2, 2)<<endl;
+    // cout<<slpf.qjh_query(1, 1, tot - 1, 3, 3)<<endl;
+    // cout<<slpf.qjh_query(1, 1, tot - 1, 4, 4)<<endl;
+    // for (int i = 1; i <= n; ++i) {
+    //     printf("%d: locator %d, head %d, size %d, hson %d \n", i, locator[i], head[i], c_sub_nodes[i], h_son[i] );
+    // }
     int q;
     char tc[11];
     scanf("%d", &q);
-
     for (int i = 0; i < q; ++i) {
         CLEAR(tc);
         scanf("%s %d %d", tc, &tempa, &tempb);
@@ -182,7 +200,8 @@ int main() {
         } else if (tc[1] == 'S') {
             printf("%lld\n", tree_qjh_query(tempa, tempb));
         } else {
-            slpf.edit(1, 1, tot - 1, tempa, tempb);
+            slpf.edit(1, 1, tot - 1, locator[tempa], tempb);
+            nodeweight[tempa] = tempb;
         }
     }
 }
