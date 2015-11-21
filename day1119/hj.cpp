@@ -92,7 +92,9 @@
      prep();
      rewrite();
      build(1,1,tot);
-     printf("%d\n", fa[1]);
+     for (int i = 1; i <= n; ++i) {
+        printf("%d: locator %d, head %d, size %d, hson %d \n", i, bh[i], top[i], sz[i], son[i] );
+    }
  }
  
  inline int querysum(int u,int L,int R,int l,int r)
