@@ -74,21 +74,25 @@ locator(x); //返回节点的散列值
 
 ### 附录
 [ZJOI 2008 树的统计](http://codevs.cn/problem/2460/)  
+[/day1119/zjoi2008.cpp](../day1119/zjoi2008.cpp)  
 
 ```c++
+/**
+ * Copyright 2015 CJSoft
+ */
+
 #include <iostream>
 #include <cstdio>
+#include <algorithm>
 #include <vector>
 #include <cstring>
-#define CLEAR(x) memset(x,0,sizeof(x))
-const int MXN=30007;
-using namespace std;
-typedef long long ll;
+#define CLEAR(x) memset(x, 0, sizeof(x))
+const int MXN = 30007;
+typedef long long ll; //NOLINT
 int n;
-struct edge
-{
+struct edge {
     int to;
-    edge(int a) {
+    explicit edge(int a) {
         to = a;
     }
 };
@@ -116,7 +120,7 @@ void dfs_1(int root, int from, int depth) {
         dfs_1(v[root][i], root, depth + 1);
         c_sub_nodes[root] += c_sub_nodes[v[root][i]];
         if (c_sub_nodes[v[root][i]] >= c_sub_nodes[h_son[root]]) {
-            h_son[root]=v[root][i];
+            h_son[root] = v[root][i];
         }
     }
 }
@@ -132,30 +136,31 @@ void dfs_2(int root, int hd) {
         dfs_2(v[root][i], v[root][i]);
     }
 }
-struct RMQ_QJH_XDS
-{
+struct RMQ_QJH_XDS {
     ll stree_rmq[MXN * 4 + 7];
     ll stree_qjh[MXN * 4 + 7];
     RMQ_QJH_XDS() {
-        fill(stree_rmq, stree_rmq + MXN * 4 + 7, - 1e9);
-        fill(stree_qjh, stree_qjh + MXN * 4 + 7, 0);
+        std::fill(stree_rmq, stree_rmq + MXN * 4 + 7, - 1e9);
+        std::fill(stree_qjh, stree_qjh + MXN * 4 + 7, 0);
     }
     inline int lson(int root) {
-        return root << 1 ;
+        return root << 1;
     }
     inline int rson(int root) {
-        return root << 1 | 1 ;
+        return root << 1 | 1;
     }
     void build(int root, int l, int r) {
         if (l == r) {
             stree_rmq[root] = nodeweight[revlocator[l]];
             stree_qjh[root] = nodeweight[revlocator[l]];
-            return ;
+            return;
         }
         int m = (l + r) >> 1;
         build(lson(root), l, m);
         build(rson(root), m + 1, r);
-        stree_rmq[root] = std::max(stree_rmq[lson(root)], stree_rmq[rson(root)]);
+        stree_rmq[root] = std::max(
+            stree_rmq[lson(root)],
+            stree_rmq[rson(root)]);
         stree_qjh[root] = stree_qjh[lson(root)] + stree_qjh[rson(root)];
     }
     ll rmq_query(int root, int l, int r, int queryl, int queryr) {
@@ -163,39 +168,45 @@ struct RMQ_QJH_XDS
         if (queryl > r || queryr < l) return - 1e9;
         if (queryl <= l && queryr >= r) return stree_rmq[root];
         int m = (l + r) >> 1;
-        return std::max(rmq_query(lson(root), l, m, queryl, queryr), rmq_query(rson(root), m + 1, r, queryl, queryr));
+        return std::max(rmq_query(lson(root), l, m, queryl, queryr),
+            rmq_query(rson(root), m + 1, r, queryl, queryr));
     }
     ll qjh_query(int root, int l, int r, int queryl, int queryr) {
         if (queryl > queryr) std::swap(queryl, queryr);
         if (queryl > r || queryr < l) return 0;
         if (queryl <= l && queryr >= r) return stree_qjh[root];
         int m = (l + r) >> 1;
-        return qjh_query(lson(root), l, m, queryl, queryr) + qjh_query(rson(root), m + 1, r, queryl, queryr);
+        return qjh_query(lson(root), l, m, queryl, queryr) +
+        qjh_query(rson(root), m + 1, r, queryl, queryr);
     }
     void edit(int root, int l, int r, int pos, ll new_data) {
         if (l == r) {
             stree_qjh[root] = new_data;
             stree_rmq[root] = new_data;
-            return ;
+            return;
         }
         if (pos > ((l + r) >> 1)) {
             edit(rson(root), ((l + r) >> 1) + 1, r, pos, new_data);
         } else {
             edit(lson(root), l, (l + r) >> 1, pos, new_data);
         }
-        stree_rmq[root] = std::max(stree_rmq[lson(root)],stree_rmq[rson(root)]);
-        stree_qjh[root] = stree_qjh[lson(root)] + stree_qjh[rson(root)];
+        stree_rmq[root] = std::max(stree_rmq[lson(root)],
+            stree_rmq[rson(root)]);
+        stree_qjh[root] = stree_qjh[lson(root)] +
+        stree_qjh[rson(root)];
     }
 } slpf;
 ll tree_rmq_query(int l, int r) {
     ll resu = - 1e9;
     while (head[l] != head[r]) {
         if (dep[head[l]] < dep[head[r]]) std::swap(l, r);
-        resu = max(resu, slpf.rmq_query(1, 1, tot - 1, locator[head[l]], locator[l]));
+        resu = std::max(resu,
+            slpf.rmq_query(1, 1, tot - 1, locator[head[l]], locator[l]));
         l = fa[head[l]];
     }
     if (locator[l] > locator[r]) std::swap(l, r);
-    resu = max(resu, slpf.rmq_query(1, 1, tot - 1, locator[l], locator[r]));
+    resu = std::max(resu,
+        slpf.rmq_query(1, 1, tot - 1, locator[l], locator[r]));
     return resu;
 }
 ll tree_qjh_query(int l, int r) {
@@ -249,4 +260,5 @@ int main() {
         }
     }
 }
+
 ```
