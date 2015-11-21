@@ -71,6 +71,7 @@ locator(x); //返回节点的散列值
 <span id='fulu'>
 ### 附录
 [ZJOI 2008 树的统计](http://codevs.cn/problem/2460/)  
+
 ```c++
 #include <iostream>
 #include <cstdio>
