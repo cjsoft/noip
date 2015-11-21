@@ -74,7 +74,6 @@ locator(x); //返回节点的散列值
 
 ### 附录
 [ZJOI 2008 树的统计](http://codevs.cn/problem/2460/)  
-[/day1119/zjoi2008.cpp](../day1119/zjoi2008.cpp)  
 
 ```c++
 /**
