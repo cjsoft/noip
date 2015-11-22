@@ -28,9 +28,8 @@ def isPrime(x):
 		tint = tint >> 1
 		s = s + 1
 	for i in testSet:
-		if (i < x or True):
-			if not(MillerRabinTest(i, x, tint, s)): 
-				return False
+		if not(MillerRabinTest(i, x, tint, s)): 
+			return False
 	return True
 if (__name__ == "__main__"):
 	import sys
