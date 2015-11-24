@@ -35,7 +35,10 @@ if (__name__ == "__main__"):
 	import sys
 	if (len(sys.argv) > 1):
 		for i in sys.argv[1:]:
-			print isPrime(int(i))
+            try:
+    			print isPrime(int(i))
+            except BaseException:
+                print "Illegal input"
 	else:
 		while True:
 			try:
