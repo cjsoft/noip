@@ -11,4 +11,8 @@
         + [ZJOI 2008 树的统计](http://codevs.cn/problem/2460/)  
         树链剖分也是NOIP 2015 D2T3的知识点。  
         弄了三天才弄过的题，必须mark一下，有些细节必须注意。  
-        See [`/day1119/zjoi2008.cpp`](../day1119/zjoi2008.cpp)  
+        See [`/day1119/zjoi2008.cpp`](../day1119/zjoi2008.cpp)
+* 数据结构
+	- [并查集与带权并查集](unionset.md)  
+		+ [BZOI 1202 狡猾的商人](http://www.lydsy.com/JudgeOnline/problem.php?id=1202)
+		See [`/day1201/1202.cpp`](../day1201/1202.cpp)  
