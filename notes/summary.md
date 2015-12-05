@@ -16,3 +16,6 @@
 	- [并查集与带权并查集](unionset.md)  
 		+ [BZOI 1202 狡猾的商人](http://www.lydsy.com/JudgeOnline/problem.php?id=1202)
 		See [`/day1201/1202.cpp`](../day1201/1202.cpp)  
+* [非确定性算法](undetermined.md)  
+	- Miller-Rabbin Primality Test  
+	- Bloom Filter  
