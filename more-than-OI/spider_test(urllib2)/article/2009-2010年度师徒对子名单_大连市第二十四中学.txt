@@ -1,0 +1,85 @@
+2009-2010年度师徒对子名单
+
+
+
+<table width="100%">
+<tr>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+<table border="0" cellpadding="0" cellspacing="0" style="width: 337px" width="338" x:str="">
+<colgroup>
+<col></col>
+<col></col>
+<col></col>
+</colgroup>
+<tbody>
+<tr height="19">
+<td height="19" style="width: 107px; height: 19px">
+				科目</td>
+<td style="width: 120px">
+				师傅</td>
+<td style="width: 111px">
+				徒弟</td>
+</tr>
+<tr height="19">
+<td height="19" style="height: 19px">
+				语文</td>
+<td>
+				刘娱</td>
+<td>
+				孙胜男</td>
+</tr>
+<tr height="19">
+<td height="19" style="height: 19px">
+				外语</td>
+<td>
+				胡颖</td>
+<td>
+				李晓丹、李季</td>
+</tr>
+<tr height="19">
+<td height="19" style="height: 19px">
+				外语</td>
+<td>
+				洪卫</td>
+<td>
+				尹俊峰</td>
+</tr>
+<tr height="19">
+<td height="19" style="height: 19px">
+				生物</td>
+<td>
+				张洪澜</td>
+<td>
+				韩志萍</td>
+</tr>
+<tr height="19">
+<td height="19" style="height: 19px">
+				班主任</td>
+<td>
+				安保国</td>
+<td>
+				王忠良</td>
+</tr>
+<tr height="19">
+<td height="19" style="height: 19px">
+				班主任</td>
+<td>
+				李丽</td>
+<td>
+				刘驰罡</td>
+</tr>
+<tr height="19">
+<td height="19" style="height: 19px">
+				班主任</td>
+<td>
+				王远香</td>
+<td>
+				李响</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+
+

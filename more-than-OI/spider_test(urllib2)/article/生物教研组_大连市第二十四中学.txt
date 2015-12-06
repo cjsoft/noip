@@ -1,0 +1,27 @@
+生物教研组
+
+
+
+<table width="100%">
+<tr>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+<div style="text-align: center">
+<font color="#000000"><strong><img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/130328/1-13032Q23Zc51.JPG" style="width: 600px; height: 400px"http://www.dlhs24.com.cn/></strong></font><br/>
+	 </div>
+<div>
+<p align="left">
+<span style="color: rgb(0, 0, 0); ">    </span><strong><font color="#000000">生物组现有教师8名，其中中学特级教师1名，中学一级教师5名，有3人具有研究生学位。</font></strong><br/>
+<span style="color: rgb(0, 0, 0); ">    </span><strong><font color="#000000">生物教研组是一支年轻而富有朝气的队伍，团结、和谐、奋进、富有战斗力是这个团队的特点。组内充满了严谨的教风和求实的学风。全体成员在信息技术和网络资源的运用方面积极性很高，并且进行了多方面的有益探索，积累了丰富的教学资源素材和技能经验。能充分做到教学资源共享，教学研讨气氛较浓厚。</font></strong><br/>
+<span style="color: rgb(0, 0, 0); ">    </span><strong><font color="#000000">教研组曾获市级“巾帼文明”示范岗称号，组内教师获国家级荣誉2人，省级荣誉2人，市级荣誉4人。组织编写书籍五本，发表论文共7篇。</font></strong></p>
+<p align="left">
+<strong><font color="#000000">Biology Department</font></strong><br/>
+<span style="color: rgb(0, 0, 0); ">    </span><strong><font color="#000000">There are six teachers in biology department, consisting of one special-grade teacher and five first teachers, three of whom have got postgraduate degree.</font></strong><br/>
+<span style="color: rgb(0, 0, 0); ">    </span><strong><font color="#000000">Biology department is a vigorous and youthful body of teachers, featuring harmony, solidarity, fortitude and rich combat effectiveness. The members are equipped with restrained teaching spirits and realistic style of study. They are highly motivated to make the best of information technology and network resources, thus have explored in every way and possessed rich teaching resources, skills and experience, which they share fully with each other, creating a more conducive atmosphere for teaching and research.</font></strong><br/>
+<span style="color: rgb(0, 0, 0); ">    </span><strong><font color="#000000">The teaching and research section has won the crown in Women's Rewards for exemplary post. There are two teachers who has won national honours, two provincial honours and four municipal honours. The section has compiled five books and published seven papers in all.</font></strong></p>
+</div>
+<br/>
+</td>
+</tr>
+</table>
+
+

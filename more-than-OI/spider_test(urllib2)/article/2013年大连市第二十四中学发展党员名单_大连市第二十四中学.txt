@@ -1,0 +1,300 @@
+2013年大连市第二十四中学发展党员名单
+
+
+
+<table width="100%">
+<tr>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+<table border="1" cellpadding="0" cellspacing="0" style="width: 719px; " width="723" x:str="">
+<colgroup>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+<col span="2"></col>
+</colgroup>
+<tbody>
+<tr height="62">
+<td height="62" style="height:62px;width:20px;">
+				序号</td>
+<td style="width:59px;">
+				姓名</td>
+<td style="width:25px;">
+				性别</td>
+<td style="width:59px;">
+				班级</td>
+<td style="width:43px;">
+				民族</td>
+<td style="width:69px;">
+				出生年月</td>
+<td style="width:51px;">
+				学历</td>
+<td style="width:43px;">
+				职称</td>
+<td style="width:53px;">
+				职务</td>
+<td style="width:67px;">
+				申请入党时间</td>
+<td style="width:59px;">
+				列为积极分子时间</td>
+<td style="width:55px;">
+				拟发展时间</td>
+<td colspan="2" style="width:117px;">
+				培养联系人</td>
+</tr>
+<tr height="62">
+<td height="62" style="height:62px;">
+				1</td>
+<td>
+				徐锋</td>
+<td>
+				男</td>
+<td>
+				3.1</td>
+<td>
+				汉</td>
+<td>
+				1994.10</td>
+<td>
+				高中</td>
+<td>
+				　</td>
+<td style="width:53px;">
+				班长、学生会副主席</td>
+<td>
+				2010.10</td>
+<td>
+				2011.6</td>
+<td>
+				2013.6</td>
+<td>
+				胡颖</td>
+<td>
+				杨雨平</td>
+</tr>
+<tr height="21">
+<td height="21" style="height:21px;">
+				2</td>
+<td>
+				宋维桥</td>
+<td>
+				男</td>
+<td>
+				3.3</td>
+<td>
+				汉</td>
+<td>
+				1995.1</td>
+<td>
+				高中</td>
+<td>
+				　</td>
+<td>
+				班长</td>
+<td>
+				2010.11</td>
+<td>
+				2011.6</td>
+<td>
+				2013.6</td>
+<td>
+				王绍勇</td>
+<td>
+				陈莹</td>
+</tr>
+<tr height="21">
+<td height="21" style="height:21px;">
+				3</td>
+<td>
+				徐翠</td>
+<td>
+				女</td>
+<td>
+				3.4</td>
+<td>
+				汉</td>
+<td>
+				1994.10</td>
+<td>
+				高中</td>
+<td>
+				　</td>
+<td>
+				团支书</td>
+<td>
+				2010.12</td>
+<td>
+				2011.6</td>
+<td>
+				2013.6</td>
+<td>
+				金辉</td>
+<td>
+				张洪澜</td>
+</tr>
+<tr height="21">
+<td height="21" style="height:21px;">
+				4</td>
+<td>
+				吕温昕</td>
+<td>
+				女</td>
+<td>
+				3.10</td>
+<td>
+				汉</td>
+<td>
+				1994.9</td>
+<td>
+				高中</td>
+<td>
+				　</td>
+<td>
+				团支书</td>
+<td>
+				2010.10</td>
+<td>
+				2011.6</td>
+<td>
+				2013.6</td>
+<td>
+				卞丽萍</td>
+<td>
+				付晓燕</td>
+</tr>
+<tr height="42">
+<td height="42" style="height:42px;">
+				5</td>
+<td>
+				崔振鹏</td>
+<td>
+				男</td>
+<td>
+				3.11</td>
+<td>
+				汉</td>
+<td>
+				1994.10</td>
+<td>
+				高中</td>
+<td>
+				　</td>
+<td style="width:53px;">
+				团组织委员</td>
+<td>
+				2010.9</td>
+<td>
+				2011.6</td>
+<td>
+				2013.6</td>
+<td>
+				孙玉萍</td>
+<td>
+				卞丽萍</td>
+</tr>
+<tr height="21">
+<td height="21" style="height:21px;">
+				6</td>
+<td>
+				姬潇依</td>
+<td>
+				女</td>
+<td>
+				3.11</td>
+<td>
+				汉</td>
+<td>
+				1995.3</td>
+<td>
+				高中</td>
+<td>
+				　</td>
+<td>
+				班长</td>
+<td>
+				2010.11</td>
+<td>
+				2011.6</td>
+<td>
+				2013.6</td>
+<td>
+				孙玉萍</td>
+<td>
+				洪卫</td>
+</tr>
+<tr height="21">
+<td height="21" style="height:21px;">
+				7</td>
+<td>
+				王忠良</td>
+<td>
+				男</td>
+<td>
+				英语组</td>
+<td>
+				汉</td>
+<td>
+				1984.5</td>
+<td>
+				大本</td>
+<td>
+				初级</td>
+<td>
+				教师</td>
+<td>
+				2010.1</td>
+<td>
+				2010.6</td>
+<td>
+				2013.6</td>
+<td>
+				胡颖</td>
+<td>
+				韩秋</td>
+</tr>
+<tr height="21">
+<td height="21" style="height:21px;">
+				8</td>
+<td>
+				吴晓静</td>
+<td>
+				女</td>
+<td>
+				化学组</td>
+<td>
+				汉</td>
+<td>
+				1977.5</td>
+<td>
+				研究生</td>
+<td>
+				高级</td>
+<td>
+				教师</td>
+<td>
+				2010.3</td>
+<td>
+				2010.6</td>
+<td>
+				2013.6</td>
+<td>
+				杨春英</td>
+<td>
+				崔殿宝</td>
+</tr>
+</tbody>
+</table>
+<br/>
+</td>
+</tr>
+</table>
+
+

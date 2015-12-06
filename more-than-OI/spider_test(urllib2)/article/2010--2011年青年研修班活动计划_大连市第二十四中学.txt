@@ -1,0 +1,133 @@
+2010--2011年青年研修班活动计划
+
+
+
+<table width="100%">
+<tr>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+<br/>
+<table border="0" cellpadding="0" cellspacing="0" style="width: 731px" width="729" x:str="">
+<colgroup>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+</colgroup>
+<tbody>
+<tr height="19">
+<td height="19" style="width: 93px; height: 19px">
+				时    间</td>
+<td style="width: 289px">
+				内         容</td>
+<td style="width: 129px">
+				负责人</td>
+<td style="width: 219px">
+				作   业</td>
+</tr>
+<tr height="19">
+<td height="19" style="width: 93px; height: 19px">
+				2010年</td>
+<td style="width: 289px">
+				研修班开班</td>
+<td rowspan="2" style="width: 129px">
+				黄校长</td>
+<td rowspan="2" style="width: 219px">
+				思想汇报一篇</td>
+</tr>
+<tr height="19">
+<td height="19" style="width: 93px; height: 19px">
+				10月</td>
+<td style="width: 289px">
+				师德教育报告</td>
+</tr>
+<tr height="19">
+<td height="19" style="width: 93px; height: 19px">
+				11月</td>
+<td style="width: 289px">
+				班主任培训</td>
+<td style="width: 129px">
+				韩秋</td>
+<td style="width: 219px">
+				学习心得一篇</td>
+</tr>
+<tr height="19">
+<td height="19" style="width: 93px; height: 19px">
+				12月</td>
+<td style="width: 289px">
+				读书沙龙</td>
+<td style="width: 129px">
+				彭喜治、董  媛</td>
+<td style="width: 219px">
+				读书笔记</td>
+</tr>
+<tr height="19">
+<td height="19" style="width: 93px; height: 19px" x:num="40544">
+				2011年01月</td>
+<td style="width: 289px">
+				教育技术（计算机）培训</td>
+<td style="width: 129px">
+				刘驰罡、赵东峰</td>
+<td style="width: 219px">
+				课件</td>
+</tr>
+<tr height="20">
+<td height="20" style="width: 93px; height: 20px">
+				3月</td>
+<td style="width: 289px">
+				课题研究培训---学力培养</td>
+<td style="width: 129px">
+				徐连红</td>
+<td style="width: 219px">
+				课题申请报告一份</td>
+</tr>
+<tr height="19">
+<td height="19" style="width: 93px; height: 19px">
+				4月</td>
+<td style="width: 289px">
+				开题会</td>
+<td style="width: 129px">
+				徐连红</td>
+<td style="width: 219px">
+				开题报告一份</td>
+</tr>
+<tr height="19">
+<td height="19" style="width: 93px; height: 19px">
+				5月</td>
+<td style="width: 289px">
+				踏青活动</td>
+<td style="width: 129px">
+				彭喜治、吴晓文</td>
+<td style="width: 219px">
+				游记</td>
+</tr>
+<tr height="19">
+<td height="19" style="width: 93px; height: 19px">
+				6月</td>
+<td style="width: 289px">
+				课题研究现场课</td>
+<td style="width: 129px">
+				待    定</td>
+<td style="width: 219px">
+				听课、评课记录</td>
+</tr>
+<tr height="19">
+<td height="38" rowspan="2" style="width: 93px; height: 38px">
+				7月</td>
+<td rowspan="2" style="width: 289px">
+				研修班总结、本届研修班大事记编辑</td>
+<td style="width: 129px">
+				徐连红</td>
+<td rowspan="2" style="width: 219px">
+				研修班总结、教育教学论文</td>
+</tr>
+<tr height="19">
+<td height="19" style="width: 129px; height: 19px">
+				彭喜治、董  媛</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+
+

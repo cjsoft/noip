@@ -1,0 +1,144 @@
+信息技术如何促进教育变革——关注“慕课”（MOOCs)
+
+
+
+<table width="100%">
+<tr>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+	　<font face="仿宋_GB2312">MOOCs（“慕课”，大规模网络开放课程）的迅猛发展给教育带来强烈冲击。日前，在中国教育发展战略学会、中国教育国际交流协会等单位举办的“信息技术发展与教育改革国际论坛”上，国内外专家就如何促进信息技术与教育深度融合进行了探讨，并就MOOCs的发展趋势及面临挑战等进行了讨论。我们聚焦关于MOOCs发展的各种声音，为读者提供多重视角，以更好地思考这样一个问题——</font></p>
+<p align="center" style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<strong><font color="#0000ff">信息技术如何促进教育变革</font></strong></p>
+<br/>
+<div class="TRS_Editor" style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<div class="Custom_UnionStyle" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+<div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+<font face="仿宋_GB2312">当今信息技术的飞速发展，对教育的影响不仅表现在新技术与手段的运用上，更表现在为教育的发展带来新的理念和动力，使教育内容、方法和模式发生深刻变革。</font></p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　自从北京大学副教授陈江的MOOCs课程“电子线路”在edX平台（麻省理工和哈佛大学创建的在线课程平台）正式开课以来，才一个多月时间，就有4000多人注册学习。在网络反馈的信息中，陈江看到，连美国和意大利的学生都通过网络留言，询问何时能有课程的英文版，这让他感受到了MOOCs非凡的影响力。</p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　2012年才兴起的MOOCs，虽然仅有短短1年多的发展时间，却已经席卷全球数十个国家。“慕课”运动的“三驾马车”——Udacity（斯坦福大学教授推出的在线课程平台）、Coursera（斯坦福大学教授推出的在线课程平台）和edX引领的“慕课”教学发展迅速：Coursera平台已有80多个教育机构提供了400多门课程，有400万名注册用户；Udacity和edX分别有28门和62门课程，有75万和80万名注册用户。</p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　“国际教育信息化的发展非常迅猛，对教育的革命性影响正日益显现。”教育部副部长杜占元在论坛上表示，“这值得我们在战略层面上进行深入思考。”</p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　中国教育发展战略学会会长郝克明表示：“美国著名高校引领的大规模网络开放课程，推动了教育发展。信息技术在教育发展和教育改革中的应用，正在改变着传统的教育观念和教学模式，激发和提高了学生的学习兴趣，加强了教师与学生间的互动，促进了教学质量的提高。”</p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　就在教育界还处于MOOCs“海啸”带来的巨大震动中，向传统教育教学方式发起挑战的MOOCs本身，也面临着争议。MOOCs发展趋势如何，有哪些难点需要突破，未来将迎接哪些挑战……研究者与实践者对这些问题的多维思考，会为促进信息技术与教育深度融合提供更深刻的启示。</p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　<strong>1、MOOCs的发展趋势：</strong></p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　<strong>从在线学习向移动学习转变？</strong></p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　“最近几十年来信息技术的重大突破和高速发展，为教育带来深刻变革。”郝克明特别强调三次技术突破对教育的影响，“上世纪80年代，计算机微型化并快速普及，多媒体技术用于教学；上世纪90年代中期，互联网的应用使在线教育得到发展，促进了优质教育资源的传播和共享；第三次是云计算技术的发展和应用，以及各种移动终端的创新和发展，增强了信息的存储、传输以及为学习者服务的能力。”</p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　对于信息技术变革带给教育的影响，爱尔兰国际远程教育资深专家德斯蒙德·基更教授感受颇深——他第一次受邀来中国是在1989年，当时他专程前来参加庆祝中国电大系统成立10周年活动。而他这一次来到中国，则是为了与大家分享“慕课”应跟上“移动学习”步伐的新锐观点。</p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　“我的理论框架是三次革命，即工业革命、电子工业革命还有无线网络革命。”德斯蒙德·基更说，“有研究者认为，远程教育诞生于18、19世纪北欧和北美的工业革命时期；在线学习诞生于20世纪80年代的电子工业革命时期；移动学习诞生于20世纪末开始的无线网络革命时期。”</p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　“随着无线网络取代有线网络，越来越多的学生不再使用笔记本和台式电脑进行在线学习，而使用智能手机和平板电脑进行移动学习。”德斯蒙德·基更说。</p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　国际数据咨询公司的数据显示，2013年电子设备的发货数据为：1亿3440万个台式电脑，1亿8090万个笔记本，2亿2730万个平板电脑以及101万台智能手机。笔记本和台式电脑的销售数量下降，被智能手机和平板机取代。该公司预测，到2017年，智能手机的发货量将上升到每年170万台，平板机为4亿680万台，笔记本为1亿9660万台，而台式机将下降为1亿2310万台。</p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　一位在北京的爱尔兰记者报道说，移动手机正成为中国数百万人的口袋图书馆。“在北京和上海的地铁里，坐在你对面的人可能看上去正安静地盯着他们的手机，实际上他们正在读惊心动魄的小说。”德斯蒙德·基更表示，中国目前已经是世界上移动设备最多的国家。</p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　“如果人们可以在手机屏幕上读小说，他们肯定能通过智能手机读大学学位的课程。”在德斯蒙德·基更看来，这种技术变革带来人们习惯的改变，让在线学习向移动学习转变。</p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　从国际上看，日本政府高度重视移动学习，旨在把日本发展成一个“泛在学习”社会，使人们广泛使用移动设备来提高福利和进行终身学习。南非的移动学习也非常盛行。中国知名大学开办的68所网络学院和新近成立的国家及部分省市开放大学都在积极开发移动学习。</p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　联合国教科文组织教育部门教育信息化项目组负责人苗逢春也关注到这种变化，并将这种技术变化称为进入“新PC阶段”。在他看来，发展中国家的手机用户规模正在迅速追赶发达国家，所以教育信息化必须考虑“新PC阶段”的特点。</p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　“如果移动学习能够进入主流教育，中国应开始把在线学习材料改造成适合在智能手机和平板机上使用的材料。”德斯蒙德·基更说。</p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　<strong>大数据将使课程“量身定制”？</strong></p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　大数据的应用，是当前“慕课”的特点，也是未来应加强的内容。这是一些实践者与研究者的观点。</p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　Coursera发展团队中国区业务负责人伊莱·布林德博士介绍说，他们的平台会给教课的教授提供数据分析工具，通过这个工具，教授能够看到有多少学生看了他发布的视频，学生看了几遍这个视频，教师可以监测学生的表现，及时调节学习内容。他说，若学生不直接使用Coursera平台，而应用翻转课堂，平台上的数据则可以帮助教师甄别哪些是学生已掌握的内容，哪些是学生需要进一步练习的内容。数据分析工具还可以应用于学生开展互评，比如，可以通过数据把那些花了不到一分钟就给出的评价去掉，只取可靠的学生评分。同时，从研究者的角度看，平台记录学生的所有行为，可用于对不同教育问题进行深入研究。</p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　美国新媒体联盟执行总裁莱瑞·约翰逊博士提供了一种更加深入的观点：“慕课”还远远不能被称为学术界的变革创新，这份荣誉属于更具颠覆性和深远性的改革——大数据及其应用。大数据将会让教育机构通过预测工具来提升每个学生的学习成果。这种应用可以在学习过程的每一步收集和整合数据，参看这些数据进行课程设计，可以为学习者量身定制学习任务和学习模块并精准地送达。</p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　MOOCs的发展也将改变教育的环境。基于MOOCs的发展前景，北大副教授陈江对未来的教育形态进行了这样的设想：大部分老师成为教学辅助人员，部分老师转而投身科研；制作课程的专营公司会出现；大部分学校倾向提供非常精深、非常实践化的教育内容，以及为其他课程提供场地；判断学校好坏，要看其在网络上有多少选课学生；出现网络学习的第三方考核机构，对于学习效果有官方的认可；雇主可能更认同MOOCs证书，而不单看学生毕业于哪所高校；中小学不再盯着升学率，更重视素质教育，更多学生在中学里思考“我将来干什么”。</p>
+<p style="padding-bottom: 0px; line-height: 20px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px">
+				　　不过，无论是实现“慕课”本身的发展，还是实现其对教育的改变，都需要“慕课”实践者们的不断探索。伊莱·布林德认为，“慕课”至少有很大的规模空间，他很有感触地说，韩国音乐录影带《江南style》在YouTube（美国视频分享网站）上的播放次数达到了近17亿次，若把点击者所有观看的时间加起来，长达2万年,而把当前所有Coursera用户学习“慕课”的时间加起来，仅仅是这个数字的三分之一。<br/>
+				 </p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<strong>2、MOOCs的三个追问：</strong></p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　<strong>MOOCs能否促进教育公平？</strong></p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　虽然风行时间仅一年多，但随着“慕课”的急剧扩张与社会各界对“慕课”的关注，有关“慕课”的不同声音也开始出现。</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　这种不同声音首先来自对“慕课”促进教育公平的质疑。</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　使那些原本无法上大学的群体可以无障碍地学习大学课程，或者使更多人得以享受顶尖的教育资源，这是一些研究者总结出的“慕课”带来的颠覆性变化。不过，常年奋战在世界贫困地区一线的苗逢春却对此有着不同的看法。“联合国教科文组织主要的服务对象是发展中国家和欠发展国家，所以我们有这个角度的思考，即教育信息化到底能不能为全民增加受教育机会。”</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　北京开放大学副校长张铁道表示，在教育信息化发展方面，从全球范围看，到目前为止的数字化进程还是“有钱人的游戏”，那些相对贫困、没有财力购买电脑的群体，以及网络运行没有保障甚至因财政困难付不起电费的学校，则很难参与到数字化教学的变革中来。这就需要国家在制定教育信息化发展规划时，对不同发展水平的群体，在资源投入及预期成效方面做出相应的制度安排。</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　不过，对于“慕课”与教育公平的关系，教育部科技发展中心主任李志民表示，MOOCs提供了一种全新的知识传播和学习方式，其大规模、开放和在线的特点，已经为自主学习者提供了方便灵活的学习机会和广阔空间，但不能要求“慕课”解决教育公平的所有问题。</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　<strong>MOOCs能否提高学习质量？</strong></p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　莱瑞·约翰逊介绍了Udacity的管理者乔纳森关于“慕课”“成功率”的双重思考：“慕课”目前仅有5％至16％的完成率，并不理想，因此，MOOCs不可能是传统教育的有效替代品。然而，乔纳森也认为：“大规模中的一个小百分比仍然是一个大数目，如Udacity的“程序入门”课程有60000名学生注册学习，虽然只有14％的通过率，但还有多达23000人完成了课程学习。与之形成鲜明对比的是，在他工作过的4所大学里，“程序入门”作为大学基础课程，有史以来完成课程学习的学生总数还不到10000人。在管理Udacity的3个月里，他注意到，在这个员工不超过12人的机构里，其经费预算远远低于那4所大学的投入。</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　能否真正促进学习质量的提升，这也是一些人对“慕课”的质疑。</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　对此，莱瑞·约翰逊把关注焦点放在了“慕课”是否可以超越讲授式教学。他说：“MOOCs创始人斯蒂芬·道恩斯和乔治·西门子的设计理念是，大规模在线学习应该区别于传统的教学模式。”但莱瑞·约翰逊认为，并非所有的“慕课”都实现了最初的设想。每一个“慕课”提供者都提出了自己的模型。其中，有些课程采取了大量不同于从前的教学法和工具，包括混合式学习、开放教育资源、交互等，但是，有些课程却仍然沿用传统的讲授式教学模式，仍然维系传统的讲课模式。例如，Coursera就是立足于名牌大学著名专家流行课程的视频讲座，尽管这些内容都是高质的，但其传授方式仍然属于传统的教学方式。</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　不过，有专家表示：“MOOCs刚兴起，任何新事物从出现到完善都要经历一个过程。即使是最先成立的MOOCs平台Udacity，到现在也只有两年时间。”斯坦福大学校长约翰·轩尼斯将MOOCs的发展称为“一场数字海啸”，他表示：“我不能确切地告诉你MOOCs会如何变革教育，我的目标是参与进去，而不是静观其变。”</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　<strong>MOOCs是否适合中小学？</strong></p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　“慕课”是否适合中小学，技术能否代替教师，这也是一些研究者提出的疑问。</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　李志民表示，学习大体可分为三类：第一类是人际交往类的学习，不应该成为学校的主要功能；第二类是知识传承类的学习，应该成为学校的主要功能；第三类是文明发展类的学习，需要系统的基础知识，需要灵感和洞察力、想象力、批判精神，需要相互讨论、启发等，也需要实验场地、仪器设备、模型验证等。从以上学习类别来看，MOOCs更适合高等教育，而中小学教育不仅仅是知识的教育，同时更是人格与道德的培养等，MOOCs可以作为补充手段，但不适合全课程学习。</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　郝克明认为，虽然MOOCs主要是在高等教育领域，但对基础教育也有一定的借鉴作用。教师课堂教学的质量与中小学生的学习和成长有着极为密切的关系。而且这种网络学习的方式，还有利于学生把课堂教学的视频从网上下载后反复听，直到听懂为止。<br/>
+				 </p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<strong>3、MOOCs面临的挑战：</strong></p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<strong>　　“以学习者为中心”如何落实？</strong></p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　即使一些探索者并不完全认同以上观点，但“慕课”发展面临机遇的同时也面临巨大挑战，却是共识。</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　李志民认为，以下这些挑战值得思考：大学是否能提供足够规模的优质课程资源？学分认可可否实现由本校学生带头？盈利还是非盈利？商业模式如何运作？在线学习的文化如何建立？考试与评估如何更权威？新的教育管理评价体系和证书如何被社会广泛接纳？</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　李志民说，若“慕课”想在中国发展，决策者的重视程度、课程的丰富程度、教师的观念转变和技术应用能力、运营商之间互联互通等需要得到突破。</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　伊莱·布林德认为，“慕课”国际化学习的特点，是“慕课”的优势，也是一种挑战。“MOOCs虽然起源于美国，但60%左右的用户来自非英文国家，30%的用户来自发展中国家。这给更多人带来了新机会，我家乡一名学习中国历史专业的学生，此前无法想到可以通过这种方式学习到北京大学的课程‘中国历史’。”伊莱·布林德说，“不过实现国际化的理想，在一定程度上取决于学生交流，如果不同母语的学生在语言交流上有障碍，则需要我们在平台上做出更多努力。”</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　“每个公民在追求幸福生活的过程中，所需要的远程教育和开放大学服务是什么样的？”北京开放大学校长胡晓松说，“我们近期做了一个调查，得出的结论是：公民在学习当中希望体会到老师、同学是充满活力的，在课堂的交流中能感受社会的感召力，能和老师、同学一起分享知识经验与精神生活，最关键的是，这种学习对工作岗位转变、追求专业发展有帮助。”</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　鉴于此，胡晓松提出的有关远程教育的一些思考或许也适用于“慕课”面临的挑战：国际上有成功经验，但是我们的市场化够吗？对于这种新的需求，我们的教育工作者能满足吗？以学习者为中心，怎么落到实处？</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　“教育信息化的高成本、教师的选择、界定教育质量及对教育过程进行评估也存在难点。”苗逢春说。</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　<strong>如何以多种形式促进信息技术与教育深度融合？</strong></p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　MOOCs面临的挑战不仅来自自身发展，也来自在运用信息技术促进教学改革上，已经出现越来越多的其他新鲜经验。大西洋邮报曾有文章这样写道：“我们不要将MOOCs作为高等教育唯一重要的实验。”</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　莱瑞·约翰逊介绍，一些业内人士提出了“反转慕课”的概念，并做出了实践。由美国10所大学组成的联盟宣布了一项在线课程实施计划，在这个项目中，“反转”的指向是“大规模”的概念。该项目提供小班报名和学分认证课程，拒绝提供大规模招生。来自任何学校的学生都可以报名学习和缴费。参与项目的大学包括布兰代斯大学、杜克大学、埃默里大学、西北大学等。</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　在“反转慕课”的各种探索中，新媒体联盟(NMC)与惠普等专业机构建立了合作伙伴关系，组成一个“反转慕课”的全面战略联盟，为科学、工程和数学教师提供专业发展的在线课程。同时，这一联盟还建立了一个旨在注重规模、聚焦教育创新和使用媒体来促进学习的模型，例如，通过Facebook（创办于美国的社交网络）展开教学的一门关于社会媒体的课程。</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　美国网络解剖公司则在使用高科技支持更有效教学和学习上进行了尝试。这一公司领先开发互动式身临其境的３Ｄ软件。产品包括网络解剖学、虚拟人类尸体，在国际范围用于支持医学院“教学”和３Ｄ网络教学，一系列的虚拟解剖和模拟因果关系用于支持中小学教学和学习。在美国，这一尝试已经是国家试点项目的一部分，该公司一直参与许多项目来试用３Ｄ技术、互动式白板，采用身临其境模式、互动式软件来研究和衡量这些技术对学生成绩的影响。</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　该公司总裁Richard Neil Lineback介绍说，学生有强烈的视觉和动觉学习偏好，通过使用３Ｄ图像，学生兴趣显著增加。在一项由美国国家科学基金会、奥古斯塔纳学院研究院使用网络解剖程序研究互动式3Ｄ课程中，研究小组是前医学院学生。研究发现，这种互动式课程使学生的记忆力增加了33％。</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　麻省理工学院也进行了类似的技术创新尝试。据北京开放大学新近出版的《2013新媒体联盟地平线报告》显示，该校采用虚拟实验室技术，吸引学生开展投入性学习。借助网络虚拟实验室，学习者即便在家里也可以借助虚拟体验，获得类似真实实验室的操作实践。虚拟实验室还特别强调学生的即时反馈，并对学生输入的数值进行在线评价，给教学组织者提供反馈信息，使管理者随时了解学生的基本需求和学习状态。</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　在关于“慕课”的各种声音中，有一个事实可以肯定：作为一种新事物，“慕课”不会只迎来掌声，而是将面临发展中的困惑、争议以及挑战。但是，它在促进我们对于课程资源提供、教师角色和学生体验方式及其成就评估等方面都具有十分积极的现实意义。“慕课”的出现不仅给学习者带来了更多元的体验与选择，其全新的教学形式和以学为本的价值取向也给我们规划新一轮的教育教学改革提供了新的视角和改进方向。</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				　　正如教育部副部长杜占元在论坛上所言：“当今信息技术的飞速发展，对教育的影响不仅表现在新技术与手段的运用上，而且为教育的发展带来更新的理念和动力，使教育内容、方法和模式发生深刻变革。”郝克明表示：“信息技术已经成为新一轮教育改革的强大动力，我们要抓住这个机遇，借鉴MOOCs经验，加强自主开发，以多种形式和途径促进信息技术与教育融合，实现教育模式和方式创新，提高教育教学质量。”（记者 俞水）</p>
+<p style="padding-bottom: 0px; widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; margin: 0px 0px 20px; padding-left: 0px; padding-right: 0px; font: 14px/20px Verdana, Arial, Helvetica, sans-serif; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+				    《中国教育报》2013年11月30日第3版</p>
+</div>
+</div>
+</div>
+<br class="Apple-interchange-newline"http://www.dlhs24.com.cn/>
+</td>
+</tr>
+</table>
+
+

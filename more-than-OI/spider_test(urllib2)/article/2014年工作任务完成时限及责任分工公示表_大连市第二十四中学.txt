@@ -1,0 +1,210 @@
+2014年工作任务完成时限及责任分工公示表
+
+
+
+<table width="100%">
+<tr>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+      大连市第24中学<br/>
+<table border="1" cellpadding="0" cellspacing="0" style="width: 740px" width="732" x:str="">
+<colgroup>
+<col></col>
+<col></col>
+<col></col>
+<col span="12"></col>
+<col span="3"></col>
+<col></col>
+<col></col>
+</colgroup>
+<tbody>
+<tr height="16">
+<td height="32" rowspan="2" style="width: 25px; height: 32px">
+				序号</td>
+<td rowspan="2" style="width: 27px">
+				工作名称</td>
+<td rowspan="2" style="width: 55px">
+				工作内容</td>
+<td colspan="12" style="width: 496px">
+				预期完成节点（工作量X%）</td>
+<td rowspan="2" style="width: 23px">
+				分管   领导</td>
+<td rowspan="2" style="width: 23px">
+				责任部门级责任人</td>
+<td rowspan="2" style="width: 23px">
+				责任人</td>
+<td rowspan="2" style="width: 47px">
+				保障措施</td>
+<td rowspan="2" style="width: 23px">
+				备注</td>
+</tr>
+<tr height="16">
+<td height="16" style="width: 41px; height: 16px">
+				1月</td>
+<td style="width: 41px">
+				2月</td>
+<td style="width: 41px">
+				3月</td>
+<td style="width: 41px">
+				4月</td>
+<td style="width: 41px">
+				5月</td>
+<td style="width: 41px">
+				6月</td>
+<td style="width: 41px">
+				7月</td>
+<td style="width: 41px">
+				8月</td>
+<td style="width: 41px">
+				9月</td>
+<td style="width: 41px">
+				10月</td>
+<td style="width: 41px">
+				11月</td>
+<td style="width: 41px">
+				12月</td>
+</tr>
+<tr height="192">
+<td height="192" style="height: 192px">
+				　</td>
+<td style="width: 27px">
+				教育教学</td>
+<td style="width: 55px">
+				制定每学期的教育教学工作计划，组织教学常规检查，负责教学经验总结和交流</td>
+<td style="width: 41px">
+				青年教师教学基本功竞赛、教学工作会</td>
+<td style="width: 41px">
+				导学案研讨与检查，小组合作学习分组指导细则导读</td>
+<td style="width: 41px" x:str="课改阶段调研会，小组合作学习师生动员会 ">
+				课改阶段调研会，小组合作学习师生动员会 </td>
+<td style="width: 41px">
+				拔尖人才培养跨学科课程开发研讨</td>
+<td style="width: 41px">
+				辽宁省协作体考试，国际课程AQM模拟考试</td>
+<td style="width: 41px">
+				校本课程体系梳理，高考报志愿</td>
+<td style="width: 41px">
+				高一高二期末考试，课改总结</td>
+<td style="width: 41px">
+				新老高三检验交流会</td>
+<td style="width: 41px">
+				高一学法指导，教学委员会工作会</td>
+<td style="width: 41px">
+				高二年级研究性学习成果展示及评比</td>
+<td style="width: 41px">
+				高一高二期中考试及家长会</td>
+<td style="width: 41px">
+				班主任工作研讨会，高三期中Ⅱ考试</td>
+<td style="width: 23px">
+				黄启成</td>
+<td style="width: 23px">
+				张军</td>
+<td style="width: 23px">
+				谭萍</td>
+<td style="width: 47px" x:str="1、召开教学委员会工作会议                     2、科研室与教务处合作，保障教学活动开展    ">
+				1、召开教学委员会工作会议                     2、科研室与教务处合作，保障教学活动开展    </td>
+<td>
+				　</td>
+</tr>
+<tr height="224">
+<td height="224" style="height: 224px">
+				　</td>
+<td style="width: 27px">
+				德育活动</td>
+<td style="width: 55px">
+				规范学生的仪容仪表，抓好“如何做人”的德育教育,使学生具备良好的内在修养</td>
+<td style="width: 41px">
+				校级评优评先，骋怀论坛之家长职业联盟</td>
+<td style="width: 41px">
+				贫困学生走访</td>
+<td style="width: 41px">
+				高考百日动员大会、科技节、学雷锋活动周、校园读书月</td>
+<td style="width: 41px">
+				国际文化周（英语节）、春游</td>
+<td style="width: 41px">
+				校园文化艺术节、徒步大会、毕业生“五个一”活动</td>
+<td style="width: 41px">
+				毕业典礼、校园乒乓球联赛</td>
+<td style="width: 41px">
+				“英才奖励基金”颁奖、骋怀论坛</td>
+<td style="width: 41px" x:str="社会实践活动和新生军训 ">
+				社会实践活动和新生军训 </td>
+<td style="width: 41px">
+				校庆周系列活动，新生入学系列指导，校运会暨体育节启幕</td>
+<td style="width: 41px">
+				国庆主题系列教育，社团文化节</td>
+<td style="width: 41px">
+				学生会、学生校园自律监督委员会换届、成人仪式</td>
+<td style="width: 41px">
+				一二九长跑，迎新元旦晚会</td>
+<td style="width: 23px">
+				李振权</td>
+<td style="width: 23px">
+				潘永久</td>
+<td style="width: 23px">
+				刘玉梅</td>
+<td style="width: 47px">
+				1、制定德育工作详细规划    2、与家长建立长期的有效联系，召开家长委员会工作会</td>
+<td>
+				　</td>
+</tr>
+<tr height="256">
+<td height="256" style="height: 256px">
+				　</td>
+<td style="width: 27px">
+				党群活动</td>
+<td style="width: 55px">
+				负责党的组织工作，安排和实施对基层党支部建设、党员思想教育、党的组织发展和党员管理工作</td>
+<td style="width: 41px">
+				召开总结表彰大会</td>
+<td style="width: 41px">
+				　</td>
+<td style="width: 41px">
+				成立党的群众路线教育实践活动领导小组，完善《实施方案》</td>
+<td style="width: 41px">
+				对征求到的建议和查摆出来的问题进行认真梳理分析，制定初步方案</td>
+<td style="width: 41px">
+				组织召开专题民主生活会，开展批评与自我批评</td>
+<td style="width: 41px">
+				针对查摆出来的突出问题和需要完善的制度，形成整改方案</td>
+<td style="width: 41px">
+				健全完善加强作风建设相关制度。</td>
+<td style="width: 41px">
+				对学校开展党的群众路线教育实践活动情况进行总结</td>
+<td style="width: 41px">
+				组织召开总结大会</td>
+<td style="width: 41px">
+				围绕国庆主题召开系列党员活动</td>
+<td style="width: 41px">
+				继续落实“三走进，三服务”党员活动计划</td>
+<td style="width: 41px">
+				召开专题民主生活会，树正气，讲团结</td>
+<td style="width: 23px">
+				胡敩敏</td>
+<td style="width: 23px">
+				孙爱民</td>
+<td style="width: 23px">
+				周亚娟</td>
+<td style="width: 47px">
+				1、校党总支督导组参与会议，监督党务工作的开展           2、党支部定期走访和召开会议，检查上阶段执行情况</td>
+<td>
+				　</td>
+</tr>
+<tr height="69">
+<td colspan="20" height="69" style="width: 740px; height: 69px" x:str="领导小组意见（签字）：
+本级主要领导（签字）：
+  
+  
+                                            ">
+				领导小组意见（签字）：<br/>
+				本级主要领导（签字）：<br/>
+				 <br/>
+				 <br/>
+				                                            </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+
+

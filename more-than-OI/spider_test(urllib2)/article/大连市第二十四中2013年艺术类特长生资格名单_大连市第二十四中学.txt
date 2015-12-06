@@ -1,0 +1,281 @@
+大连市第二十四中2013年艺术类特长生资格名单
+
+
+
+<table width="100%">
+<tr>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+<table border="1" cellpadding="0" cellspacing="0" style="width: 652px" width="651" x:str="">
+<colgroup>
+<col style="text-align: center"></col>
+<col style="text-align: center"></col>
+<col style="text-align: center"></col>
+<col style="text-align: center"></col>
+<col style="text-align: center"></col>
+<col style="text-align: center"></col>
+<col style="text-align: center"></col>
+</colgroup>
+<tbody>
+<tr height="19">
+<td height="19" style="text-align: center; width: 44px; height: 19px">
+				序号</td>
+<td style="text-align: center; width: 152px">
+				报考学校</td>
+<td style="text-align: center; width: 60px">
+				姓  名</td>
+<td style="text-align: center; width: 44px">
+				性别</td>
+<td style="text-align: center; width: 183px">
+				毕业学校</td>
+<td style="text-align: center; width: 76px">
+				特长项目</td>
+<td style="text-align: center; width: 93px">
+				考号</td>
+</tr>
+<tr height="19">
+<td height="19" style="text-align: center; height: 19px" x:num="">
+				1</td>
+<td style="text-align: center">
+				大连市第二十四中学</td>
+<td style="text-align: center">
+				谢晨飞</td>
+<td style="text-align: center">
+				男</td>
+<td style="text-align: center">
+				大连市第三十四中学</td>
+<td style="text-align: center">
+				二胡</td>
+<td style="text-align: center">
+				0203340409</td>
+</tr>
+<tr height="19">
+<td height="19" style="text-align: center; height: 19px" x:num="">
+				2</td>
+<td style="text-align: center">
+				大连市第二十四中学</td>
+<td style="text-align: center">
+				张姝坤</td>
+<td style="text-align: center">
+				女</td>
+<td style="text-align: center">
+				大连嘉汇中学</td>
+<td style="text-align: center">
+				二胡</td>
+<td style="text-align: center">
+				0202100538</td>
+</tr>
+<tr height="19">
+<td height="19" style="text-align: center; height: 19px" x:num="">
+				3</td>
+<td style="text-align: center">
+				大连市第二十四中学</td>
+<td style="text-align: center">
+				程漪帆</td>
+<td style="text-align: center">
+				女</td>
+<td style="text-align: center">
+				大连市第八十中学</td>
+<td style="text-align: center">
+				琵琶</td>
+<td style="text-align: center">
+				0211800955</td>
+</tr>
+<tr height="19">
+<td height="19" style="text-align: center; height: 19px" x:num="">
+				4</td>
+<td style="text-align: center">
+				大连市第二十四中学</td>
+<td style="text-align: center">
+				刘艺</td>
+<td style="text-align: center">
+				女</td>
+<td style="text-align: center">
+				大连嘉汇中学</td>
+<td style="text-align: center">
+				中阮</td>
+<td style="text-align: center">
+				0202100226</td>
+</tr>
+<tr height="19">
+<td height="19" style="text-align: center; height: 19px" x:num="">
+				5</td>
+<td style="text-align: center">
+				大连市第二十四中学</td>
+<td style="text-align: center">
+				张容婵</td>
+<td style="text-align: center">
+				女</td>
+<td style="text-align: center">
+				大连市第八十中学</td>
+<td style="text-align: center">
+				扬琴</td>
+<td style="text-align: center">
+				0211800132</td>
+</tr>
+<tr height="19">
+<td height="19" style="text-align: center; height: 19px" x:num="">
+				6</td>
+<td style="text-align: center">
+				大连市第二十四中学</td>
+<td style="text-align: center">
+				李依遥</td>
+<td style="text-align: center">
+				女</td>
+<td style="text-align: center">
+				大连市第九中学</td>
+<td style="text-align: center">
+				古筝</td>
+<td style="text-align: center">
+				0202090935</td>
+</tr>
+<tr height="19">
+<td height="19" style="text-align: center; height: 19px" x:num="">
+				7</td>
+<td style="text-align: center">
+				大连市第二十四中学</td>
+<td style="text-align: center">
+				张峪玮</td>
+<td style="text-align: center">
+				男</td>
+<td style="text-align: center">
+				大连格致中学</td>
+<td style="text-align: center">
+				笛子</td>
+<td style="text-align: center">
+				0204550919</td>
+</tr>
+<tr height="19">
+<td height="19" style="text-align: center; height: 19px" x:num="">
+				8</td>
+<td style="text-align: center">
+				大连市第二十四中学</td>
+<td style="text-align: center">
+				周宇洋</td>
+<td style="text-align: center">
+				女</td>
+<td style="text-align: center">
+				大连嘉汇中学</td>
+<td style="text-align: center">
+				大提琴</td>
+<td style="text-align: center">
+				0202100627</td>
+</tr>
+<tr height="19">
+<td height="19" style="text-align: center; height: 19px" x:num="">
+				9</td>
+<td style="text-align: center">
+				大连市第二十四中学</td>
+<td style="text-align: center">
+				江力舟</td>
+<td style="text-align: center">
+				男</td>
+<td style="text-align: center">
+				大连市第七十九中学</td>
+<td style="text-align: center">
+				低音提琴</td>
+<td style="text-align: center">
+				0204790118</td>
+</tr>
+<tr height="19">
+<td height="19" style="text-align: center; height: 19px" x:num="">
+				10</td>
+<td style="text-align: center">
+				大连市第二十四中学</td>
+<td style="text-align: center">
+				高煦禾</td>
+<td style="text-align: center">
+				男</td>
+<td style="text-align: center">
+				大连格致中学</td>
+<td style="text-align: center">
+				打击乐</td>
+<td style="text-align: center">
+				0204550408</td>
+</tr>
+<tr height="19">
+<td height="19" style="text-align: center; height: 19px" x:num="">
+				11</td>
+<td style="text-align: center">
+				大连市第二十四中学</td>
+<td style="text-align: center">
+				宋宇佳</td>
+<td style="text-align: center">
+				女</td>
+<td style="text-align: center">
+				大连海事大学附属学校</td>
+<td style="text-align: center">
+				舞蹈</td>
+<td style="text-align: center">
+				0216020334</td>
+</tr>
+<tr height="19">
+<td height="19" style="text-align: center; height: 19px" x:num="">
+				12</td>
+<td style="text-align: center">
+				大连市第二十四中学</td>
+<td style="text-align: center">
+				冉梓欢</td>
+<td style="text-align: center">
+				女</td>
+<td style="text-align: center">
+				大连理工大学附属学校</td>
+<td style="text-align: center">
+				舞蹈</td>
+<td style="text-align: center">
+				0216010132</td>
+</tr>
+<tr height="19">
+<td height="19" style="text-align: center; height: 19px" x:num="">
+				13</td>
+<td style="text-align: center">
+				大连市第二十四中学</td>
+<td style="text-align: center">
+				于在洋</td>
+<td style="text-align: center">
+				男</td>
+<td style="text-align: center">
+				大连市第九中学</td>
+<td style="text-align: center">
+				舞蹈</td>
+<td style="text-align: center">
+				0202090710</td>
+</tr>
+<tr height="19">
+<td height="19" style="text-align: center; height: 19px" x:num="">
+				14</td>
+<td style="text-align: center">
+				大连市第二十四中学</td>
+<td style="text-align: center">
+				田丹妮</td>
+<td style="text-align: center">
+				女</td>
+<td style="text-align: center">
+				大连市第九中学</td>
+<td style="text-align: center">
+				声乐</td>
+<td style="text-align: center">
+				0202090726</td>
+</tr>
+<tr height="19">
+<td height="19" style="text-align: center; height: 19px" x:num="">
+				15</td>
+<td style="text-align: center">
+				大连市第二十四中学</td>
+<td style="text-align: center">
+				李原旭</td>
+<td style="text-align: center">
+				男</td>
+<td style="text-align: center">
+				大连市第四十六中学</td>
+<td style="text-align: center">
+				声乐</td>
+<td style="text-align: center">
+				0204460230</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+
+

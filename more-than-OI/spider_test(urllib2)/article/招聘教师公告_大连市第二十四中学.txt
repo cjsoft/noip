@@ -1,0 +1,14 @@
+招聘教师公告
+
+
+
+<table width="100%">
+<tr>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+<h4 align="left" class="style1">
+<font color="#000000" face="仿宋_GB2312" size="3">    我校拟招聘以下学科教师:化学、生物、地理、心理、政治。请有意者将个人简历发送至电子邮箱：</font><font color="#000000" face="仿宋_GB2312" size="3"><a href="mailto:am650101@163.com">am650101@163.com</a></font></h4>
+</td>
+</tr>
+</table>
+
+

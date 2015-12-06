@@ -1,0 +1,105 @@
+大连二十四中学第六届工会女工委员会
+
+
+
+<table width="100%">
+<tr>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+<table border="0" cellpadding="0" cellspacing="0" style="width: 757px" width="757">
+<colgroup>
+<col span="4"></col>
+<col></col>
+<col></col>
+</colgroup>
+<tbody>
+<tr height="48">
+<td height="48" style="width: 72px; height: 48px">
+				姓  名</td>
+<td style="width: 72px">
+				性别</td>
+<td style="width: 72px">
+				年龄</td>
+<td style="width: 72px">
+				分工</td>
+<td style="width: 132px">
+				职  称</td>
+<td style="width: 337px">
+				简    介</td>
+</tr>
+<tr height="48">
+<td height="48" style="height: 48px">
+				孙爱民</td>
+<td>
+				女</td>
+<td>
+				43</td>
+<td>
+				主任</td>
+<td>
+				中学高级</td>
+<td>
+				办公室主任</td>
+</tr>
+<tr height="48">
+<td height="48" style="height: 48px">
+				孙玉萍</td>
+<td>
+				女</td>
+<td>
+				46</td>
+<td>
+				委员</td>
+<td>
+				中学高级</td>
+<td>
+				历史教研组长</td>
+</tr>
+<tr height="48">
+<td height="48" style="height: 48px">
+				刘玉梅</td>
+<td>
+				女</td>
+<td>
+				36</td>
+<td>
+				委员</td>
+<td>
+				中学一级</td>
+<td>
+				校优秀青年教师</td>
+</tr>
+<tr height="42">
+<td height="42" style="height: 42px">
+				 </td>
+<td>
+				 </td>
+<td>
+				 </td>
+<td>
+				 </td>
+<td>
+				 </td>
+<td style="width: 337px">
+				大连市第二十四中学工会</td>
+</tr>
+<tr height="42">
+<td height="42" style="height: 42px">
+				 </td>
+<td>
+				 </td>
+<td>
+				 </td>
+<td>
+				 </td>
+<td>
+				 </td>
+<td style="width: 337px">
+				2008年12月5日</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+
+

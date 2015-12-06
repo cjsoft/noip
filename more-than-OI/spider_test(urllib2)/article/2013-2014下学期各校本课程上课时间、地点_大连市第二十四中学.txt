@@ -1,0 +1,245 @@
+2013-2014下学期各校本课程上课时间、地点
+
+
+
+<table width="100%">
+<tr>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+<br/>
+<table border="1" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="width: 61px">
+<strong>序号</strong></td>
+<td style="width: 80px">
+<strong>教师</strong></td>
+<td style="width: 63px">
+<strong>学科</strong></td>
+<td style="width: 154px">
+<strong>课题</strong></td>
+<td style="width: 74px">
+<strong>人数</strong></td>
+<td style="width: 130px">
+<strong>上课教室</strong></td>
+</tr>
+<tr>
+<td style="width: 61px">
+<strong>1</strong></td>
+<td style="width: 80px">
+<strong>于伟奇</strong></td>
+<td style="width: 63px">
+<strong>地理</strong></td>
+<td style="width: 154px">
+<strong>烘  焙</strong></td>
+<td style="width: 74px">
+<strong>27</strong></td>
+<td style="width: 130px">
+<strong>二年一班</strong></td>
+</tr>
+<tr>
+<td style="width: 61px">
+<strong>2</strong></td>
+<td style="width: 80px">
+<strong>付晓艳</strong></td>
+<td style="width: 63px">
+<strong>历史</strong></td>
+<td style="width: 154px">
+<strong>国际关系风云</strong></td>
+<td style="width: 74px">
+<strong>44</strong></td>
+<td style="width: 130px">
+<strong>二年二班</strong></td>
+</tr>
+<tr>
+<td style="width: 61px">
+<strong>3</strong></td>
+<td style="width: 80px">
+<strong>商广东</strong></td>
+<td style="width: 63px">
+<strong>综合</strong></td>
+<td style="width: 154px">
+<strong>桥  牌</strong></td>
+<td style="width: 74px">
+<strong>34</strong></td>
+<td style="width: 130px">
+<strong>棋牌教室</strong></td>
+</tr>
+<tr>
+<td style="width: 61px">
+<strong>4</strong></td>
+<td style="width: 80px">
+<strong>王绍勇</strong></td>
+<td style="width: 63px">
+<strong>数学</strong></td>
+<td style="width: 154px">
+<strong>高等数学背景下的高考压轴题</strong></td>
+<td style="width: 74px">
+<strong>49</strong></td>
+<td style="width: 130px">
+<strong>二年三班</strong></td>
+</tr>
+<tr>
+<td style="width: 61px">
+<strong>5</strong></td>
+<td style="width: 80px">
+<strong>穆  滢</strong></td>
+<td style="width: 63px">
+<strong>英语</strong></td>
+<td style="width: 154px">
+<strong>英语视听说</strong></td>
+<td style="width: 74px">
+<strong>46</strong></td>
+<td style="width: 130px">
+<strong>二年四班</strong></td>
+</tr>
+<tr>
+<td style="width: 61px">
+<strong>6</strong></td>
+<td style="width: 80px">
+<strong>范  华</strong></td>
+<td style="width: 63px">
+<strong>英语</strong></td>
+<td style="width: 154px">
+<strong>英语文化</strong><br/>
+<strong>英语国家概况</strong></td>
+<td style="width: 74px">
+<strong>20</strong></td>
+<td style="width: 130px">
+<strong>二年五班</strong></td>
+</tr>
+<tr>
+<td style="width: 61px">
+<strong>7</strong></td>
+<td style="width: 80px">
+<strong>林  琳</strong></td>
+<td style="width: 63px">
+<strong>英语</strong></td>
+<td style="width: 154px">
+<strong>TED</strong><strong>演讲</strong></td>
+<td style="width: 74px">
+<strong>18</strong></td>
+<td style="width: 130px">
+<strong>二年六班</strong></td>
+</tr>
+<tr>
+<td style="width: 61px">
+<strong>8</strong></td>
+<td style="width: 80px">
+<strong>孙宇光</strong></td>
+<td style="width: 63px">
+<strong>物理</strong></td>
+<td style="width: 154px">
+<strong>物理</strong></td>
+<td style="width: 74px">
+<strong>46</strong></td>
+<td style="width: 130px">
+<strong>二年七班</strong></td>
+</tr>
+<tr>
+<td style="width: 61px">
+<strong>9</strong></td>
+<td style="width: 80px">
+<strong>卞丽萍</strong></td>
+<td style="width: 63px">
+<strong>政治</strong></td>
+<td style="width: 154px">
+<strong>中西哲学比较研究</strong></td>
+<td style="width: 74px">
+<strong>21</strong></td>
+<td style="width: 130px">
+<strong>二年八班</strong></td>
+</tr>
+<tr>
+<td style="width: 61px">
+<strong>10</strong></td>
+<td style="width: 80px">
+<strong>黄  彬</strong></td>
+<td style="width: 63px">
+<strong>政治</strong></td>
+<td style="width: 154px">
+<strong>礼仪教育</strong></td>
+<td style="width: 74px">
+<strong>28</strong></td>
+<td style="width: 130px">
+<strong>二年九班</strong></td>
+</tr>
+<tr>
+<td style="width: 61px">
+<strong>11</strong></td>
+<td style="width: 80px">
+<strong>刘艳华</strong></td>
+<td style="width: 63px">
+<strong>语文</strong></td>
+<td style="width: 154px">
+<strong>中国文化经典阅读</strong></td>
+<td style="width: 74px">
+<strong>22</strong></td>
+<td style="width: 130px">
+<strong>二年十班</strong></td>
+</tr>
+<tr>
+<td style="width: 61px">
+<strong>12</strong></td>
+<td style="width: 80px">
+<strong>耿英年</strong></td>
+<td style="width: 63px">
+<strong>语文</strong></td>
+<td style="width: 154px">
+<strong>国学</strong></td>
+<td style="width: 74px">
+<strong>50</strong></td>
+<td style="width: 130px">
+<strong>二年十一班</strong></td>
+</tr>
+<tr>
+<td style="width: 61px">
+<strong>13</strong></td>
+<td style="width: 80px">
+<strong>韩煜韬</strong></td>
+<td style="width: 63px">
+<strong>语文</strong></td>
+<td style="width: 154px">
+<strong>汉语的词汇</strong></td>
+<td style="width: 74px">
+<strong>40</strong></td>
+<td style="width: 130px">
+<strong>国学室</strong></td>
+</tr>
+<tr>
+<td style="width: 61px; height: 6px">
+<strong>14</strong></td>
+<td style="width: 80px; height: 6px">
+<strong>外聘</strong></td>
+<td style="width: 63px; height: 6px">
+<strong>综合</strong></td>
+<td style="width: 154px; height: 6px">
+<strong>茶艺</strong></td>
+<td style="width: 74px; height: 6px">
+<strong>33</strong></td>
+<td style="width: 130px; height: 6px">
+<strong>茶艺室</strong></td>
+</tr>
+<tr>
+<td style="width: 61px">
+<strong>15</strong></td>
+<td style="width: 80px">
+<strong>杨雨平孙宇光王绍勇刘驰罡徐连红</strong></td>
+<td style="width: 63px">
+				 </td>
+<td style="width: 154px">
+<strong>蓝</strong><strong>蓝色国土的开发与保护</strong><br/>
+				 </td>
+<td style="width: 74px">
+<strong>22</strong></td>
+<td style="width: 130px">
+<strong>话剧室</strong></td>
+</tr>
+</tbody>
+</table>
+<br/>
+<strong>说明：从本周开始上课，上课时间为周四第九节课。</strong><br/>
+</td>
+</tr>
+</table>
+
+

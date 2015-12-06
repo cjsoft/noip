@@ -1,0 +1,14 @@
+学校班车线路图
+
+
+
+<table width="100%">
+<tr>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+<div style="text-align: center">
+<img changedsize="true" class="BDE_Image" height="400" src="http://www.dlhs24.com.cn/uploads/allimg/120717/1P4092S7-0.png" width="670"http://www.dlhs24.com.cn/></div>
+</td>
+</tr>
+</table>
+
+

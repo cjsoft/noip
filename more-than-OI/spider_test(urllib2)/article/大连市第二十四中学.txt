@@ -1,0 +1,591 @@
+
+
+<div class="r1" style="height:auto;overflow:hidden;">
+<div style="float:left;width:358px;height:auto;">
+<div class="picnews">
+<script language="javascript">
+linkarr = new Array();
+picarr = new Array();
+textarr = new Array();
+var swf_width=346;
+var swf_height=230;
+var files = "";
+var links = "";
+var texts = "";
+//这里设置调用标记
+linkarr[1] = "http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xiaojijiaoliu/20151205/2318.html";
+picarr[1]  = "http://www.dlhs24.com.cn/uploads/allimg/151205/1-15120520364K28-lp.jpg";
+textarr[1] = "热烈祝贺我校彭喜治老师被评选为第三届大连市我最";
+linkarr[2] = "http://www.dlhs24.com.cn/a/guojibu/zouxiangshijie/20151205/2317.html";
+picarr[2]  = "http://www.dlhs24.com.cn/uploads/allimg/151205/1-1512050Z000X5-lp.jpg";
+textarr[2] = "通往未来的职业之路——记大连市第二十四中学国际";
+linkarr[3] = "http://www.dlhs24.com.cn/a/xueshengtiandi/xueshenghuodong/20151204/2316.html";
+picarr[3]  = "http://www.dlhs24.com.cn/uploads/allimg/151204/1-15120420410N42-lp.JPG";
+textarr[3] = "我校在第二个国家宪法日开展宪法学习活动";
+linkarr[4] = "http://www.dlhs24.com.cn/a/xueshengtiandi/xueshenghuodong/20151203/2315.html";
+picarr[4]  = "http://www.dlhs24.com.cn/uploads/allimg/151203/1-151203092039491-lp.jpg";
+textarr[4] = "科学之美 异彩纷呈——“邂逅科学之美”系列活动之";
+linkarr[5] = "http://www.dlhs24.com.cn/a/xueshengtiandi/guoqixiajianghua/20151130/2314.html";
+picarr[5]  = "http://www.dlhs24.com.cn/uploads/allimg/151130/1-1511301949202I-lp.jpg";
+textarr[5] = "『学子观点』呼唤和平";
+
+for(i=1;i<picarr.length;i++){
+  if(files=="") files = picarr[i];
+  else files += "|"+picarr[i];
+}
+for(i=1;i<linkarr.length;i++){
+  if(links=="") links = linkarr[i];
+  else links += "|"+linkarr[i];
+}
+for(i=1;i<textarr.length;i++){
+  if(texts=="") texts = textarr[i];
+  else texts += "|"+textarr[i];
+}
+document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+ swf_width +'" height="'+ swf_height +'">');
+document.write('<param name="movie" value="http://www.dlhs24.com.cn/templets/default/images/bcastr3.swf?20120725"><param name="quality" value="high">');
+document.write('<param name="menu" value="false"><param name=wmode value="opaque">');
+document.write('<param name="FlashVars" value="bcastr_file='+files+'&bcastr_link='+links+'&bcastr_title='+texts+'">');
+document.write('<embed src="http://www.dlhs24.com.cn/templets/default/images/bcastr3.swf" wmode="opaque" FlashVars="bcastr_file='+files+'&bcastr_link='+links+'&bcastr_title='+texts+'& menu="false" quality="high" width="'+ swf_width +'" height="'+ swf_height +'" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />'); document.write('</object>');
+</script>
+</div>
+<div class="news2" style="margin-top:10px;_margin-top:5px;">
+<div class="title" id="school_info"></div>
+<p class="pintroduce">大连市第二十四中学创建于1949年，1962年被评为辽宁省重点中学，2004年被评为辽宁省示范高中。</p>
+<p class="pintroduce">1949年9月1日，距新中国开国大典恰好一个月之前，大连市第二十四中学的前身——大连育才中学正式开学。学校的第一任校长是中国教育的先驱、当时大连市第一任市长毛达恂，第一任教务长是革命烈士杨开慧的堂妹杨开英。</p>
+<p class="pintroduce"> 历史铸就典范，文化沉淀风采，跨越两个世纪的锤炼，独有的风范成就了一代又一代学子的梦想，特有的风华，孕育了一批又一批时代的精英。</p>
+</div>
+</div>
+<div class="news1">
+<div class="title"><span class="t_more"><a href="http://www.dlhs24.com.cn/a/xinwenzixun/xiaoyuansudi/">more</a></span>  校园速递</div>
+<ul style="height:420px;">
+<li><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xiaojijiaoliu/20140624/1929.html" title="欢迎关注大连市第二十四中学微信公众平台"> ● <font color="#FF0000">欢迎关注大连市第二十四中学微信公众平台</font></a><span>2015-11-19</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/xueshengtiandi/xueshengshetuan/20140410/1780.html" title="大连市第二十四中学校园电视台&amp;官方在线视频互动区域"> ● <font color="#333333">大连市第二十四中学校园电视台&amp;官方在线视频互动区域</font></a><span>2015-11-19</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xiaojijiaoliu/20151205/2318.html" title="热烈祝贺我校彭喜治老师被评选为第三届大连市我最喜爱的青年教师！"> ● 热烈祝贺我校彭喜治老师被评选为第三届大连市我最喜爱的青年教师！</a><span>2015-12-05</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/guojibu/zouxiangshijie/20151205/2317.html" title="通往未来的职业之路——记大连市第二十四中学国际部职业发展规划论坛"> ● 通往未来的职业之路——记大连市第二十四中学国际部职业发展规划论坛</a><span>2015-12-05</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/xueshengtiandi/xueshenghuodong/20151204/2316.html" title="我校在第二个国家宪法日开展宪法学习活动"> ● 我校在第二个国家宪法日开展宪法学习活动</a><span>2015-12-04</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/xueshengtiandi/xueshenghuodong/20151203/2315.html" title="科学之美 异彩纷呈——“邂逅科学之美”系列活动之板报展"> ● 科学之美 异彩纷呈——“邂逅科学之美”系列活动之板报展</a><span>2015-12-03</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/xueshengtiandi/guoqixiajianghua/20151130/2314.html" title="『学子观点』呼唤和平"> ● 『学子观点』呼唤和平</a><span>2015-11-30</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/xueshengtiandi/xueshengshetuan/20151124/2310.html" title="『社团风采』心怀天下，传承模联情怀——我校成功举办24MUN2015模拟联合国大会"> ● 『社团风采』心怀天下，传承模联情怀——我校成功举办24MUN2015模拟联合国大会</a><span>2015-11-27</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/xueshengtiandi/xueshengshetuan/20151127/2312.html" title="我校连续第四届被评为“社团工作先进学校”"> ● 我校连续第四届被评为“社团工作先进学校”</a><span>2015-11-27</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/guojibu/zouxiangshijie/20151127/2313.html" title="收获的喜悦漫延在感恩的季节——国际部正式拉开录取大幕"> ● 收获的喜悦漫延在感恩的季节——国际部正式拉开录取大幕</a><span>2015-11-27</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/guojibu/zouxiangshijie/20151126/2311.html" title="千里之行始于足下——国际部召开小型家长会，学业升学两不误"> ● 千里之行始于足下——国际部召开小型家长会，学业升学两不误</a><span>2015-11-26</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/guojibu/zouxiangshijie/20151124/2309.html" title="我校吸引众多加拿大名校到访"> ● 我校吸引众多加拿大名校到访</a><span>2015-11-24</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/xueshengtiandi/xueshenghuodong/20151123/2308.html" title="『学子观点』感念于心，幸福成长"> ● 『学子观点』感念于心，幸福成长</a><span>2015-11-23</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/xueshengtiandi/xueshenghuodong/20151123/2307.html" title="华夏丝竹 民韵流芳——我校高一师生欣赏大型原创民族管弦乐组曲《辽南畅想》"> ● 华夏丝竹 民韵流芳——我校高一师生欣赏大型原创民族管弦乐组曲《辽南畅想》</a><span>2015-11-23</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xiaojijiaoliu/20151122/2306.html" title="同课异构展精彩 南北互动促提升——我校与广州执信中学进行同课异构教学实践研讨活动"> ● 同课异构展精彩 南北互动促提升——我校与广州执信中学进行同课异构教学实践研讨活动</a><span>2015-11-22</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xuekejingsai/20151120/2303.html" title="那一年，我十八岁——教师在2016届高三成人仪式上的朗诵"> ● 那一年，我十八岁——教师在2016届高三成人仪式上的朗诵</a><span>2015-11-20</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xuekejingsai/20151120/2304.html" title="感恩•责任•担当——家长代表李仲华在大连市第24中学成人仪式上的发言"> ● 感恩•责任•担当——家长代表李仲华在大连市第24中学成人仪式上的发言</a><span>2015-11-20</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xuekejingsai/20151120/2305.html" title="学生在2016届高三成人仪式上的朗诵"> ● 学生在2016届高三成人仪式上的朗诵</a><span>2015-11-20</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xuekejingsai/20151120/2302.html" title="黄启成校长在2016届高三成人仪式上的讲话"> ● 黄启成校长在2016届高三成人仪式上的讲话</a><span>2015-11-20</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xuekejingsai/20151120/2300.html" title="2016届高三举行成人仪式"> ● 2016届高三举行成人仪式</a><span>2015-11-20</span></li>
+</ul>
+</div>
+<div class="notice">
+<div class="ntitle"><span class="t_more"><a href="http://www.dlhs24.com.cn/a/xinwenzixun/xiaoyuangonggao/">more</a></span>  最新公告</div>
+<div class="ncontent" id="myscroll">
+<marquee behavior="scroll" direction="up" onmouseout="this.start()" onmouseover="this.stop()" scrollamount="2">
+<ul>
+<li><a href="http://www.dlhs24.com.cn/a/guojibu/zhaoshengyushengxuezhidao/20151008/2263.html" style="font-weight:bold;font-size:13px;">大连市第二十四中学召开首届“海外大学招生咨询会”邀请函</a>
+<br/>     
+				</li>
+<li><a href="http://www.dlhs24.com.cn/a/deyuguanli/duiwaijiaoliuzhongxin/2015/0906/2236.html" style="font-weight:bold;font-size:13px;">2016年多伦多大学绿色通道项目报名正在进行中！</a>
+<br/>     
+				</li>
+<li><a href="http://www.dlhs24.com.cn/a/zhaokaoxinxi/zhongzhaozixun/2015/0727/2230.html" style="font-weight:bold;font-size:13px;">大连市第二十四中学“新生领取录取通知书事宜”通知</a>
+<br/>     
+				</li>
+</ul>
+</marquee>
+</div>
+</div>
+<div class="notice" style="float:right;margin-top:10px;_magin-top:5px;">
+<div class="ntitle"><span class="t_more"><a href="http://www.dlhs24.com.cn/a/xinwenzixun/jiaoyuqianyan/">more</a></span>  教育前沿</div>
+<div class="ncontent">
+<ul style="margin-top:7px;_margin-top:4px;">
+<li style="text-indent:0;height:20px;width:213px;line-height:20px;overflow:hidden;float:left;">
+<a href="http://www.dlhs24.com.cn/a/xinwenzixun/jiaoyuqianyan/20150408/2105.html">“移步换形”看政策——谈如何解读浙江省高考试点方案</a>
+</li>
+<li style="text-indent:0;height:20px;width:213px;line-height:20px;overflow:hidden;float:left;">
+<a href="http://www.dlhs24.com.cn/a/xinwenzixun/jiaoyuqianyan/20150408/2104.html">自我教育能力是成才的重要因素</a>
+</li>
+<li style="text-indent:0;height:20px;width:213px;line-height:20px;overflow:hidden;float:left;">
+<a href="http://www.dlhs24.com.cn/a/xinwenzixun/jiaoyuqianyan/20150304/2086.html">《中国教育报》2014年度十大教育锐评</a>
+</li>
+<li style="text-indent:0;height:20px;width:213px;line-height:20px;overflow:hidden;float:left;">
+<a href="http://www.dlhs24.com.cn/a/xinwenzixun/jiaoyuqianyan/20140922/1990.html">国务院关于深化考试招生制度改革的实施意见</a>
+</li>
+<li style="text-indent:0;height:20px;width:213px;line-height:20px;overflow:hidden;float:left;">
+<a href="http://www.dlhs24.com.cn/a/xinwenzixun/jiaoyuqianyan/20140922/1989.html">创造力发展：被忽略的教师素养要素</a>
+</li>
+<li style="text-indent:0;height:20px;width:213px;line-height:20px;overflow:hidden;float:left;">
+<a href="http://www.dlhs24.com.cn/a/xinwenzixun/jiaoyuqianyan/20140708/1944.html">李希贵：与西方企业管理书的相遇</a>
+</li>
+<li style="text-indent:0;height:20px;width:213px;line-height:20px;overflow:hidden;float:left;">
+<a href="http://www.dlhs24.com.cn/a/xinwenzixun/jiaoyuqianyan/20140512/1853.html">扑面而来的第三次教育革命</a>
+</li>
+<li style="text-indent:0;height:20px;width:213px;line-height:20px;overflow:hidden;float:left;">
+<a href="http://www.dlhs24.com.cn/a/xinwenzixun/jiaoyuqianyan/20140311/1732.html">中考改革：来自世界的声音</a>
+</li>
+<li style="text-indent:0;height:20px;width:213px;line-height:20px;overflow:hidden;float:left;">
+<a href="http://www.dlhs24.com.cn/a/xinwenzixun/jiaoyuqianyan/20131212/1649.html">透过PISA能否解读中国教育</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+ r1 End
+
+
+<div style=" padding-bottom: 10px;">
+<a class="ad24" href="#"><img border="0" height="120" src="http://www.dlhs24.com.cn/uploads/130415/ad01.jpg" width="945"http://www.dlhs24.com.cn/></a>
+<a class="ad24" href="#"><img border="0" height="120" src="http://www.dlhs24.com.cn/uploads/130415/ad02.jpg" width="945"http://www.dlhs24.com.cn/></a>
+<a class="ad24" href="#"><img border="0" height="120" src="http://www.dlhs24.com.cn/uploads/130415/ad03.jpg" width="945"http://www.dlhs24.com.cn/></a>
+<a class="ad24" href="#"><img border="0" height="120" src="http://www.dlhs24.com.cn/uploads/130415/ad04.jpg" width="945"http://www.dlhs24.com.cn/></a>
+<a class="ad24" href="#"><img border="0" height="120" src="http://www.dlhs24.com.cn/uploads/130415/ad05.jpg" width="945"http://www.dlhs24.com.cn/></a>
+</div>
+
+
+<script>
+		//这里是广告播放器
+			var adtag=0;
+			$('.ad24').hide();
+			$('.ad24:eq(0)').show();	
+			var adlength=$('.ad24').length;
+			
+			setInterval(function(){
+						adtag++;
+						adtag=adtag%adlength;
+						$('.ad24').hide();
+						$('.ad24:eq('+adtag+')').show();
+			},4000);
+		</script>
+
+
+ r2 start 
+
+
+<div class="r2">
+<div class="news2">
+<div class="title"><span class="t_more"><a href="http://www.dlhs24.com.cn/a/xueshengtiandi/">more</a></span>  学生园地 </div>
+<ul class="n2list">
+<li><a href="http://www.dlhs24.com.cn/a/xueshengtiandi/xueshengshetuan/20140410/1780.html" title="大连市第二十四中学校园电视台&amp;官方在线视频互动区域"> ● <font color="#333333">大连市第二十四中学校园电视台&amp;官方在线视频互动区域</font></a><span>2015-11-19</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/xueshengtiandi/xueshenghuodong/20151204/2316.html" title="我校在第二个国家宪法日开展宪法学习活动"> ● 我校在第二个国家宪法日开展宪法学习活动</a><span>2015-12-04</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/xueshengtiandi/xueshenghuodong/20151203/2315.html" title="科学之美 异彩纷呈——“邂逅科学之美”系列活动之板报展"> ● 科学之美 异彩纷呈——“邂逅科学之美”系列活动之板报展</a><span>2015-12-03</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/xueshengtiandi/guoqixiajianghua/20151130/2314.html" title="『学子观点』呼唤和平"> ● 『学子观点』呼唤和平</a><span>2015-11-30</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/xueshengtiandi/xueshengshetuan/20151124/2310.html" title="『社团风采』心怀天下，传承模联情怀——我校成功举办24MUN2015模拟联合国大会"> ● 『社团风采』心怀天下，传承模联情怀——我校成功举办24MUN2015模拟联合国大会</a><span>2015-11-27</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/xueshengtiandi/xueshengshetuan/20151127/2312.html" title="我校连续第四届被评为“社团工作先进学校”"> ● 我校连续第四届被评为“社团工作先进学校”</a><span>2015-11-27</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/xueshengtiandi/xueshenghuodong/20151123/2308.html" title="『学子观点』感念于心，幸福成长"> ● 『学子观点』感念于心，幸福成长</a><span>2015-11-23</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/xueshengtiandi/xueshenghuodong/20151123/2307.html" title="华夏丝竹 民韵流芳——我校高一师生欣赏大型原创民族管弦乐组曲《辽南畅想》"> ● 华夏丝竹 民韵流芳——我校高一师生欣赏大型原创民族管弦乐组曲《辽南畅想》</a><span>2015-11-23</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/xueshengtiandi/guoqixiajianghua/20151116/2296.html" title="『学子观点』宽容为本，莫失莫忘"> ● 『学子观点』宽容为本，莫失莫忘</a><span>2015-11-16</span></li>
+</ul><br/>
+</div>
+<div class="news3">
+<div class="zhaosheng_frame">
+<div class="zhaosheng_title" id="zhongzhaonews">
+</div>
+<ul class="n3list" style="height:120px;">
+<li><a href="http://www.dlhs24.com.cn/a/zhaokaoxinxi/zhongzhaozixun/2015/0727/2230.html" title="大连市第二十四中学“新生领取录取通知书事宜”通知"> ● <font color="#333333">大连市第二十四中学“新生领取录取通知书事宜”通知</font></a><span>2015-07-27</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/zhaokaoxinxi/zhongzhaozixun/2015/0605/2195.html" title="二十四中2015初升高招生咨询接待时间安排"> ● <font color="#333333">二十四中2015初升高招生咨询接待时间安排</font></a><span>2015-06-05</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/zhaokaoxinxi/zhongzhaozixun/2015/0601/2188.html" title="2015年大连市第二十四中学招收体育特长生候选人名单"> ● 2015年大连市第二十四中学招收体育特长生候选人名单</a><span>2015-06-02</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/zhaokaoxinxi/zhongzhaozixun/2015/0601/2184.html" title="大连市第二十四中学2015年艺术特长生资格名单"> ● 大连市第二十四中学2015年艺术特长生资格名单</a><span>2015-06-01</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/zhaokaoxinxi/zhongzhaozixun/2015/0527/2179.html" title="大连市第二十四中学2015年艺术特长生考试时间"> ● <font color="#333333">大连市第二十四中学2015年艺术特长生考试时间</font></a><span>2015-05-27</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/zhaokaoxinxi/zhongzhaozixun/2015/0515/2160.html" title="大连市第二十四中学2015年体育特长生测试认定工作方案"> ● <font color="#333333">大连市第二十四中学2015年体育特长生测试认定工作方案</font></a><span>2015-05-15</span></li>
+</ul>
+<span class="t_spec_more">
+<a href="http://www.dlhs24.com.cn/a/zhaokaoxinxi/zhongzhaozixun/" style="color:#346399;">查看更多</a>
+</span>
+</div>
+<div class="zhaosheng_frame">
+<div class="zhaosheng_title" id="gaokaonews">
+</div>
+<ul class="n3list" style="height:120px;">
+<li><a href="http://www.dlhs24.com.cn/a/zhaokaoxinxi/gaokaozixun/2015/0724/2229.html" title="24中清华、北大录取人数辽宁第一（高考大数据三）"> ● 24中清华、北大录取人数辽宁第一（高考大数据三）</a><span>2015-07-24</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/zhaokaoxinxi/gaokaozixun/2015/0702/2215.html" title="大连市第二十四中学2015届高三学生升学大数据（二）"> ● 大连市第二十四中学2015届高三学生升学大数据（二）</a><span>2015-07-02</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/zhaokaoxinxi/gaokaozixun/2015/0627/2211.html" title="终于等到你，24中文科第一名确认为辽宁省状元！"> ● 终于等到你，24中文科第一名确认为辽宁省状元！</a><span>2015-06-27</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/zhaokaoxinxi/gaokaozixun/2015/0624/2207.html" title="大连文理状元花落我校 高考成绩再次领先大连"> ● <font color="#333333">大连文理状元花落我校 高考成绩再次领先大连</font></a><span>2015-06-24</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/zhaokaoxinxi/gaokaozixun/2015/0414/2110.html" title="高考新政汇总！这6大变化将影响你的命运"> ● 高考新政汇总！这6大变化将影响你的命运</a><span>2015-04-14</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/zhaokaoxinxi/gaokaozixun/2014/1114/2039.html" title="2015年辽宁省普通高等学校艺术类专业招生简章"> ● 2015年辽宁省普通高等学校艺术类专业招生简章</a><span>2014-11-14</span></li>
+</ul>
+<span class="t_spec_more">
+<a href="http://www.dlhs24.com.cn/a/zhaokaoxinxi/gaokaozixun/" style="color:#346399;">查看更多</a>
+</span>
+</div>
+</div>
+</div>
+
+
+ r2 End 
+
+
+<div class="r2">
+<div class="news2">
+<div class="title_teacher">
+<span class="t_teaspan1" style="float:left;">名师巡礼</span>
+<span class="t_teaspan1" style="float:left;">教师风采</span>
+</div>
+<div id="teach_frame">
+<div id="teachxl">
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/tejijiaoshi/2015/1007/2262.html">
+<img alt="政治特级教师-黄启成" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/151007/1-15100H31417-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">政治特级教师-黄启成</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/shuxuejiaoyanzu/20120718/730.html">
+<img alt="数学省、市骨干教师-庄杰" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQI227-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">数学省、市骨干教师-庄杰</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/waiyujiaoyanzu/20120718/776.html">
+<img alt="英语省、市骨干教师-张颖" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQPA6-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">英语省、市骨干教师-张颖</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/waiyujiaoyanzu/20120718/779.html">
+<img alt="英语省、市骨干教师-李丽" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQPI3-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">英语省、市骨干教师-李丽</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/yuwenjiaoyanzu/20120718/573.html">
+<img alt="语文省、市骨干教师-潘永久" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQ62430-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">语文省、市骨干教师-潘永久</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/wulijiaoyanzu/20120718/733.html">
+<img alt="物理特级教师-孟繁伟" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/140915/1-140915095520.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">物理特级教师-孟繁伟</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/yuwenjiaoyanzu/20120718/586.html">
+<img alt="语文特级教师-刘艳华" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQ62J7-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">语文特级教师-刘艳华</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/waiyujiaoyanzu/20120718/769.html">
+<img alt="英语特级教师-胡颖" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQP414-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">英语特级教师-胡颖</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/shuxuejiaoyanzu/20120718/720.html">
+<img alt="数学特级教师-卢荣华" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQH932-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">数学特级教师-卢荣华</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/shengwujiaoyanzu/20120718/817.html">
+<img alt="生物特级教师-张洪澜" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQU321-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">生物特级教师-张洪澜</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/wulijiaoyanzu/20120718/799.html">
+<img alt="物理国家级骨干教师-王延文" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQT253-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">物理国家级骨干教师-王延文</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/yuwenjiaoyanzu/20120718/577.html">
+<img alt="语文省、市骨干教师-刘定珊" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQ62528-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">语文省、市骨干教师-刘定珊</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/shuxuejiaoyanzu/20120718/714.html">
+<img alt="数学省、市骨干教师-张军" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQHP9-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">数学省、市骨干教师-张军</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/shuxuejiaoyanzu/20120718/698.html">
+<img alt="数学省、市骨干教师-张宁" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQH506-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">数学省、市骨干教师-张宁</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/wulijiaoyanzu/20120718/797.html">
+<img alt="物理省、市骨干教师-杨雨平" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQT207-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">物理省、市骨干教师-杨雨平</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/wulijiaoyanzu/20120718/788.html">
+<img alt="物理省、市骨干教师-佟魁星" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQRF4-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">物理省、市骨干教师-佟魁星</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/huaxuejiaoyanzu/20120718/808.html">
+<img alt="化学省、市骨干教师-刘艳" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQU047-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">化学省、市骨干教师-刘艳</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/tejijiaoshi/2015/0529/2181.html">
+<img alt="化学特级教师-崔殿宝" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/150529/1-15052Z95A4-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">化学特级教师-崔殿宝</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/tejijiaoshi/2015/1007/2262.html">
+<img alt="政治特级教师-黄启成" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/151007/1-15100H31417-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">政治特级教师-黄启成</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/shuxuejiaoyanzu/20120718/730.html">
+<img alt="数学省、市骨干教师-庄杰" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQI227-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">数学省、市骨干教师-庄杰</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/waiyujiaoyanzu/20120718/776.html">
+<img alt="英语省、市骨干教师-张颖" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQPA6-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">英语省、市骨干教师-张颖</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/waiyujiaoyanzu/20120718/779.html">
+<img alt="英语省、市骨干教师-李丽" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQPI3-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">英语省、市骨干教师-李丽</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/yuwenjiaoyanzu/20120718/573.html">
+<img alt="语文省、市骨干教师-潘永久" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQ62430-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">语文省、市骨干教师-潘永久</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/wulijiaoyanzu/20120718/733.html">
+<img alt="物理特级教师-孟繁伟" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/140915/1-140915095520.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">物理特级教师-孟繁伟</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/yuwenjiaoyanzu/20120718/586.html">
+<img alt="语文特级教师-刘艳华" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQ62J7-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">语文特级教师-刘艳华</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/waiyujiaoyanzu/20120718/769.html">
+<img alt="英语特级教师-胡颖" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQP414-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">英语特级教师-胡颖</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/shuxuejiaoyanzu/20120718/720.html">
+<img alt="数学特级教师-卢荣华" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQH932-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">数学特级教师-卢荣华</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/shengwujiaoyanzu/20120718/817.html">
+<img alt="生物特级教师-张洪澜" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQU321-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">生物特级教师-张洪澜</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/wulijiaoyanzu/20120718/799.html">
+<img alt="物理国家级骨干教师-王延文" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQT253-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">物理国家级骨干教师-王延文</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/yuwenjiaoyanzu/20120718/577.html">
+<img alt="语文省、市骨干教师-刘定珊" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQ62528-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">语文省、市骨干教师-刘定珊</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/shuxuejiaoyanzu/20120718/714.html">
+<img alt="数学省、市骨干教师-张军" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQHP9-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">数学省、市骨干教师-张军</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/shuxuejiaoyanzu/20120718/698.html">
+<img alt="数学省、市骨干教师-张宁" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQH506-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">数学省、市骨干教师-张宁</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/wulijiaoyanzu/20120718/797.html">
+<img alt="物理省、市骨干教师-杨雨平" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQT207-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">物理省、市骨干教师-杨雨平</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/wulijiaoyanzu/20120718/788.html">
+<img alt="物理省、市骨干教师-佟魁星" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQRF4-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">物理省、市骨干教师-佟魁星</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/huaxuejiaoyanzu/20120718/808.html">
+<img alt="化学省、市骨干教师-刘艳" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1-120GQU047-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">化学省、市骨干教师-刘艳</p>
+</li>
+<li style="margin:10px 5px;height:auto;float:left;width:169px;text-align:center;">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/tejijiaoshi/2015/0529/2181.html">
+<img alt="化学特级教师-崔殿宝" border="0" height="146" src="http://www.dlhs24.com.cn/uploads/allimg/150529/1-15052Z95A4-lp.jpg" width="120">
+</img></a>
+<p style="width:169px;height:16px;float:right;">化学特级教师-崔殿宝</p>
+</li>
+</div>
+<script>
+			  //名师巡礼动画
+			  var techtag=0;
+			  var techshowlength=$('#teachxl li').length/2;
+				$('#teachxl').width(techshowlength*2*179 + 110);
+				setInterval(function()
+				{
+							
+					techshow();
+				},3000);
+	
+				function techshow(){
+					if(techtag >= (techshowlength))
+					{
+						techtag=0;
+						$("#teachxl").css({left: "0"});
+					}
+
+
+						$("#teachxl").animate({left: "-=179"}, 1000  );
+					techtag++;
+				 }
+			  </script>
+<div id="teachfc">
+<a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/">
+<img height="180" src="http://www.dlhs24.com.cn/uploads/heying.jpg" width="358">
+</img></a>
+</div>
+</div>
+</div>
+<script>
+		$('.t_teaspan1:eq(0)').css('color','#0058ff');
+		
+		$('.t_teaspan1').mouseover(function(){
+		
+		var tindex=$(this).index();
+		
+		if( tindex == 0 )
+		{
+		$("#teachxl").show();
+		$("#teachfc").hide();
+		}
+		else{
+			$("#teachxl").hide();
+			$("#teachfc").show();
+		}
+
+		$('.t_teaspan1').css('color','#000000');
+		$(this).css('color','#0058ff');
+		
+		});
+		</script>
+<div class="news1">
+<div class="title"><span class="t_more"><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/">more</a></span>  教育教学 </div>
+<ul>
+<li><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xiaojijiaoliu/20140624/1929.html" title="欢迎关注大连市第二十四中学微信公众平台"> ● <font color="#FF0000">欢迎关注大连市第二十四中学微信公众平台</font></a><span>2015-11-19</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xiaojijiaoliu/20151205/2318.html" title="热烈祝贺我校彭喜治老师被评选为第三届大连市我最喜爱的青年教师！"> ● 热烈祝贺我校彭喜治老师被评选为第三届大连市我最喜爱的青年教师！</a><span>2015-12-05</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xiaojijiaoliu/20151122/2306.html" title="同课异构展精彩 南北互动促提升——我校与广州执信中学进行同课异构教学实践研讨活动"> ● 同课异构展精彩 南北互动促提升——我校与广州执信中学进行同课异构教学实践研讨活动</a><span>2015-11-22</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xuekejingsai/20151120/2303.html" title="那一年，我十八岁——教师在2016届高三成人仪式上的朗诵"> ● 那一年，我十八岁——教师在2016届高三成人仪式上的朗诵</a><span>2015-11-20</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xuekejingsai/20151120/2304.html" title="感恩•责任•担当——家长代表李仲华在大连市第24中学成人仪式上的发言"> ● 感恩•责任•担当——家长代表李仲华在大连市第24中学成人仪式上的发言</a><span>2015-11-20</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xuekejingsai/20151120/2305.html" title="学生在2016届高三成人仪式上的朗诵"> ● 学生在2016届高三成人仪式上的朗诵</a><span>2015-11-20</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xuekejingsai/20151120/2302.html" title="黄启成校长在2016届高三成人仪式上的讲话"> ● 黄启成校长在2016届高三成人仪式上的讲话</a><span>2015-11-20</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xuekejingsai/20151120/2300.html" title="2016届高三举行成人仪式"> ● 2016届高三举行成人仪式</a><span>2015-11-20</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xiaojijiaoliu/20151119/2299.html" title="我校黄启成校长参加中国优质高中教师专业发展联盟会"> ● 我校黄启成校长参加中国优质高中教师专业发展联盟会</a><span>2015-11-20</span></li>
+</ul>
+</div>
+<div class="notice">
+<div class="ntitle"><a href="http://www.dlhs24.com.cn/a/xinwenzixun/24zhongxiangce/20120614/16.html" target="_blank">  校园掠影</a>
+<a href="http://www.dlhs24.com.cn/a/xinwenzixun/24zhongxiangce/20140513/1856.html" target="_blank">学子风采</a>
+</div>
+<div class="smallslider pics" id="flashbox">
+<ul>
+<li><a href="http://www.dlhs24.com.cn/a/xinwenzixun/24zhongxiangce/20140429/1831.html" target="_blank"><img alt="悠久的历史" height="125" src="uploads/140429/123.jpg" width="220"http://www.dlhs24.com.cn/></a></li>
+<li><a href="http://www.dlhs24.com.cn/a/xinwenzixun/24zhongxiangce/20120614/16_5.html" target="_blank"><img alt="周恩来总理题词" height="125" src="http://www.dlhs24.com.cn/templets/default/images/index_pic_tab2.jpg" width="220"http://www.dlhs24.com.cn/></a></li>
+<li><a href="http://www.dlhs24.com.cn/a/xinwenzixun/24zhongxiangce/20120614/16_6.html" target="_blank"><img alt="硕果累累" height="125" src="http://www.dlhs24.com.cn/templets/default/images/index_pic_tab3.jpg" width="220"http://www.dlhs24.com.cn/></a></li>
+<li><a href="http://www.dlhs24.com.cn/a/xinwenzixun/24zhongxiangce/20120614/16_4.html" target="_blank"><img alt="美丽校园" height="125" src="http://www.dlhs24.com.cn/uploads/140429/220125.jpg" width="220"http://www.dlhs24.com.cn/></a></li>
+</ul>
+</div>
+</div>
+</div>
+ r2 End
+
+
+ r2 start 
+
+
+<div class="r2">
+<div class="news2">
+<div class="title"><span class="t_more"><a href="http://www.dlhs24.com.cn/a/keyanyuandi/">more</a></span>  课程科研</div>
+<ul class="n2list">
+<li><a href="http://www.dlhs24.com.cn/a/keyanyuandi/kechengjianshe/20151105/2287.html" title="2015-2016年度上学期校本选修课推介表"> ● 2015-2016年度上学期校本选修课推介表</a><span>2015-11-05</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/keyanyuandi/ketiyanjiu/20151022/2275.html" title="“国培计划”（2015）思想政治课培训在我校举行"> ● “国培计划”（2015）思想政治课培训在我校举行</a><span>2015-10-22</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/keyanyuandi/ketiyanjiu/20151020/2270.html" title="“文学经典阅读与拔尖创新人才培养”——语文组国家级课题“经典阅读与中学语文教学”开题"> ● “文学经典阅读与拔尖创新人才培养”——语文组国家级课题“经典阅读与中学语文教学”开题</a><span>2015-10-20</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/lunwenxuanbian/20151013/2266.html" title="捐书寄情——我校06届校友为母校捐赠著作"> ● 捐书寄情——我校06届校友为母校捐赠著作</a><span>2015-10-13</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/keyanyuandi/ketiyanjiu/20150929/2260.html" title="筑梦生涯，为自己出征——大连市第二十四中学生涯规划指导启动大会"> ● 筑梦生涯，为自己出征——大连市第二十四中学生涯规划指导启动大会</a><span>2015-09-29</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/keyanyuandi/ketiyanjiu/20150723/2225.html" title="语文组再次完成国家级课题并取得显著成绩"> ● 语文组再次完成国家级课题并取得显著成绩</a><span>2015-07-23</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/keyanyuandi/ketiyanjiu/20150722/2222.html" title="我校部分教师参加“普通高中学生发展指导”骨干教师培训"> ● 我校部分教师参加“普通高中学生发展指导”骨干教师培训</a><span>2015-07-22</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/keyanyuandi/keyanxinxi/20150706/2218.html" title="语文组完成国家级课题并获奖"> ● 语文组完成国家级课题并获奖</a><span>2015-07-07</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/keyanyuandi/xiaobaoxiaokan/20150618/2205.html" title="我校校报、校刊喜获多项全国金奖"> ● 我校校报、校刊喜获多项全国金奖</a><span>2015-06-20</span></li>
+</ul><br/>
+</div>
+<div class="news1">
+<div class="title"><span class="t_more"><a href="http://www.dlhs24.com.cn/a/guojibu/">more</a></span>  国际课程</div>
+<ul>
+<li><a href="http://www.dlhs24.com.cn/a/guojibu/zouxiangshijie/20151205/2317.html" title="通往未来的职业之路——记大连市第二十四中学国际部职业发展规划论坛"> ● 通往未来的职业之路——记大连市第二十四中学国际部职业发展规划论坛</a><span>2015-12-05</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/guojibu/zouxiangshijie/20151127/2313.html" title="收获的喜悦漫延在感恩的季节——国际部正式拉开录取大幕"> ● 收获的喜悦漫延在感恩的季节——国际部正式拉开录取大幕</a><span>2015-11-27</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/guojibu/zouxiangshijie/20151126/2311.html" title="千里之行始于足下——国际部召开小型家长会，学业升学两不误"> ● 千里之行始于足下——国际部召开小型家长会，学业升学两不误</a><span>2015-11-26</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/guojibu/zouxiangshijie/20151124/2309.html" title="我校吸引众多加拿大名校到访"> ● 我校吸引众多加拿大名校到访</a><span>2015-11-24</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/guojibu/zouxiangshijie/20151113/2295.html" title="2015年11月CIE全球统考顺利圆满结束 全美最具影响力的高中物理竞赛炫酷登录"> ● 2015年11月CIE全球统考顺利圆满结束 全美最具影响力的高中物理竞赛炫酷登录</a><span>2015-11-13</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/guojibu/zouxiangshijie/20151112/2294.html" title="英国布里斯托大学工程系博士来访大连市第二十四中学"> ● 英国布里斯托大学工程系博士来访大连市第二十四中学</a><span>2015-11-12</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/guojibu/zouxiangshijie/20151111/2293.html" title="大连市第二十四中学国际部2015-2016学年度上学期高一年级期中家长会顺利召开"> ● 大连市第二十四中学国际部2015-2016学年度上学期高一年级期中家长会顺利召开</a><span>2015-11-11</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/guojibu/zouxiangshijie/20151106/2290.html" title="美国田纳西大学博士导师走进大连市第二十四中学"> ● 美国田纳西大学博士导师走进大连市第二十四中学</a><span>2015-11-06</span></li>
+<li><a href="http://www.dlhs24.com.cn/a/guojibu/zouxiangshijie/20151029/2286.html" title="美国三名校联手招生讲座——走进大连市第二十四中学"> ● 美国三名校联手招生讲座——走进大连市第二十四中学</a><span>2015-10-29</span></li>
+</ul>
+</div>
+<div class="notice">
+<div class="ntitle"><span class="t_more"><a href="http://www.dlhs24.com.cn/a/keyanyuandi/xiaobaoxiaokan/">more</a></span>  校报校刊</div>
+<div class="ncontent">
+<ul style="margin-top:7px;_margin-top:4px;">
+<li style="text-indent:0;height:20px;width:213px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;float:left;">
+<a href="http://www.dlhs24.com.cn/uploads/soft/130327/24xiaobaogaosan.zip">大连市第二十四中学高三特刊</a>
+</li><li style="text-indent:0;height:20px;width:213px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;float:left;">
+<a href="http://www.dlhs24.com.cn/uploads/soft/130327/24xiaobao15.zip">大连市第二十四中学校报15</a>
+</li><li style="text-indent:0;height:20px;width:213px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;float:left;">
+<a href="http://www.dlhs24.com.cn/uploads/soft/130327/24xiaobao14.zip">大连市第二十四中学校报14</a>
+</li><li style="text-indent:0;height:20px;width:213px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;float:left;">
+<a href="http://www.dlhs24.com.cn/uploads/soft/130327/24xiaobao13.zip">大连市第二十四中学校报13</a>
+</li><li style="text-indent:0;height:20px;width:213px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;float:left;">
+<a href="http://www.dlhs24.com.cn/uploads/soft/130327/24xiaobao12.zip">大连市第二十四中学校报12</a>
+</li><li style="text-indent:0;height:20px;width:213px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;float:left;">
+<a href="http://www.dlhs24.com.cn/uploads/soft/130327/24xiaobao10.zip">大连市第二十四中学校报10</a>
+</li><li style="text-indent:0;height:20px;width:213px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;float:left;">
+<a href="http://www.dlhs24.com.cn/uploads/soft/130327/24xiaobao8.zip">大连市第二十四中学校报8</a>
+</li><li style="text-indent:0;height:20px;width:213px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;float:left;">
+<a href="http://www.dlhs24.com.cn/uploads/soft/130327/24xiaobao7.zip">大连市第二十四中学校报7</a>
+</li><li style="text-indent:0;height:20px;width:213px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;float:left;">
+<a href="http://www.dlhs24.com.cn/uploads/soft/130327/24xiaobao6.zip">大连市第二十四中学校报6</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+ r2 End 
+
+

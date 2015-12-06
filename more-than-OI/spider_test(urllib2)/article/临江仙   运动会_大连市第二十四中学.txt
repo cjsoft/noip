@@ -1,0 +1,23 @@
+临江仙   运动会
+
+
+
+<table width="100%">
+<tr>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+<p>
+	 </p>
+<p align="center">
+<font size="3"><font color="#000000">场上风云频易色，鏖战驱尽秋凉。豪杰无惧展锋芒。心声如震鼓，鬓侧抹菊霜。<br/>
+	看客喜闻捷报传，欢呼浪浪激扬。彩旗肆意舞韶光。烦忧尽无影，醉享青春狂！</font></font></p>
+<p>
+	 </p>
+<p>
+<font size="3"> </font></p>
+<p align="right">
+<font size="3"><font color="#000000" size="2">张晓语</font></font></p>
+</td>
+</tr>
+</table>
+
+
