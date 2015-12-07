@@ -119,13 +119,12 @@ postdata = urlencode(values)
 # print cookie
 # login
 req = urllib2.Request(url, postdata, headers)
-resp = opener.open(req)
+# resp = opener.open(req)
 locate('http://codevs.cn/accounts/')
 a=locate('http://account.codevs.com/user/token/?next=http://codevs.cn/accounts/token/login/').read()
 # print a
 # resp = opener.open('http://codevs.cn/accounts/')
 # resp = opener.open('http://account.codevs.com/user/token/?next=http://codevs.cn/accounts/token/login/')
-f= open('adsf.txt', 'w')
 # f.write(a)
 # csrf(a)
 # print cookie
@@ -146,7 +145,7 @@ def fetch(link, path, codeid):
         n1 = soup.find('h3', class_='m-t m-b-sm', style='display:inline-block').get_text() # class="m-t m-b-sm" style="display:inline-block"
         # print r6.findall(resp)[0],r7.findall(resp)[0],r5.findall(resp)[0]
         f.write('#%s  \n'%n1)
-        f.write('### 时间限制： %s s     空间限制： %s KB     题目等级： %s  \n'%(
+        f.write('### 时间限制： %s s&nbsp;&nbsp;&nbsp;&nbsp;空间限制： %s KB&nbsp;&nbsp;&nbsp;&nbsp;题目等级： %s  \n'%(
             r6.findall(resp)[0],
             r7.findall(resp)[0],
             r5.findall(resp)[0]
@@ -157,8 +156,8 @@ def fetch(link, path, codeid):
         f.write('## 题目描述：  \n\n<pre>%s</pre>\n  \n  \n'%pinfo[0].find('div',class_='panel-body').get_text().replace('fnadjsihfinadsiufhasdubfueabfuwebeu','  \n'))
         f.write('## 输入描述：  \n\n<pre>%s</pre>\n  \n  \n'%pinfo[1].find('div',class_='panel-body').get_text().replace('fnadjsihfinadsiufhasdubfueabfuwebeu','  \n'))
         f.write('## 输出描述：  \n\n<pre>%s</pre>\n  \n  \n'%pinfo[2].find('div',class_='panel-body').get_text().replace('fnadjsihfinadsiufhasdubfueabfuwebeu','  \n'))
-        f.write('## 样例输入：  \n\n<pre><code>%s</code></pre>\n  \n  \n'%pinfo[3].find('div',class_='panel-body').get_text().replace('fnadjsihfinadsiufhasdubfueabfuwebeu','  \n'))
-        f.write('## 输出输出：  \n\n<pre><code>%s</code></pre>\n  \n  \n'%pinfo[4].find('div',class_='panel-body').get_text().replace('fnadjsihfinadsiufhasdubfueabfuwebeu','  \n'))
+        f.write('## 样例输入：  \n\n<pre>%s</pre>\n  \n  \n'%pinfo[3].find('div',class_='panel-body').get_text().replace('fnadjsihfinadsiufhasdubfueabfuwebeu','  \n'))
+        f.write('## 样例输出：  \n\n<pre>%s</pre>\n  \n  \n'%pinfo[4].find('div',class_='panel-body').get_text().replace('fnadjsihfinadsiufhasdubfueabfuwebeu','  \n'))
         f.write('## 数据范围及提示：  \n\n<pre>%s</pre>\n  \n  \n'%pinfo[5].find('div',class_='panel-body').get_text().replace('fnadjsihfinadsiufhasdubfueabfuwebeu','  \n'))
         f.write('***  \n\n##### AC: %s  \n'%r4['AC'].findall(resp)[0])
         f.write('##### WA: %s  \n'%r4['WA'].findall(resp)[0])
@@ -193,4 +192,3 @@ for codeid in xrange(1000, 5000):
         os.makedirs(r'problems\\')
     fetch(DMN + r'/problem/' + str(codeid) + '/', 'problems\\', str(codeid))
     print 'fetched', str(codeid)
-f.close()
