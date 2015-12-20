@@ -1,0 +1,15 @@
+package spoj_wtf_test;
+import java.lang.*;
+import java.io.*;
+import java.util.*;
+class solution {
+	ArrayList<Integer> prime;
+}
+public class spoj_prime {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

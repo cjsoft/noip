@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;spoj_prime.java&apos; to &apos;spoj_prime&apos;&#x0D;&#x0A;- Original project: &apos;spoj_wtf_test&apos;&#x0D;&#x0A;- Destination element: &apos;spoj_prime&apos;&#x0D;&#x0A;- Original element: &apos;spoj_wtf_test.spoj_prime.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=spoj_prime" element1="/src&lt;spoj_wtf_test{spoj_prime.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1450607547832" units="1" version="1.0"/>
+</session>

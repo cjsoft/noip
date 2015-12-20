@@ -1,0 +1,311 @@
+!SESSION 2015-12-20 17:26:03.156 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Users\egwcy\git-repos\noip\OI-related\eclipse -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.update.configurator 4 0 2015-12-20 17:26:04.089
+!MESSAGE Unable to access file "plugins/org.eclipse.cdt.debug.application.doc_1.1.0.201509131935.jar!META-INF/MANIFEST.MF".
+
+!ENTRY org.eclipse.update.configurator 4 0 2015-12-20 17:26:04.089
+!MESSAGE Unable to access file "plugins/org.eclipse.cdt.doc.user_5.4.0.201509131935.jar!META-INF/MANIFEST.MF".
+
+!ENTRY org.eclipse.update.configurator 4 0 2015-12-20 17:26:04.111
+!MESSAGE Unable to access file "plugins/org.eclipse.cdt.ui_5.11.0.201509131935.jar!META-INF/MANIFEST.MF".
+
+!ENTRY org.eclipse.update.configurator 4 0 2015-12-20 17:26:04.227
+!MESSAGE Unable to access file "plugins/org.eclipse.linuxtools.cdt.libhover.glibc_1.2.0.201509161915.jar!META-INF/MANIFEST.MF".
+
+!ENTRY org.eclipse.equinox.p2.reconciler.dropins 4 0 2015-12-20 17:26:05.075
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Exception in org.eclipse.equinox.internal.p2.reconciler.dropins.Activator.start() of bundle org.eclipse.equinox.p2.reconciler.dropins.
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:792)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:721)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:941)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:318)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:571)
+	at org.eclipse.osgi.container.Module.start(Module.java:439)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1582)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1562)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1533)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1476)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.getFeatures(SiteListener.java:299)
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.getManagedFiles(SiteListener.java:272)
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.isInterested(SiteListener.java:141)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.isInterested(DirectoryWatcher.java:176)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.scanDirectories(DirectoryWatcher.java:159)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.poll(DirectoryWatcher.java:108)
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.synchronizeRepositories(SiteListener.java:111)
+	at org.eclipse.equinox.internal.p2.extensionlocation.ExtensionLocationArtifactRepository.ensureInitialized(ExtensionLocationArtifactRepository.java:66)
+	at org.eclipse.equinox.internal.p2.extensionlocation.ExtensionLocationArtifactRepository.getProperties(ExtensionLocationArtifactRepository.java:259)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:129)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:674)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:104)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:100)
+	at org.eclipse.equinox.internal.p2.touchpoint.eclipse.Util.getRunnableRepositories(Util.java:156)
+	at org.eclipse.equinox.internal.p2.touchpoint.eclipse.Util.getAggregatedBundleRepository(Util.java:148)
+	at org.eclipse.equinox.internal.p2.extensionlocation.Activator.getBundlePoolRepository(Activator.java:88)
+	at org.eclipse.equinox.internal.p2.extensionlocation.BundlePoolFilteredListener.<init>(BundlePoolFilteredListener.java:29)
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.synchronizeRepositories(SiteListener.java:109)
+	at org.eclipse.equinox.internal.p2.extensionlocation.ExtensionLocationMetadataRepository.ensureInitialized(ExtensionLocationMetadataRepository.java:65)
+	at org.eclipse.equinox.internal.p2.extensionlocation.ExtensionLocationMetadataRepository.getProperties(ExtensionLocationMetadataRepository.java:193)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:129)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:674)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.Activator.loadMetadataRepository(Activator.java:100)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.PlatformXmlListener.synchronizeConfiguration(PlatformXmlListener.java:226)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.PlatformXmlListener.stopPoll(PlatformXmlListener.java:132)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.stopPoll(DirectoryWatcher.java:171)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.poll(DirectoryWatcher.java:109)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.Activator.watchConfiguration(Activator.java:519)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.Activator.start(Activator.java:175)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:771)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:764)
+	... 12 more
+Root exception:
+java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.getFeatures(SiteListener.java:299)
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.getManagedFiles(SiteListener.java:272)
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.isInterested(SiteListener.java:141)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.isInterested(DirectoryWatcher.java:176)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.scanDirectories(DirectoryWatcher.java:159)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.poll(DirectoryWatcher.java:108)
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.synchronizeRepositories(SiteListener.java:111)
+	at org.eclipse.equinox.internal.p2.extensionlocation.ExtensionLocationArtifactRepository.ensureInitialized(ExtensionLocationArtifactRepository.java:66)
+	at org.eclipse.equinox.internal.p2.extensionlocation.ExtensionLocationArtifactRepository.getProperties(ExtensionLocationArtifactRepository.java:259)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:129)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:674)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:104)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:100)
+	at org.eclipse.equinox.internal.p2.touchpoint.eclipse.Util.getRunnableRepositories(Util.java:156)
+	at org.eclipse.equinox.internal.p2.touchpoint.eclipse.Util.getAggregatedBundleRepository(Util.java:148)
+	at org.eclipse.equinox.internal.p2.extensionlocation.Activator.getBundlePoolRepository(Activator.java:88)
+	at org.eclipse.equinox.internal.p2.extensionlocation.BundlePoolFilteredListener.<init>(BundlePoolFilteredListener.java:29)
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.synchronizeRepositories(SiteListener.java:109)
+	at org.eclipse.equinox.internal.p2.extensionlocation.ExtensionLocationMetadataRepository.ensureInitialized(ExtensionLocationMetadataRepository.java:65)
+	at org.eclipse.equinox.internal.p2.extensionlocation.ExtensionLocationMetadataRepository.getProperties(ExtensionLocationMetadataRepository.java:193)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:129)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:674)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.Activator.loadMetadataRepository(Activator.java:100)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.PlatformXmlListener.synchronizeConfiguration(PlatformXmlListener.java:226)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.PlatformXmlListener.stopPoll(PlatformXmlListener.java:132)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.stopPoll(DirectoryWatcher.java:171)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.poll(DirectoryWatcher.java:109)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.Activator.watchConfiguration(Activator.java:519)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.Activator.start(Activator.java:175)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:771)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:764)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:721)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:941)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:318)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:571)
+	at org.eclipse.osgi.container.Module.start(Module.java:439)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1582)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1562)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1533)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1476)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-12-20 17:26:10.323
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\egwcy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.engine 4 4 2015-12-20 17:30:06.483
+!MESSAGE An error occurred while committing the engine session for profile: C__Users_egwcy_eclipse_java-mars_eclipse.
+!SUBENTRY 1 org.eclipse.equinox.p2.engine 4 0 2015-12-20 17:30:06.483
+!MESSAGE An error occurred while undoing the org.eclipse.equinox.internal.p2.engine.phases.Sizing phase.
+!STACK 0
+org.eclipse.core.runtime.OperationCanceledException
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.updateCache(CacheManager.java:427)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCacheFromFile(CacheManager.java:132)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.XZedSimpleArtifactRepositoryFactory.getLocalFile(XZedSimpleArtifactRepositoryFactory.java:60)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.XZedSimpleArtifactRepositoryFactory.load(XZedSimpleArtifactRepositoryFactory.java:82)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.XZedSimpleArtifactRepositoryFactory.load(XZedSimpleArtifactRepositoryFactory.java:37)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:73)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor51.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:116)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:337)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:144)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:449)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:104)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:100)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:474)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:172)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:96)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:116)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:73)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor51.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:116)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:337)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:144)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:449)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:104)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:100)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:160)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:143)
+	at org.eclipse.equinox.internal.p2.engine.phases.Sizing.completePhase(Sizing.java:91)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:251)
+	at org.eclipse.equinox.internal.p2.engine.EngineSession.rollBackPhase(EngineSession.java:250)
+	at org.eclipse.equinox.internal.p2.engine.EngineSession.rollback(EngineSession.java:156)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:84)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:44)
+	at org.eclipse.equinox.internal.p2.ui.ProvUI.getSize(ProvUI.java:236)
+	at org.eclipse.equinox.internal.p2.ui.dialogs.SizeComputingWizardPage$1.run(SizeComputingWizardPage.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SESSION 2015-12-20 17:30:35.660 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data file:/C:/Users/egwcy/git-repos/noip/OI-related/eclipse/ -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.equinox.p2.reconciler.dropins 4 0 2015-12-20 17:30:38.055
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Exception in org.eclipse.equinox.internal.p2.reconciler.dropins.Activator.start() of bundle org.eclipse.equinox.p2.reconciler.dropins.
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:792)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:721)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:941)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:318)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:571)
+	at org.eclipse.osgi.container.Module.start(Module.java:439)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1582)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1562)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1533)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1476)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.getFeatures(SiteListener.java:299)
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.getManagedFiles(SiteListener.java:272)
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.isInterested(SiteListener.java:141)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.isInterested(DirectoryWatcher.java:176)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.scanDirectories(DirectoryWatcher.java:159)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.poll(DirectoryWatcher.java:108)
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.synchronizeRepositories(SiteListener.java:111)
+	at org.eclipse.equinox.internal.p2.extensionlocation.ExtensionLocationArtifactRepository.ensureInitialized(ExtensionLocationArtifactRepository.java:66)
+	at org.eclipse.equinox.internal.p2.extensionlocation.ExtensionLocationArtifactRepository.getProperties(ExtensionLocationArtifactRepository.java:259)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:129)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:674)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:104)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:100)
+	at org.eclipse.equinox.internal.p2.touchpoint.eclipse.Util.getRunnableRepositories(Util.java:156)
+	at org.eclipse.equinox.internal.p2.touchpoint.eclipse.Util.getAggregatedBundleRepository(Util.java:148)
+	at org.eclipse.equinox.internal.p2.extensionlocation.Activator.getBundlePoolRepository(Activator.java:88)
+	at org.eclipse.equinox.internal.p2.extensionlocation.BundlePoolFilteredListener.<init>(BundlePoolFilteredListener.java:29)
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.synchronizeRepositories(SiteListener.java:109)
+	at org.eclipse.equinox.internal.p2.extensionlocation.ExtensionLocationMetadataRepository.ensureInitialized(ExtensionLocationMetadataRepository.java:65)
+	at org.eclipse.equinox.internal.p2.extensionlocation.ExtensionLocationMetadataRepository.getProperties(ExtensionLocationMetadataRepository.java:193)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:129)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:674)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.Activator.loadMetadataRepository(Activator.java:100)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.PlatformXmlListener.synchronizeConfiguration(PlatformXmlListener.java:226)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.PlatformXmlListener.stopPoll(PlatformXmlListener.java:132)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.stopPoll(DirectoryWatcher.java:171)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.poll(DirectoryWatcher.java:109)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.Activator.watchConfiguration(Activator.java:519)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.Activator.start(Activator.java:175)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:771)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:764)
+	... 12 more
+Root exception:
+java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.getFeatures(SiteListener.java:299)
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.getManagedFiles(SiteListener.java:272)
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.isInterested(SiteListener.java:141)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.isInterested(DirectoryWatcher.java:176)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.scanDirectories(DirectoryWatcher.java:159)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.poll(DirectoryWatcher.java:108)
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.synchronizeRepositories(SiteListener.java:111)
+	at org.eclipse.equinox.internal.p2.extensionlocation.ExtensionLocationArtifactRepository.ensureInitialized(ExtensionLocationArtifactRepository.java:66)
+	at org.eclipse.equinox.internal.p2.extensionlocation.ExtensionLocationArtifactRepository.getProperties(ExtensionLocationArtifactRepository.java:259)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:129)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:674)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:104)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:100)
+	at org.eclipse.equinox.internal.p2.touchpoint.eclipse.Util.getRunnableRepositories(Util.java:156)
+	at org.eclipse.equinox.internal.p2.touchpoint.eclipse.Util.getAggregatedBundleRepository(Util.java:148)
+	at org.eclipse.equinox.internal.p2.extensionlocation.Activator.getBundlePoolRepository(Activator.java:88)
+	at org.eclipse.equinox.internal.p2.extensionlocation.BundlePoolFilteredListener.<init>(BundlePoolFilteredListener.java:29)
+	at org.eclipse.equinox.internal.p2.extensionlocation.SiteListener.synchronizeRepositories(SiteListener.java:109)
+	at org.eclipse.equinox.internal.p2.extensionlocation.ExtensionLocationMetadataRepository.ensureInitialized(ExtensionLocationMetadataRepository.java:65)
+	at org.eclipse.equinox.internal.p2.extensionlocation.ExtensionLocationMetadataRepository.getProperties(ExtensionLocationMetadataRepository.java:193)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:129)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:674)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.Activator.loadMetadataRepository(Activator.java:100)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.PlatformXmlListener.synchronizeConfiguration(PlatformXmlListener.java:226)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.PlatformXmlListener.stopPoll(PlatformXmlListener.java:132)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.stopPoll(DirectoryWatcher.java:171)
+	at org.eclipse.equinox.internal.provisional.p2.directorywatcher.DirectoryWatcher.poll(DirectoryWatcher.java:109)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.Activator.watchConfiguration(Activator.java:519)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.Activator.start(Activator.java:175)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:771)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:764)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:721)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:941)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:318)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:571)
+	at org.eclipse.osgi.container.Module.start(Module.java:439)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1582)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1562)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1533)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1476)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-12-20 17:30:42.438
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\egwcy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-12-20 17:57:09.143 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-12-20 17:57:16.802
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\egwcy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
