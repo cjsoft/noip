@@ -1,0 +1,25 @@
+import java.io.PrintStream;
+import java.util.Scanner;
+
+public class cf609b {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		(new solution(new Scanner(System.in), System.out)).solve();
+	}
+
+}
+
+class solution {
+	Scanner cin;
+	PrintStream cout;
+	solution(Scanner a, PrintStream b) {
+		cin = a;
+		cout = b;
+	}
+	public void solve() {
+		int n, m;
+		n = cin.nextInt();
+		m = cin.nextInt();
+	}
+}
