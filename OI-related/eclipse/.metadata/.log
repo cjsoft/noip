@@ -453,3 +453,17 @@ java.io.IOException: 另一个程序已锁定文件的一部分，进程无法�
 	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:187)
 	at org.eclipse.egit.ui.internal.staging.StagingView$42.run(StagingView.java:2123)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SESSION 2015-12-22 16:13:29.589 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-12-22 16:13:38.785
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\egwcy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
