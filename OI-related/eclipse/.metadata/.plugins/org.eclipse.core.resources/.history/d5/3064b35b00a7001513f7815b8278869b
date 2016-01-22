@@ -1,8 +1,0 @@
-package spoj_wtf_test;
-
-
-public class spoj_wtf_test { }
-	public static void main(String []args) throw Exception {
-		
-	}
-}
