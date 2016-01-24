@@ -72,6 +72,7 @@ headers = {
 }
 resp = opener.open('http://account.codevs.com/user/login/')
 # print resp.headers
+s = ''
 for j in cookie:
     s = j.value
 
@@ -121,7 +122,8 @@ postdata = urlencode(values)
 req = urllib2.Request(url, postdata, headers)
 # resp = opener.open(req)
 locate('http://codevs.cn/accounts/')
-a=locate('http://account.codevs.com/user/token/?next=http://codevs.cn/accounts/token/login/').read()
+a=locate('http://account.codevs.com/user/token/?next=http://codevs.cn/accounts/token/login/')
+# print a
 # print a
 # resp = opener.open('http://codevs.cn/accounts/')
 # resp = opener.open('http://account.codevs.com/user/token/?next=http://codevs.cn/accounts/token/login/')
