@@ -168,7 +168,7 @@ public:
                     rotate(x, LEFT);
                 }
             }
-            update(x);
+            // update(x);
         }
     }
 
