@@ -6,13 +6,13 @@ const int MXN = 100007;
 const int MXM = 50007;
 const int LEFT = 0, RIGHT = 1;
 const int INF = 0x7fffffff;
-struct TreeNode {
+struct Node {
     int value, size;
-    TreeNode *parent, *child[2];
+    Node *parent, *child[2];
 } buffer[MXN], _nil;
 
 struct SplayTree {
-    TreeNode *root, *nil;
+    Node *root, *nil;
     int NodeNumber;
     SplayTree() {
         nil = &_nil;
@@ -32,7 +32,7 @@ struct SplayTree {
             root = newNode(nil, value);
             return;
         }
-        TreeNode *x = root;
+        Node *x = root;
         int dir;
         while (1) {
             dir = x->value < value;
@@ -58,20 +58,20 @@ struct SplayTree {
         find (k + 1, nil);
         return root->value;
     }
-    inline TreeNode *newNode(TreeNode *parent, int value) {
+    inline Node *newNode(Node *parent, int value) {
         buffer[NodeNumber].value = value;
         buffer[NodeNumber].size = 1;
         buffer[NodeNumber].parent = parent;
         buffer[NodeNumber].child[LEFT] = buffer[NodeNumber].child[RIGHT] = nil;
         return &buffer[NodeNumber++];
     }
-    inline void update(TreeNode *x) {
+    inline void update(Node *x) {
         if (x == nil) return;
         x->size = x->child[LEFT]->size + x->child[RIGHT]->size + 1;
     }
-    inline void rotate(TreeNode *x, int dir) {
+    inline void rotate(Node *x, int dir) {
         if (x == nil) return;
-        TreeNode *p = x->parent;
+        Node *p = x->parent;
         p->child[!dir] = x->child[dir];
         p->child[!dir]->parent = p;
         x->child[dir] = p;
@@ -89,7 +89,7 @@ struct SplayTree {
         }
     }
 
-    inline void splay(TreeNode *x, TreeNode *y) {
+    inline void splay(Node *x, Node *y) {
         while (x->parent != y) {
             if (x->parent->parent == y) {
                 rotate(x, x->parent->child[LEFT] == x);
@@ -110,8 +110,8 @@ struct SplayTree {
             }
         }
     }
-    inline void find(int k, TreeNode *y) {
-        TreeNode *x = root;
+    inline void find(int k, Node *y) {
+        Node *x = root;
         while (k != x->child[LEFT]->size + 1) {
             if (k <= x->child[LEFT]->size) {
                 x = x->child[LEFT];
@@ -123,7 +123,7 @@ struct SplayTree {
         splay(x, y);
     }
     inline int find(int value) {
-        TreeNode *x = root;
+        Node *x = root;
         int count = 0;
         while (1) {
             if (x->value == value) {
