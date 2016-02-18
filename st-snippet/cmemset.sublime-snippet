@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+memset(${1:array}, ${2:0}, sizeof(${1:array}));
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mem</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>
