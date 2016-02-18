@@ -10,12 +10,12 @@ using namespace std;
 
 const int LEFT = 0;
 const int RIGHT = 1;
-const int MXN = 100007;
-const int MXM = 50007;
+const int MXN = 10000007;
 const int INF = 0x7fffffff;
+
 struct splaytree {
     struct node {
-        int key, size;
+        int key, size, value;
         node *parent, *child[2];
     } *nil, _nil, *root, buffer[MXN], *cur;
     splaytree() {
@@ -32,9 +32,10 @@ struct splaytree {
         printf("  - %d\n", x->key);
         print(x->child[RIGHT]);
     }
-    inline node *newnode(int key, node *parent) {
+    inline node *newnode(int key, int value, node *parent) {
         cur->parent = parent;
         cur->key = key;
+        cur->value = value;
         cur->size = 1;
         cur->child[LEFT] = cur->child[RIGHT] = nil;
         return cur++;
@@ -101,7 +102,7 @@ struct splaytree {
     inline int find(int key) {
         node *x = root;
         int count = 0;
-        while (key != x->key) {
+        while (key != x->key && x != nil) {
             if (key < x->key) {
                 x = x->child[LEFT];
             } else {
@@ -109,12 +110,13 @@ struct splaytree {
                 x = x->child[RIGHT];
             }
         }
+        if (x == nil) return 0;
         return count + x->child[LEFT]->size + 1;
     }
 
-    inline void insert(int key) {
+    inline void insert(int key, int value) {
         if (root == nil) {
-            root = newnode(key, nil);
+            root = newnode(key, value, nil);
             return;
         }
         node *x = root;
@@ -123,30 +125,43 @@ struct splaytree {
             x = x->child[dir];
             dir = key > x->key;
         }
-        x->child[dir] = newnode(key, x);
+        x->child[dir] = newnode(key, value, x);
         update(x);
         splay(x->child[dir], nil);
     }
     inline void clear() {
         cur = buffer;
         root = nil;
-        insert(INF);
-        insert(-INF);
+        insert(INF, 0);
+        insert(-INF, 0);
     }
-    inline int getKth(int k) {
-        swim(k + 1, nil);
-        return root->key;
+    inline int query(int key) {
+        int a = find(key);
+        if (a) 
+            swim(a, nil);
+        else
+            return -INF;
+        return root->value;
     }
+
 } spt;
 struct testcase {
     void read_data() {
         
     }
     void start_the_test1() {
-        
+        int a, b;
+        for (int i = 0; i < 1000000; ++i) {
+            scanf("%d %d", &a, &b);
+            spt.insert(a, b);
+        }
     }
     void start_the_test2() {
-        
+        int a;
+        for (int i = 0; i < 1000000 / 3; ++i) {
+            scanf("%d", &a);
+            spt.query(a);
+        }
     }
     clock_t run1() {
         start_the_test1();
@@ -161,6 +176,7 @@ struct testcase {
 using namespace std;
 
 int main() {
+    spt.clear();
     freopen("test.in", "r", stdin);
     FILE *f = fopen("result1.txt", "w");
     tc.read_data();
