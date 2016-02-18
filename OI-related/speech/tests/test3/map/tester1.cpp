@@ -10,7 +10,7 @@ using namespace std;
 
 const int LEFT = 0;
 const int RIGHT = 1;
-const int MXN = 10000007;
+const int MXN = 1000007;
 const int INF = 0x7fffffff;
 
 struct splaytree {

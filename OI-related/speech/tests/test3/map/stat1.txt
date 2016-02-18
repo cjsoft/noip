@@ -1,25 +1,25 @@
 Name:	a.out
 State:	R (running)
-Tgid:	3027
+Tgid:	3149
 Ngid:	0
-Pid:	3027
-PPid:	2932
+Pid:	3149
+PPid:	3121
 TracerPid:	0
 Uid:	1000	1000	1000	1000
 Gid:	1000	1000	1000	1000
 FDSize:	256
 Groups:	4 24 27 30 46 108 124 1000 
-VmPeak:	  394968 kB
-VmSize:	  394964 kB
+VmPeak:	   43404 kB
+VmSize:	   43400 kB
 VmLck:	       0 kB
 VmPin:	       0 kB
-VmHWM:	   42304 kB
-VmRSS:	   42304 kB
-VmData:	  390824 kB
+VmHWM:	   40412 kB
+VmRSS:	   40412 kB
+VmData:	   39260 kB
 VmStk:	     136 kB
 VmExe:	       8 kB
 VmLib:	    1912 kB
-VmPTE:	     112 kB
+VmPTE:	     104 kB
 VmSwap:	       0 kB
 Threads:	1
 SigQ:	0/15725
@@ -38,4 +38,4 @@ Cpus_allowed_list:	0-3
 Mems_allowed:	00000000,00000001
 Mems_allowed_list:	0
 voluntary_ctxt_switches:	0
-nonvoluntary_ctxt_switches:	89
+nonvoluntary_ctxt_switches:	95
