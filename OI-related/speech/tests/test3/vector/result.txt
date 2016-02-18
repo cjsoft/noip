@@ -1,0 +1,6 @@
+init with clock at 866
+adding used 1.439846
+normally iterating used 2.136002
+better iterating used 1.389050
+using[] used 0.688580
+using array used 0.294152
