@@ -1,0 +1,13 @@
+TEST1   使用new和delete的常数开销与Buffer开销的对比
+TEST2   使用指针跳转和数组跳转的常数对比
+        Buffer+指针
+        new+指针
+TEST3   常用基础数据结构STL和手写版常数对比
+        stack
+        queue
+        priority_queue(vector)
+        vector
+TEST4   手写垃圾回收的时间测定
+TEST5   STL string和char string的对比
+TEST6   fill函数、memset函数、传统for赋值的对比
+TEST7   linux下的对拍
