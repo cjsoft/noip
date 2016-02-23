@@ -42,6 +42,10 @@ struct splaytree {
         if (x == nil) return;
         x->size = x->child[LEFT]->size + x->child[RIGHT]->size + 1;
     }
+    inline int f(node *x) {
+        if (root == x || x == nil) return -1;
+        return isrson(x); 
+    }
     inline void rotate(node *x, int dir) {
         if (x->parent == nil) return;
         node *p = x->parent;
@@ -59,32 +63,52 @@ struct splaytree {
         update(x);
         if (root == p) root = x;
     }
+    inline void rotate(node *x) {
+        node *p = x->parent, *z = x->parent->parent;
+        int k = f(x), fz = f(p);
+        if (fz >= 0) z->child[fz] = x;
+        else root = x;
+        p->child[k] = x->child[!k];
+        x->child[!k] = p;
+        p->child[k]->parent = p;
+        x->child[!k]->parent = x;
+        x->parent = z;
+        update(p);
+        update(x);
+    }
     inline void splay(node *x, node *y) {
-        if (x->parent == nil) return;
-        while (x->parent != y) {
-            if (x->parent->parent == y) {
-                rotate(x, islson(x));
-            } else {
-                if (islson(x)) {
-                    if (islson(x->parent)) {
-                        rotate(x->parent, RIGHT);
-                        rotate(x, RIGHT);
-                    } else {
-                        rotate(x, RIGHT);
-                        rotate(x, LEFT);
-                    }
-                } else {
-                    if (islson(x->parent)) {
-                        rotate(x, LEFT);
-                        rotate(x, RIGHT);
-                    } else {
-                        rotate(x->parent, LEFT);
-                        rotate(x, LEFT);
-                    }
-                }
-            }
+        for (; x->parent != y; rotate(x)) {
+            if (x->parent->parent != y)
+                if (f(x->parent) == f(x)) rotate(x->parent);
+                else /*if (f(x->parent) >= 0)*/ rotate(x);
         }
     }
+    // inline void splay(node *x, node *y) {
+    //     if (x->parent == nil) return;
+    //     while (x->parent != y) {
+    //         if (x->parent->parent == y) {
+    //             rotate(x, islson(x));
+    //         } else {
+    //             if (islson(x)) {
+    //                 if (islson(x->parent)) {
+    //                     rotate(x->parent);
+    //                     rotate(x);
+    //                 } else {
+    //                     rotate(x);
+    //                     rotate(x);
+    //                 }
+    //             } else {
+    //                 if (islson(x->parent)) {
+    //                     rotate(x);
+    //                     rotate(x);
+    //                 } else {
+    //                     rotate(x->parent);
+    //                     rotate(x);
+    //                 }
+    //             }
+    //         }
+    //     }
+    // }
     inline void swim(int pos, node *y) {
         node *x = root;
         while (pos != x->child[LEFT]->size + 1) {
