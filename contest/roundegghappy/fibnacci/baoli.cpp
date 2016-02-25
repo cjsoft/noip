@@ -11,8 +11,8 @@ ll fib[MXN];
 ll raw[MXN];
 int n, m;
 int main() {
-    freopen("fibnacci.in", "r", stdin);
-    freopen("fibnacci.txt", "w", stdout);
+    // freopen("fibnacci.in", "r", stdin);
+    // freopen("fibnacci.txt", "w", stdout);
     fib[1] = 1;
     for (int i = 2; i < MXN - 4; ++i) {
         fib[i] = fib[i - 1] + fib[i - 2];
