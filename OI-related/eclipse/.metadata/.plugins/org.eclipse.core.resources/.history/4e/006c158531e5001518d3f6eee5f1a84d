@@ -1,0 +1,8 @@
+package urltest;
+
+public class urllib {
+	
+	public String get(String uri) {
+		URL url = new URL(uri);
+	}
+}

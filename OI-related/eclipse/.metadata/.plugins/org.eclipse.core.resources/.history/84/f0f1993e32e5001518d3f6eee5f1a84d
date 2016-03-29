@@ -1,0 +1,16 @@
+package urltest;
+import java.io.BufferedReader;
+import java.net.*;
+public class urllib {
+	
+	public String get(String uri) {
+		try {
+			URL url = new URL(uri);
+			HttpURLConnection con = (HttpURLConnection)url.openConnection();
+			BufferedReader bfi = new BufferedReader(new InputStreamReader(con.getInputStream())); 
+		} catch (Exception e) {
+			e.printStackTrace();
+			return "";
+		}
+	}
+}

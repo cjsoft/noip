@@ -1,0 +1,15 @@
+package urltest;
+import java.io.*;
+import java.util.*;
+import java.lang.*;
+import java.net.*;
+class urllib {
+public class ut {
+	static urllib ulb;
+	public static void main(String[] args) throws Exception {
+		ulb = new urllib();
+		System.out.println(ulb.get("https://api.kiwivm.it7.net/v1/getLiveServiceInfo?veid=259581&api_key=private_vtnw3cZNoBfDLT72j6N9DOZR"));
+
+	}
+
+}
