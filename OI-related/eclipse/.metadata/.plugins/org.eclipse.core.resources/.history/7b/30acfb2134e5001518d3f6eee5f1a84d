@@ -1,0 +1,10 @@
+package urltest;
+import java.lang.*;
+import java.io.*;
+import java.util.*;
+public class Rnb implements Runnable {
+	private Bundle attributes;
+	public void Run() {
+		
+	}
+}

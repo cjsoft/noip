@@ -2,7 +2,7 @@
 import os, sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
-for i in xrange(100):
+for i in xrange(1000):
     os.popen('python gen.py')
     os.popen('a.exe < test.in > a.out')
     os.popen('b.exe < test.in > b.out')

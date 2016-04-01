@@ -1,0 +1,24 @@
+package urltest;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.net.*;
+public class urllib {
+	
+	public String get(String uri) {
+		try {
+			URL url = new URL(uri);
+			StringBuilder rtn = new StringBuilder();
+			String temp = null;
+			HttpURLConnection con = (HttpURLConnection)url.openConnection();
+			con.setRequestMethod("GET");
+			con.setReadTimeout(3000);
+			BufferedReader bfi = new BufferedReader(new InputStreamReader(con.getInputStream()));
+W
+			while ((temp = bfi.readLine()) != null) rtn.append(temp + '\n');
+			return rtn.toString();
+		} catch (Exception e) {
+			e.printStackTrace();
+			return "";
+		}
+	}
+}

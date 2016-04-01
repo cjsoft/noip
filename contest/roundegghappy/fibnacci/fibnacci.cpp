@@ -8,34 +8,35 @@
 #define mid(l, r) ((l + r) >> 1)
 #define update(x) stree[x] = (stree[x << 1] + stree[x << 1 | 1]) % MOD
 #define lowbit(x) (x & (-x))
+#define spminus(x, y) (((x - y) % MOD + MOD) % MOD)
 using namespace std;
 typedef long long ll;
 const int MXN = 100007;
 const ll MOD = 1000000001;
 int n, m;
 ll fib[MXN];
-struct szsz {
-    ll d[MXN];
-    szsz() {memset(d, 0, sizeof(d));}
-    void add(int pos,ll ad){
-        while (pos < MXN && pos > 0){
-            d[pos] += ad;
-            d[pos] %= MOD;
-            pos += lowbit(pos);
-        }
-    }
-    ll sum(int pos){
-        ll rtn = 0;
-        while (pos > 0){
-            rtn += d[pos];
-            rtn %= MOD;
-            pos -= lowbit(pos);
-        }
-        rtn += MOD;
-        rtn %= MOD;
-        return rtn;
-    }
-} ta;
+// struct szsz {
+//     ll d[MXN];
+//     szsz() {memset(d, 0, sizeof(d));}
+//     void add(int pos,ll ad){
+//         while (pos < MXN && pos > 0){
+//             d[pos] += ad;
+//             d[pos] %= MOD;
+//             pos += lowbit(pos);
+//         }
+//     }
+//     ll sum(int pos){
+//         ll rtn = 0;
+//         while (pos > 0){
+//             rtn += d[pos];
+//             rtn %= MOD;
+//             pos -= lowbit(pos);
+//         }
+//         rtn += MOD;
+//         rtn %= MOD;
+//         return rtn;
+//     }
+// } ta;
 inline int getint() {
     char ch = getchar();
     int data = 0;
@@ -87,25 +88,24 @@ struct fsegstree {
     ll stree[MXN * 8 + 7];
     int tag[MXN * 8 + 7];
     fsegstree() {memset(stree, 0, sizeof(stree)); memset(tag, 0, sizeof(tag));}
-    inline void pushdown(int root, int l, int r) {
+    /*inline*/ void pushdown(int root, int l, int r) {
         if (tag[root]) {
             int m = mid(l, r);
-            ll tmp = ta.sum(m);
-            stree[lson(root)] = (stree[lson(root)] + (((tmp - ta.sum(l - 1)) % MOD + MOD) % MOD)/*fibseg.query(1, 1, n, l, m)*/ * tag[root] % MOD) % MOD;
+            stree[lson(root)] = (stree[lson(root)] + spminus(fqzh[m], fqzh[l - 1])/*fibseg.query(1, 1, n, l, m)*/ * tag[root] % MOD) % MOD;
             // stree[lson(root)] %= MOD;
-            stree[rson(root)] = (stree[rson(root)] + (((ta.sum(r) - tmp) % MOD + MOD) % MOD)/*fibseg.query(1, 1, n, ++m, r)*/ * tag[root] % MOD) % MOD;
+            stree[rson(root)] = (stree[rson(root)] + (spminus(fqzh[r], fqzh[m]))/*fibseg.query(1, 1, n, ++m, r)*/ * tag[root] % MOD) % MOD;
             // stree[rson(root)] %= MOD;
             tag[lson(root)] += tag[root];
             tag[rson(root)] += tag[root];
             tag[root] = 0;
         }
     }
-    inline void add(int root, int l, int r, int al, int ar) {
+    /*inline*/ void add(int root, int l, int r, int al, int ar) {
         if (ar < l || al > r) return;
         pushdown(root, l, r);
         if (al <= l && ar >= r) {
             ++tag[root];
-            stree[root] = (stree[root] + (((ta.sum(r) - ta.sum(l - 1)) % MOD + MOD) % MOD)/*fibseg.query(1, 1, n, l, r)*/) % MOD;
+            stree[root] = (stree[root] + spminus(fqzh[r], fqzh[l - 1])/*fibseg.query(1, 1, n, l, r)*/) % MOD;
             // stree[root] %= MOD;
             // printf("%I64d\n", stree[root]);
             return;
@@ -115,7 +115,7 @@ struct fsegstree {
         add(rson(root), ++m, r, al, ar);
         update(root);
     }
-    inline ll query(int root, int l, int r, int ql, int qr) {
+    /*inline*/ ll query(int root, int l, int r, int ql, int qr) {
         if (qr < l || ql > r) return 0;
         if (ql <= l && qr >= r) return stree[root];
         pushdown(root, l, r);
@@ -127,17 +127,17 @@ struct fsegstree {
     }
 } mseg;
 int main() {
-    // freopen("test.in", "r", stdin);
-    // freopen("fibnacci.out", "w", stdout);
-    ta.add(1, 1);
+    freopen("fibnacci.in", "r", stdin);
+    freopen("fibnacci.out", "w", stdout);
+    // ta.add(1, 1);
     // ta.add(2, 1);
     fib[1] = 1;
     for (int i = 2; i < MXN - 4; ++i) {
         fib[i] = (fib[i - 1] + fib[i - 2]) % MOD;
-        ta.add(i, fib[i]);
+        // ta.add(i, fib[i]);
     }
     for (int i = 1; i < MXN - 4; ++i) {
-        fqzh[i] = fqzh[i - 1] + fib[i];
+        fqzh[i] = (fqzh[i - 1] + fib[i]) % MOD;
     }
     // printf("%I64d\n", ta.sum(4));
     scanf("%d %d", &n, &m);
@@ -145,6 +145,7 @@ int main() {
     for (int i = 1; i <= n; ++i) {
         //0.14
         arr[i] = arr[i - 1] + getint();
+        arr[i] %= MOD;
         // scanf("%d", &arrseg.rawdata[i]);
     }
     // printf("%f\n", clock()/(float)CLOCKS_PER_SEC);
@@ -161,7 +162,7 @@ int main() {
             // totals += clock() - sss;
         } else {
             // clock_t sss = clock();
-            printf("%I64d\n", (arrseg.query(1, 1, n, b, c) + mseg.query(1, 1, n, b, c)) % MOD);
+            printf("%lld\n", (spminus(arr[c], arr[b - 1]) + mseg.query(1, 1, n, b, c)) % MOD);
             // totalss += clock() - sss;
         }
     }

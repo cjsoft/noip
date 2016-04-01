@@ -1,0 +1,14 @@
+package urltest;
+import java.net.*;
+public class urllib {
+	
+	public String get(String uri) {
+		try {
+			URL url = new URL(uri);
+			HttpConnection con = (HttpConnection)url.openConnection();
+		} catch (Exception e) {
+			e.printStackTrace();
+			return "";
+		}
+	}
+}

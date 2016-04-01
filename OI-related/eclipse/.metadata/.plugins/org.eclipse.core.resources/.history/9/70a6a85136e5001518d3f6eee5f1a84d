@@ -1,0 +1,24 @@
+package urltest;
+import java.io.*;
+import java.util.*;
+import java.lang.*;
+import java.net.*;
+
+public class ut {
+	static urllib ulb;
+	public static void main(String[] args) {
+		ulb = new urllib();
+		System.out.println(ulb.get("http://www.baidu.com"));
+		File f = new File("D:\\a.txt");
+		Scanner scn = null;
+		try {
+			scn = new Scanner(f);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		if (scn != null) {
+			System.out.println(scn.nextBigInteger().toString());
+		}
+	}
+
+}
