@@ -61,6 +61,54 @@ if (__name__ == "__main__"):
 				print "Illegal input"
 ```
 
+```c++
+/**
+ * Copyright 2015 CJSoft
+ * This piece of code have somethings to
+ * do with primality test.
+ */
+#include <iostream>
+#include <cstdio>
+typedef long long ll; //NOLINT
+ll quickPow(ll x, ll y, ll MOD) {
+    ll resu = 1;
+    while (y > 0) {
+        if (y & 1) resu = (resu * x) % MOD;
+        y >>= 1;
+        x = (x * x) % MOD;
+    }
+    return resu;
+}
+bool MillerRabbinTest(ll a, ll n, ll d, ll s) {
+    if (n == 2 || n == a) return true;
+    if (!(n & 1)) return false;
+    if (quickPow(a, d, n) == 1) return true;
+    for (int i = 0; i < s; ++i) {
+        if (quickPow(a, (1 << i) * d, n) == n - 1)
+            return true;
+    }
+    return false;
+}
+bool isPrime(ll x) {
+    const ll testCase[] = {2, 3, 7, 13, 61, 24251};
+    if (x < 2) return false;
+    ll tint = x - 1;
+    ll s = 0;
+    while (!(tint & 1)) {
+        tint >>= 1;
+        ++s;
+    }
+    for (int i = 0; i < sizeof(testCase) / sizeof(ll); ++i)
+        if (!MillerRabbinTest(testCase[i], x, tint, s))
+            return false;
+    return true;
+}
+int main() {
+
+    return 0;
+}
+
+```
 ## 2. Bloom Filter  
 Bloom Filter算法非常简单易懂，他被广泛的应用在爬虫技术中。  
 它的功能是确定一个元素是否在集合之中，优势在于只使用非常少的空间，就可以维护数额巨大的元素的信息。**它只能确定一个元素是否在一个集合中**。然而内存、时间、准确性三者往往在一定程度上是守恒的，使用越少的内存，BF的准确性就越低。它的复杂度是O(1)的。  
