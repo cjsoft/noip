@@ -52,7 +52,7 @@
 <font color="#000000">推理社</font><br/>
 <a href="http://www.dlhs24.com.cn/uploads/allimg/120718/135323M36-21.jpg" target="_blank"><font color="#000000"><img border="0" height="400" onload="resizepic(this)" onmousewheel="return bbimg(this)" src="http://www.dlhs24.com.cn/uploads/allimg/120718/135323M36-21.jpg" width="600"http://www.dlhs24.com.cn/> </font></a><br/>
 <font color="#000000">亲聆心灵协会</font></p>
-<p>
+<p>
 	 </p>
 </td>
 </tr>

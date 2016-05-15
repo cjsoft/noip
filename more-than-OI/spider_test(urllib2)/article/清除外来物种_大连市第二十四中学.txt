@@ -5,7 +5,7 @@
 <table width="100%">
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-<p align="justify">
+<p align="justify">
 	 </p>
 <p align="center">
 <a href="http://www.dlhs24.com.cn/uploads/allimg/120724/144U451H-0.jpg" target="_blank"><img border="0" height="375" src="http://www.dlhs24.com.cn/uploads/allimg/120724/144U451H-0.jpg" style="width: 476px; height: 358px" width="500"http://www.dlhs24.com.cn/> </a><a href="http://www.dlhs24.com.cn/uploads/allimg/120724/144U46393-1.jpg" target="_blank"><img border="0" height="88" src="http://www.dlhs24.com.cn/uploads/allimg/120724/144U46393-1.jpg" style="width: 475px; zoom: 110%; height: 307px" width="126"http://www.dlhs24.com.cn/> </a></p>

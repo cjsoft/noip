@@ -4,8 +4,8 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-            2013年10月10日，由校学生处、团委及学生会联合举办的高一年级学生发展指导大会在报告厅礼堂召开。期间，五名高二、高三同学讲述了他们不同的发展方向及奋斗过程中的故事，大会由卢紫旭同学主持，宋正铎同学讲述了他的青年力量组织及暑期参加的北京领导力大赛的体会，谭小琴同学与大家分享了作为爱心社社长一年中的社会实践经历，陈婧娴同学讲述了明德堂讲座及物理竞赛中的点点滴滴，王子璇同学从选择生物竞赛的初衷谈到拿国家金牌保送北大的成功，让大家认识到了理想与付出的力量。孙巳晴同学从国际部的角度讲述了她在美国耶鲁大学的学习体验。最后我校63届校友贺老先生与大家共同重温了24中学的校史，鼓励大家珍惜时间、热爱生活。此次活动对于高一学生发展起到了很好的指导作用，鼓励学生敢于付出，合理选择，度过充实而有意义的高中生活。
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+            2013年10月10日，由校学生处、团委及学生会联合举办的高一年级学生发展指导大会在报告厅礼堂召开。期间，五名高二、高三同学讲述了他们不同的发展方向及奋斗过程中的故事，大会由卢紫旭同学主持，宋正铎同学讲述了他的青年力量组织及暑期参加的北京领导力大赛的体会，谭小琴同学与大家分享了作为爱心社社长一年中的社会实践经历，陈婧娴同学讲述了明德堂讲座及物理竞赛中的点点滴滴，王子璇同学从选择生物竞赛的初衷谈到拿国家金牌保送北大的成功，让大家认识到了理想与付出的力量。孙巳晴同学从国际部的角度讲述了她在美国耶鲁大学的学习体验。最后我校63届校友贺老先生与大家共同重温了24中学的校史，鼓励大家珍惜时间、热爱生活。此次活动对于高一学生发展起到了很好的指导作用，鼓励学生敢于付出，合理选择，度过充实而有意义的高中生活。
 <div style="text-align: center">
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/131021/1-131021122242142.JPG" style="width: 700px; height: 467px"http://www.dlhs24.com.cn/><br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/131021/1-131021122255N6.JPG" style="width: 700px; height: 467px"http://www.dlhs24.com.cn/><br/>
@@ -15,7 +15,7 @@
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/131021/1-131021122400c2.JPG" style="width: 700px; height: 467px"http://www.dlhs24.com.cn/><br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/131021/1-131021122414C2.JPG" style="width: 700px; height: 467px"http://www.dlhs24.com.cn/><br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/131021/1-131021122430D4.JPG" style="width: 700px; height: 467px"http://www.dlhs24.com.cn/><br/>
-<br/>
+<br/>
 	 </div>
 </td>
 </tr>

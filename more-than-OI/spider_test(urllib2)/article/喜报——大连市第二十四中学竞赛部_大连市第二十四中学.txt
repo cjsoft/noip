@@ -4,9 +4,9 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-            我校学生（1.8班）于纪平同学，在全国信息竞赛中获得金牌，进入国家集训队，并被清华大学提前录取。
-      
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+            我校学生（1.8班）于纪平同学，在全国信息竞赛中获得金牌，进入国家集训队，并被清华大学提前录取。
+      
       </td>
 </tr>
 </table>

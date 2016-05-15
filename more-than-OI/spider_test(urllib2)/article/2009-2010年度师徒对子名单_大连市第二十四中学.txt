@@ -13,67 +13,67 @@
 </colgroup>
 <tbody>
 <tr height="19">
-<td height="19" style="width: 107px; height: 19px">
+<td height="19" style="width: 107px; height: 19px">
 				科目</td>
-<td style="width: 120px">
+<td style="width: 120px">
 				师傅</td>
-<td style="width: 111px">
+<td style="width: 111px">
 				徒弟</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px">
+<td height="19" style="height: 19px">
 				语文</td>
-<td>
+<td>
 				刘娱</td>
-<td>
+<td>
 				孙胜男</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px">
+<td height="19" style="height: 19px">
 				外语</td>
-<td>
+<td>
 				胡颖</td>
-<td>
+<td>
 				李晓丹、李季</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px">
+<td height="19" style="height: 19px">
 				外语</td>
-<td>
+<td>
 				洪卫</td>
-<td>
+<td>
 				尹俊峰</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px">
+<td height="19" style="height: 19px">
 				生物</td>
-<td>
+<td>
 				张洪澜</td>
-<td>
+<td>
 				韩志萍</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px">
+<td height="19" style="height: 19px">
 				班主任</td>
-<td>
+<td>
 				安保国</td>
-<td>
+<td>
 				王忠良</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px">
+<td height="19" style="height: 19px">
 				班主任</td>
-<td>
+<td>
 				李丽</td>
-<td>
+<td>
 				刘驰罡</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px">
+<td height="19" style="height: 19px">
 				班主任</td>
-<td>
+<td>
 				王远香</td>
-<td>
+<td>
 				李响</td>
 </tr>
 </tbody>

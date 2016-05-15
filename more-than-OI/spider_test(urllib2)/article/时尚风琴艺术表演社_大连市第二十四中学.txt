@@ -4,16 +4,16 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
             风琴社全称时尚风琴艺术表演社，是一个于今年十一月刚成立的新兴社团，社团发展了两个月共计八名社员，其中一个社长七个副社长。社团主要以发展手风琴表演为主要研究方向，社员们通过实践讨论等多种途径，形成独特的不据泥于传统手风琴死板演奏的方式，并在联欢会上进行了首次尝试。所有社员将演奏手风琴当成娱乐，在娱乐中，在快乐中完成社团计划。虽然仅仅成立两个月但已经将“时尚”“艺术”“表演”完美的结合到一起。下学期，在继续进行我们的大体路线外，我们还会吸收希望了解并学习手风琴的同学。<br/>
 <div style="text-align: center">
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/120730/1-120I016440H49.jpg" style="width: 700px; height: 525px"http://www.dlhs24.com.cn/></div>
-<div style="text-align: center">
+<div style="text-align: center">
 	社员合影</div>
 <br/>
 <div style="text-align: center">
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/120730/1-120I01644253P.jpg" style="width: 700px; height: 933px"http://www.dlhs24.com.cn/></div>
-<div style="text-align: center">
+<div style="text-align: center">
 	社内活动</div>
 </td>
 </tr>

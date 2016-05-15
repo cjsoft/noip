@@ -4,12 +4,12 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-      高一太极拳比赛于3月27日在本校操场举行
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+      高一太极拳比赛于3月27日在本校操场举行
 <div style="text-align: center">
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150330/1-150330162J2404.JPG" style="height: 467px; width: 700px"http://www.dlhs24.com.cn/><br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150330/1-150330162K0631.JPG" style="height: 467px; width: 700px"http://www.dlhs24.com.cn/><br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150330/1-150330162K9C6.JPG" style="height: 467px; width: 700px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150330/1-150330162K9C6.JPG" style="height: 467px; width: 700px"http://www.dlhs24.com.cn/><br/>
 	 </div>
 </td>
 </tr>

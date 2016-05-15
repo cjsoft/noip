@@ -9,199 +9,199 @@
 <tbody>
 <tr height="25">
 <td height="25" style="width: 115px; height: 25px">
-<h4>
+<h4>
 					时    间</h4>
 </td>
 <td style="width: 331px">
-<h4>
+<h4>
 					     内         容</h4>
 </td>
 <td style="width: 71px">
-<h4>
+<h4>
 					负责人</h4>
 </td>
 <td style="width: 335px">
-<h4>
+<h4>
 					   作   业</h4>
 </td>
 </tr>
 <tr height="25">
 <td height="25" style="width: 115px; height: 25px" x:num="40087">
-<h4>
+<h4>
 					2009年10月</h4>
 </td>
 <td style="width: 331px">
-<h4>
+<h4>
 					研修班09开班</h4>
 </td>
 <td>
-<h4>
+<h4>
 					　</h4>
 </td>
 <td>
-<h4>
+<h4>
 					　</h4>
 </td>
 </tr>
 <tr height="25">
 <td height="25" style="width: 115px; height: 25px" x:num="40087">
-<h4>
+<h4>
 					2009年10月</h4>
 </td>
 <td style="width: 331px">
-<h4>
+<h4>
 					师德教育</h4>
 </td>
 <td style="width: 71px">
-<h4>
+<h4>
 					杨洪润</h4>
 </td>
 <td style="width: 335px">
-<h4>
+<h4>
 					思想汇报一篇</h4>
 </td>
 </tr>
 <tr height="25">
 <td height="25" style="width: 115px; height: 25px" x:num="40087">
-<h4>
+<h4>
 					2009年10月</h4>
 </td>
 <td style="width: 331px">
-<h4>
+<h4>
 					报告----如何有效听、评课</h4>
 </td>
 <td style="width: 71px">
-<h4>
+<h4>
 					高凤海</h4>
 </td>
 <td style="width: 335px">
-<h4>
+<h4>
 					学习心得一篇</h4>
 </td>
 </tr>
 <tr height="25">
 <td height="25" style="width: 115px; height: 25px" x:num="40118">
-<h4>
+<h4>
 					2009年11月</h4>
 </td>
 <td style="width: 331px">
-<h4>
+<h4>
 					听优秀教师观摩课、评课系列活动</h4>
 </td>
 <td style="width: 71px">
-<h4>
+<h4>
 					徐连红</h4>
 </td>
 <td style="width: 335px">
-<h4>
+<h4>
 					听、评课稿一份</h4>
 </td>
 </tr>
 <tr height="25">
 <td height="25" style="width: 115px; height: 25px" x:num="40148">
-<h4>
+<h4>
 					2009年12月</h4>
 </td>
 <td style="width: 331px">
-<h4>
+<h4>
 					青年教师观摩课、评课系列活动</h4>
 </td>
 <td style="width: 71px">
-<h4>
+<h4>
 					徐连红</h4>
 </td>
 <td style="width: 335px">
-<h4>
+<h4>
 					听、评课稿一份</h4>
 </td>
 </tr>
 <tr height="25">
 <td height="25" style="width: 115px; height: 25px" x:num="40179">
-<h4>
+<h4>
 					2010年1月</h4>
 </td>
 <td style="width: 331px">
-<h4>
+<h4>
 					听评课总结、交流</h4>
 </td>
 <td style="width: 71px">
-<h4>
+<h4>
 					徐连红</h4>
 </td>
 <td style="width: 335px">
-<h4>
+<h4>
 					“听评课专题论文”或“案例分析”</h4>
 </td>
 </tr>
 <tr height="26">
 <td height="26" style="width: 115px; height: 26px" x:num="40238">
-<h4>
+<h4>
 					2010年3月</h4>
 </td>
 <td style="width: 331px">
-<h4>
+<h4>
 					报告----如何做好班主任工作</h4>
 </td>
 <td style="width: 71px">
-<h4>
+<h4>
 					韩秋</h4>
 </td>
 <td style="width: 335px">
-<h4>
+<h4>
 					学习心得一篇</h4>
 </td>
 </tr>
 <tr height="25">
 <td height="25" style="width: 115px; height: 25px" x:num="40269">
-<h4>
+<h4>
 					2010年4月</h4>
 </td>
 <td style="width: 331px">
-<h4>
+<h4>
 					课件制作培训</h4>
 </td>
 <td style="width: 71px">
-<h4>
+<h4>
 					张新刚</h4>
 </td>
 <td style="width: 335px">
-<h4>
+<h4>
 					原创课件</h4>
 </td>
 </tr>
 <tr height="25">
 <td height="25" style="width: 115px; height: 25px" x:num="40299">
-<h4>
+<h4>
 					2010年5月</h4>
 </td>
 <td style="width: 331px">
-<h4>
+<h4>
 					表彰优秀青年教师、踏青活动</h4>
 </td>
 <td style="width: 71px">
-<h4>
+<h4>
 					徐连红</h4>
 </td>
 <td style="width: 335px">
-<h4>
+<h4>
 					　</h4>
 </td>
 </tr>
 <tr height="25">
 <td height="25" style="width: 115px; height: 25px" x:num="40330">
-<h4>
+<h4>
 					2010年6月</h4>
 </td>
 <td style="width: 331px">
-<h4>
+<h4>
 					研修班总结、优秀青年教师经验交流</h4>
 </td>
 <td style="width: 71px">
-<h4>
+<h4>
 					徐连红</h4>
 </td>
 <td style="width: 335px">
-<h4>
+<h4>
 					研修班总结、教育教学论文</h4>
 </td>
 </tr>

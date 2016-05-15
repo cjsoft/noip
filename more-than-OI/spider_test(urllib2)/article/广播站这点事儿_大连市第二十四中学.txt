@@ -5,13 +5,13 @@
 <table width="100%">
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-<h4>
+<h4>
 	 </h4>
 <h4 align="center">
 <font color="#000000" face="幼圆">广播站这点事儿</font></h4>
 <h4 align="center">
 <font color="#000000" face="幼圆">BY Wednesday 组长 李泽滨</font></h4>
-<h4>
+<h4>
 	 </h4>
 <h4>
 <font color="#000000" face="幼圆">    鄙人自小就比较“好事儿”，只要有精力，总想多经历些来丰富生活，倒不是说非要取得成绩、崭露头角，就跟着“掺和掺和”，乐着玩嘛。加入广播站的初衷大概就是这样的吧。</font></h4>
@@ -33,7 +33,7 @@
 <font color="#000000" face="幼圆">    一个学期打打闹闹的就过去了。要说收获，那是没有参与到社团里的同学们所体会不到的一种快乐：结识更多朋友，付出，然后收获。高中的学习生活虽然紧张，但学习并不是生活的全部，我一直这样认为，所以总想给生活添些色彩，丰富生活。其实说到底，就是一种对生活的热爱。</font></h4>
 <h4>
 <font color="#000000" face="幼圆">    热爱 生活。</font></h4>
-<h4>
+<h4>
 	 </h4>
 </td>
 </tr>

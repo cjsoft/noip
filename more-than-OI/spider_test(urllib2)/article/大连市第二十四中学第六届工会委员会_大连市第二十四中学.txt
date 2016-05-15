@@ -18,15 +18,15 @@
 <span style="font-size: 16px">大连二十四中学第六届工会委员分工及简历</span></td>
 </tr>
 <tr height="20">
-<td height="20" style="text-align: center; height: 20px">
+<td height="20" style="text-align: center; height: 20px">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center; width: 115px">
+<td style="text-align: center; width: 115px">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center; width: 292px">
+<td style="text-align: center; width: 292px">
 				 </td>
 </tr>
 <tr height="28">
@@ -102,13 +102,13 @@
 <span style="font-size: 16px">    2001年参加工作,大连市优质课一等奖,大连市优秀团干部,二十四中学第五届工会委员</span></td>
 </tr>
 <tr height="33">
-<td height="33" style="text-align: center; height: 33px">
+<td height="33" style="text-align: center; height: 33px">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center; width: 115px">
+<td style="text-align: center; width: 115px">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
 <td style="text-align: center; width: 292px">
 <span style="font-size: 16px">大连市第二十四中学工会</span></td>

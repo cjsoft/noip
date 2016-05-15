@@ -14,217 +14,217 @@
 </colgroup>
 <tbody>
 <tr height="57">
-<td height="57" style="width: 101px; height: 57px">
+<td height="57" style="width: 101px; height: 57px">
 				工作步骤</td>
-<td style="width: 31px">
+<td style="width: 31px">
 				序号</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				工作内容及要求</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				完成时限（具体与局党委督导联络组商定）</td>
 </tr>
 <tr height="76">
-<td height="76" style="width: 101px; height: 76px">
+<td height="76" style="width: 101px; height: 76px">
 				筹备工作</td>
-<td style="width: 31px" x:num="">
+<td style="width: 31px" x:num="">
 				1</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				学习上级教育实践活动有关精神，根据全市教育系统《实施方案》，制定单位《实施方案》，合理安排工作进度。成立党的群众路线教育实践活动领导小组。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				3月中旬</td>
 </tr>
 <tr height="76">
-<td height="209" rowspan="3" style="width: 101px; height: 209px">
+<td height="209" rowspan="3" style="width: 101px; height: 209px">
 				动员部署</td>
-<td style="width: 31px" x:num="">
+<td style="width: 31px" x:num="">
 				2</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				根据全市教育系统党的群众路线教育实践活动工作会议精神，对《实施方案》、工作进度安排进行修改完善，经局党委督导组审阅同意后，报领导小组办公室备案。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				3月中旬</td>
 </tr>
 <tr height="57">
-<td height="57" style="width: 31px; height: 57px" x:num="">
+<td height="57" style="width: 31px; height: 57px" x:num="">
 				3</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				做好学校党的群众路线教育实践活动动员大会有关准备工作，与局党委督导组联系确定会议有关事项。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				3月中旬</td>
 </tr>
 <tr height="76">
-<td height="76" style="width: 31px; height: 76px" x:num="">
+<td height="76" style="width: 31px; height: 76px" x:num="">
 				4</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				组织召开学校党的群众路线教育实践活动动员大会，对学校党的群众路线教育实践活动进行动员部署。配合局党委督导组开展领导班子和班子成员民主测评工作。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				3月中旬</td>
 </tr>
 <tr height="38">
-<td height="570" rowspan="10" style="width: 101px; height: 570px">
+<td height="570" rowspan="10" style="width: 101px; height: 570px">
 				学习教育、听取意见</td>
-<td style="width: 31px" x:num="">
+<td style="width: 31px" x:num="">
 				5</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				与局党委督导组商定学习教育、听取意见环节工作安排，形成初步工作方案报督导联络组审核。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				3月下旬</td>
 </tr>
 <tr height="76">
-<td height="76" style="width: 31px; height: 76px" x:num="">
+<td height="76" style="width: 31px; height: 76px" x:num="">
 				6</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				组织全体党员干部自学。认真研读有关学习资料，做学习笔记，撰写学习心得，交流学习体会。（有学习笔记本、有学习计划、有学习心得、有学习笔记）</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				3月-8月</td>
 </tr>
 <tr height="133">
-<td height="133" style="width: 31px; height: 133px" x:num="">
+<td height="133" style="width: 31px; height: 133px" x:num="">
 				7</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				组织制定本单位集中学习计划，组织单位全体党员干部集中学习活动（集中学习不少于4天）。做到“五个一”：观看一次电教片，领导干部上一次党课，专家作一次辅导，举办一次先进典型报告会，开展一次讨论活动；“五到位”：规定的学习内容到位，必要的学习方式到位，基本的学习时间到位，参加学习的对象到位，对学习的督查到位。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				3月-5月</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 31px; height: 19px" x:num="">
+<td height="19" style="width: 31px; height: 19px" x:num="">
 				8</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				拟定党总支学习安排，组织专题学习讨论。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				3月下旬</td>
 </tr>
 <tr height="76">
-<td height="76" style="width: 31px; height: 76px" x:num="">
+<td height="76" style="width: 31px; height: 76px" x:num="">
 				9</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				采取召开座谈会、个别征求意见、设立意见箱等多种形式，广泛征求单位干部职工、服务对象等对单位领导班子和党员领导干部在践行群众路线和加强作风建设方面的意见建议。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				4月</td>
 </tr>
 <tr height="76">
-<td height="76" style="width: 31px; height: 76px" x:num="">
+<td height="76" style="width: 31px; height: 76px" x:num="">
 				10</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				对征求到的意见建议和查摆出来的突出问题进行认真梳理分析，汇总形成征求意见情况综合，报局党委督导组。研究查摆问题、开展批评环节工作，制定初步方案，并报督导联络组审核。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				4月中旬</td>
 </tr>
 <tr height="38">
-<td height="38" style="width: 31px; height: 38px" x:num="">
+<td height="38" style="width: 31px; height: 38px" x:num="">
 				11</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				对学习教育、听取意见环节工作进行总结，并向督导联络组汇报。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				4月下旬</td>
 </tr>
 <tr height="57">
-<td height="57" style="width: 31px; height: 57px" x:num="">
+<td height="57" style="width: 31px; height: 57px" x:num="">
 				12</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				对征求意见环节查找出来的问题，涉及领导班子的向全体成员通报；涉及班子成员个人的，由单位主要负责同志向本人反馈。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				5月上旬</td>
 </tr>
 <tr height="38">
-<td height="38" style="width: 31px; height: 38px" x:num="">
+<td height="38" style="width: 31px; height: 38px" x:num="">
 				13</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				学校党总支书记、校长与班子成员逐一谈心，班子成员之间互相谈心，帮助查找问题。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				5月上旬</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 31px; height: 19px" x:num="">
+<td height="19" style="width: 31px; height: 19px" x:num="">
 				14</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				研究专题民主生活会方案，报局党委督导组审阅。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				5月上旬</td>
 </tr>
 <tr height="57">
-<td height="285" rowspan="5" style="width: 101px; height: 285px">
+<td height="285" rowspan="5" style="width: 101px; height: 285px">
 				查摆问题、开展批评</td>
-<td style="width: 31px" x:num="">
+<td style="width: 31px" x:num="">
 				15</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				学校领导班子及其成员对照为民务实清廉要求，认真撰写对照检查材料，分析问题原因，剖析思想根源，提出整改措施。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				5月上旬</td>
 </tr>
 <tr height="57">
-<td height="57" style="width: 31px; height: 57px" x:num="">
+<td height="57" style="width: 31px; height: 57px" x:num="">
 				16</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				学校党委书记、校长审查领导班子成员的对照检查材料；领导班子及其成员对照检查材料报局党委督导组进行审阅。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				5月上旬</td>
 </tr>
 <tr height="76">
-<td height="76" style="width: 31px; height: 76px" x:num="">
+<td height="76" style="width: 31px; height: 76px" x:num="">
 				17</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				组织召开专题民主生活会，开展批评与自我批评，局党委督导组成员参加并进行评价反馈。在规定范围内，通报民主生活会情况和班子成员对照检查材料。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				5月中旬</td>
 </tr>
 <tr height="57">
-<td height="57" style="width: 31px; height: 57px" x:num="">
+<td height="57" style="width: 31px; height: 57px" x:num="">
 				18</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				组织学校全体党员参加所在支部或党小组召开的组织生活会，针对存在的问题，提出改进的措施和办法。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				5月中旬</td>
 </tr>
 <tr height="38">
-<td height="38" style="width: 31px; height: 38px" x:num="">
+<td height="38" style="width: 31px; height: 38px" x:num="">
 				19</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				配合局党委督导组就民主生活会情况形成专项报告报领导小组办公室。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				5月下旬</td>
 </tr>
 <tr height="38">
-<td height="114" rowspan="3" style="width: 101px; height: 114px">
+<td height="114" rowspan="3" style="width: 101px; height: 114px">
 				整改落实、建章立制</td>
-<td style="width: 31px" x:num="">
+<td style="width: 31px" x:num="">
 				20</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				研究整改落实、建章立制环节工作，制定初步方案，并报督导联络组审核。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				6月</td>
 </tr>
 <tr height="57">
-<td height="57" style="width: 31px; height: 57px" x:num="">
+<td height="57" style="width: 31px; height: 57px" x:num="">
 				21</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				针对查摆出来的突出问题和需要完善的制度，分别提出整改的目标、措施、责任和时限要求，在此基础上形成整改方案</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				6月</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 31px; height: 19px" x:num="">
+<td height="19" style="width: 31px; height: 19px" x:num="">
 				22</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				健全完善加强作风建设相关制度。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				7月</td>
 </tr>
 <tr height="57">
-<td height="76" rowspan="2" style="width: 101px; height: 76px">
+<td height="76" rowspan="2" style="width: 101px; height: 76px">
 				总结评估</td>
-<td style="width: 31px" x:num="">
+<td style="width: 31px" x:num="">
 				13</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				对学校开展党的群众路线教育实践活动情况进行认真总结，撰写总结报告，报局党委党的群众路线实践活动领导小组办公室</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				8月</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 31px; height: 19px" x:num="">
+<td height="19" style="width: 31px; height: 19px" x:num="">
 				24</td>
-<td style="width: 360px">
+<td style="width: 360px">
 				组织召开总结大会。</td>
-<td style="width: 139px">
+<td style="width: 139px">
 				9月</td>
 </tr>
 </tbody>

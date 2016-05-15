@@ -4,9 +4,9 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-      诚挚欢迎初中家长和同学周六周日等节假日参观二十四中校园
-      
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+      诚挚欢迎初中家长和同学周六周日等节假日参观二十四中校园
+      
       </td>
 </tr>
 </table>

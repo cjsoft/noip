@@ -3,49 +3,49 @@
 <div class="r1" style="height:auto;overflow:hidden;">
 <div style="float:left;width:358px;height:auto;">
 <div class="picnews">
-<script language="javascript">
-linkarr = new Array();
-picarr = new Array();
-textarr = new Array();
-var swf_width=346;
-var swf_height=230;
-var files = "";
-var links = "";
-var texts = "";
-//这里设置调用标记
-linkarr[1] = "http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xiaojijiaoliu/20151205/2318.html";
-picarr[1]  = "http://www.dlhs24.com.cn/uploads/allimg/151205/1-15120520364K28-lp.jpg";
-textarr[1] = "热烈祝贺我校彭喜治老师被评选为第三届大连市我最";
-linkarr[2] = "http://www.dlhs24.com.cn/a/guojibu/zouxiangshijie/20151205/2317.html";
-picarr[2]  = "http://www.dlhs24.com.cn/uploads/allimg/151205/1-1512050Z000X5-lp.jpg";
-textarr[2] = "通往未来的职业之路——记大连市第二十四中学国际";
-linkarr[3] = "http://www.dlhs24.com.cn/a/xueshengtiandi/xueshenghuodong/20151204/2316.html";
-picarr[3]  = "http://www.dlhs24.com.cn/uploads/allimg/151204/1-15120420410N42-lp.JPG";
-textarr[3] = "我校在第二个国家宪法日开展宪法学习活动";
-linkarr[4] = "http://www.dlhs24.com.cn/a/xueshengtiandi/xueshenghuodong/20151203/2315.html";
-picarr[4]  = "http://www.dlhs24.com.cn/uploads/allimg/151203/1-151203092039491-lp.jpg";
-textarr[4] = "科学之美 异彩纷呈——“邂逅科学之美”系列活动之";
-linkarr[5] = "http://www.dlhs24.com.cn/a/xueshengtiandi/guoqixiajianghua/20151130/2314.html";
-picarr[5]  = "http://www.dlhs24.com.cn/uploads/allimg/151130/1-1511301949202I-lp.jpg";
-textarr[5] = "『学子观点』呼唤和平";
-
-for(i=1;i<picarr.length;i++){
-  if(files=="") files = picarr[i];
-  else files += "|"+picarr[i];
-}
-for(i=1;i<linkarr.length;i++){
-  if(links=="") links = linkarr[i];
-  else links += "|"+linkarr[i];
-}
-for(i=1;i<textarr.length;i++){
-  if(texts=="") texts = textarr[i];
-  else texts += "|"+textarr[i];
-}
-document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+ swf_width +'" height="'+ swf_height +'">');
-document.write('<param name="movie" value="http://www.dlhs24.com.cn/templets/default/images/bcastr3.swf?20120725"><param name="quality" value="high">');
-document.write('<param name="menu" value="false"><param name=wmode value="opaque">');
-document.write('<param name="FlashVars" value="bcastr_file='+files+'&bcastr_link='+links+'&bcastr_title='+texts+'">');
-document.write('<embed src="http://www.dlhs24.com.cn/templets/default/images/bcastr3.swf" wmode="opaque" FlashVars="bcastr_file='+files+'&bcastr_link='+links+'&bcastr_title='+texts+'& menu="false" quality="high" width="'+ swf_width +'" height="'+ swf_height +'" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />'); document.write('</object>');
+<script language="javascript">
+linkarr = new Array();
+picarr = new Array();
+textarr = new Array();
+var swf_width=346;
+var swf_height=230;
+var files = "";
+var links = "";
+var texts = "";
+//这里设置调用标记
+linkarr[1] = "http://www.dlhs24.com.cn/a/jiaoxueyujingsai/xiaojijiaoliu/20151205/2318.html";
+picarr[1]  = "http://www.dlhs24.com.cn/uploads/allimg/151205/1-15120520364K28-lp.jpg";
+textarr[1] = "热烈祝贺我校彭喜治老师被评选为第三届大连市我最";
+linkarr[2] = "http://www.dlhs24.com.cn/a/guojibu/zouxiangshijie/20151205/2317.html";
+picarr[2]  = "http://www.dlhs24.com.cn/uploads/allimg/151205/1-1512050Z000X5-lp.jpg";
+textarr[2] = "通往未来的职业之路——记大连市第二十四中学国际";
+linkarr[3] = "http://www.dlhs24.com.cn/a/xueshengtiandi/xueshenghuodong/20151204/2316.html";
+picarr[3]  = "http://www.dlhs24.com.cn/uploads/allimg/151204/1-15120420410N42-lp.JPG";
+textarr[3] = "我校在第二个国家宪法日开展宪法学习活动";
+linkarr[4] = "http://www.dlhs24.com.cn/a/xueshengtiandi/xueshenghuodong/20151203/2315.html";
+picarr[4]  = "http://www.dlhs24.com.cn/uploads/allimg/151203/1-151203092039491-lp.jpg";
+textarr[4] = "科学之美 异彩纷呈——“邂逅科学之美”系列活动之";
+linkarr[5] = "http://www.dlhs24.com.cn/a/xueshengtiandi/guoqixiajianghua/20151130/2314.html";
+picarr[5]  = "http://www.dlhs24.com.cn/uploads/allimg/151130/1-1511301949202I-lp.jpg";
+textarr[5] = "『学子观点』呼唤和平";
+
+for(i=1;i<picarr.length;i++){
+  if(files=="") files = picarr[i];
+  else files += "|"+picarr[i];
+}
+for(i=1;i<linkarr.length;i++){
+  if(links=="") links = linkarr[i];
+  else links += "|"+linkarr[i];
+}
+for(i=1;i<textarr.length;i++){
+  if(texts=="") texts = textarr[i];
+  else texts += "|"+textarr[i];
+}
+document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+ swf_width +'" height="'+ swf_height +'">');
+document.write('<param name="movie" value="http://www.dlhs24.com.cn/templets/default/images/bcastr3.swf?20120725"><param name="quality" value="high">');
+document.write('<param name="menu" value="false"><param name=wmode value="opaque">');
+document.write('<param name="FlashVars" value="bcastr_file='+files+'&bcastr_link='+links+'&bcastr_title='+texts+'">');
+document.write('<embed src="http://www.dlhs24.com.cn/templets/default/images/bcastr3.swf" wmode="opaque" FlashVars="bcastr_file='+files+'&bcastr_link='+links+'&bcastr_title='+texts+'& menu="false" quality="high" width="'+ swf_width +'" height="'+ swf_height +'" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />'); document.write('</object>');
 </script>
 </div>
 <div class="news2" style="margin-top:10px;_margin-top:5px;">
@@ -86,13 +86,13 @@ document.write('<embed src="http://www.dlhs24.com.cn/templets/default/images/bca
 <marquee behavior="scroll" direction="up" onmouseout="this.start()" onmouseover="this.stop()" scrollamount="2">
 <ul>
 <li><a href="http://www.dlhs24.com.cn/a/guojibu/zhaoshengyushengxuezhidao/20151008/2263.html" style="font-weight:bold;font-size:13px;">大连市第二十四中学召开首届“海外大学招生咨询会”邀请函</a>
-<br/>     
+<br/>     
 				</li>
 <li><a href="http://www.dlhs24.com.cn/a/deyuguanli/duiwaijiaoliuzhongxin/2015/0906/2236.html" style="font-weight:bold;font-size:13px;">2016年多伦多大学绿色通道项目报名正在进行中！</a>
-<br/>     
+<br/>     
 				</li>
 <li><a href="http://www.dlhs24.com.cn/a/zhaokaoxinxi/zhongzhaozixun/2015/0727/2230.html" style="font-weight:bold;font-size:13px;">大连市第二十四中学“新生领取录取通知书事宜”通知</a>
-<br/>     
+<br/>     
 				</li>
 </ul>
 </marquee>
@@ -145,19 +145,19 @@ document.write('<embed src="http://www.dlhs24.com.cn/templets/default/images/bca
 </div>
 
 
-<script>
-		//这里是广告播放器
-			var adtag=0;
-			$('.ad24').hide();
-			$('.ad24:eq(0)').show();	
-			var adlength=$('.ad24').length;
-			
-			setInterval(function(){
-						adtag++;
-						adtag=adtag%adlength;
-						$('.ad24').hide();
-						$('.ad24:eq('+adtag+')').show();
-			},4000);
+<script>
+		//这里是广告播放器
+			var adtag=0;
+			$('.ad24').hide();
+			$('.ad24:eq(0)').show();	
+			var adlength=$('.ad24').length;
+			
+			setInterval(function(){
+						adtag++;
+						adtag=adtag%adlength;
+						$('.ad24').hide();
+						$('.ad24:eq('+adtag+')').show();
+			},4000);
 		</script>
 
 
@@ -442,28 +442,28 @@ document.write('<embed src="http://www.dlhs24.com.cn/templets/default/images/bca
 <p style="width:169px;height:16px;float:right;">化学特级教师-崔殿宝</p>
 </li>
 </div>
-<script>
-			  //名师巡礼动画
-			  var techtag=0;
-			  var techshowlength=$('#teachxl li').length/2;
-				$('#teachxl').width(techshowlength*2*179 + 110);
-				setInterval(function()
-				{
-							
-					techshow();
-				},3000);
-	
-				function techshow(){
-					if(techtag >= (techshowlength))
-					{
-						techtag=0;
-						$("#teachxl").css({left: "0"});
-					}
-
-
-						$("#teachxl").animate({left: "-=179"}, 1000  );
-					techtag++;
-				 }
+<script>
+			  //名师巡礼动画
+			  var techtag=0;
+			  var techshowlength=$('#teachxl li').length/2;
+				$('#teachxl').width(techshowlength*2*179 + 110);
+				setInterval(function()
+				{
+							
+					techshow();
+				},3000);
+	
+				function techshow(){
+					if(techtag >= (techshowlength))
+					{
+						techtag=0;
+						$("#teachxl").css({left: "0"});
+					}
+
+
+						$("#teachxl").animate({left: "-=179"}, 1000  );
+					techtag++;
+				 }
 			  </script>
 <div id="teachfc">
 <a href="http://www.dlhs24.com.cn/a/jiaoshifengcai/">
@@ -472,27 +472,27 @@ document.write('<embed src="http://www.dlhs24.com.cn/templets/default/images/bca
 </div>
 </div>
 </div>
-<script>
-		$('.t_teaspan1:eq(0)').css('color','#0058ff');
-		
-		$('.t_teaspan1').mouseover(function(){
-		
-		var tindex=$(this).index();
-		
-		if( tindex == 0 )
-		{
-		$("#teachxl").show();
-		$("#teachfc").hide();
-		}
-		else{
-			$("#teachxl").hide();
-			$("#teachfc").show();
-		}
-
-		$('.t_teaspan1').css('color','#000000');
-		$(this).css('color','#0058ff');
-		
-		});
+<script>
+		$('.t_teaspan1:eq(0)').css('color','#0058ff');
+		
+		$('.t_teaspan1').mouseover(function(){
+		
+		var tindex=$(this).index();
+		
+		if( tindex == 0 )
+		{
+		$("#teachxl").show();
+		$("#teachfc").hide();
+		}
+		else{
+			$("#teachxl").hide();
+			$("#teachfc").show();
+		}
+
+		$('.t_teaspan1').css('color','#000000');
+		$(this).css('color','#0058ff');
+		
+		});
 		</script>
 <div class="news1">
 <div class="title"><span class="t_more"><a href="http://www.dlhs24.com.cn/a/jiaoxueyujingsai/">more</a></span>  教育教学 </div>

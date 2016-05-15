@@ -16,347 +16,347 @@
 </colgroup>
 <tbody>
 <tr height="37">
-<td height="37" style="width: 59px; height: 37px">
+<td height="37" style="width: 59px; height: 37px">
 				姓名</td>
-<td style="width: 264px">
+<td style="width: 264px">
 				美国录取学校</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				排名</td>
-<td style="width: 207px">
+<td style="width: 207px">
 				英国录取学校</td>
-<td style="width: 20px">
+<td style="width: 20px">
 				专业</td>
-<td style="width: 48px">
+<td style="width: 48px">
 				排名</td>
 </tr>
 <tr height="30">
-<td height="145" rowspan="6" style="width: 59px; height: 145px">
+<td height="145" rowspan="6" style="width: 59px; height: 145px">
 				张泰琦</td>
-<td style="width: 264px">
+<td style="width: 264px">
 				卫斯理安大学Wesleyan University</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				文理学院17</td>
-<td style="width: 207px">
+<td style="width: 207px">
 				帝国理工学院Imperial College London</td>
-<td rowspan="4" style="width: 20px">
+<td rowspan="4" style="width: 20px">
 				电子电气工程</td>
-<td style="width: 48px">
+<td style="width: 48px">
 				英国4</td>
 </tr>
 <tr height="30">
-<td height="30" style="width: 264px; height: 30px">
+<td height="30" style="width: 264px; height: 30px">
 				加州大学洛杉矶分校UCLA</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合大学24</td>
-<td style="width: 207px">
+<td style="width: 207px">
 				伦敦大学学院University College London</td>
-<td style="width: 48px">
+<td style="width: 48px">
 				英国5</td>
 </tr>
 <tr height="18">
-<td height="18" style="width: 264px; height: 18px">
+<td height="18" style="width: 264px; height: 18px">
 				加州大学戴维斯分校-UC DAVIS</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合大学38</td>
-<td style="width: 207px">
+<td style="width: 207px">
 				约克大学University of York</td>
-<td style="width: 48px">
+<td style="width: 48px">
 				英国11</td>
 </tr>
 <tr height="18">
-<td height="18" style="width: 264px; height: 18px">
+<td height="18" style="width: 264px; height: 18px">
 				拉斐特学院 Lafayette College</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				文理学院39</td>
-<td style="width: 207px">
+<td style="width: 207px">
 				布里斯托大学University of Bristol</td>
-<td style="width: 48px">
+<td style="width: 48px">
 				英国13</td>
 </tr>
 <tr height="30">
-<td height="30" style="width: 264px; height: 30px">
+<td height="30" style="width: 264px; height: 30px">
 				华盛顿西雅图大学University of Washington-Seattle</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合大学46</td>
-<td colspan="3" rowspan="2" style="width: 275px">
+<td colspan="3" rowspan="2" style="width: 275px">
 				　</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 264px; height: 19px">
+<td height="19" style="width: 264px; height: 19px">
 				加州大学圣塔克鲁斯分校 UC-Santa Cruz</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合大学77</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 59px; height: 19px">
+<td height="19" style="width: 59px; height: 19px">
 				黄弘毅</td>
-<td style="width: 264px">
+<td style="width: 264px">
 				高露洁大学Colgate University (ED)</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				文理学院18</td>
-<td colspan="3" style="width: 275px">
+<td colspan="3" style="width: 275px">
 				　</td>
 </tr>
 <tr height="18">
-<td height="109" rowspan="6" style="width: 59px; height: 109px">
+<td height="109" rowspan="6" style="width: 59px; height: 109px">
 				何宇翀</td>
-<td style="width: 264px">
+<td style="width: 264px">
 				格林内尔学院Grinnell College</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				文理学院22</td>
-<td colspan="3" rowspan="6" style="width: 275px">
+<td colspan="3" rowspan="6" style="width: 275px">
 				　</td>
 </tr>
 <tr height="18">
-<td height="18" style="width: 264px; height: 18px">
+<td height="18" style="width: 264px; height: 18px">
 				加州大学洛杉矶分校 UCLA</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合大学24</td>
 </tr>
 <tr height="18">
-<td height="18" style="width: 264px; height: 18px">
+<td height="18" style="width: 264px; height: 18px">
 				科罗拉多学院Colorado College</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				文理学院28</td>
 </tr>
 <tr height="18">
-<td height="18" style="width: 264px; height: 18px">
+<td height="18" style="width: 264px; height: 18px">
 				加州大学戴维斯分校UC Davis</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合排名38</td>
 </tr>
 <tr height="18">
-<td height="18" style="width: 264px; height: 18px">
+<td height="18" style="width: 264px; height: 18px">
 				佩珀代因大学Pepperdine University</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合排名54</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 264px; height: 19px">
+<td height="19" style="width: 264px; height: 19px">
 				加州大学圣塔克鲁斯分校 UC-Santa Cruz</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合排名77</td>
 </tr>
 <tr height="30">
-<td height="67" rowspan="3" style="width: 59px; height: 67px">
+<td height="67" rowspan="3" style="width: 59px; height: 67px">
 				付宁</td>
-<td colspan="2" rowspan="3" style="width: 335px">
+<td colspan="2" rowspan="3" style="width: 335px">
 				　</td>
-<td style="width: 207px">
+<td style="width: 207px">
 				伦敦大学学院University College London</td>
-<td rowspan="3" style="width: 20px">
+<td rowspan="3" style="width: 20px">
 				经济学</td>
-<td style="width: 48px">
+<td style="width: 48px">
 				英国5</td>
 </tr>
 <tr height="18">
-<td height="18" style="width: 207px; height: 18px">
+<td height="18" style="width: 207px; height: 18px">
 				华威大学University of Warwick</td>
-<td style="width: 48px">
+<td style="width: 48px">
 				英国8</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 207px; height: 19px">
+<td height="19" style="width: 207px; height: 19px">
 				爱丁堡大学University of Edinburgh</td>
-<td style="width: 48px">
+<td style="width: 48px">
 				英国15</td>
 </tr>
 <tr height="18">
-<td height="97" rowspan="4" style="width: 59px; height: 97px">
+<td height="97" rowspan="4" style="width: 59px; height: 97px">
 				齐一寒 </td>
-<td colspan="2" rowspan="4" style="width: 335px">
+<td colspan="2" rowspan="4" style="width: 335px">
 				　</td>
-<td style="width: 207px">
+<td style="width: 207px">
 				帝国理工学院 Imperial College</td>
-<td rowspan="4" style="width: 20px">
+<td rowspan="4" style="width: 20px">
 				电子电气工程</td>
-<td style="width: 48px">
+<td style="width: 48px">
 				英国4</td>
 </tr>
 <tr height="30">
-<td height="30" style="width: 207px; height: 30px">
+<td height="30" style="width: 207px; height: 30px">
 				伦敦大学学院University College London</td>
-<td style="width: 48px">
+<td style="width: 48px">
 				英国5</td>
 </tr>
 <tr height="18">
-<td height="18" style="width: 207px; height: 18px">
+<td height="18" style="width: 207px; height: 18px">
 				巴斯大学University of Bath</td>
-<td style="width: 48px">
+<td style="width: 48px">
 				英国12</td>
 </tr>
 <tr height="31">
-<td height="31" style="width: 207px; height: 31px">
+<td height="31" style="width: 207px; height: 31px">
 				曼彻斯特大学University of Manchester</td>
-<td style="width: 48px">
+<td style="width: 48px">
 				英国32</td>
 </tr>
 <tr height="18">
-<td height="49" rowspan="2" style="width: 59px; height: 49px">
+<td height="49" rowspan="2" style="width: 59px; height: 49px">
 				潘怡秀</td>
-<td colspan="2" rowspan="2" style="width: 335px">
+<td colspan="2" rowspan="2" style="width: 335px">
 				　</td>
-<td style="width: 207px">
+<td style="width: 207px">
 				布里斯托大学University of Bristol</td>
-<td rowspan="2" style="width: 20px">
+<td rowspan="2" style="width: 20px">
 				商业学</td>
-<td style="width: 48px">
+<td style="width: 48px">
 				英国13</td>
 </tr>
 <tr height="31">
-<td height="31" style="width: 207px; height: 31px">
+<td height="31" style="width: 207px; height: 31px">
 				曼彻斯特大学University of Manchester</td>
-<td style="width: 48px">
+<td style="width: 48px">
 				英国32</td>
 </tr>
 <tr height="46">
-<td height="46" style="width: 59px; height: 46px">
+<td height="46" style="width: 59px; height: 46px">
 				孙钰佳</td>
-<td style="width: 264px">
+<td style="width: 264px">
 				巴布森学院(提前录取)Babson College(ED)</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				著名商学院,不参与排名</td>
-<td colspan="3" style="width: 275px">
+<td colspan="3" style="width: 275px">
 				　</td>
 </tr>
 <tr height="18">
-<td height="115" rowspan="5" style="width: 59px; height: 115px">
+<td height="115" rowspan="5" style="width: 59px; height: 115px">
 				刘晓航</td>
-<td style="width: 264px">
+<td style="width: 264px">
 				凯斯西储大学Case Western Reserve University</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合排名37</td>
-<td colspan="3" rowspan="5" style="width: 275px">
+<td colspan="3" rowspan="5" style="width: 275px">
 				　</td>
 </tr>
 <tr height="18">
-<td height="18" style="width: 264px; height: 18px">
+<td height="18" style="width: 264px; height: 18px">
 				加州大学圣地亚哥分校UC–San Diego</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合排名38</td>
 </tr>
 <tr height="18">
-<td height="18" style="width: 264px; height: 18px">
+<td height="18" style="width: 264px; height: 18px">
 				康涅狄格大学University of Connecticut</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合排名63</td>
 </tr>
 <tr height="30">
-<td height="30" style="width: 264px; height: 30px">
+<td height="30" style="width: 264px; height: 30px">
 				罗格斯大学新伯朗士威校区Rutgers-New Brunswick</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合排名68</td>
 </tr>
 <tr height="31">
-<td height="31" style="width: 264px; height: 31px">
+<td height="31" style="width: 264px; height: 31px">
 				印地安纳大学伯明顿分校Indiana University, Bloomington</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合排名83</td>
 </tr>
 <tr height="18">
-<td height="121" rowspan="6" style="width: 59px; height: 121px">
+<td height="121" rowspan="6" style="width: 59px; height: 121px">
 				郭芷楠</td>
-<td style="width: 264px">
+<td style="width: 264px">
 				加州大学戴维斯分校 UC–Davis </td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合排名38</td>
-<td colspan="3" rowspan="6" style="width: 275px">
+<td colspan="3" rowspan="6" style="width: 275px">
 				　</td>
 </tr>
 <tr height="18">
-<td height="18" style="width: 264px; height: 18px">
+<td height="18" style="width: 264px; height: 18px">
 				加州大学圣地亚哥分校 UC–San Diego</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合排名38</td>
 </tr>
 <tr height="18">
-<td height="18" style="width: 264px; height: 18px">
+<td height="18" style="width: 264px; height: 18px">
 				斯基德莫尔学院 Skidmore College</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				文理学院43</td>
 </tr>
 <tr height="30">
-<td height="30" style="width: 264px; height: 30px">
+<td height="30" style="width: 264px; height: 30px">
 				华盛顿西雅图大学University of Washington-Seattle</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合大学46</td>
 </tr>
 <tr height="18">
-<td height="18" style="width: 264px; height: 18px">
+<td height="18" style="width: 264px; height: 18px">
 				福特汉姆大学Fordham University</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合大学58 </td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 264px; height: 19px">
+<td height="19" style="width: 264px; height: 19px">
 				加州大学圣塔克鲁斯分校 UC -Santa Cruz</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合大学77</td>
 </tr>
 <tr height="30">
-<td height="151" rowspan="7" style="width: 59px; height: 151px">
+<td height="151" rowspan="7" style="width: 59px; height: 151px">
 				周天睿</td>
-<td style="width: 264px">
+<td style="width: 264px">
 				加州大学戴维斯分校 University of California –Davis</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合大学38</td>
-<td colspan="3" rowspan="7" style="width: 275px">
+<td colspan="3" rowspan="7" style="width: 275px">
 				　</td>
 </tr>
 <tr height="18">
-<td height="18" style="width: 264px; height: 18px">
+<td height="18" style="width: 264px; height: 18px">
 				加州大学圣地亚哥分校 UC–San Diego</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合大学38</td>
 </tr>
 <tr height="18">
-<td height="18" style="width: 264px; height: 18px">
+<td height="18" style="width: 264px; height: 18px">
 				拉斐特学院 Lafayette College</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				文理学院39</td>
 </tr>
 <tr height="18">
-<td height="18" style="width: 264px; height: 18px">
+<td height="18" style="width: 264px; height: 18px">
 				加州大学圣塔芭芭拉分校UC–Santa Barbara</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合大学41</td>
 </tr>
 <tr height="18">
-<td height="18" style="width: 264px; height: 18px">
+<td height="18" style="width: 264px; height: 18px">
 				加州大学圣塔尔湾分校U Ca–Irvine</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合大学44</td>
 </tr>
 <tr height="30">
-<td height="30" style="width: 264px; height: 30px">
+<td height="30" style="width: 264px; height: 30px">
 				富兰克林与马歇尔学院Franklin and Marshall College</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				文理学院46</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 264px; height: 19px">
+<td height="19" style="width: 264px; height: 19px">
 				加州大学圣塔克鲁斯分校 UC -Santa Cruz</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				综合大学77</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 59px; height: 19px">
+<td height="19" style="width: 59px; height: 19px">
 				张超然</td>
-<td style="width: 264px">
+<td style="width: 264px">
 				威顿学院(麻省) Wheaton College</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				文理学院56</td>
-<td colspan="3" style="width: 275px">
+<td colspan="3" style="width: 275px">
 				　</td>
 </tr>
 <tr height="46">
-<td height="46" style="width: 59px; height: 46px">
+<td height="46" style="width: 59px; height: 46px">
 				金  瑞</td>
-<td style="width: 264px">
+<td style="width: 264px">
 				京都大学</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				日本大学综合排名第2名</td>
-<td colspan="3" style="width: 275px">
+<td colspan="3" style="width: 275px">
 				　</td>
 </tr>
 </tbody>

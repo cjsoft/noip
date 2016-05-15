@@ -4,11 +4,11 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-          6月11日辽宁省基础教育教研中心举办辽宁省高中信息技术优质课教学展评活动。我校刘昊老师去年参加大连市说课比赛获得市第一名，成为代表大连市参赛的唯一选手，与来自省内13个城市的选手共同角逐，经过一天半的激烈比赛，以总分第一名的成绩获得省一等奖。
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+          6月11日辽宁省基础教育教研中心举办辽宁省高中信息技术优质课教学展评活动。我校刘昊老师去年参加大连市说课比赛获得市第一名，成为代表大连市参赛的唯一选手，与来自省内13个城市的选手共同角逐，经过一天半的激烈比赛，以总分第一名的成绩获得省一等奖。
 <div style="text-align: center">
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140616/1-140616141923413.JPG" style="width: 700px; height: 393px"http://www.dlhs24.com.cn/><br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140616/1-14061614195b51.JPG" style="width: 700px; height: 393px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140616/1-14061614195b51.JPG" style="width: 700px; height: 393px"http://www.dlhs24.com.cn/><br/>
 	 </div>
 </td>
 </tr>

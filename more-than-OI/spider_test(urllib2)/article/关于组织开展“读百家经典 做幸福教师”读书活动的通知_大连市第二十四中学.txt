@@ -4,11 +4,11 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-          各区市县教师进修学校，各局属学校：<br/>
-   为了更好地落实党的十八大提出的“开展全民阅读活动”的任务，推动学校文化建设的发展，促进我市教师队伍形成良好的读书风气，提高群体素质，在世界读书日即将到来之际，决定在全市教师中倡议并组织开展“读百家经典做幸福教师”读书活动。<br/>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+          各区市县教师进修学校，各局属学校：<br/>
+   为了更好地落实党的十八大提出的“开展全民阅读活动”的任务，推动学校文化建设的发展，促进我市教师队伍形成良好的读书风气，提高群体素质，在世界读书日即将到来之际，决定在全市教师中倡议并组织开展“读百家经典做幸福教师”读书活动。<br/>
    本活动首轮为期一年，将在2014年3月结束。面向全市幼儿园、中小学、职业学校的教育工作者和各级教科研部门的研究人员。<br/>
-<br/>
+<br/>
    活动方案及倡议书见附件。<br/>
 <table width="450">
 <tbody>
@@ -31,10 +31,10 @@
 </tbody>
 </table>
 <br/>
-<div style="text-align: right">
-	大连市教育科学研究所<br/>
-	2013年4月10日<br/>
-	 <br/>
+<div style="text-align: right">
+	大连市教育科学研究所<br/>
+	2013年4月10日<br/>
+	 <br/>
 	 </div>
 </td>
 </tr>

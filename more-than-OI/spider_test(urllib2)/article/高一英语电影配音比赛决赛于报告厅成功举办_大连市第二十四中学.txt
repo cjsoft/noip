@@ -4,12 +4,12 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-       <br/>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+       <br/>
     由外语组主办、校学生会协办的高一英语电影配音比赛决赛于6月15日下午三点在报告厅成功举办。4个参赛组共13名选手通过选拔进入到当天的决赛，并展开了激烈的角逐。<br/>
-<br/>
+<br/>
     各小组从“公主保护日记、简爱、鬼妈妈、马达加斯加”这四部影片中选取了5分钟的片段进行模仿配音。比赛中，选手们展现出非凡的英文配音才能，他们准确的发音、流畅的英语、精确的声画同步赢得了全场热烈的掌声，给在场的每一位观众留下了深刻的印象。比赛期间，舞蹈老师沈笑君为观众表演了优美的民族舞蹈，二十四中街舞社、校民乐团及本年度校园歌手大赛冠军为大赛献上了活力四射的歌舞，大赛特别嘉宾—来访我校的美国拉玛高中学生及老师还为与会观众表演了诗歌短剧—“Christmas Is Coming”。最终，高一十班由王季、王世博、王晏如、纪昊然、杨帆、庞丰宇、董晓航7名选手组成的团队凭借成员们生动的表现脱颖而出，获得特等奖。<br/>
-<br/>
+<br/>
     外语组范华老师、尹俊峰老师、高一年级外教Nick及美国拉玛高中两位教师担任了本次比赛的评委，评委现场打分，评委代表对比赛选手进行了现场点评。黄启成校长、胡敩敏书记等校领导欣赏了高一学生的表演并对学生的精彩表现给予了高度评价。此次比赛中美学生欢聚一堂，增加了我校学生对英语文化的了解。通过大赛，同学们表现出了我校高一学生的优秀英语水平，开拓了眼界，提高了学习英语的热情。（李铁英老师）<br/>
 <br/>
 <table border="0" cellpadding="0" cellspacing="0">
@@ -23,57 +23,57 @@
 <strong>获奖选手</strong></td>
 </tr>
 <tr>
-<td style="width: 84px">
+<td style="width: 84px">
 				特等奖</td>
-<td style="width: 156px">
+<td style="width: 156px">
 				高一十班 林琳</td>
-<td style="width: 252px">
+<td style="width: 252px">
 				王季、王世博、王晏如、纪昊然、杨帆、庞丰宇、董晓航</td>
 </tr>
 <tr>
-<td rowspan="3" style="width: 84px">
+<td rowspan="3" style="width: 84px">
 				一等奖</td>
-<td style="width: 156px">
+<td style="width: 156px">
 				高一一班 李铁英</td>
-<td style="width: 252px">
+<td style="width: 252px">
 				张力丹、朱艺丹</td>
 </tr>
 <tr>
-<td style="width: 156px">
+<td style="width: 156px">
 				高一一班 李铁英</td>
-<td style="width: 252px">
+<td style="width: 252px">
 				张雅婷、黄泽依</td>
 </tr>
 <tr>
-<td style="width: 156px">
+<td style="width: 156px">
 				高一七班 唐丽丽</td>
-<td style="width: 252px">
+<td style="width: 252px">
 				杨子玮、杨俏晨</td>
 </tr>
 <tr>
-<td rowspan="4" style="width: 84px">
+<td rowspan="4" style="width: 84px">
 				二等奖</td>
-<td style="width: 156px">
+<td style="width: 156px">
 				高一二班 李铁英</td>
-<td style="width: 252px">
+<td style="width: 252px">
 				李逸、邢世沛</td>
 </tr>
 <tr>
-<td style="width: 156px">
+<td style="width: 156px">
 				高一二班 李铁英</td>
-<td style="width: 252px">
+<td style="width: 252px">
 				杨觉、张鹿颂、姜挽彤、柴锦</td>
 </tr>
 <tr>
-<td style="width: 156px">
+<td style="width: 156px">
 				高一三班 范华</td>
-<td style="width: 252px">
+<td style="width: 252px">
 				陈宏柢、孙明昊、辛成禹</td>
 </tr>
 <tr>
-<td style="width: 156px">
+<td style="width: 156px">
 				高一九班 林琳</td>
-<td style="width: 252px">
+<td style="width: 252px">
 				孙卓、张楚杰、张东毓、范雪琪、姜佳邑</td>
 </tr>
 </tbody>

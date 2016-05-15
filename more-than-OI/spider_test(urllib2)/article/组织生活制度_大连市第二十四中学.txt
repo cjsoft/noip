@@ -4,11 +4,11 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-      （一）总支或党支部定期过组织生活；每半年召开一次民主生活会。<br/>
-（二）党的组织生活要增强政治性、思想性和原则性，充分发挥民主，认真开展批评与自我批评，表扬先进，帮助后进。<br/>
-（三）组织生活如确有正当理由不能参加，必须事先向党组织请假。
-      
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+      （一）总支或党支部定期过组织生活；每半年召开一次民主生活会。<br/>
+（二）党的组织生活要增强政治性、思想性和原则性，充分发挥民主，认真开展批评与自我批评，表扬先进，帮助后进。<br/>
+（三）组织生活如确有正当理由不能参加，必须事先向党组织请假。
+      
       </td>
 </tr>
 </table>

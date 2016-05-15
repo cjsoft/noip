@@ -23,271 +23,271 @@
 </colgroup>
 <tbody>
 <tr height="57">
-<td height="57" style="width: 27px; height: 57px">
+<td height="57" style="width: 27px; height: 57px">
 				序号</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				姓名</td>
-<td style="width: 33px">
+<td style="width: 33px">
 				性别</td>
-<td style="width: 55px">
+<td style="width: 55px">
 				班级</td>
-<td style="width: 23px">
+<td style="width: 23px">
 				民族</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				出生年月</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				学历</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				职称</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				职务</td>
-<td style="width: 61px">
+<td style="width: 61px">
 				申请入党时间</td>
-<td style="width: 64px">
+<td style="width: 64px">
 				列为积极分子时间</td>
-<td style="width: 57px">
+<td style="width: 57px">
 				拟发展时间</td>
-<td colspan="2" style="width: 120px">
+<td colspan="2" style="width: 120px">
 				培养联系人</td>
 </tr>
 <tr height="57">
-<td height="57" style="width: 27px; height: 57px">
+<td height="57" style="width: 27px; height: 57px">
 				1</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				徐锋</td>
-<td style="width: 33px">
+<td style="width: 33px">
 				男</td>
-<td style="width: 55px">
+<td style="width: 55px">
 				3.1</td>
-<td style="width: 23px">
+<td style="width: 23px">
 				汉</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				1994.10</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				高中</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				　</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				班长、学生会副主席</td>
-<td style="width: 61px">
+<td style="width: 61px">
 				2010.10</td>
-<td style="width: 64px">
+<td style="width: 64px">
 				2011.6</td>
-<td style="width: 57px">
+<td style="width: 57px">
 				2013.6</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				胡颖</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				杨雨平</td>
 </tr>
 <tr height="21">
-<td height="21" style="width: 27px; height: 21px">
+<td height="21" style="width: 27px; height: 21px">
 				2</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				宋维桥</td>
-<td style="width: 33px">
+<td style="width: 33px">
 				男</td>
-<td style="width: 55px">
+<td style="width: 55px">
 				3.3</td>
-<td style="width: 23px">
+<td style="width: 23px">
 				汉</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				1995.1</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				高中</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				　</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				班长</td>
-<td style="width: 61px">
+<td style="width: 61px">
 				2010.11</td>
-<td style="width: 64px">
+<td style="width: 64px">
 				2011.6</td>
-<td style="width: 57px">
+<td style="width: 57px">
 				2013.6</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				王绍勇</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				陈莹</td>
 </tr>
 <tr height="21">
-<td height="21" style="width: 27px; height: 21px">
+<td height="21" style="width: 27px; height: 21px">
 				3</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				徐翠</td>
-<td style="width: 33px">
+<td style="width: 33px">
 				女</td>
-<td style="width: 55px">
+<td style="width: 55px">
 				3.4</td>
-<td style="width: 23px">
+<td style="width: 23px">
 				汉</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				1994.10</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				高中</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				　</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				团支书</td>
-<td style="width: 61px">
+<td style="width: 61px">
 				2010.12</td>
-<td style="width: 64px">
+<td style="width: 64px">
 				2011.6</td>
-<td style="width: 57px">
+<td style="width: 57px">
 				2013.6</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				金辉</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				张洪澜</td>
 </tr>
 <tr height="21">
-<td height="21" style="width: 27px; height: 21px">
+<td height="21" style="width: 27px; height: 21px">
 				4</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				吕温昕</td>
-<td style="width: 33px">
+<td style="width: 33px">
 				女</td>
-<td style="width: 55px">
+<td style="width: 55px">
 				3.10</td>
-<td style="width: 23px">
+<td style="width: 23px">
 				汉</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				1994.9</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				高中</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				　</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				团支书</td>
-<td style="width: 61px">
+<td style="width: 61px">
 				2010.10</td>
-<td style="width: 64px">
+<td style="width: 64px">
 				2011.6</td>
-<td style="width: 57px">
+<td style="width: 57px">
 				2013.6</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				卞丽萍</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				付晓燕</td>
 </tr>
 <tr height="38">
-<td height="38" style="width: 27px; height: 38px">
+<td height="38" style="width: 27px; height: 38px">
 				5</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				崔振鹏</td>
-<td style="width: 33px">
+<td style="width: 33px">
 				男</td>
-<td style="width: 55px">
+<td style="width: 55px">
 				3.11</td>
-<td style="width: 23px">
+<td style="width: 23px">
 				汉</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				1994.10</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				高中</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				　</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				团组织委员</td>
-<td style="width: 61px">
+<td style="width: 61px">
 				2010.9</td>
-<td style="width: 64px">
+<td style="width: 64px">
 				2011.6</td>
-<td style="width: 57px">
+<td style="width: 57px">
 				2013.6</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				孙玉萍</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				卞丽萍</td>
 </tr>
 <tr height="21">
-<td height="21" style="width: 27px; height: 21px">
+<td height="21" style="width: 27px; height: 21px">
 				6</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				姬潇依</td>
-<td style="width: 33px">
+<td style="width: 33px">
 				女</td>
-<td style="width: 55px">
+<td style="width: 55px">
 				3.11</td>
-<td style="width: 23px">
+<td style="width: 23px">
 				汉</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				1995.3</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				高中</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				　</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				班长</td>
-<td style="width: 61px">
+<td style="width: 61px">
 				2010.11</td>
-<td style="width: 64px">
+<td style="width: 64px">
 				2011.6</td>
-<td style="width: 57px">
+<td style="width: 57px">
 				2013.6</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				孙玉萍</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				洪卫</td>
 </tr>
 <tr height="57">
-<td height="57" style="width: 27px; height: 57px">
+<td height="57" style="width: 27px; height: 57px">
 				7</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				王忠良</td>
-<td style="width: 33px">
+<td style="width: 33px">
 				男</td>
-<td style="width: 55px">
+<td style="width: 55px">
 				英语组</td>
-<td style="width: 23px">
+<td style="width: 23px">
 				汉</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				1984.5</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				大本</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				初级</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				国际部主任助理</td>
-<td style="width: 61px">
+<td style="width: 61px">
 				2010.1</td>
-<td style="width: 64px">
+<td style="width: 64px">
 				2010.6</td>
-<td style="width: 57px">
+<td style="width: 57px">
 				2013.6</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				胡颖</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				韩秋</td>
 </tr>
 <tr height="21">
-<td height="21" style="width: 27px; height: 21px">
+<td height="21" style="width: 27px; height: 21px">
 				8</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				吴晓静</td>
-<td style="width: 33px">
+<td style="width: 33px">
 				女</td>
-<td style="width: 55px">
+<td style="width: 55px">
 				化学组</td>
-<td style="width: 23px">
+<td style="width: 23px">
 				汉</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				1977.5</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				研究生</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				高级</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				教师</td>
-<td style="width: 61px">
+<td style="width: 61px">
 				2010.3</td>
-<td style="width: 64px">
+<td style="width: 64px">
 				2010.6</td>
-<td style="width: 57px">
+<td style="width: 57px">
 				2013.6</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				杨春英</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				崔殿宝</td>
 </tr>
 </tbody>

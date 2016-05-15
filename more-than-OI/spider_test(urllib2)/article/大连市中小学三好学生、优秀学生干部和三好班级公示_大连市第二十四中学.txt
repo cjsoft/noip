@@ -5,7 +5,7 @@
 <table width="100%">
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-<strong>    根据《大连市教育局关于评选大连市中小学三好学生、优秀学生干部和三好班级的通知》 ，经个人申报，学生处、教务处、团委、年级组联合评议，经学校领导班子研究，我校推荐如下同学和集体参评：</strong><br/>
+<strong>    根据《大连市教育局关于评选大连市中小学三好学生、优秀学生干部和三好班级的通知》 ，经个人申报，学生处、教务处、团委、年级组联合评议，经学校领导班子研究，我校推荐如下同学和集体参评：</strong><br/>
    <br/>
 <strong>    大连市中小学三好学生：    </strong><br/>
 <strong>    王天舒（1年11班） 董天舒（2年1班）</strong><br/>
@@ -16,9 +16,9 @@
 <strong>    </strong><strong>卢紫旭（1年5班）李  逸（2年2班）</strong><br/>
 <strong>    </strong><strong>蔡高阳（3年11班）</strong><br/>
 <strong>    </strong><strong>大连市中小学三好班级：    </strong><br/>
-<strong>    </strong><strong>2</strong><strong>年1班     2年2班</strong> <br/>
- <br/>
-                        
+<strong>    </strong><strong>2</strong><strong>年1班     2年2班</strong> <br/>
+ <br/>
+                        
 <div style="text-align: right; ">
 <strong>大连市第二十四中学</strong><br/>
 <strong>2013</strong><strong>年3月22日</strong></div>

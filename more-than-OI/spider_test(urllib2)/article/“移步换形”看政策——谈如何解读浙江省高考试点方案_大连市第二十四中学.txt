@@ -6,8 +6,8 @@
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
 <div style="text-align: center">
-<span style="display: inline! important; float: none; word-spacing: 0px; font: bold 14px/26px 宋体; text-transform: none; color: rgb(130,126,123); text-indent: 0px; white-space: normal; letter-spacing: normal; background-color: rgb(230,245,252); orphans: auto; widows: auto; webkit-text-stroke-width: 0px"><span style="display: inline! important; float: none; word-spacing: 0px; font: bold 24px/36px 宋体; text-transform: none; color: rgb(51,51,51); text-indent: 0px; white-space: normal; letter-spacing: normal; background-color: rgb(230,245,252); orphans: auto; widows: auto; webkit-text-stroke-width: 0px">“移步换形”看政策</span><br/>
-	——谈如何解读浙江省高考试点方案</span><br/>
+<span style="display: inline! important; float: none; word-spacing: 0px; font: bold 14px/26px 宋体; text-transform: none; color: rgb(130,126,123); text-indent: 0px; white-space: normal; letter-spacing: normal; background-color: rgb(230,245,252); orphans: auto; widows: auto; webkit-text-stroke-width: 0px"><span style="display: inline! important; float: none; word-spacing: 0px; font: bold 24px/36px 宋体; text-transform: none; color: rgb(51,51,51); text-indent: 0px; white-space: normal; letter-spacing: normal; background-color: rgb(230,245,252); orphans: auto; widows: auto; webkit-text-stroke-width: 0px">“移步换形”看政策</span><br/>
+	——谈如何解读浙江省高考试点方案</span><br/>
 	 </div>
 <div>
 <p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; word-spacing: 0px; font: 14px/21px 宋体; text-transform: none; color: rgb(0,0,0); text-indent: 0px; padding-top: 0px; white-space: normal; letter-spacing: normal; background-color: rgb(230,245,252); text-align: left; orphans: auto; widows: auto; webkit-text-stroke-width: 0px">

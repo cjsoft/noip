@@ -6,9 +6,9 @@
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
 <div style="text-align: center">
-<strong><font color="#000000"><img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/130401/1-130401192245Q4.JPG" style="width: 600px; height: 400px; "http://www.dlhs24.com.cn/></font></strong><br/>
+<strong><font color="#000000"><img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/130401/1-130401192245Q4.JPG" style="width: 600px; height: 400px; "http://www.dlhs24.com.cn/></font></strong><br/>
 	 </div>
-<div>
+<div>
 	 <br/>
 <p align="left">
 <span style="color: rgb(0, 0, 0); ">    </span><font color="#000000">大连第24中学历史教研组现有专业教师5人，其中研究生一人，研究生课程班毕业一人，以中年教师为主体，是一支具有高学历、高职称，高素质，结构合理的教学与研究团队。</font><br/>

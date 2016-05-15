@@ -4,13 +4,13 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-            截止至4月1日，我校国际部已陆续收到多个振奋人心的海外大学录取结果。<br/>
-      美国方面，多名同学获得名校录取,其中包括三年十二班的孙巳晴(Iliana)同学被杜克大学Duke University (综合排名全美第7)录取。她同时也被美国威廉玛丽学院College of William and Mary（综合排名全美第32）心理学专业录取。三年十二班的陈晨(Richard)同学被美国加州大学伯克利分校University of California – Berkeley（综合排名全美第20，公立大学排名第1)数学专业录取。三年十二班的毕加璐（Gia）同学被美国加州大学伯克利分校University of California – Berkeley（综合排名全美第20，公立大学排名第1)录取及美国布兰迪斯大学Brandeis University提前录取(ED)。三年十三班的王泽宇（Michael）和三年十二班的时子为（Cyrus）两位同学同时被罗切斯特大学University of Rochester(综合排名全美第32)录取并获丰厚奖学金。班级大多数同学已收到美国排名前50名学校的录取信。<br/>
-      英国方面，所有申请者都已收到理想大学的录取。田思琪、丁媛、李清语等同学均获全英排名前10大学热门专业本科课程的学习机会。<br/>
-      加拿大方面，三年十三班的杨旭鹏同学(William)被包括西蒙菲莎大学（University of Simon Fraser）、卡尔加里大学（University of Calgary）和滑铁卢大学（University of Waterloo）在内的四所大学录取。<br/>
-      很多同学目前同时拥有美、英多所知名大学的录取通知书。他们在录取中取得的骄人成绩和24中国际部所有任课教师、升学指导老师及所有教职员工的指导和专业化的帮助是分不开的。
-      
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+            截止至4月1日，我校国际部已陆续收到多个振奋人心的海外大学录取结果。<br/>
+      美国方面，多名同学获得名校录取,其中包括三年十二班的孙巳晴(Iliana)同学被杜克大学Duke University (综合排名全美第7)录取。她同时也被美国威廉玛丽学院College of William and Mary（综合排名全美第32）心理学专业录取。三年十二班的陈晨(Richard)同学被美国加州大学伯克利分校University of California – Berkeley（综合排名全美第20，公立大学排名第1)数学专业录取。三年十二班的毕加璐（Gia）同学被美国加州大学伯克利分校University of California – Berkeley（综合排名全美第20，公立大学排名第1)录取及美国布兰迪斯大学Brandeis University提前录取(ED)。三年十三班的王泽宇（Michael）和三年十二班的时子为（Cyrus）两位同学同时被罗切斯特大学University of Rochester(综合排名全美第32)录取并获丰厚奖学金。班级大多数同学已收到美国排名前50名学校的录取信。<br/>
+      英国方面，所有申请者都已收到理想大学的录取。田思琪、丁媛、李清语等同学均获全英排名前10大学热门专业本科课程的学习机会。<br/>
+      加拿大方面，三年十三班的杨旭鹏同学(William)被包括西蒙菲莎大学（University of Simon Fraser）、卡尔加里大学（University of Calgary）和滑铁卢大学（University of Waterloo）在内的四所大学录取。<br/>
+      很多同学目前同时拥有美、英多所知名大学的录取通知书。他们在录取中取得的骄人成绩和24中国际部所有任课教师、升学指导老师及所有教职员工的指导和专业化的帮助是分不开的。
+      
       </td>
 </tr>
 </table>

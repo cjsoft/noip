@@ -28,7 +28,7 @@
 <strong>地理</strong></td>
 <td style="width: 162px">
 <strong>烘  焙</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				想自己动手在家里做出美味的点心吗？想从朋友的眼神中得到羡慕吗？我们一起动手做健康西点吧！为了自己，为了家人！通过本课学习基本能做20—30种烘焙作品！</td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@
 <strong>历史</strong></td>
 <td style="width: 162px">
 <strong>国际关系风云</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				 </td>
 </tr>
 <tr>
@@ -52,7 +52,7 @@
 <strong>综合</strong></td>
 <td style="width: 162px">
 <strong>桥  牌</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				 </td>
 </tr>
 <tr>
@@ -64,19 +64,19 @@
 <strong>数学</strong></td>
 <td style="width: 162px">
 <strong>高等数学背景下的高考压轴题</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				 </td>
 </tr>
 <tr>
 <td style="width: 52px">
 <strong>5</strong></td>
-<td style="width: 76px">
+<td style="width: 76px">
 				 <strong>刘桂娟</strong></td>
 <td style="width: 58px">
 <strong>数学</strong></td>
 <td style="width: 162px">
 <strong>数学文化</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				 </td>
 </tr>
 <tr>
@@ -89,8 +89,8 @@
 <strong>数学</strong></td>
 <td style="width: 162px">
 <strong>数学与哲学</strong></td>
-<td style="width: 220px">
-				数学和哲学中有相互渗透包容的地方，有些哲学，是可以通过数来解释。数学影响哲学，更大一些。数学的影响力越来越大。<br/>
+<td style="width: 220px">
+				数学和哲学中有相互渗透包容的地方，有些哲学，是可以通过数来解释。数学影响哲学，更大一些。数学的影响力越来越大。<br/>
 				哲学从一门学科退出，意味着这门学科的诞生。数学渗入一门学科，甚至控制一门学科，意味着这门学科达到成熟的阶段。</td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@
 <strong>英语</strong></td>
 <td style="width: 162px">
 <strong>英语视听说</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				 </td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@
 <td style="width: 162px">
 <strong>英语文化</strong><br/>
 <strong>英语国家概况</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				 </td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@
 <td style="width: 162px">
 <strong>美文美句赏析</strong><br/>
 <strong>及翻译</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				 </td>
 </tr>
 <tr>
@@ -140,7 +140,7 @@
 <strong>英语</strong></td>
 <td style="width: 162px">
 <strong>英文演讲技巧</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				 </td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@
 <strong>英语</strong></td>
 <td style="width: 162px">
 <strong>巧练英语新题型</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				 </td>
 </tr>
 <tr>
@@ -164,7 +164,7 @@
 <strong>英语</strong></td>
 <td style="width: 162px">
 <strong>积极英语听说教程</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				 </td>
 </tr>
 <tr>
@@ -176,7 +176,7 @@
 <strong>英语</strong></td>
 <td style="width: 162px">
 <strong>TED</strong><strong>演讲</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				 </td>
 </tr>
 <tr>
@@ -188,7 +188,7 @@
 <strong>英语</strong></td>
 <td style="width: 162px">
 <strong>魅力词汇学</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				 </td>
 </tr>
 <tr>
@@ -200,7 +200,7 @@
 <strong>物理</strong></td>
 <td style="width: 162px">
 <strong>物理照耀世界</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				 </td>
 </tr>
 <tr>
@@ -212,7 +212,7 @@
 <strong>物理</strong></td>
 <td style="width: 162px">
 <strong>物理</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				内容包括：机械振动、机械波、光学、电磁波、相对论，内容较多。由于属于自主招生考试内容范畴，所以有需要参加自主招生考试的同学可以选修。</td>
 </tr>
 <tr>
@@ -224,7 +224,7 @@
 <strong>政治</strong></td>
 <td style="width: 162px">
 <strong>中西方哲学比较研究</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				以加强学生哲学修养为目标，坚持全面贯彻落实课改精神，开展中西方哲学比较研究，提高青少年思想道德素质，加强对中西方哲学的了解。</td>
 </tr>
 <tr>
@@ -236,7 +236,7 @@
 <strong>政治</strong></td>
 <td style="width: 162px">
 <strong>礼仪教育</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				通过礼仪教育，学习礼仪知识，训练规范的举止言行，培养学生良好的行为习惯，懂得自尊自爱、尊重他人、友好相处，为学生的全面发展奠定基础。</td>
 </tr>
 <tr>
@@ -248,7 +248,7 @@
 <strong>政治</strong></td>
 <td style="width: 162px">
 <strong>法制教育</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				 本课将简单的讲解法制理论，为今后成为合格的守法公民奠定良好的基础。</td>
 </tr>
 <tr>
@@ -260,7 +260,7 @@
 <strong>政治</strong></td>
 <td style="width: 162px">
 <strong>国家与国际组织</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				本课将介绍国家与国际组织的一些基本原理，增加学生对政治常识的了解，同时提升对国际社会政治现象的分析与辨别力。</td>
 </tr>
 <tr>
@@ -273,7 +273,7 @@
 <td style="width: 162px">
 <strong>中国特色社会主义</strong><br/>
 <strong>理论教育</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				本课将系统的讲解中国特色社会主义理论，包括经济理论，政治理论，文化理论等，对于社会主义理论爱好者来说是一次不可错过的机会，也将会为您的终生奠定良好的思想政治基础。</td>
 </tr>
 <tr>
@@ -286,7 +286,7 @@
 <td style="width: 162px">
 <strong>中国文化</strong><br/>
 <strong>经典阅读</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				1．借助工具书、图书馆和互联网查找有关资料，了解论著作者情况、相关背景和论著中涉及的主要问题，排除阅读中遇到的障碍。在整体了解论著内容的基础上，细读教材提供的章节，有侧重地进行探究学习，把握论著的主要观点和基本倾向，了解用以支撑观点的关键材料。2．通过阅读中国古代文化经典，了解中国文化的发展与演进，体会其中蕴含的中华民族精神，为形成一定的传统文化底蕴奠定基础。3．学习从历史发展的角度理解古代文化经典，理解古人的现实处境，从中汲取人生智慧；学会以现代观念审视古代文化作品，评价其积极意义与历史局限，从中寻找现代社会可资借鉴的思想资源。4．学习古代文化作品，积累常用的文言实词、虚词及句式，培养阅读浅易文言文的能力。</td>
 </tr>
 <tr>
@@ -298,7 +298,7 @@
 <strong>语文</strong></td>
 <td style="width: 162px">
 <strong>国学</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				开设《国学》校本课程，旨在通过格物、致知以达到认知世界，诚意、正心、修身以实现完善人格，齐家、治国、平天下以敦促社会理想价值取向的目的。想通过“博学之、审问之、慎思之、明辨之、笃行之”这样一个完整的认知、思考、践行过程而实现人格的完善与超越。</td>
 </tr>
 <tr>
@@ -310,7 +310,7 @@
 <strong>语文</strong></td>
 <td style="width: 162px">
 <strong>汉语的词汇</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				第六版《现代汉语词典》的出版，在我国社会引起了不小的反响，关于收录“宅男、宅女”、“剩男、剩女”等带有消极色彩的新兴词语，以及收录了“NBA、KTV”等西文字母词语等等作法，受到了不小的争议。我们暂且搁置这些，透过争议来看，国家和大众都日益重视汉语词汇的规范与发展已成为不争的事实，在中国国国际地位日益提高，汉语的国际影响力日益增强的大背景下，加强对本国公民尤其是青少年的汉语知识的教育以及汉语能力的培养就显得尤为重要了。</td>
 </tr>
 <tr>
@@ -322,7 +322,7 @@
 <strong>综合</strong></td>
 <td style="width: 162px; height: 6px">
 <strong>茶艺</strong></td>
-<td style="width: 220px; height: 6px">
+<td style="width: 220px; height: 6px">
 				 </td>
 </tr>
 <tr>
@@ -334,7 +334,7 @@
 <strong>英语</strong></td>
 <td style="width: 162px">
 <strong>英语写作</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				 </td>
 </tr>
 <tr>
@@ -346,7 +346,7 @@
 <strong>数学</strong></td>
 <td style="width: 162px">
 <strong>数学思维</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				 </td>
 </tr>
 <tr>
@@ -358,7 +358,7 @@
 <strong>数学</strong></td>
 <td style="width: 162px">
 <strong>数学分析</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				 </td>
 </tr>
 <tr>
@@ -366,15 +366,15 @@
 <strong>29</strong></td>
 <td style="width: 76px">
 <strong>杨雨平孙宇光王绍勇刘驰罡徐连红</strong></td>
-<td style="width: 58px">
+<td style="width: 58px">
 				 </td>
 <td style="width: 162px">
 <strong>蓝色国土的</strong><br/>
-<strong>开发与保护</strong><br/>
+<strong>开发与保护</strong><br/>
 				 </td>
-<td style="width: 220px">
-				资源与环境是人类生存和发展的基本条件。生产力的飞跃发展、社会的文明进步、国家的繁荣富强，都与<a href="http://zhidao.baidu.com/search?word=%E8%B5%84%E6%BA%90%E7%8E%AF%E5%A2%83&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">资源环境</a>条件息息相关资源的安全是国家的安全，资源的危机是民族的危机。海洋占地球表面的71%，是各国分别占有和世界共有的。世界海洋中有2.5亿<a href="http://zhidao.baidu.com/search?word=%E5%B9%B3%E6%96%B9%E5%8D%83%E7%B1%B3&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">平方千米</a><a href="http://zhidao.baidu.com/search?word=%E5%85%AC%E6%B5%B7&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">公海</a>和<a href="http://zhidao.baidu.com/search?word=%E5%9B%BD%E9%99%85%E6%B5%B7%E5%BA%95%E5%8C%BA%E5%9F%9F&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">国际海底区域</a>，其中有丰富的共有<a href="http://zhidao.baidu.com/search?word=%E6%B5%B7%E6%B4%8B%E8%B5%84%E6%BA%90&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">海洋资源</a>。海洋是富饶而未充分开发的资源宝库。随着陆地<a href="http://zhidao.baidu.com/search?word=%E6%88%98%E7%95%A5%E8%B5%84%E6%BA%90&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">战略资源</a>的日益短缺，沿海各国不断加大向海洋索取资源的力度和强度，重视对海洋“<a href="http://zhidao.baidu.com/search?word=%E8%93%9D%E8%89%B2%E5%9B%BD%E5%9C%9F&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">蓝色国土</a>”的开发利用和保护。<br/>
-				我国是世界上人口最多的沿海国家，国土跨越热带、亚热带和温带，东南濒临渤海、黄海、东海和南海，岸线漫长，港湾众多，海域辽阔。广袤的海洋蕴藏着极其丰富的<a href="http://zhidao.baidu.com/search?word=%E6%B5%B7%E6%B4%8B%E8%B5%84%E6%BA%90&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">海洋资源</a>。我们应该以资源为主体、以资源与经济的关系为中心，对与<a href="http://zhidao.baidu.com/search?word=%E6%B5%B7%E6%B4%8B%E8%B5%84%E6%BA%90%E5%BC%80%E5%8F%91&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">海洋资源开发</a>保护相关的人口、环境、科技、管理问题，进行整体思考，做出准确的发展定位和<a href="http://zhidao.baidu.com/search?word=%E6%88%98%E7%95%A5%E9%80%89%E6%8B%A9&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">战略选择</a>，使海洋成为战略性食物资源、<a href="http://zhidao.baidu.com/search?word=%E7%9F%BF%E4%BA%A7%E8%B5%84%E6%BA%90&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">矿产资源</a>、水资源和金属资源基地，成为我国融入<a href="http://zhidao.baidu.com/search?word=%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E4%BD%93%E7%B3%BB&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">全球经济体系</a>的<a href="http://zhidao.baidu.com/search?word=%E7%89%A9%E6%B5%81%E9%80%9A&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">物流通</a>道和生存发展空间。<br/>
+<td style="width: 220px">
+				资源与环境是人类生存和发展的基本条件。生产力的飞跃发展、社会的文明进步、国家的繁荣富强，都与<a href="http://zhidao.baidu.com/search?word=%E8%B5%84%E6%BA%90%E7%8E%AF%E5%A2%83&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">资源环境</a>条件息息相关资源的安全是国家的安全，资源的危机是民族的危机。海洋占地球表面的71%，是各国分别占有和世界共有的。世界海洋中有2.5亿<a href="http://zhidao.baidu.com/search?word=%E5%B9%B3%E6%96%B9%E5%8D%83%E7%B1%B3&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">平方千米</a><a href="http://zhidao.baidu.com/search?word=%E5%85%AC%E6%B5%B7&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">公海</a>和<a href="http://zhidao.baidu.com/search?word=%E5%9B%BD%E9%99%85%E6%B5%B7%E5%BA%95%E5%8C%BA%E5%9F%9F&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">国际海底区域</a>，其中有丰富的共有<a href="http://zhidao.baidu.com/search?word=%E6%B5%B7%E6%B4%8B%E8%B5%84%E6%BA%90&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">海洋资源</a>。海洋是富饶而未充分开发的资源宝库。随着陆地<a href="http://zhidao.baidu.com/search?word=%E6%88%98%E7%95%A5%E8%B5%84%E6%BA%90&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">战略资源</a>的日益短缺，沿海各国不断加大向海洋索取资源的力度和强度，重视对海洋“<a href="http://zhidao.baidu.com/search?word=%E8%93%9D%E8%89%B2%E5%9B%BD%E5%9C%9F&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">蓝色国土</a>”的开发利用和保护。<br/>
+				我国是世界上人口最多的沿海国家，国土跨越热带、亚热带和温带，东南濒临渤海、黄海、东海和南海，岸线漫长，港湾众多，海域辽阔。广袤的海洋蕴藏着极其丰富的<a href="http://zhidao.baidu.com/search?word=%E6%B5%B7%E6%B4%8B%E8%B5%84%E6%BA%90&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">海洋资源</a>。我们应该以资源为主体、以资源与经济的关系为中心，对与<a href="http://zhidao.baidu.com/search?word=%E6%B5%B7%E6%B4%8B%E8%B5%84%E6%BA%90%E5%BC%80%E5%8F%91&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">海洋资源开发</a>保护相关的人口、环境、科技、管理问题，进行整体思考，做出准确的发展定位和<a href="http://zhidao.baidu.com/search?word=%E6%88%98%E7%95%A5%E9%80%89%E6%8B%A9&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">战略选择</a>，使海洋成为战略性食物资源、<a href="http://zhidao.baidu.com/search?word=%E7%9F%BF%E4%BA%A7%E8%B5%84%E6%BA%90&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">矿产资源</a>、水资源和金属资源基地，成为我国融入<a href="http://zhidao.baidu.com/search?word=%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E4%BD%93%E7%B3%BB&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">全球经济体系</a>的<a href="http://zhidao.baidu.com/search?word=%E7%89%A9%E6%B5%81%E9%80%9A&amp;fr=qb_search_exp&amp;ie=utf8&amp;eid_gfrom=151" target="_blank">物流通</a>道和生存发展空间。<br/>
 				本课程跨物理、数学、地理三学科，以海洋能源、空间资源、旅游资源开发和海上逃生为主线，意在培养学生创造性思维和小组合作探究能力。</td>
 </tr>
 <tr>
@@ -386,7 +386,7 @@
 <strong>生物</strong></td>
 <td style="width: 162px">
 <strong>生物技术实践</strong></td>
-<td style="width: 220px">
+<td style="width: 220px">
 				你想亲自制作果酒、果醋、腐乳和泡菜吗？来到这里，相信你收获的不仅仅是美酒等食品，还有难以忘怀的种种乐趣！</td>
 </tr>
 <tr>

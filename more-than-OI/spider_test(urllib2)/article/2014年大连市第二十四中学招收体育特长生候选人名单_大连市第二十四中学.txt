@@ -18,235 +18,235 @@
 </colgroup>
 <tbody>
 <tr height="19">
-<td height="19" style="width: 44px; height: 19px">
+<td height="19" style="width: 44px; height: 19px">
 				序号</td>
-<td style="width: 164px">
+<td style="width: 164px">
 				学校</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				姓名</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				性别</td>
-<td style="width: 93px">
+<td style="width: 93px">
 				中考报名号</td>
-<td style="width: 191px">
+<td style="width: 191px">
 				毕业学校</td>
-<td style="width: 76px">
+<td style="width: 76px">
 				特长项目</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
+<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
 				1</td>
-<td style="width: 164px">
+<td style="width: 164px">
 				大连市第二十四中学</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				满源</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				男</td>
-<td style="width: 93px" u1:num="">
+<td style="width: 93px" u1:num="">
 				0204040820</td>
-<td style="width: 191px">
+<td style="width: 191px">
 				大连市第4中学</td>
-<td style="width: 76px">
+<td style="width: 76px">
 				400米</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
+<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
 				2</td>
-<td style="width: 164px">
+<td style="width: 164px">
 				大连市第二十四中学</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				曲宏懿</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				男</td>
-<td style="width: 93px" u1:num="">
+<td style="width: 93px" u1:num="">
 				0202391244</td>
-<td style="width: 191px">
+<td style="width: 191px">
 				大连市第39中学</td>
-<td style="width: 76px">
+<td style="width: 76px">
 				200米</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
+<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
 				3</td>
-<td style="width: 164px">
+<td style="width: 164px">
 				大连市第二十四中学</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				孔志丹</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				女</td>
-<td style="width: 93px" u1:num="">
+<td style="width: 93px" u1:num="">
 				0203340434</td>
-<td style="width: 191px">
+<td style="width: 191px">
 				大连市第34中学</td>
-<td style="width: 76px">
+<td style="width: 76px">
 				排球</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
+<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
 				4</td>
-<td style="width: 164px">
+<td style="width: 164px">
 				大连市第二十四中学</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				孙怡然</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				女</td>
-<td style="width: 93px" u1:num="">
+<td style="width: 93px" u1:num="">
 				0203340136</td>
-<td style="width: 191px">
+<td style="width: 191px">
 				大连市第34中学</td>
-<td style="width: 76px">
+<td style="width: 76px">
 				排球</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
+<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
 				5</td>
-<td style="width: 164px">
+<td style="width: 164px">
 				大连市第二十四中学</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				任翔</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				女</td>
-<td style="width: 93px" u1:num="">
+<td style="width: 93px" u1:num="">
 				0202391036</td>
-<td style="width: 191px">
+<td style="width: 191px">
 				大连市第39中学</td>
-<td style="width: 76px">
+<td style="width: 76px">
 				排球</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
+<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
 				6</td>
-<td style="width: 164px">
+<td style="width: 164px">
 				大连市第二十四中学</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				严文玲</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				女</td>
-<td style="width: 93px" u1:num="">
+<td style="width: 93px" u1:num="">
 				0202650532</td>
-<td style="width: 191px">
+<td style="width: 191px">
 				大连市中山实验中学</td>
-<td style="width: 76px">
+<td style="width: 76px">
 				排球</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
+<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
 				7</td>
-<td style="width: 164px">
+<td style="width: 164px">
 				大连市第二十四中学</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				毕骞汇</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				女</td>
-<td style="width: 93px" u1:num="">
+<td style="width: 93px" u1:num="">
 				0213340431</td>
-<td style="width: 191px">
+<td style="width: 191px">
 				大连市金州新区第4中学</td>
-<td style="width: 76px">
+<td style="width: 76px">
 				排球</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
+<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
 				8</td>
-<td style="width: 164px">
+<td style="width: 164px">
 				大连市第二十四中学</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				王绎丞</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				男</td>
-<td style="width: 93px" u1:num="">
+<td style="width: 93px" u1:num="">
 				0202090917</td>
-<td style="width: 191px">
+<td style="width: 191px">
 				大连市第9中学</td>
-<td style="width: 76px">
+<td style="width: 76px">
 				网球</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
+<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
 				9</td>
-<td style="width: 164px">
+<td style="width: 164px">
 				大连市第二十四中学</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				於文浩</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				男</td>
-<td style="width: 93px" u1:num="">
+<td style="width: 93px" u1:num="">
 				0202390709</td>
-<td style="width: 191px">
+<td style="width: 191px">
 				大连市第39中学</td>
-<td style="width: 76px">
+<td style="width: 76px">
 				网球</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
+<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
 				10</td>
-<td style="width: 164px">
+<td style="width: 164px">
 				大连市第二十四中学</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				黄冠铖</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				男</td>
-<td style="width: 93px" u1:num="">
+<td style="width: 93px" u1:num="">
 				0204550251</td>
-<td style="width: 191px">
+<td style="width: 191px">
 				大连市格致中学</td>
-<td style="width: 76px">
+<td style="width: 76px">
 				网球</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
+<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
 				11</td>
-<td style="width: 164px">
+<td style="width: 164px">
 				大连市第二十四中学</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				赵天舒</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				男</td>
-<td style="width: 93px" u1:num="">
+<td style="width: 93px" u1:num="">
 				0203370210</td>
-<td style="width: 191px">
+<td style="width: 191px">
 				大连市第37中学</td>
-<td style="width: 76px">
+<td style="width: 76px">
 				羽毛球</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
+<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
 				12</td>
-<td style="width: 164px">
+<td style="width: 164px">
 				大连市第二十四中学</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				王潇凝</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				女</td>
-<td style="width: 93px" u1:num="">
+<td style="width: 93px" u1:num="">
 				0202390840</td>
-<td style="width: 191px">
+<td style="width: 191px">
 				大连市第39中学</td>
-<td style="width: 76px">
+<td style="width: 76px">
 				羽毛球</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
+<td height="19" style="width: 44px; height: 19px" u1:num="" x:num="">
 				13</td>
-<td style="width: 164px">
+<td style="width: 164px">
 				大连市第二十四中学</td>
-<td style="width: 60px">
+<td style="width: 60px">
 				赵泓博</td>
-<td style="width: 44px">
+<td style="width: 44px">
 				男</td>
-<td style="width: 93px" u1:num="">
+<td style="width: 93px" u1:num="">
 				0202100602</td>
-<td style="width: 191px">
+<td style="width: 191px">
 				大连市嘉汇中学</td>
-<td style="width: 76px">
+<td style="width: 76px">
 				羽毛球</td>
 </tr>
 </tbody>
 </table>
 <br/>
-<div style="text-align: right">
-	大连市第二十四中学<br/>
-	2014年6月4日<br/>
+<div style="text-align: right">
+	大连市第二十四中学<br/>
+	2014年6月4日<br/>
 	 </div>
 </td>
 </tr>

@@ -4,7 +4,7 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
           在最近召开的大连市第五批高中学生研究性学习成果评比中，我校高三九班石明宇、周志奕、赵智博、阎善文的研究成果《关于延伸29路公交线路的可行性研究》获得大连市一等奖，高三四班谢凯遴、姜诗雯、陶辛林、朱秋楠的研究成果《电子产品品牌对高中生消费心理的影响》获得大连市二等奖，我校荣获大连市优秀组织奖。<br/>
 </td>
 </tr>

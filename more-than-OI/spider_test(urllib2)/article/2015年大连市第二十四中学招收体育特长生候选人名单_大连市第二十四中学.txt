@@ -5,7 +5,7 @@
 <table width="100%">
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-<p>
+<p>
 	 </p>
 <br/>
 <table border="1" cellpadding="0" cellspacing="0" style="width: 576px" width="574">
@@ -20,275 +20,275 @@
 </colgroup>
 <tbody>
 <tr height="28">
-<td height="28" style="height: 28px; width: 36px">
+<td height="28" style="height: 28px; width: 36px">
 				序号</td>
-<td style="width: 135px">
+<td style="width: 135px">
 				报考学校</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				姓名</td>
-<td style="width: 35px">
+<td style="width: 35px">
 				性别</td>
-<td style="width: 87px">
+<td style="width: 87px">
 				中考报名号</td>
-<td style="width: 159px">
+<td style="width: 159px">
 				毕业学校</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				特长项目</td>
 </tr>
 <tr height="28">
-<td height="28" style="height: 28px">
+<td height="28" style="height: 28px">
 				1</td>
-<td>
+<td>
 				大连市第二十四中学</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				孙知甜</td>
-<td style="width: 35px">
+<td style="width: 35px">
 				女</td>
-<td style="width: 87px">
+<td style="width: 87px">
 				150213370934</td>
-<td style="width: 159px">
+<td style="width: 159px">
 				开发区第7中学</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				排球</td>
 </tr>
 <tr height="28">
-<td height="28" style="height: 28px">
+<td height="28" style="height: 28px">
 				2</td>
-<td>
+<td>
 				大连市第二十四中学</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				刘卓淇</td>
-<td style="width: 35px">
+<td style="width: 35px">
 				女</td>
-<td style="width: 87px">
+<td style="width: 87px">
 				150203341022</td>
-<td style="width: 159px">
+<td style="width: 159px">
 				大连市第三十四中学</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				排球</td>
 </tr>
 <tr height="28">
-<td height="28" style="height: 28px">
+<td height="28" style="height: 28px">
 				3</td>
-<td>
+<td>
 				大连市第二十四中学</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				彭  茜</td>
-<td style="width: 35px">
+<td style="width: 35px">
 				女</td>
-<td style="width: 87px">
+<td style="width: 87px">
 				150211960151</td>
-<td style="width: 159px">
+<td style="width: 159px">
 				大连市育文中学</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				排球</td>
 </tr>
 <tr height="28">
-<td height="28" style="height: 28px">
+<td height="28" style="height: 28px">
 				4</td>
-<td>
+<td>
 				大连市第二十四中学</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				宋易霖</td>
-<td style="width: 35px">
+<td style="width: 35px">
 				女</td>
-<td style="width: 87px">
+<td style="width: 87px">
 				150202390142</td>
-<td style="width: 159px">
+<td style="width: 159px">
 				大连市第三十九中学</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				排球</td>
 </tr>
 <tr height="28">
-<td height="28" style="height: 28px">
+<td height="28" style="height: 28px">
 				5</td>
-<td>
+<td>
 				大连市第二十四中学</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				王奕丹</td>
-<td style="width: 35px">
+<td style="width: 35px">
 				女</td>
-<td style="width: 87px">
+<td style="width: 87px">
 				150204790604</td>
-<td style="width: 159px">
+<td style="width: 159px">
 				大连市第七十九中学</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				排球</td>
 </tr>
 <tr height="28">
-<td height="28" style="height: 28px">
+<td height="28" style="height: 28px">
 				6</td>
-<td>
+<td>
 				大连市第二十四中学</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				朱香萱</td>
-<td style="width: 35px">
+<td style="width: 35px">
 				女</td>
-<td style="width: 87px">
+<td style="width: 87px">
 				150203340334</td>
-<td style="width: 159px">
+<td style="width: 159px">
 				大连市第三十四中学</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				排球</td>
 </tr>
 <tr height="28">
-<td height="28" style="height: 28px">
+<td height="28" style="height: 28px">
 				7</td>
-<td>
+<td>
 				大连市第二十四中学</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				吴欣雨</td>
-<td style="width: 35px">
+<td style="width: 35px">
 				女</td>
-<td style="width: 87px">
+<td style="width: 87px">
 				150203340834</td>
-<td style="width: 159px">
+<td style="width: 159px">
 				大连市第三十四中学</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				排球</td>
 </tr>
 <tr height="28">
-<td height="28" style="height: 28px">
+<td height="28" style="height: 28px">
 				8</td>
-<td>
+<td>
 				大连市第二十四中学</td>
-<td>
+<td>
 				孙茜琪</td>
-<td style="width: 35px">
+<td style="width: 35px">
 				女</td>
-<td style="width: 87px">
+<td style="width: 87px">
 				150202650323</td>
-<td style="width: 159px">
+<td style="width: 159px">
 				大连中山实验学校</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				排球</td>
 </tr>
 <tr height="28">
-<td height="28" style="height: 28px">
+<td height="28" style="height: 28px">
 				9</td>
-<td>
+<td>
 				大连市第二十四中学</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				姚陆奇</td>
-<td style="width: 35px">
+<td style="width: 35px">
 				女</td>
-<td style="width: 87px">
+<td style="width: 87px">
 				150216020127</td>
-<td style="width: 159px">
+<td style="width: 159px">
 				大连海事大学附属中学</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				羽毛球</td>
 </tr>
 <tr height="28">
-<td height="28" style="height: 28px">
+<td height="28" style="height: 28px">
 				10</td>
-<td>
+<td>
 				大连市第二十四中学</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				高天宇</td>
-<td style="width: 35px">
+<td style="width: 35px">
 				男</td>
-<td style="width: 87px">
+<td style="width: 87px">
 				150211600410</td>
-<td style="width: 159px">
+<td style="width: 159px">
 				大连市汇文中学</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				羽毛球</td>
 </tr>
 <tr height="28">
-<td height="28" style="height: 28px">
+<td height="28" style="height: 28px">
 				11</td>
-<td>
+<td>
 				大连市第二十四中学</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				叶一轩</td>
-<td style="width: 35px">
+<td style="width: 35px">
 				男</td>
-<td style="width: 87px">
+<td style="width: 87px">
 				150204550910</td>
-<td style="width: 159px">
+<td style="width: 159px">
 				大连市格致中学</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				羽毛球</td>
 </tr>
 <tr height="28">
-<td height="28" style="height: 28px">
+<td height="28" style="height: 28px">
 				12</td>
-<td>
+<td>
 				大连市第二十四中学</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				赵  禹</td>
-<td style="width: 35px">
+<td style="width: 35px">
 				男</td>
-<td style="width: 87px">
+<td style="width: 87px">
 				150202390801</td>
-<td style="width: 159px">
+<td style="width: 159px">
 				大连市第三十九中学</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				羽毛球</td>
 </tr>
 <tr height="28">
-<td height="28" style="height: 28px">
+<td height="28" style="height: 28px">
 				13</td>
-<td>
+<td>
 				大连市第二十四中学</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				王子涵</td>
-<td style="width: 35px">
+<td style="width: 35px">
 				女</td>
-<td style="width: 87px">
+<td style="width: 87px">
 				150202440633</td>
-<td style="width: 159px">
+<td style="width: 159px">
 				大连市第四十四中学</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				羽毛球</td>
 </tr>
 <tr height="28">
-<td height="28" style="height: 28px">
+<td height="28" style="height: 28px">
 				14</td>
-<td>
+<td>
 				大连市第二十四中学</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				闫宛平</td>
-<td style="width: 35px">
+<td style="width: 35px">
 				女</td>
-<td style="width: 87px">
+<td style="width: 87px">
 				150202090839</td>
-<td style="width: 159px">
+<td style="width: 159px">
 				大连市第九中学</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				网球</td>
 </tr>
 <tr height="28">
-<td height="28" style="height: 28px">
+<td height="28" style="height: 28px">
 				15</td>
-<td>
+<td>
 				大连市第二十四中学</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				任子龙</td>
-<td style="width: 35px">
+<td style="width: 35px">
 				男</td>
-<td style="width: 87px">
+<td style="width: 87px">
 				150216060206</td>
-<td style="width: 159px">
+<td style="width: 159px">
 				大连高新园区一中</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				网球</td>
 </tr>
 <tr height="28">
-<td height="28" style="height: 28px">
+<td height="28" style="height: 28px">
 				16</td>
-<td>
+<td>
 				大连市第二十四中学</td>
-<td style="width: 59px">
+<td style="width: 59px">
 				蔡  睿</td>
-<td style="width: 35px">
+<td style="width: 35px">
 				女</td>
-<td style="width: 87px">
+<td style="width: 87px">
 				150202390644</td>
-<td style="width: 159px">
+<td style="width: 159px">
 				大连市第三十九中学</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				网球</td>
 </tr>
 </tbody>

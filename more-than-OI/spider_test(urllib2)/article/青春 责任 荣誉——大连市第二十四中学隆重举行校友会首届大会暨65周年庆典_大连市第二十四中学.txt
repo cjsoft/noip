@@ -4,44 +4,44 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-          2014年8月24日上午，大连市第二十四中学隆重举行了以“青春、责任、荣誉”为主题的二十四中校友会首届大会暨六十五周年庆典。<br/>
-    上午8:24分，举行了别开生面的“校史馆”揭幕仪式，黄启成校长、胡敩敏书记邀请二十四中老校长、老领导及杰出校友共同为校史馆揭幕，仪式结束后，黄校长陪同各位领导、校友参观校史馆，了解回味二十四中的发展历程。<br/>
-    上午10:24分，在学校多功能报告厅举行盛大的校友会首届大会暨六十五周年庆典。大会由李振权副校长主持，黄启成校长致欢迎辞，胡敩敏书记接受了94岁高龄的原二十四中校医伏明达女士（杨开英的外甥女）珍藏多年的4件珍贵的校史文物：大连二十四中学第一任校长毛达恂给第一任教务长杨开英（杨开慧的堂妹）的一封书信、杨开英自己用过的一个手包、一个印章和人大代表证等。<br/>
-    大连市人民政府为二十四中校友会首届大会暨六十五周年庆典发来了贺信，贺信中说：多年来，大连二十四中坚持“以人为本、崇尚完美、追求卓越”的办学理念，以“明德、笃志、博学、慎行”为校训，坚持高质量的教学与学生的全面发展，形成了扎实的学风和优良的校风，为社会培养了一大批优秀人才。希望学校以建校65周年为契机，在新的时期继承和发扬优良传统，立足国情和学校实际，以学生发展为本，创新教学方法，探索高素质人才培养模式，努力打造国内领先、国际一流的现代化、有特色的中国名校，在未来的发展历程中再谱华章。国内外的多所友好和共建学校也纷纷发来了贺电和贺信。    <br/>
-    二十四中校友会是东北三省首个在民政局登记注册的校友会组织，从建立伊始，便延续了二十四中人“崇尚完美、追求卓越”的学校精神，其主要职能是交流分享人生经验，为校友之间交流合作搭建平台；做学弟学妹们的坚实后盾，提供创业基金支持；开设培训课堂讲座，养成终身学习的品质及习惯。<br/>
-    二十四中校友会暨六十五周年庆典大会表彰了以学校八六届毕业生、“辽宁号”航母总监造师杨雷等4位杰出校友和从参加工作到离退休一直默默奉献于二十四中的8位教师终身服务奖。<br/>
-    与会者三千多人，济济一堂，笑逐颜开；庆典场面宏大，不少校友捐款、捐物，热情高涨；购买校史，珍藏二十四中纪念邮票和纪念封。在校师生与历届校友演出的精彩文艺节目将大会推向高潮。<br/>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+          2014年8月24日上午，大连市第二十四中学隆重举行了以“青春、责任、荣誉”为主题的二十四中校友会首届大会暨六十五周年庆典。<br/>
+    上午8:24分，举行了别开生面的“校史馆”揭幕仪式，黄启成校长、胡敩敏书记邀请二十四中老校长、老领导及杰出校友共同为校史馆揭幕，仪式结束后，黄校长陪同各位领导、校友参观校史馆，了解回味二十四中的发展历程。<br/>
+    上午10:24分，在学校多功能报告厅举行盛大的校友会首届大会暨六十五周年庆典。大会由李振权副校长主持，黄启成校长致欢迎辞，胡敩敏书记接受了94岁高龄的原二十四中校医伏明达女士（杨开英的外甥女）珍藏多年的4件珍贵的校史文物：大连二十四中学第一任校长毛达恂给第一任教务长杨开英（杨开慧的堂妹）的一封书信、杨开英自己用过的一个手包、一个印章和人大代表证等。<br/>
+    大连市人民政府为二十四中校友会首届大会暨六十五周年庆典发来了贺信，贺信中说：多年来，大连二十四中坚持“以人为本、崇尚完美、追求卓越”的办学理念，以“明德、笃志、博学、慎行”为校训，坚持高质量的教学与学生的全面发展，形成了扎实的学风和优良的校风，为社会培养了一大批优秀人才。希望学校以建校65周年为契机，在新的时期继承和发扬优良传统，立足国情和学校实际，以学生发展为本，创新教学方法，探索高素质人才培养模式，努力打造国内领先、国际一流的现代化、有特色的中国名校，在未来的发展历程中再谱华章。国内外的多所友好和共建学校也纷纷发来了贺电和贺信。    <br/>
+    二十四中校友会是东北三省首个在民政局登记注册的校友会组织，从建立伊始，便延续了二十四中人“崇尚完美、追求卓越”的学校精神，其主要职能是交流分享人生经验，为校友之间交流合作搭建平台；做学弟学妹们的坚实后盾，提供创业基金支持；开设培训课堂讲座，养成终身学习的品质及习惯。<br/>
+    二十四中校友会暨六十五周年庆典大会表彰了以学校八六届毕业生、“辽宁号”航母总监造师杨雷等4位杰出校友和从参加工作到离退休一直默默奉献于二十四中的8位教师终身服务奖。<br/>
+    与会者三千多人，济济一堂，笑逐颜开；庆典场面宏大，不少校友捐款、捐物，热情高涨；购买校史，珍藏二十四中纪念邮票和纪念封。在校师生与历届校友演出的精彩文艺节目将大会推向高潮。<br/>
     与会期间，二百多名在校学生积极承当志愿服务活动，他们不仅周到服务、贴心服务，而且与历届校友建立了一对一友好忘年联系，旨在使青年一代能更好地成长、愉快地生活、健康地发展。<br/>
-<br/>
+<br/>
     耿英年供稿<br/>
 <br/>
-<br/>
+<br/>
 附：黄启成校长讲话：<br/>
-<div style="text-align: center">
-	大连市第二十四中学首届校友大会的讲话<br/>
-	 </div>
-    尊敬的各位领导、来宾、老师们，亲爱的各位校友、同学们：<br/>
-    群贤毕至，少长咸集。金秋八月，母校，欢迎校友回家！<br/>
-    走过辉煌历程的大连二十四中学，迎来了首届校友大会暨六十五岁华诞，借此机会，我要以最诚挚的敬意向今天到会的各位老校友、老教师、老领导，道一声你们好！母校感谢你们！向没能到会的海内外校友道一声珍重，母校想念你们！<br/>
-    我们学校校友会已于2013年9月在大连市民政局正式注册。今天，我们履行程序，隆重召开首届校友大会，并以校友大会的方式庆祝学校六十五岁生日。在这里我们共同见证校友们的成长与成功，共同见证学校的变化与发展。学校感谢校友会一年来所做的所有工作，感谢校友会为今天的大会所做的一切。<br/>
-    岁月如歌。二十四中从1949年的“育才学校”发展至今，一路风雨兼程，树木育人。<br/>
-    六十五年来，二十四中从最初的幼小一体、小初一贯制学校成长为今天中外课程兼备的高级中学。无论时代如何变幻，始终坚持“求真尚美”的校风，始终坚持“一切为学生发展而设计”的育人理念，始终坚持“崇尚完美、追求卓越”的学校精神，始终坚持“成长比成绩更重要”的价值追求。<br/>
-    六十五年来，二十四中与祖国同呼吸共命运，在历次社会变革的大潮中，始终以学生健康成长和全面发展为己任，为祖国培养一批又一批德才兼备、多元发展，具有国际视野和社会责任感高素质人才。通过一代又一代二十四人的努力，逐步成为今天的国内外知名的省级重点中学、示范高中、多元教育特色高中。<br/>
-    教之有道，则人才济济。六十五年，沧桑砥砺、春华秋实；六十五年，书声朗朗，弦歌不绝，英才辈出，桃李天下。<br/>
-    一个小时之前，易址改陈的校史馆正式揭幕。新校史馆力图体现两个特点，一是增加实物突出历史感，二是利用现代化数字平台凸显立体感。当然，时间紧、史料实物有限，难免会有疏漏和不当之处，敬请批评。借此机会，我代表学校向广大校友提几点请求：留下你的联系方式，留下你的成长成功的故事，留下你手中的能引起共同回忆的老物件，我们会在以后不断丰富校史馆的形式和内涵。<br/>
-    我们认为,一所学校的文化,说到底是其独有的价值观和思维方式,它影响学生的终生,关于这一点,我们可以自豪地说,二十四中做到了!<br/>
-    鉴往，为知先贤之任重；察今，乃明后辈之道远。亲爱的校友，母校深信，在你们的记忆深处，一定珍藏着那孕育着希望的绿树红墙，那百芳吐艳却又书声朗朗的小花园，那屹立半个多世纪的“五爱”碑和石钟上的“定时作息，养成规律生活”谆谆教诲……一定不会忘记当年的书生意气、激扬文字、指点江山。如今，不论你是白发皓首，还是青春年少；不论你是颐养天年，还是重任在肩；也不论你是弄潮商海、叱咤政坛、躬耕科教、奉献国防，二十四中人一定是“为天地立心，为生民立命，为往圣继绝学，为万世开太平”。<br/>
-    今天大会的主题是“青春 责任 荣誉”。母校希望校友，热爱生活，永葆青春活力，为母校新的光荣与梦想，建言献策，贡献智慧和力量；也希望在校友会这个平台上，交流共享，展示风采，共铸明天。<br/>
-    亲爱的校友，据说衡量一所“名校”的国际通行标准有三：1、在校生认可；2、毕业生认可；3、毕业生的回报率（当然，包括精神和物质的回报）。我们认为，能够得到在校生和毕业生的认可，这才是也应该是我们的办学目的和永恒的价值追求！<br/>
-    最后，祝各位身体健康，万事顺意！<br/>
-    谢谢大家！
-<p>
+<div style="text-align: center">
+	大连市第二十四中学首届校友大会的讲话<br/>
+	 </div>
+    尊敬的各位领导、来宾、老师们，亲爱的各位校友、同学们：<br/>
+    群贤毕至，少长咸集。金秋八月，母校，欢迎校友回家！<br/>
+    走过辉煌历程的大连二十四中学，迎来了首届校友大会暨六十五岁华诞，借此机会，我要以最诚挚的敬意向今天到会的各位老校友、老教师、老领导，道一声你们好！母校感谢你们！向没能到会的海内外校友道一声珍重，母校想念你们！<br/>
+    我们学校校友会已于2013年9月在大连市民政局正式注册。今天，我们履行程序，隆重召开首届校友大会，并以校友大会的方式庆祝学校六十五岁生日。在这里我们共同见证校友们的成长与成功，共同见证学校的变化与发展。学校感谢校友会一年来所做的所有工作，感谢校友会为今天的大会所做的一切。<br/>
+    岁月如歌。二十四中从1949年的“育才学校”发展至今，一路风雨兼程，树木育人。<br/>
+    六十五年来，二十四中从最初的幼小一体、小初一贯制学校成长为今天中外课程兼备的高级中学。无论时代如何变幻，始终坚持“求真尚美”的校风，始终坚持“一切为学生发展而设计”的育人理念，始终坚持“崇尚完美、追求卓越”的学校精神，始终坚持“成长比成绩更重要”的价值追求。<br/>
+    六十五年来，二十四中与祖国同呼吸共命运，在历次社会变革的大潮中，始终以学生健康成长和全面发展为己任，为祖国培养一批又一批德才兼备、多元发展，具有国际视野和社会责任感高素质人才。通过一代又一代二十四人的努力，逐步成为今天的国内外知名的省级重点中学、示范高中、多元教育特色高中。<br/>
+    教之有道，则人才济济。六十五年，沧桑砥砺、春华秋实；六十五年，书声朗朗，弦歌不绝，英才辈出，桃李天下。<br/>
+    一个小时之前，易址改陈的校史馆正式揭幕。新校史馆力图体现两个特点，一是增加实物突出历史感，二是利用现代化数字平台凸显立体感。当然，时间紧、史料实物有限，难免会有疏漏和不当之处，敬请批评。借此机会，我代表学校向广大校友提几点请求：留下你的联系方式，留下你的成长成功的故事，留下你手中的能引起共同回忆的老物件，我们会在以后不断丰富校史馆的形式和内涵。<br/>
+    我们认为,一所学校的文化,说到底是其独有的价值观和思维方式,它影响学生的终生,关于这一点,我们可以自豪地说,二十四中做到了!<br/>
+    鉴往，为知先贤之任重；察今，乃明后辈之道远。亲爱的校友，母校深信，在你们的记忆深处，一定珍藏着那孕育着希望的绿树红墙，那百芳吐艳却又书声朗朗的小花园，那屹立半个多世纪的“五爱”碑和石钟上的“定时作息，养成规律生活”谆谆教诲……一定不会忘记当年的书生意气、激扬文字、指点江山。如今，不论你是白发皓首，还是青春年少；不论你是颐养天年，还是重任在肩；也不论你是弄潮商海、叱咤政坛、躬耕科教、奉献国防，二十四中人一定是“为天地立心，为生民立命，为往圣继绝学，为万世开太平”。<br/>
+    今天大会的主题是“青春 责任 荣誉”。母校希望校友，热爱生活，永葆青春活力，为母校新的光荣与梦想，建言献策，贡献智慧和力量；也希望在校友会这个平台上，交流共享，展示风采，共铸明天。<br/>
+    亲爱的校友，据说衡量一所“名校”的国际通行标准有三：1、在校生认可；2、毕业生认可；3、毕业生的回报率（当然，包括精神和物质的回报）。我们认为，能够得到在校生和毕业生的认可，这才是也应该是我们的办学目的和永恒的价值追求！<br/>
+    最后，祝各位身体健康，万事顺意！<br/>
+    谢谢大家！
+<p>
 	 </p>
-<p style="text-align: right">
-	黄启成<br/>
+<p style="text-align: right">
+	黄启成<br/>
 	二〇一四年八月二十四日<br/>
-<br/>
+<br/>
 	 </p>
 <div style="text-align: center">
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR219422I.JPG" style="width: 700px; height: 466px"http://www.dlhs24.com.cn/><br/>
@@ -49,35 +49,35 @@
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR22313220.JPG" style="width: 700px; height: 466px"http://www.dlhs24.com.cn/><br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR22324C8.JPG" style="width: 700px; height: 404px"http://www.dlhs24.com.cn/><br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR22339100.JPG" style="width: 700px; height: 408px"http://www.dlhs24.com.cn/><br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR23H1563.JPG" style="width: 700px; height: 467px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR23H1563.JPG" style="width: 700px; height: 467px"http://www.dlhs24.com.cn/><br/>
 	张亚东副市长为我校校史馆题词<br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR22352638.JPG" style="width: 700px; height: 466px"http://www.dlhs24.com.cn/><br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR2240A13.JPG" style="width: 700px; height: 466px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR2240A13.JPG" style="width: 700px; height: 466px"http://www.dlhs24.com.cn/><br/>
 	校友合影（左起：西岗区阎利军区长、黄启成校长、大连市副市长张亚东、甘井子区侯祯涛区长、教育学院张涛院长、胡敩敏书记）<br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR22F1344.JPG" style="width: 700px; height: 396px"http://www.dlhs24.com.cn/><br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR22G6447.JPG" style="width: 700px; height: 466px"http://www.dlhs24.com.cn/><br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR22I4560.JPG" style="width: 700px; height: 466px"http://www.dlhs24.com.cn/><br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR22Pb38.JPG" style="width: 700px; height: 467px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR22Pb38.JPG" style="width: 700px; height: 467px"http://www.dlhs24.com.cn/><br/>
 	黄启成校长致欢迎辞<br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR2452E27.JPG" style="width: 700px; height: 467px"http://www.dlhs24.com.cn/><br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR22Z0300.JPG" style="width: 700px; height: 484px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR22Z0300.JPG" style="width: 700px; height: 484px"http://www.dlhs24.com.cn/><br/>
 	李振权副校长主持<br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR22933924.JPG" style="width: 700px; height: 500px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR22933924.JPG" style="width: 700px; height: 500px"http://www.dlhs24.com.cn/><br/>
 	校友会金鑫会长致辞<br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR230314b.JPG" style="width: 700px; height: 466px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR230314b.JPG" style="width: 700px; height: 466px"http://www.dlhs24.com.cn/><br/>
 	校友会金鑫会长致辞<br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR25554455.JPG" style="width: 700px; height: 488px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR25554455.JPG" style="width: 700px; height: 488px"http://www.dlhs24.com.cn/><br/>
 	民政局局长杨福彬宣读校友会成立文件<br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR231042X.JPG" style="width: 700px; height: 480px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR231042X.JPG" style="width: 700px; height: 480px"http://www.dlhs24.com.cn/><br/>
 	胡斅敏书记宣读大连市政府贺信<br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR2314Y34.JPG" style="width: 700px; height: 466px"http://www.dlhs24.com.cn/><br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR23223600.JPG" style="width: 700px; height: 466px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR23223600.JPG" style="width: 700px; height: 466px"http://www.dlhs24.com.cn/><br/>
 	胡敩敏书记接受94岁高龄的原二十四中校医伏明达女士珍藏多年的4件珍贵的校史文物<br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR23T4533.JPG" style="width: 700px; height: 392px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR23T4533.JPG" style="width: 700px; height: 392px"http://www.dlhs24.com.cn/><br/>
 	校友“辽宁号”航母总监造师杨雷<br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR23934405.JPG" style="width: 500px; height: 750px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR23934405.JPG" style="width: 500px; height: 750px"http://www.dlhs24.com.cn/><br/>
 	03届校友杨耀坤钢琴独奏<br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR24012H7.JPG" style="width: 700px; height: 466px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR24012H7.JPG" style="width: 700px; height: 466px"http://www.dlhs24.com.cn/><br/>
 	教师朗诵（左起：刘彦彦老师、李响老师、孙玉萍老师、吴晓文老师）<br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR2414UJ.JPG" style="width: 700px; height: 425px"http://www.dlhs24.com.cn/><br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140828/1-140RR24241441.JPG" style="width: 700px; height: 466px"http://www.dlhs24.com.cn/><br/>

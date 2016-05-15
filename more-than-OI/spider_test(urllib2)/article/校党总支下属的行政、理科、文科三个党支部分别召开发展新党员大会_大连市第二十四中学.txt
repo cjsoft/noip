@@ -4,9 +4,9 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-      2009年6月19日，校党总支下属的行政、理科、文科三个党支部分别召开发展新党员大会，共有14名学生和一名教师在此次大会上加入了党组织，成为中国共产党预备党员，并上报给市教育局党委批准。
-      
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+      2009年6月19日，校党总支下属的行政、理科、文科三个党支部分别召开发展新党员大会，共有14名学生和一名教师在此次大会上加入了党组织，成为中国共产党预备党员，并上报给市教育局党委批准。
+      
       </td>
 </tr>
 </table>

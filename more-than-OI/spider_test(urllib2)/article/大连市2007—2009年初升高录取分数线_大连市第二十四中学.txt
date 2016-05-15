@@ -6,11 +6,11 @@
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
 <div align="center">
-<h4>
+<h4>
 		 </h4>
-<h4>
+<h4>
 		 </h4>
-<h4>
+<h4>
 		 </h4>
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 408px" width="408" x:str="">
 <colgroup>
@@ -19,7 +19,7 @@
 <tbody>
 <tr height="19">
 <td colspan="6" height="38" rowspan="2" style="width: 408px; height: 38px">
-<h4 align="center">
+<h4 align="center">
 						2007年中招重点中学录取分数线</h4>
 </td>
 </tr>
@@ -27,345 +27,345 @@
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						学校</h4>
 </td>
 <td>
-<h4>
+<h4>
 						统招</h4>
 </td>
 <td x:str="指标1 ">
-<h4>
+<h4>
 						指标1 </h4>
 </td>
 <td x:str="指标2 ">
-<h4>
+<h4>
 						指标2 </h4>
 </td>
 <td>
-<h4>
+<h4>
 						择校</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						1中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						577.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						554.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						562.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						556.5</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						8中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						587.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						556.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						574.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						563.5</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						11中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						537</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						510</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						529.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						528.5</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						12中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						557</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						525</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						537</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						536.5</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						20中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						562.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						531.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						552.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						549.5</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						23中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						566</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						541</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						552</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						543.5</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						24中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						598.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						565.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						579.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						560.5</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						48中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						547</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						516.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						537.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						532</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						育明</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						595</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						560.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						573.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						570</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						辽附</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						560.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						530</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						543.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						543</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						理工</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						542</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						523</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						533.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						536.5</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						　</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td colspan="6" height="38" rowspan="2" style="height: 38px">
-<h4 align="center">
+<h4 align="center">
 						2008年中招重点中学录取分数线</h4>
 </td>
 </tr>
@@ -373,345 +373,345 @@
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						学校</h4>
 </td>
 <td>
-<h4>
+<h4>
 						统招</h4>
 </td>
 <td x:str="指标1 ">
-<h4>
+<h4>
 						指标1 </h4>
 </td>
 <td x:str="指标2 ">
-<h4>
+<h4>
 						指标2 </h4>
 </td>
 <td>
-<h4>
+<h4>
 						择校</h4>
 </td>
 <td>
-<h4>
+<h4>
 						招生数</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						1中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						594</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						560.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						585.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						578.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						450</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						8中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						606.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						575</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						593.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						587.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						500</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						11中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						557</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						526.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						550</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						548</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						500</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						12中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						574.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						543.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						561.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						567.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						450</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						20中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						579</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						548.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						566.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						558.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						400</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						23中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						584.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						563</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						564.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						566.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						600</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						24中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						616.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						585</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						602</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						595</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						500</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						48中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						574</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						545.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						565</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						559.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						400</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						育明</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						611.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						578.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						584</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						580</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						600</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						辽附</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						578</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						554</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						558</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						562</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						550</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						理工</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						565</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						540</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						569.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						556</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						350</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						　</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td colspan="6" height="38" rowspan="2" style="height: 38px">
-<h4 align="center">
+<h4 align="center">
 						2009年中招重点中学录取分数线</h4>
 </td>
 </tr>
@@ -719,313 +719,313 @@
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						学校</h4>
 </td>
 <td>
-<h4>
+<h4>
 						统招</h4>
 </td>
 <td x:str="指标1 ">
-<h4>
+<h4>
 						指标1 </h4>
 </td>
 <td x:str="指标2 ">
-<h4>
+<h4>
 						指标2 </h4>
 </td>
 <td>
-<h4>
+<h4>
 						择校</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						1中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						605.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						579.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						583</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						584</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						8中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						617</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						581.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						594</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						594</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						11中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						566.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						540</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						553</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						555</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						12中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						584.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						552.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						561.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						564.5</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						20中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						586.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						556</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						572.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						570</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						23中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						592</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						561</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						572</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						571.5</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						24中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						625.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						592</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						600</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						600</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						48中</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						578</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						547.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						556</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						562</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						育明</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						612</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						581.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						583</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						585</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						辽附</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						594</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						567</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						567.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						574.5</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>
 <tr height="19">
 <td height="19" style="height: 19px">
-<h4>
+<h4>
 						理工</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						589.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						561.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						577.5</h4>
 </td>
 <td x:num="">
-<h4>
+<h4>
 						580.5</h4>
 </td>
 <td>
-<h4>
+<h4>
 						　</h4>
 </td>
 </tr>

@@ -4,9 +4,9 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-            2013年5月10日，香港浸会大学大连地区招生说明会在我校举行，这是浸大连续三年在我校举行说明会。浸大驻北京办事处的负责人田园老师主讲，约有120余人参加说明会。
-      
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+            2013年5月10日，香港浸会大学大连地区招生说明会在我校举行，这是浸大连续三年在我校举行说明会。浸大驻北京办事处的负责人田园老师主讲，约有120余人参加说明会。
+      
       </td>
 </tr>
 </table>

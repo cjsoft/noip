@@ -23,43 +23,43 @@
 <strong>获奖人员</strong></td>
 </tr>
 <tr height="61">
-<td height="61" style="height: 61px">
+<td height="61" style="height: 61px">
 				一等奖</td>
-<td colspan="8">
+<td colspan="8">
 				崔振鹏</td>
 </tr>
 <tr height="61">
-<td height="61" style="height: 61px">
+<td height="61" style="height: 61px">
 				二等奖</td>
-<td colspan="8">
+<td colspan="8">
 				王龙襄、吕华赢、杨蕴璋、厉云天、陈婷钰、孙海宁</td>
 </tr>
 <tr height="61">
-<td height="61" style="height: 61px">
+<td height="61" style="height: 61px">
 				三等奖</td>
-<td colspan="8" style="width: 559px">
+<td colspan="8" style="width: 559px">
 				李宜濛、王龙襄、徐迈、许瀚文、武智鹏、马睿忱、卢美佳、杜一鸣、彭建霖、于昊天、赵丹枫、任悦、刑颢冉、朱筱睿、冯道中、于怡宣、阎姝伊</td>
 </tr>
 <tr height="61">
-<td height="61" style="height: 61px">
+<td height="61" style="height: 61px">
 				优秀奖</td>
-<td colspan="8" style="width: 559px">
+<td colspan="8" style="width: 559px">
 				刘禹彤、王香玉、黄若琳、尤佳琦、于凌霄、宫嘉熙、吕温昕、孙佳瑞、王天琪、孙奕、张欣然、交天旭、卢漪尘、谭田雅美、王玥、张一剑、张宁、姜雨霏、郑翔睿、于佳琪、王子权、张馨娟</td>
 </tr>
 <tr height="61">
-<td height="61" style="height: 61px">
+<td height="61" style="height: 61px">
 				优秀指导教师奖</td>
-<td>
+<td>
 				 </td>
-<td>
+<td>
 				刘定珊</td>
-<td>
+<td>
 				耿英年</td>
-<td>
+<td>
 				车晓红</td>
-<td>
+<td>
 				金辉</td>
-<td>
+<td>
 				孙胜男</td>
 </tr>
 </tbody>

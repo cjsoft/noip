@@ -4,30 +4,30 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-          7月31日～8月8日，由清华大学附属中学倡议并发起的“中国大学先修课程（Chinese Advanced Placement，简称CAP）试点项目实验学校”教师培训在清华附中举行。来自全国26个省、直辖市67所首批实验学校的135名教师参加培训。我校唐丽丽、于学杰老师参加了此次培训。<br/>
-    在7月31日下午的开幕式上，清华附中校长王殿军作为该项目的发起者和课程研发组组长，介绍了中国大学先修课程实验项目的进展情况。指出，在教材的准备与研发上，吸纳了清华大学、北京大学、北京外国语大学等高校教授的参与，培训授课专家亦由教材编写的教授组成；在师资选拔上，参培教师均为在校高级教师或有三年以上工作经验的硕士学历的老师，他们具备着扎实的业务水平，深厚的学科功底，丰富的科研和教学研究经历；特别在CAP课程建设方面，王殿军校长表示，“对于课程的建设将是成熟一门开设一门，不求完备但求严谨”，秉承着这个理念，现定首批培训科目为微积分、线性代数、通用学术英语三门基础学科，且此次培训采用讲座、研讨、教学示范、教学实践等多种形式相结合的方式。<br/>
-    另外，王殿军校长呼吁“要建立中国特色的大学先修课程体系，推动中国借鉴和吸收美国在课程设计上的成功经验”，做到让中国高中课程体系走向国际，改革中国基础教育，这一发言获得了与会者的高度评价与积极讨论。CAP课程是清华附中敢为天下先、愿做领航人，勇挑重担、大胆创新的结果；该课程的开发、推广与实施，符合国家教育中长期发展规划、顺应国际时代潮流，与当前高考改革方案遥相呼应。<br/>
-    在8月8日的结业仪式上，清华大学招生办主任于涵作为高校代表发言，对CAP的大胆创举给予了很高的评价：“CAP的引入，不仅为高校招生提供了新的量具，满足了多元化人才选拔的需要，也推进国家基础教育改革迈出了前瞻性的一步！”<br/>
-    中国大学先修课程旨在让学有余力的高中生及早接触大学课程内容，接受大学思维方式、学习方法的训练，让学生真正享受到最符合其能力和兴趣水平的教育，帮助其为大学学习乃至未来的职业生涯做好准备；同时也为深化我国高中教育教学改革，推进我国人才培养模式改革起到积极的促进作用。该试点项目在全国遴选了67所优质高中作为首批实验学校，其中人大附中、北大附中、清华附中等知名学校带头加入试点校行列。该项目将从2014年9月起进入课堂，面向全国陆续开设微积分、线性代数、通用学术英语、微观经济学、概率与统计、物理（力学）、文学写作、宏观经济学等八门课程。<br/>
-    我校入选中国大学先修课程试点项目首批试点学校，辽宁省共三所学校入选，大连市第二十四中学、辽宁省实验中学、东北育才学校。
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+          7月31日～8月8日，由清华大学附属中学倡议并发起的“中国大学先修课程（Chinese Advanced Placement，简称CAP）试点项目实验学校”教师培训在清华附中举行。来自全国26个省、直辖市67所首批实验学校的135名教师参加培训。我校唐丽丽、于学杰老师参加了此次培训。<br/>
+    在7月31日下午的开幕式上，清华附中校长王殿军作为该项目的发起者和课程研发组组长，介绍了中国大学先修课程实验项目的进展情况。指出，在教材的准备与研发上，吸纳了清华大学、北京大学、北京外国语大学等高校教授的参与，培训授课专家亦由教材编写的教授组成；在师资选拔上，参培教师均为在校高级教师或有三年以上工作经验的硕士学历的老师，他们具备着扎实的业务水平，深厚的学科功底，丰富的科研和教学研究经历；特别在CAP课程建设方面，王殿军校长表示，“对于课程的建设将是成熟一门开设一门，不求完备但求严谨”，秉承着这个理念，现定首批培训科目为微积分、线性代数、通用学术英语三门基础学科，且此次培训采用讲座、研讨、教学示范、教学实践等多种形式相结合的方式。<br/>
+    另外，王殿军校长呼吁“要建立中国特色的大学先修课程体系，推动中国借鉴和吸收美国在课程设计上的成功经验”，做到让中国高中课程体系走向国际，改革中国基础教育，这一发言获得了与会者的高度评价与积极讨论。CAP课程是清华附中敢为天下先、愿做领航人，勇挑重担、大胆创新的结果；该课程的开发、推广与实施，符合国家教育中长期发展规划、顺应国际时代潮流，与当前高考改革方案遥相呼应。<br/>
+    在8月8日的结业仪式上，清华大学招生办主任于涵作为高校代表发言，对CAP的大胆创举给予了很高的评价：“CAP的引入，不仅为高校招生提供了新的量具，满足了多元化人才选拔的需要，也推进国家基础教育改革迈出了前瞻性的一步！”<br/>
+    中国大学先修课程旨在让学有余力的高中生及早接触大学课程内容，接受大学思维方式、学习方法的训练，让学生真正享受到最符合其能力和兴趣水平的教育，帮助其为大学学习乃至未来的职业生涯做好准备；同时也为深化我国高中教育教学改革，推进我国人才培养模式改革起到积极的促进作用。该试点项目在全国遴选了67所优质高中作为首批实验学校，其中人大附中、北大附中、清华附中等知名学校带头加入试点校行列。该项目将从2014年9月起进入课堂，面向全国陆续开设微积分、线性代数、通用学术英语、微观经济学、概率与统计、物理（力学）、文学写作、宏观经济学等八门课程。<br/>
+    我校入选中国大学先修课程试点项目首批试点学校，辽宁省共三所学校入选，大连市第二十四中学、辽宁省实验中学、东北育才学校。
 <div style="text-align: center">
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140923/1-140923163F32R.jpg" style="width: 350px; height: 263px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140923/1-140923163F32R.jpg" style="width: 350px; height: 263px"http://www.dlhs24.com.cn/><br/>
 	清华大学招生办主任于涵作为高校代表发言<br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140923/1-140923163H15B.jpg" style="width: 350px; height: 263px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140923/1-140923163H15B.jpg" style="width: 350px; height: 263px"http://www.dlhs24.com.cn/><br/>
 	清华附中王殿军校长做中国大学先修课程实验项目进展情况介绍<br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140923/1-140923163TK37.jpg" style="width: 350px; height: 263px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140923/1-140923163TK37.jpg" style="width: 350px; height: 263px"http://www.dlhs24.com.cn/><br/>
 	学员们在聚精会神地上课<br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140923/1-14092316393c17.jpg" style="width: 350px; height: 263px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140923/1-14092316393c17.jpg" style="width: 350px; height: 263px"http://www.dlhs24.com.cn/><br/>
 	唐丽丽（左）、清华附中校长王殿军（右）<br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140923/1-1409231640041Q.jpg" style="width: 500px; height: 669px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140923/1-1409231640041Q.jpg" style="width: 500px; height: 669px"http://www.dlhs24.com.cn/><br/>
 	清华大学外语学院教授张文霞（左）、唐丽丽（中）、清华大学外语学院教授张为民（右）<br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140923/1-14092316402K41.jpg" style="width: 700px; height: 524px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140923/1-14092316402K41.jpg" style="width: 700px; height: 524px"http://www.dlhs24.com.cn/><br/>
 	唐丽丽（左）、清华大学招生处主任于涵（右）<br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140923/1-14092316405M94.jpg" style="width: 500px; height: 669px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140923/1-14092316405M94.jpg" style="width: 500px; height: 669px"http://www.dlhs24.com.cn/><br/>
 	于学杰（左）、清华附中校长王殿军（右）<br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140923/1-1409231641115R.jpg" style="width: 500px; height: 669px"http://www.dlhs24.com.cn/><br/>
-	清华大学数学系教授扈志明（左）、于学杰（右）<br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140923/1-1409231641115R.jpg" style="width: 500px; height: 669px"http://www.dlhs24.com.cn/><br/>
+	清华大学数学系教授扈志明（左）、于学杰（右）<br/>
 	 </div>
 </td>
 </tr>

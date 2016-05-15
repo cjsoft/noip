@@ -12,15 +12,15 @@
 <table border="0" cellpadding="5" cellspacing="0" style="padding-right: 0px; padding-left: 0px; font-size: 12px; padding-bottom: 0px; margin: 0px; padding-top: 0px" width="100%">
 <tbody style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
 <tr style="padding-right: 0px; padding-left: 0px; font-size: 12px; padding-bottom: 0px; margin: 0px; padding-top: 0px" valign="top">
-<td align="middle" class="title1" style="padding-right: 0px; padding-left: 0px; padding-bottom: 5px; margin: 0px; font: bold 24px/36px 宋体; color: rgb(51,51,51); padding-top: 10px; border-collapse: collapse">
+<td align="middle" class="title1" style="padding-right: 0px; padding-left: 0px; padding-bottom: 5px; margin: 0px; font: bold 24px/36px 宋体; color: rgb(51,51,51); padding-top: 10px; border-collapse: collapse">
 								《中国教育报》2014年度十大教育锐评</td>
 </tr>
 <tr style="padding-right: 0px; padding-left: 0px; font-size: 12px; padding-bottom: 0px; margin: 0px; padding-top: 0px" valign="top">
-<td align="middle" class="title2" style="padding-right: 0px; padding-left: 0px; padding-bottom: 5px; margin: 0px; font: bold 14px/26px 宋体; color: rgb(130,126,123); padding-top: 10px; border-collapse: collapse">
+<td align="middle" class="title2" style="padding-right: 0px; padding-left: 0px; padding-bottom: 5px; margin: 0px; font: bold 14px/26px 宋体; color: rgb(130,126,123); padding-top: 10px; border-collapse: collapse">
 								 </td>
 </tr>
 <tr style="padding-right: 0px; padding-left: 0px; font-size: 12px; padding-bottom: 0px; margin: 0px; padding-top: 0px" valign="top">
-<td align="middle" class="title3" style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; font: bold 16px 宋体; color: rgb(130,126,123); padding-top: 0px; border-collapse: collapse">
+<td align="middle" class="title3" style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; font: bold 16px 宋体; color: rgb(130,126,123); padding-top: 0px; border-collapse: collapse">
 								 </td>
 </tr>
 </tbody>
@@ -28,7 +28,7 @@
 </td>
 </tr>
 <tr style="padding-right: 0px; padding-left: 0px; font-size: 12px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
-<td align="middle" height="5" style="padding-right: 0px; padding-left: 0px; font-size: 12px; padding-bottom: 0px; margin: 0px; padding-top: 0px; border-collapse: collapse">
+<td align="middle" height="5" style="padding-right: 0px; padding-left: 0px; font-size: 12px; padding-bottom: 0px; margin: 0px; padding-top: 0px; border-collapse: collapse">
 				 </td>
 </tr>
 <tr style="padding-right: 0px; padding-left: 0px; font-size: 12px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
@@ -46,97 +46,97 @@
 <tbody style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
 <tr style="padding-right: 0px; padding-left: 0px; font-size: 12px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
 <td class="content_tt" style="padding-right: 10px; padding-left: 10px; font-size: 14px; padding-bottom: 10px; margin: auto; line-height: 21px; padding-top: 10px; border-collapse: collapse">
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										 </p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    <strong style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">1、拿什么感谢乡村教师的坚守与奉献</strong></p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    【原文摘要】</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    与城市学校教师的条件优越、收入可观不同，普通乡村中小学教师的工作与生活条件可谓艰苦、清贫，有许多困惑和无奈。所有坚守在普通乡村学校的教师，他们看似平凡的工作是以生命为代价的付出，每一个有良知的国人，都应该从心底尊敬他们，并为他们生活与工作境遇的改善鼓与呼。</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    应该针对农村中小学教育及教师的问题展开具体、务实和深入的调查与实验，为农村中小学教师的生存与发展提供切实、充分的支持与保障。少发议论、少说空话，多在解决问题、解放思想、优化机制、人文关怀等方面下功夫，将我们对农村中小学教师的敬重与感激，转化为一步一个脚印的具体探索和努力实践。 </p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    2014年3月18日2版 程方平</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    <strong style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">2、岂能以支教来处罚有偿补课教师</strong></p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    【原文摘要】</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    让教师一心从教，不从事有偿补课行为，我们可以采取多种措施。比如，提高教师准入门槛，加强教师职业道德教育等。唯独把到农村学校去支教作为对教师有偿补课的一种处罚，不但伤害了支教的本意，玷污了支教教师的品行，挫伤那些长期扎根农村教师的自尊心，而且不利于农村教育的发展。</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    对有偿补课行为用到农村支教来处罚，实际上是一种教育近视。支教是我们社会所倡导的一种正能量，支教于人于己都十分有利，以支教的名义实施的处罚，并不能从根本上消除相关教师的功利思想。更为严重的是，有可能伤害当前全国范围内大规模支教的良好风气。</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    2014年5月16日1版 周芳元</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    <strong style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">3、旗帜鲜明地抵制“超级中学”</strong></p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    【原文摘要】</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    “超级中学”的“成功”凭借的不是公平竞争，而是违反政策跨地区招生、提前“掐尖”的特权。这种将优秀教师、优秀学生集中到一两所学校的做法，破坏了地区整体的教育生态。学校管理和校园文化呈现高度军事化的特点，学生塑造的核心词是成功、卓越、坚强、效率、纪律，等等，其中固然不乏积极的因素，但整体而言，与青少年成长的实际需要，与生动活泼、个性发展的素质教育是完全不同的。学校不是军营，“超级中学”也不是军校。以升学为人生成功的励志动员，是缺乏价值内涵的。</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    2014年6月23日2版 杨东平</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    <strong style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px"> 4、再长的光荣榜也遮不住应试的“短”</strong></p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    【原文摘要】</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    教育评价标准的单一性，必然导致张榜公布成绩等“应试教育复辟”现象的大行其道。以考试成绩和升学率证明和宣传学校办学业绩的雷人举动，则是办学封闭与僵化实质所致。解决这个问题的关键，还得从有关机构和部门对学校和校长的考评机制入手，尤其在科学制定和严格实施中小学乃至于整个教育系统的多元考核评价标准中动真碰硬。评价制度的背后是评价思想，最核心的是对人的尊严和价值的认识。我们如何认识人本身的尊严和价值决定了我们设立什么样的评价标准和评价制度，也就间接决定了我们如何评价学生。</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    2014年7月28日2版 凌宗伟</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    <strong style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px"> 5、学费“涨声”还需赢来质量“掌声”</strong></p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    【原文摘要】</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    构成大学教育经费收入中，财政预算内拨款占比呈下降趋势，不过仍占高校教育培养投入的较大部分，学费呈上升趋势。从精英到大众，非公部门逐渐成为高等教育费用负担主力，全世界发达国家都经历了这一过程。对大学而言，扩大学费在办学经费中的比例，更少依赖财政意味着要更多投入办学竞争、生源竞争，在开源节流上下功夫，拥有更大的办学自主权，激发大学在效率和质量上办出差异的积极性，改善奖助贷体系，这才是大学学费上涨应该带来的正面效应。</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    2014年8月11日2版 陆一</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    <strong style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px"> 6、批评教育别张口就来</strong></p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    【原文摘要】</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    中国教育之所以屡遭各方批评，固然有教育自身问题，但不可否认，也有国人对教育既重视，又不够虔敬的原因。教育毕竟是一项专业和职业，一门科学和学科，掌握背景知识，了解内在规律，至少能够进行逻辑思维，是讨论教育问题的认知前提。来自四面八方正反相冲突的指责，甚至一味恶搞，只顾“逞口舌之快”，容易让人不知所措，于改进工作无益。多点建议，多些解决问题的方案，对教育管理者、教师、学生甚至对批评者本人来说，肯定更具价值。</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    2014年11月17日2版 顾骏</p>
 <p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 <strong style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">    7、学术抄袭怎可轻飘飘私了</strong></p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    【原文摘要】</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    学术是社会公器，学术不端不只是私事，还是涉及学术道德、学术秩序的公共事件，不能因为被抄袭者不追究，就不启动对抄袭事件当事人的学术调查和处理。之所以一些人拿被抄袭者已经谅解来为抄袭行为开脱，学术公共事件被随意私了，是由于我国没有建立健全的学术管理、评价体系，对于学术不端的处理存在大事化小、小事化了的倾向。</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    学校学术机构应从维护学术尊严出发，对抄袭行为进行严肃调查，并根据调查结果对当事人做出学术处理，在此基础上再做行政处理。这才是对学术负责任的态度。</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    2014年11月19日2版 熊丙奇</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    <strong style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px"> 8、追打校长背后的文化荒让人心慌</strong></p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    【原文摘要】</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    乡村向来有自己固守的伦理，比如以“敬惜字纸”为代表的对文化的敬畏、对文化人的尊重以及人与人之间的温情。如今被“利益”所诱惑的村民正自己动手毁掉他们赖以生息、传承的文化根基。</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    从现实来看，乡村教师的经济地位有些尴尬，在城镇化的过程中，他们成了经济上的“掉队人”，比那些富裕的村民还要“矮一头”。这使得他们的荣誉感也变得稀薄，也让他们所守护和传播的文化不再被高看一眼。乡村伦理的底线日益失守。这是一个一荣俱荣、一损俱损的过程。对那些乡村来说，这无疑是一场文化的“塌方”。在村民和校长的“对峙”中，受伤害的是孩子和未来。</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    2014年12月5日2版 张树伟</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    <strong style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">9、高校信息公开岂能因“领导”卡壳</strong></p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    【原文摘要】</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    信息公开的目的是为了便于监督，监督的前提是要最大限度地保证公众的知情。然而遗憾的是，许多高校并未意识到公开的深意所在，一些关键性的信息有意回避。</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    其实，信息公开并非简单的信息告知，而是在深层意义上指向大学管理的民主决策机制。现代教育的基本理念，就是要给学生的社会化过程一个完整的承诺。这其中，激活并培养学生的公共参与精神，是大学教育需要迫切回应的政治命题。显然，这既是公民意识成长的有效途径和催化路线，也是教育学与政治学在学校这块“试验田”里的一次深刻对话。而这一过程，离不开学校在信息公开道路上对公开、真实监督的承诺与践行——校领导尤其应该带个好头。</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    2014年12月11日1版 刘涛</p>
 <p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 <strong style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">    10、虐童事件处置暴露法治软肋</strong></p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    【原文摘要】</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    “师德”对教师的约束过于依赖环境和教师自身价值观，缺乏对行为的刚性约束。对违背师德的行为停留在舆论声讨和道德谴责层面，起不到真正的威慑作用。在倡导道德约束之外，法治作为维护师生关系的最后一道防线，必须扮演好事前“防火墙”和事后“灭火器”的角色。现有法律法规对师德问题作了许多原则性的阐述，但实施起来却不好把握，对虐待儿童的专门法律界定也存在缺憾。在依法治国和依法治教的大背景下，我们须以法治思维考量虐童事件。在问责过程中不应止于师德层面的考问，更应在法律的框架下寻求解决之道，让法治真正成为巩固师德师风的筋骨和灵魂。</p>
-<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
+<p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px; line-height: 21px; padding-top: 0px">
 										    2014年12月11日2版 王钟的</p>
 </td>
 </tr>

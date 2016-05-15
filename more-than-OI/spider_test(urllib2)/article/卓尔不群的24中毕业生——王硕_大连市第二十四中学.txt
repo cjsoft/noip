@@ -6,27 +6,27 @@
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
 <div style="text-align: center">
-<a href="http://www.dlhs24.com.cn/uploads/allimg/120718/1401023Q9-0.jpg" target="_blank"><img border="0" height="450" onmousewheel="return bbimg(this)" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1401023Q9-0.jpg" width="300"http://www.dlhs24.com.cn/></a><br/>
+<a href="http://www.dlhs24.com.cn/uploads/allimg/120718/1401023Q9-0.jpg" target="_blank"><img border="0" height="450" onmousewheel="return bbimg(this)" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1401023Q9-0.jpg" width="300"http://www.dlhs24.com.cn/></a><br/>
 	 </div>
 <div style="text-align: center">
 <a href="http://www.dlhs24.com.cn/uploads/allimg/120718/1401023Q9-0.jpg" target="_blank">王硕</a></div>
 <div>
-<br/>
+<br/>
 	 </div>
-<h4>
-	    王硕是我校2007届高三一班毕业生，因物理竞赛成绩优异被保送清华大学生物医学工程系，2011届本科毕业，本科学业平均成绩为 90分（百分制），  综合素质评测为优秀。王硕在24中三年的学习中，品学兼优，文理兼备，勇于担当，在班级又极具亲和力，张口吐纳珠玉之声，提笔则有烟飞云动，是全面发展的24中的优秀学生代表，也是我校面向未来全面提升学生综合素质的成功代表。下面简介王硕在清华卓越表现：<br/>
-	    科研经历：<br/>
-	    大二上学期进入清华大学医学微系统实验室参与科研；<br/>
-	    大三一年完成 “清华大学本科生科研训练”项目一项；<br/>
-	    大三暑期应邀作为本科生访问学者前往斯坦福大学参与科研项目（清华3000名大三学生中入选的9人之一）。<br/>
-	    社会工作经历和综合课外活动：<br/>
-	    清华大学“科技创新、星火燎原”学生创新人才培养计划三期培养对象（每年从3000名大二学生中选拔50人）；<br/>
-	    大三系科协副主席；大二系学生会文艺部干事、班级文艺委员；大一暑期实践支队长；<br/>
-	    本科前三年分获学业优秀奖学金；鼎业脉林奖学金；东方意德奖学金；<br/>
-	    参与各种竞赛：清华大学2007级新生演讲比赛第二名；2008年清华大学电子自动化设计大赛一等奖；2008年大学生物理竞赛三等奖；2009年清华大学电子设计大赛优秀参赛队（女生参赛率10%）；2009年清华大学英语风采演讲比赛第15名；<br/>
-	    应邀主持各种院系活动，如系学生节文艺晚会主持人，医疗仪器创新设计大赛主持人，新生舞会主持人，主题团日主持人等等。<br/>
+<h4>
+	    王硕是我校2007届高三一班毕业生，因物理竞赛成绩优异被保送清华大学生物医学工程系，2011届本科毕业，本科学业平均成绩为 90分（百分制），  综合素质评测为优秀。王硕在24中三年的学习中，品学兼优，文理兼备，勇于担当，在班级又极具亲和力，张口吐纳珠玉之声，提笔则有烟飞云动，是全面发展的24中的优秀学生代表，也是我校面向未来全面提升学生综合素质的成功代表。下面简介王硕在清华卓越表现：<br/>
+	    科研经历：<br/>
+	    大二上学期进入清华大学医学微系统实验室参与科研；<br/>
+	    大三一年完成 “清华大学本科生科研训练”项目一项；<br/>
+	    大三暑期应邀作为本科生访问学者前往斯坦福大学参与科研项目（清华3000名大三学生中入选的9人之一）。<br/>
+	    社会工作经历和综合课外活动：<br/>
+	    清华大学“科技创新、星火燎原”学生创新人才培养计划三期培养对象（每年从3000名大二学生中选拔50人）；<br/>
+	    大三系科协副主席；大二系学生会文艺部干事、班级文艺委员；大一暑期实践支队长；<br/>
+	    本科前三年分获学业优秀奖学金；鼎业脉林奖学金；东方意德奖学金；<br/>
+	    参与各种竞赛：清华大学2007级新生演讲比赛第二名；2008年清华大学电子自动化设计大赛一等奖；2008年大学生物理竞赛三等奖；2009年清华大学电子设计大赛优秀参赛队（女生参赛率10%）；2009年清华大学英语风采演讲比赛第15名；<br/>
+	    应邀主持各种院系活动，如系学生节文艺晚会主持人，医疗仪器创新设计大赛主持人，新生舞会主持人，主题团日主持人等等。<br/>
 	    申请到6所世界知名大学博士的全奖：</h4>
-<h4>
+<h4>
 	 </h4>
 <table border="0" cellpadding="0" cellspacing="0" style="width: 736px" width="736" x:str="">
 <colgroup>
@@ -46,103 +46,103 @@
 <strong>全额奖学金</strong></td>
 </tr>
 <tr height="34">
-<td height="34" style="text-align: left; width: 72px; height: 34px">
+<td height="34" style="text-align: left; width: 72px; height: 34px">
 				全美第3</td>
-<td style="text-align: left; width: 72px">
+<td style="text-align: left; width: 72px">
 				耶鲁大学</td>
-<td style="text-align: left; width: 68px">
+<td style="text-align: left; width: 68px">
 				生物医学工程</td>
-<td style="text-align: left; width: 524px">
+<td style="text-align: left; width: 524px">
 				$29,550(薪酬) +$33,500(学费) + 100%医疗保险（如有配偶还可为其支付一半医保）</td>
 </tr>
 <tr height="19">
-<td height="38" rowspan="2" style="text-align: left; width: 72px; height: 38px">
+<td height="38" rowspan="2" style="text-align: left; width: 72px; height: 38px">
 				英国第1</td>
-<td rowspan="2" style="text-align: left; width: 72px">
+<td rowspan="2" style="text-align: left; width: 72px">
 				牛津大学</td>
-<td rowspan="2" style="text-align: left; width: 68px">
+<td rowspan="2" style="text-align: left; width: 68px">
 				生物医学工业</td>
-<td style="text-align: left; width: 524px">
+<td style="text-align: left; width: 524px">
 				Clarendon 奖学金：</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: left; width: 524px; height: 19px">
+<td height="19" style="text-align: left; width: 524px; height: 19px">
 				￡13,290(薪酬) + ￡14,900(学费)</td>
 </tr>
 <tr height="53">
-<td height="53" style="text-align: left; width: 72px; height: 53px">
+<td height="53" style="text-align: left; width: 72px; height: 53px">
 				世界第1大医学研究中心</td>
-<td style="text-align: left; width: 72px">
+<td style="text-align: left; width: 72px">
 				莱斯大学</td>
-<td style="text-align: left; width: 68px">
+<td style="text-align: left; width: 68px">
 				生物工程</td>
-<td style="text-align: left; width: 524px">
+<td style="text-align: left; width: 524px">
 				$24,900(薪酬) + $9,000(学费) + 70% 医疗保险</td>
 </tr>
 <tr height="36">
-<td height="36" style="text-align: left; width: 72px; height: 36px">
+<td height="36" style="text-align: left; width: 72px; height: 36px">
 				专业排名第8</td>
-<td style="text-align: left; width: 72px">
+<td style="text-align: left; width: 72px">
 				波士顿大学</td>
-<td style="text-align: left; width: 68px">
+<td style="text-align: left; width: 68px">
 				生物医学工程</td>
-<td style="text-align: left; width: 524px">
+<td style="text-align: left; width: 524px">
 				$28,200(薪酬) + $40,848(学费) + 100% 医疗保险</td>
 </tr>
 <tr height="19">
-<td height="38" rowspan="2" style="text-align: left; width: 72px; height: 38px">
+<td height="38" rowspan="2" style="text-align: left; width: 72px; height: 38px">
 				美国第12</td>
-<td rowspan="2" style="text-align: left; width: 72px">
+<td rowspan="2" style="text-align: left; width: 72px">
 				西北大学</td>
-<td rowspan="2" style="text-align: left; width: 68px">
+<td rowspan="2" style="text-align: left; width: 68px">
 				生物医学工程</td>
-<td style="text-align: left; width: 524px">
+<td style="text-align: left; width: 524px">
 				Walter P. Murphy 奖学金:</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: left; width: 524px; height: 19px">
+<td height="19" style="text-align: left; width: 524px; height: 19px">
 				$26,400(薪酬) + $39,840(学费) + 100% 医疗保险+ $500(入学购买电脑的津贴)</td>
 </tr>
 <tr height="19">
-<td height="38" rowspan="2" style="text-align: left; width: 72px; height: 38px">
+<td height="38" rowspan="2" style="text-align: left; width: 72px; height: 38px">
 				美国第23</td>
-<td rowspan="2" style="text-align: left; width: 72px">
+<td rowspan="2" style="text-align: left; width: 72px">
 				南加州大学</td>
-<td rowspan="2" style="text-align: left; width: 68px">
+<td rowspan="2" style="text-align: left; width: 68px">
 				生物医学工程</td>
-<td style="text-align: left; width: 524px">
+<td style="text-align: left; width: 524px">
 				Viterbi School of Engineering 奖学金:</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: left; width: 524px; height: 19px">
+<td height="19" style="text-align: left; width: 524px; height: 19px">
 				$30,000(薪酬)+ $38,570(学费) + 100% 医疗保险</td>
 </tr>
 </tbody>
 </table>
-<h4>
+<h4>
 	   </h4>
-<h4>
-	    以上大学以及全美第一公立大学——加州大学伯克利分校，还有世界诺贝尔奖最密集的加州理工大学都发出了邀请函到学校进行参观访问，与教授面谈以及周边观光等活动，由各学校支付全部旅费和访问期间生活费，收获颇丰。<br/>
-	    最终选择接受耶鲁大学的录取和全奖，攻读为期5年的博士学位。专攻医疗仪器研发。<br/>
+<h4>
+	    以上大学以及全美第一公立大学——加州大学伯克利分校，还有世界诺贝尔奖最密集的加州理工大学都发出了邀请函到学校进行参观访问，与教授面谈以及周边观光等活动，由各学校支付全部旅费和访问期间生活费，收获颇丰。<br/>
+	    最终选择接受耶鲁大学的录取和全奖，攻读为期5年的博士学位。专攻医疗仪器研发。<br/>
 	“今天我以24中为荣，明天24中以我为傲！”她高中阶段的誓言实现了，王硕的确是我们24中的骄傲，她以骄人的成绩续写着二十四的荣光！（大连市第24中学）</h4>
-<div>
-	 <br/>
-	附：王硕作文<br/>
-	等待，灵动的色彩<br/>
-	优秀是她的习惯<br/>
-	——教师眼中的王硕<br/>
-<br/>
-	    王硕温和恬静，如一首精致的小诗。聪颖灵悟又勤奋刻苦，看似柔弱的外表是坚韧和强大的内心。她低调、内敛，却清丽而高贵。很荣幸，我有三年的时间见证王硕同学的优秀。王硕的理科成绩一向优异，文科成绩也色，她的语文作业从来都是文质兼美。有人问她为何作业写得又快又好，她静静地说：“此无它，唯手熟尔。”王硕张口吐纳珠玉之声，提笔则有烟飞云动，有宽广的阅读视野，现推出她高二时的一篇课堂45分钟完成的作文，一起分享（刘艳华）<br/>
-<br/>
+<div>
+	 <br/>
+	附：王硕作文<br/>
 	等待，灵动的色彩<br/>
-<br/>
+	优秀是她的习惯<br/>
+	——教师眼中的王硕<br/>
+<br/>
+	    王硕温和恬静，如一首精致的小诗。聪颖灵悟又勤奋刻苦，看似柔弱的外表是坚韧和强大的内心。她低调、内敛，却清丽而高贵。很荣幸，我有三年的时间见证王硕同学的优秀。王硕的理科成绩一向优异，文科成绩也色，她的语文作业从来都是文质兼美。有人问她为何作业写得又快又好，她静静地说：“此无它，唯手熟尔。”王硕张口吐纳珠玉之声，提笔则有烟飞云动，有宽广的阅读视野，现推出她高二时的一篇课堂45分钟完成的作文，一起分享（刘艳华）<br/>
+<br/>
+	等待，灵动的色彩<br/>
+<br/>
 	王硕<br/>
-<br/>
-	    喜欢席慕蓉的《春蚕》：“只因/总在揣想/想幻化而出时/将有绚烂的翼/和你永远的等待/今生/我才甘愿做一只寂寞的春蚕/在金色的茧里/期待着一份来世的许诺。”等待着，只因生命将还你以灵动的色彩。<br/>
-	    等待是一种智慧。“非澹泊无以明志，非宁静无以致远”是诸葛孔明的信条。他静静地生活，静静地思考，静静地等待，才有了日后的“三顾茅庐”、隆中对策，才有了卧龙的腾飞。这正应了“心宁则智生，智生则事成”的古语。想必那句“不是不报，时候未到”也同样能揭示出等待的智慧来。<br/>
-	    等待是一种胸怀。“在风中跌倒，在爱中流泪，这些都是人生中不可缺少的旅程。”林清玄正是凭借着这种胸襟气度，在婚变后遭受众人非议的境况中默默等待，等待大众的谅解，终于和真心相爱的妻子等来了爱的晴空。沈从文，崛起在被世人彻底遗忘之后，被同代竞争者无情抛弃之后。然而沙漏毁了时间未废，抽刀断水水自长流。他的作品比同代作家传得更久，播得更远。这一切皆因他“不折不从，亦慈亦让，星斗其文，赤子其人”的原则，亦是他甘于等待的胸怀。<br/>
-	    等待是一份情思。“梧桐更兼细雨，到黄昏，点点滴滴，这次第，怎一个愁字了得？”是易安的千古名句，然而这名句的由来，怎离得开她对丈夫赵明诚的等待？多少次送君离去，欲说还休？多少次心觉物是人非事事休，欲语泪先流？愁肠百结的曼妙红颜在无尽的等待中吟出“此情无计可消除，才下眉头，却上心头”，等到“绿肥红瘦”，成为一代词魂，怎没有等待这份情思作缘由？<br/>
-	    清水流过的痕迹，大地知道；自己走过的岁月，生命会毫无舍弃地保留。等待的智慧、胸怀和情思终将化作生命中壮丽而又灵动的色彩。<br/>
+<br/>
+	    喜欢席慕蓉的《春蚕》：“只因/总在揣想/想幻化而出时/将有绚烂的翼/和你永远的等待/今生/我才甘愿做一只寂寞的春蚕/在金色的茧里/期待着一份来世的许诺。”等待着，只因生命将还你以灵动的色彩。<br/>
+	    等待是一种智慧。“非澹泊无以明志，非宁静无以致远”是诸葛孔明的信条。他静静地生活，静静地思考，静静地等待，才有了日后的“三顾茅庐”、隆中对策，才有了卧龙的腾飞。这正应了“心宁则智生，智生则事成”的古语。想必那句“不是不报，时候未到”也同样能揭示出等待的智慧来。<br/>
+	    等待是一种胸怀。“在风中跌倒，在爱中流泪，这些都是人生中不可缺少的旅程。”林清玄正是凭借着这种胸襟气度，在婚变后遭受众人非议的境况中默默等待，等待大众的谅解，终于和真心相爱的妻子等来了爱的晴空。沈从文，崛起在被世人彻底遗忘之后，被同代竞争者无情抛弃之后。然而沙漏毁了时间未废，抽刀断水水自长流。他的作品比同代作家传得更久，播得更远。这一切皆因他“不折不从，亦慈亦让，星斗其文，赤子其人”的原则，亦是他甘于等待的胸怀。<br/>
+	    等待是一份情思。“梧桐更兼细雨，到黄昏，点点滴滴，这次第，怎一个愁字了得？”是易安的千古名句，然而这名句的由来，怎离得开她对丈夫赵明诚的等待？多少次送君离去，欲说还休？多少次心觉物是人非事事休，欲语泪先流？愁肠百结的曼妙红颜在无尽的等待中吟出“此情无计可消除，才下眉头，却上心头”，等到“绿肥红瘦”，成为一代词魂，怎没有等待这份情思作缘由？<br/>
+	    清水流过的痕迹，大地知道；自己走过的岁月，生命会毫无舍弃地保留。等待的智慧、胸怀和情思终将化作生命中壮丽而又灵动的色彩。<br/>
 	    一朵花能有怎样的色彩，一个人将有怎样的对白，都看你愿不愿意去等待。记得戴望舒的《偶成》中有这样的诗句：“如果生命的春天重到，古旧的凝冰都哗哗地解冻，像冰一样凝结的梦想有一天会像花一样重开。”送给年轻的朋友，愿你揣好梦想上路，去等待那生命中灵动的色彩！</div>
 </td>
 </tr>

@@ -6,9 +6,9 @@ All star
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
 <p>
-<br/>
+<br/>
 	        <font color="#000000" face="黑体" size="4">All star全明星篮球大赛于今年五月份举办，在利用中午以及下午的休息时间，我们的摄影记者在扣篮比赛、技巧比赛、和花式篮球比赛中拍摄了大量的精彩瞬间。同时，我们的文字记者也对三项比赛中的前三名进行了即时采访。</font></p>
-<p>
+<p>
 	 </p>
 </td>
 </tr>

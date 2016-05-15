@@ -5,7 +5,7 @@
 <table width="100%">
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-<div>
+<div>
 	      在2013年4月13日举办的大连市第七届“博佳杯”青少年机器人竞赛中，我校1.5班卢紫旭、林业渊、髙静雯和1.12班林镇瀛组成的代表队荣获高中组FLL工程挑战赛项目第一名，并将于5月代表大连市参加辽宁省青少年机器人大赛。</div>
 </td>
 </tr>

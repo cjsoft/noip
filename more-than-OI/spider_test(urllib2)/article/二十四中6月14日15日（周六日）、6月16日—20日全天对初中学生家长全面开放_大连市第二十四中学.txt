@@ -5,7 +5,7 @@
 <table width="100%">
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-<div>
+<div>
 	    二十四中6月14日15日（周六日）、6月16日—20日全天对初中学生家长全面开放，并集中力量提供“报志愿服务”。</div>
 </td>
 </tr>

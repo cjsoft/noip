@@ -14,635 +14,635 @@
 </colgroup>
 <tbody>
 <tr height="20">
-<td height="20" style="width: 140px; height: 20px">
+<td height="20" style="width: 140px; height: 20px">
 				课题</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				授课人</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				授课人简介</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				课程简介</td>
 </tr>
 <tr height="160">
-<td height="160" style="width: 140px; height: 160px">
+<td height="160" style="width: 140px; height: 160px">
 				《 古文观止》选读</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				车晓红 </td>
-<td style="width: 123px">
+<td style="width: 123px">
 				语文高级教师。 弱水三千，只取一瓢。坚守自己的阅读品味， 汲取古典文化的精华，让睿智、温情点缀自己的世界。</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				《古文观止》是一部古代优秀散文文选，它包含了中国由周至明的思想与文学精华；《古文观止》是一本特别厚重的经典，读之如同漫步中国古代散文发展史的长廊。 不论人间几月天，始终有人在安静地抚摸她，阅读她，并且一读再读，这就是经典的真正魅力。 </td>
 </tr>
 <tr height="140">
-<td height="140" style="width: 140px; height: 140px">
+<td height="140" style="width: 140px; height: 140px">
 				《“宋词”鉴赏》</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				 刘娱</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				刘娱，语文教师。“宋词”对现代人来说不应该仅仅是文学作品，更应该让它成为我们精神上的养料。</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				 以“宋词”为代表的中国传统文学样式，是中华文明演化、汇集而成的一种反映民族特质和风貌的民族文化，为中华民族世世代代所继承发展的、具有鲜明民族特色的、历史悠久、内涵博大精深、传统优良的文化。它是中华民族文化传承的结晶，在当今科技迅猛发展的时代，对现代人的人生价值和道德观念依然有深刻的影响和指导意义。</td>
 </tr>
 <tr height="160">
-<td height="160" style="width: 140px; height: 160px">
+<td height="160" style="width: 140px; height: 160px">
 				《弟子规》</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				刘艳华</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				省级拔尖人才。注重读写教学，学生高考成绩一向优异。一直带实验班，长于打造儒雅和谐积极进取的班集体。</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				《弟子规》推介： 三字经曰：养不教，父之过；教不严，师之惰。教之道，贵以专，而非博与杂；故一部经典，宜读诵百至千遍，苏东坡云：旧书不厌百回读，熟读深思子自知。现在教学，问题在博与杂，且不重因果道德及学生读经、定力之培养，至有今日之苦果。企盼贤明父母师长，深体斯旨；此乃中华文化之命脉所系，中华子孙能否长享太平之关键，有慧眼者，当见于此。</td>
 </tr>
 <tr height="240">
-<td height="240" style="width: 140px; height: 240px">
+<td height="240" style="width: 140px; height: 240px">
 				国学</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				耿英年</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				中学高级教师，中国当代文学研究会校园文学委员会理事，省级学科带头人、骨干教师。</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				近百年来，国学遇上了前所未有的危机，国学的地位由社会意识形态的巅峰迅速向下滑落，长期沉沦在遭否定、受针砭的尴尬境地。古语云“古之欲明明德而天下者，先治其国；欲治其国者，先齐其家；欲齐其家者，先修其身；欲修其身者，先正其心；欲正其心者，先诚其意；欲诚其意者，先致其知；致知在格物。”开设《国学》校本课程，旨在通过格物、致知以达到认知世界，诚意、正心、修身以实现完善人格，齐家、治国、平天下以敦促社会理想价值取向的目的。想通过“博学之、审问之、慎思之、明辨之、笃行之”这样一个完整的认知、思考、践行过程而实现人格的完善与超越。</td>
 </tr>
 <tr height="300">
-<td height="860" rowspan="4" style="width: 140px; height: 860px">
+<td height="860" rowspan="4" style="width: 140px; height: 860px">
 				趣说汉字</td>
-<td rowspan="4" style="width: 67px">
+<td rowspan="4" style="width: 67px">
 				刘彦彦</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				中学高级教师，毕业于北京师范大学文学院，曾任班主任工作10年，区优秀共产党员。"2006.6.12 研究报告《高中新课标语文实践教材实施探索研究》，全国教育科学规划“十五”国家重点课题分课题优秀科研成果二等奖</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				　其实世界上没有任何一种文字，能像汉字一样，从本身的外在形式、音韵格律，象形会意内涵意义到演变传承，都具有极大的魅力，进而对民族文化产生重大影响并成为其重要组成部分。</td>
 </tr>
 <tr height="100">
-<td height="100" style="width: 123px; height: 100px">
+<td height="100" style="width: 123px; height: 100px">
 				      2007.11.20 论文《作文批改新模式探究》省中语会教研成果一等奖</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				　　汉字不仅仅是人们语言沟通的载体，也不仅仅是中国文化的载体，汉字本身就是中国传统文化很重要的一部分，是人类文明宝库中独一无二的艺术形式。</td>
 </tr>
 <tr height="240">
-<td height="240" style="width: 123px; height: 240px">
+<td height="240" style="width: 123px; height: 240px">
 				      2007.8.26 国家重点课题子课题大连二十四中学《国家新课标高中语文选修教材“文章写作与修改”实验研究》，全国教育科学规划“十五”国家重点课题分课题优秀科研课题二等奖"  </td>
-<td style="width: 375px">
+<td style="width: 375px">
 				　　可以说，每一个汉字都是一个独立的艺术品。</td>
 </tr>
 <tr height="220">
-<td height="220" style="width: 123px; height: 220px">
+<td height="220" style="width: 123px; height: 220px">
 				　</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				作为一个中国人，我们必须认识到，我们对汉字的了解和认识不应该仅仅停留在日常语言交流的功能上，不应该轻视对汉字的深入学习。汉字不仅字形固定，语法严谨，词汇丰富，表意准确，更有着博大精深的人文、历史、社会以及民族内涵，是中国传统文化的载体，更是我们的根。真正了解而后认识汉字，无疑是我们学习和了解我们悠久而灿烂历史文明的必经之路。其实，中华文化原本就是博大精深、趣味盎然的，无论是诗词、小说、散文等文学形式，又或者书法、绘画等艺术体裁，乃至姓氏、典故、轶事等杂谈奇论，都具有极度诱惑之魅力。</td>
 </tr>
 <tr height="380">
-<td height="780" rowspan="4" style="width: 140px; height: 780px">
+<td height="780" rowspan="4" style="width: 140px; height: 780px">
 				当代台湾文学</td>
-<td rowspan="4" style="width: 67px">
+<td rowspan="4" style="width: 67px">
 				宋涛</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				中学高级教师，中共党员。 多次在“语文报杯”全国中学生作文大赛中获优秀指导教师奖。多次在全国中学生语文能力竞赛中获优秀指导教师奖。2007年在第三届全国中小学生迎奥运作文大赛中，获高中组指导教师一等奖2010年在大连市第八届中小学生文化艺术节诗文朗诵比赛中获优秀指导教师奖。</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				1．了解当代台湾文学发展的脉络、风格与精神，认识台湾文学作家作品特色与当代文学思潮，探究台湾文学的独特性与殊异性，以确立台湾文学主体论述。</td>
 </tr>
 <tr height="160">
-<td height="160" style="width: 123px; height: 160px">
+<td height="160" style="width: 123px; height: 160px">
 				两次被评为校优秀共产党员。 2007.8论文《兴趣与作文》获全国教育科学规划“十五”国家重点课题论文一等奖。</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				2．发展独立阅读的能力，对文本能作出自己的分析判断，努力从不同的角度和层面进行阐发、评价和质疑。</td>
 </tr>
 <tr height="100">
-<td height="100" style="width: 123px; height: 100px">
+<td height="100" style="width: 123px; height: 100px">
 				   论文《诗中有人，鉴赏得法》发表于《考试周刊》2011年第28期。</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				3．从各类优秀作品中汲取思想、感情和艺术的营养，丰富、深化对社会和人生的认识，提高文学修养。</td>
 </tr>
 <tr height="140">
-<td height="140" style="width: 123px; height: 140px">
+<td height="140" style="width: 123px; height: 140px">
 				   2011.9论文《校园文学活动对作文教学的作用》在国家中语会中南研究中心年会的论文评比中获二等奖。 </td>
-<td style="width: 375px">
+<td style="width: 375px">
 				　</td>
 </tr>
 <tr height="120">
-<td height="560" rowspan="5" style="width: 140px; height: 560px">
+<td height="560" rowspan="5" style="width: 140px; height: 560px">
 				道家与解脱</td>
-<td rowspan="5" style="width: 67px">
+<td rowspan="5" style="width: 67px">
 				郭伟玲</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				中学高级教师，任班主任工作10年。 "2006年所带高三一班被评为大连市三好班级。</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				1． 老子认为人的生命比任何外在的名声、财货等贵重得多。如果追求名利对人身构成威胁与损害，那就宁可抛弃名利而保身。名利是身外之物，远没有生命重要，假如追名逐利而丧生，是舍本逐末、得不偿失的。</td>
 </tr>
 <tr height="100">
-<td height="100" style="width: 123px; height: 100px">
+<td height="100" style="width: 123px; height: 100px">
 				      2009年5月在第11届“语文报杯”全国中学生作文大赛获优秀指导教师奖。</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				2． 老子对追名逐利的人生理想与价值取向进行了深刻的揭露和批判。主张“不尚贤，使民不争；不贵难得之货，使民不为盗”；还有“金玉满堂，莫之能守。富贵而骄，自遗其咎”。</td>
 </tr>
 <tr height="100">
-<td height="100" style="width: 123px; height: 100px">
+<td height="100" style="width: 123px; height: 100px">
 				      2009年12月 在全国中学生语文能力竞赛中获优秀指导教师奖。</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				3． 老子主张“见素抱朴，少私寡欲”。个人如果做到就能达到养生的目的，统治者如果能做到就能天下安定。老子的主张可以把人们从欲望得不到满足的烦恼中解脱出来，重新审视自己的追求和价值取向。</td>
 </tr>
 <tr height="100">
-<td height="100" style="width: 123px; height: 100px">
+<td height="100" style="width: 123px; height: 100px">
 				      2010年5月，在十二届“语文报杯”全国中学生作文大赛获优秀指导奖。</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				4． 老子的“知足不辱，知止不殆”的思想。他认为罪恶没有比任情纵欲更大的，祸患没有比不知足更重的，灾难没有比贪得无厌更惨的，人能知道满足，适可而止，就会保持心理平衡。</td>
 </tr>
 <tr height="140">
-<td height="140" style="width: 123px; height: 140px">
+<td height="140" style="width: 123px; height: 140px">
 				      2011年12月  在第五届全国中学生语文能力竞赛中指导刘子怡、张继云分获全国一、二等奖。"  </td>
-<td style="width: 375px">
+<td style="width: 375px">
 				5． 老子的“功遂身退”的思想。这是老子的一条重要的人生信条。功成而不居，不做万物之主，永远没有欲望，这是天“道”的品格；也是全身避祸，颐养天年的有效法宝。范蠡就是深谙此道的。</td>
 </tr>
 <tr height="100">
-<td height="300" rowspan="2" style="width: 140px; height: 300px">
+<td height="300" rowspan="2" style="width: 140px; height: 300px">
 				汉语的词汇</td>
-<td rowspan="2" style="width: 67px">
+<td rowspan="2" style="width: 67px">
 				韩煜韬</td>
-<td rowspan="2" style="width: 123px">
+<td rowspan="2" style="width: 123px">
 				高中语文教师。2012年7月，东北师范大学文学院硕士研究生毕业，来校任教。 </td>
-<td style="width: 375px">
+<td style="width: 375px">
 				    词汇是语言的三大要素之一，如果把庞大的语言系统比作一座摩天大厦，那么词汇就是堆砌成这座大厦的砖瓦，同时词汇也是三个要素中演变最快的一个，词汇的发展与变化深刻地反映社会的发展与变化、文化的发展与变化。</td>
 </tr>
 <tr height="200">
-<td height="200" style="width: 375px; height: 200px">
+<td height="200" style="width: 375px; height: 200px">
 				    汉语作为一门古老而特殊的语言，其词汇又具有自身鲜明的特点，如：由于缺乏形态变化，而难以进行词类的划分；有大量的异音近义词与同音多义词；存在着用语减省而表意丰富的成语等特殊形式等等。了解汉语的词汇，对学生了解民族语言、学习民族文化起到关键的作用。高中学生正处于中学学习向大学学习的转型期，课堂学习为主向自学为主的转型期，也是逻辑思维培养的关键期，在这一时期开设“词汇学”这样的需要逻辑思维能力的课程来对学生进行一定的训练也是必要的。</td>
 </tr>
 <tr height="120">
-<td height="280" rowspan="3" style="width: 140px; height: 280px">
+<td height="280" rowspan="3" style="width: 140px; height: 280px">
 				数学美学原理</td>
-<td rowspan="3" style="width: 67px">
+<td rowspan="3" style="width: 67px">
 				庄杰</td>
-<td rowspan="3" style="width: 123px">
+<td rowspan="3" style="width: 123px">
 				高中数学教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				从学科分类来看，数学是理论自然科学中的重要分支——素有“科学之王”之美誉；从数学的起源来看，她是对客观事物的一种量的抽象——从客观存在的有限性演变为认识领域的无限性；从人文环境来看，数学有着无与伦比的美学情趣——古希腊有一句名言：“哪里有数，哪里就有美”。</td>
 </tr>
 <tr height="60">
-<td height="60" style="width: 375px; height: 60px">
+<td height="60" style="width: 375px; height: 60px">
 				   面对以上种种美誉，人们不禁要问：“数学为何如此美丽？又该怎样从美学的角度，来观察、分析、理解、并感受数学的魅力？”</td>
 </tr>
 <tr height="100">
-<td height="100" style="width: 375px; height: 100px">
+<td height="100" style="width: 375px; height: 100px">
 				事实上，数学美的表现形式是多种多样的————从数学的外在形象上观赏：她有体系之美、概念之美、公式之美；从数学的思维方式上分析：她有简约之美、无限之美、抽象之美、类比之美；从美学原理上探讨：她有对称之美、和谐之美、奇异之美等。</td>
 </tr>
 <tr height="280">
-<td height="360" rowspan="3" style="width: 140px; height: 360px">
+<td height="360" rowspan="3" style="width: 140px; height: 360px">
 				《数学史和数学文化漫谈》</td>
-<td rowspan="3" style="width: 67px">
+<td rowspan="3" style="width: 67px">
 				刘桂娟</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				高一数学教师。中学高级教师，任教14年。论文《“投机取巧”在数学中的运用》于2006年10月发表在基础教育论坛杂志。论文《后进生教育浅见》于2005年8月获全国教育科学“十五”规划重点课题研究优秀成果三等奖。  </td>
-<td rowspan="3" style="width: 375px">
+<td rowspan="3" style="width: 375px">
 				普通高中《数学课程标准》要求，通过在高中阶段数学文化，数学史的学习，学生将初步了解数学科学与人类社会发展之间的相互作用，体会数学的科学价值，应用价值，人文价值，开阔视野，寻求数学进步的历史轨迹，激发对于数学创新原动力的认识，受到优秀文化的熏陶，领会数学的美学价值，从而提高自身的文化素养和创新意识。</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 123px; height: 20px">
+<td height="20" style="width: 123px; height: 20px">
 				教育格言：</td>
 </tr>
 <tr height="60">
-<td height="60" style="width: 123px; height: 60px">
+<td height="60" style="width: 123px; height: 60px">
 				    含泪播种的人一定能含笑收获。 </td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 140px; height: 20px">
+<td height="20" style="width: 140px; height: 20px">
 				  矩阵变换</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				  王辉</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				 高二数学教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				关于矩阵的相关知识简介及训练</td>
 </tr>
 <tr height="120">
-<td height="120" style="width: 140px; height: 120px">
+<td height="120" style="width: 140px; height: 120px">
 				高考中数学思想方法透析</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				于学杰</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				高一数学教师。</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				围绕高中数学课程的目标和重点，同时兼顾义务教育阶段已经涉及的一些重要数学内容。重在突出数学思想方法，突出启发性和引导性，激发学生的兴趣和思考。教师在通过一些典型的例题，如：一题多解，多题一解，变式的训练等，引导血红色呢个逐步地领会数学思想和方法，培养学生的解题能力。</td>
 </tr>
 <tr height="160">
-<td height="160" style="width: 140px; height: 160px">
+<td height="160" style="width: 140px; height: 160px">
 				高中数学建模━构造法解题</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				徐艳娟</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				高二数学教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				简单地说，数学模型就是用数学语言来模拟空间形式和数量关系的模型。具体地说，数学模型是关于部分现实世界为某种目的的一个抽象的简化的数学结构。更确切地说，数学模型就是对于一个特定的对象为了一个特定目标，根据特有的内在规律，做出一些必要的简化假设，运用适当的数学工具，得到的一个数学结构。一切数学概念、公式、理论体系、算法系统、表格、图示等都可称为数学模型。</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 140px; height: 20px">
+<td height="20" style="width: 140px; height: 20px">
 				配方与换元</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				卢静</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				高二数学教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				配方与换元等数学知识精讲</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 140px; height: 20px">
+<td height="20" style="width: 140px; height: 20px">
 				桥牌</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				商广东</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				高二数学教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				桥牌入门</td>
 </tr>
 <tr height="20">
-<td height="140" rowspan="7" style="width: 140px; height: 140px">
+<td height="140" rowspan="7" style="width: 140px; height: 140px">
 				高中数学中特别元素与特别方法应用举例</td>
-<td rowspan="7" style="width: 67px">
+<td rowspan="7" style="width: 67px">
 				那绍周</td>
-<td rowspan="7" style="width: 123px">
+<td rowspan="7" style="width: 123px">
 				高中数学教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				1.数字“0”与“1”的妙用</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				2.常数列应用举例</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				3零向量应用举例</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				4.向量数量积与柯西不等式</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				5.分段函数奇偶性判断及应用</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				6．函数图象对称与周期性</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				7.解析几何中减少计算量的策略</td>
 </tr>
 <tr height="20">
-<td height="420" rowspan="14" style="width: 140px; height: 420px">
+<td height="420" rowspan="14" style="width: 140px; height: 420px">
 				平面几何证明</td>
-<td rowspan="14" style="width: 67px">
+<td rowspan="14" style="width: 67px">
 				张宁</td>
-<td rowspan="14" style="width: 123px">
+<td rowspan="14" style="width: 123px">
 				高中数学教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				1． 线段或角相等的证明</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				（1）利用全等△或相似多边形；</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				（2）利用等腰△；</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				（3）利用平行四边形；</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				（4）利用等量代换；</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				（5）利用平行线的性质或利用比例关系</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				（6）利用圆中的等量关系等。</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				2． 线段或角的和差倍分的证明</td>
 </tr>
 <tr height="60">
-<td height="60" style="width: 375px; height: 60px">
+<td height="60" style="width: 375px; height: 60px">
 				（1）转化为相等问题。如要证明a=b±c，可以先作出线段p=b±c，再去证明a=p，即所谓“截长补短”，角的问题仿此进行。</td>
 </tr>
 <tr height="80">
-<td height="80" style="width: 375px; height: 80px">
+<td height="80" style="width: 375px; height: 80px">
 				（2）直接用已知的定理。例如：中位线定理，Rt△斜边上的中线等于斜边的一半；△的外角等于不相邻的内角之和；圆周角等于同弧所对圆心角的一半等等。</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				3． 两线平行与垂直的证明</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				（1）利用两线平行与垂直的判定定理。</td>
 </tr>
 <tr height="40">
-<td height="40" style="width: 375px; height: 40px">
+<td height="40" style="width: 375px; height: 40px">
 				（2）利用平行四边形的性质可证明平行；利用等腰△的“三线合一”可证明垂直。</td>
 </tr>
 <tr height="40">
-<td height="40" style="width: 375px; height: 40px">
+<td height="40" style="width: 375px; height: 40px">
 				（3）利用比例关系可证明平行；利用勾股定理的逆定理可证明垂直等。</td>
 </tr>
 <tr height="40">
-<td height="60" rowspan="2" style="width: 140px; height: 60px">
+<td height="60" rowspan="2" style="width: 140px; height: 60px">
 				《语言学理论基础》</td>
-<td rowspan="2" style="width: 67px">
+<td rowspan="2" style="width: 67px">
 				林琳</td>
-<td rowspan="2" style="width: 123px">
+<td rowspan="2" style="width: 123px">
 				中学初级教师，现任大连24中高一英语教师。</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				主要从三个方面介绍语言：1. 语言在社会中的地位和作用2. 语言的结构3. 语言的发展</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				                       </td>
 </tr>
 <tr height="200">
-<td height="200" style="width: 140px; height: 200px">
+<td height="200" style="width: 140px; height: 200px">
 				 西方文化与礼仪</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				曹萌</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				中学一级教师任高二年级课程</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				 了解西方文化历史的精髓,克服今后交际中的中西方的文化壁垒.通过对于西方礼仪的学习,培养学生良好的礼仪规范和社交技能。提高学生的口语能力并从枯燥的语法记忆,转为自觉而有趣的练习。学习正确使用交际用语与肢体语言，了解西方社会文化的派别；学习西方餐饮礼仪，鉴品西方的咖啡文化；学习西方着装礼仪，初识西方的服装品牌与文化；学习商务礼仪，婚礼、丧葬礼仪体会原汁原味的舞会、聚会；了解西方的洋酒文化与历史，掌握西方礼仪文化中的禁忌</td>
 </tr>
 <tr height="100">
-<td height="100" style="width: 140px; height: 100px">
+<td height="100" style="width: 140px; height: 100px">
 				《词汇学》</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				唐丽丽</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				现任大连24中高一英语教师。</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				词汇是语言学习的基础，只有丰富的词汇才能保证流利而又准确的交流。词汇学重点研究以下几个方面的问题：词的定义，词义分析，不同语言中词汇结构的共性成分。掌握了以上基础知识和技能，能够为英语学习奠定坚实的基础。</td>
 </tr>
 <tr height="120">
-<td height="120" style="width: 140px; height: 120px">
+<td height="120" style="width: 140px; height: 120px">
 				《英文演讲技巧》 </td>
-<td style="width: 67px">
+<td style="width: 67px">
 				韩洋</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				中学一级教师，任高一年级课程</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				本课程主要介绍和学习：1. 公众演讲及其构成；2. 演讲稿的语言选择、结构组织、及写作要求；3.一个成功的演讲的所要具备的能力、技能技巧以及工具的选择； 4. 、劝说性演讲特点、区别及技能技巧。课堂上教授理论知识的同时，注重实践能力的培养，注重各章节的案例分析及课后练习的学习。</td>
 </tr>
 <tr height="80">
-<td height="80" style="width: 140px; height: 80px">
+<td height="80" style="width: 140px; height: 80px">
 				《英语美文赏析》</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				张颖</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				高二英语教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				阅读可以激发学生对英语学习的兴趣，让学生通过优美的英文感受地道的英语，促使学生阅读能力的提高，为词汇学习和作文提高提供有利帮助，不仅可以备战高考，更能为以后的终身学习奠定基础。</td>
 </tr>
 <tr height="120">
-<td height="120" style="width: 140px; height: 120px">
+<td height="120" style="width: 140px; height: 120px">
 				《英语视听、听说》</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				穆滢</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				中学高级教师任高二年级课程</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				英文影视，美国情景喜剧欣赏可以激发学生对英语学习的兴趣，让学生透过影视，了解英美文化，风土人情，并形成跨文化意识。课程以美国经典影片的场景，情景喜剧《老友记》和《生活大爆炸》为主，节选其中片段，并让学生重复片段中的英语，达到练习的目的。</td>
 </tr>
 <tr height="40">
-<td height="40" style="width: 140px; height: 40px">
+<td height="40" style="width: 140px; height: 40px">
 				 《英文歌曲欣赏》</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				 王忠良</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				高二英语教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				本门课程主要采取赏析为主，根据课时要求，涉及英美地区不同时代的经典之作，以供学生欣赏。</td>
 </tr>
 <tr height="60">
-<td height="60" style="width: 140px; height: 60px">
+<td height="60" style="width: 140px; height: 60px">
 				《初识“模拟联合国”》</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				尹俊锋 </td>
-<td style="width: 123px">
+<td style="width: 123px">
 				高三英语教师，模联指导教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				模拟联合国活动是一项在中国慢慢看是普及的学生之间的学术交流活动，它具有学术标准严格，参会代表优秀，国际化程度高，高端模拟及互动性强等特点。</td>
 </tr>
 <tr height="100">
-<td height="100" style="width: 140px; height: 100px">
+<td height="100" style="width: 140px; height: 100px">
 				《语言学深探》</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				李铁英</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				大连市第二十四中学高二英语教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				语言学是以人类语言为研究对象的学科，探索范围包括语言的结构、语言的运用、语言的社会功能和历史发展，以及其他与语言有关的问题。通过语言学的学习，学生能够具有文学修养和鉴赏能力以及较强的写作能力；能够增强对英语学习的兴趣。</td>
 </tr>
 <tr height="120">
-<td height="120" style="width: 140px; height: 120px">
+<td height="120" style="width: 140px; height: 120px">
 				《英语写作》</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				杨丽霞</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				高一英语教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				以高考大纲为指导，以全面贯彻落实课改精神为宗旨，开展英语写作练习对学生进行英语写作辅导，提高学生英语书面表达能力。1．通过教学，让学生了解英语书面表达范例。2．通过教学，增强学生书面表达能力；3．通过教学，培养学生书面沟通能力，自主学习的能力；</td>
 </tr>
 <tr height="120">
-<td height="120" style="width: 140px; height: 120px">
+<td height="120" style="width: 140px; height: 120px">
 				英语文化-英语国家概况</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				范华</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				高中英语教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				我们利用校本课程，以多种多样的节目形式，进行英语文化背景知识的介绍，以帮助学生增加对以英语为母语的国家的了解，增强对文化差异的敏感性，培养跨文化交际意识。对“交际文化”的了解，则能增强学生对文化差异的敏感性，培养他们跨文化交际意识，了解话题中所隐含的“交际文化”显性化。</td>
 </tr>
 <tr height="120">
-<td height="120" style="width: 140px; height: 120px">
+<td height="120" style="width: 140px; height: 120px">
 				 阅读大视野</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				李晓丹</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				高中英语教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				 本课通过引导学生阅读各类的有关英语文化的文章，扩大学生接触异国文化的范围，帮助学生拓展视野，使他们提高对中外文化异同的敏感性和鉴别能力，为发展跨文化交际能力打下良好的基础。学会阅读不同类型的文章，培养他们的阅读兴趣，培养学生用英语获取信息、处理信息的能力。</td>
 </tr>
 <tr height="140">
-<td height="140" style="width: 140px; height: 140px">
+<td height="140" style="width: 140px; height: 140px">
 				营养与健康</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				韩志萍</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				高二生物教师，曾担任高一竞赛辅导，现任高二生物教师。</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				随着社会的进步和人们生活水平的不断提高，合理营养与健康的联系越来越受到全社会的普遍关注和重视，但是在现实生活中，人们对营养学知识还相当缺乏，存在不少的问题或误区。本课程主要内容：科学的健康理念、基础营养学、不同人群的营养、各类食物的营养与保健价值、膳食营养与健康等，力求科学性和实用性，尽量做到通俗易懂。</td>
 </tr>
 <tr height="180">
-<td height="180" style="width: 140px; height: 180px">
+<td height="180" style="width: 140px; height: 180px">
 				吃出健康来</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				于 喆</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				授课“风趣幽默、深入浅出。教学风格独具特色，善于启发性教学，注重知识生活实际的联系。，分析问题细致、周详。</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				 健康是指一个人在身体、精神和社会等方面都处于良好的状态。传统的健康观是“无病即健康”，现代人的健康观是整体健康，世界卫生组织提出“健康不仅是躯体没有疾病，还要具备心理健康、社会适应良好和有道德”。健康是人的基本权利，是人生最宝贵的财富之一；健康是生活质量的基础；健康是人类自我觉醒的重要方面；健康是生命存在的最佳状态，有着丰富深蕴的内涵。如何吃出健康呢？越来越受到人们的关注。</td>
 </tr>
 <tr height="320">
-<td height="320" style="width: 140px; height: 320px">
+<td height="320" style="width: 140px; height: 320px">
 				科幻作品中的生物学</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				刘恒</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				2000年7月东北师大生科院毕业到大连二十四中工作至今。现任生物教研组组长并兼任生物奥林匹克竞赛教练员，大连市教育局骨干教师，辽宁省高考测试命题组成员，辽宁师范大学生命科学学院教育硕士指导教师，大连市优质课评选活动评委。</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				你喜欢科幻作品吗？你能够把有关内容同所学的生物学知识联系在一起么？愿我们共同分享和交流。</td>
 </tr>
 <tr height="100">
-<td height="100" style="width: 140px; height: 100px">
+<td height="100" style="width: 140px; height: 100px">
 				当代流行音乐</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				孙宇光</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				高中物理教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				从猫王到披头士再到迈克尔杰克逊，当代流行音乐从雏形发展到现在已经将近一个世纪，本选修课旨在从几个时间点着眼，为同学们介绍流行音乐的发展。在紧张的学习之余，能给同学们放松自己的时间并且能更好的享受音乐、享受生活的快乐</td>
 </tr>
 <tr height="80">
-<td height="80" style="width: 140px; height: 80px">
+<td height="80" style="width: 140px; height: 80px">
 				节肢动物生活习性观察与探究</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				赵东峰</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				高中物理教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				本课将对部分节肢动物的生活习性进行观察和研究，不进行解剖学分析。可以基于观察目的进行饲养。欢迎对大自然充满热爱，愿意与节肢动物做朋友的学生选修本门课程，随意践踏生命者谢绝选课。</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 140px; height: 20px">
+<td height="20" style="width: 140px; height: 20px">
 				生活中的物理</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				佟魁星</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				高中物理教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				　</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 140px; height: 20px">
+<td height="20" style="width: 140px; height: 20px">
 				生活中的物理</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				周存胜</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				高中物理教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				　</td>
 </tr>
 <tr height="20">
-<td height="80" rowspan="4" style="width: 140px; height: 80px">
+<td height="80" rowspan="4" style="width: 140px; height: 80px">
 				物理学与国学之《道德经》</td>
-<td rowspan="4" style="width: 67px">
+<td rowspan="4" style="width: 67px">
 				于向东</td>
-<td rowspan="4" style="width: 123px">
+<td rowspan="4" style="width: 123px">
 				高中物理老师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				1．通过教学，让学生了解《道德经》；</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				2．通过教学，改变学生的思维方式；</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				3．通过教学，加强认识自然适应自然的能力；</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				4．通过教学，培养科学和人文品质；</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 140px; height: 20px">
+<td height="20" style="width: 140px; height: 20px">
 				物理学与哲学</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				张玉玲</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				高中物理老师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				　</td>
 </tr>
 <tr height="20">
-<td height="120" rowspan="6" style="width: 140px; height: 120px">
+<td height="120" rowspan="6" style="width: 140px; height: 120px">
 				物理照耀世界</td>
-<td rowspan="6" style="width: 67px">
+<td rowspan="6" style="width: 67px">
 				杨红</td>
-<td rowspan="6" style="width: 123px">
+<td rowspan="6" style="width: 123px">
 				高中物理教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				1．天涯若比邻――物理与通讯</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				2．知人者智，自知者明――物理与生命科学</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				3．好风凭借力，送我上青天――物理与飞行器</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				4．不辩风云色，安知天地心――物理与天文</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				5．更快、更高、更强――物理与计算机</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 375px; height: 20px">
+<td height="20" style="width: 375px; height: 20px">
 				6．海阔凭鱼跃，天高任飞――物理与现代农牧业</td>
 </tr>
 <tr height="60">
-<td height="60" style="width: 140px; height: 60px">
+<td height="60" style="width: 140px; height: 60px">
 				国家与国际组织</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				苏铁梅</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				大连市第二十四中学政治教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				本课将介绍国家与国际组织的一些基本原理，增加学生对政治常识的了解，同时提升对国际社会政治现象的分析与辨别力。</td>
 </tr>
 <tr height="60">
-<td height="60" style="width: 140px; height: 60px">
+<td height="60" style="width: 140px; height: 60px">
 				礼仪教育</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				黄彬</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				高中政治教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				通过礼仪教育，学习礼仪知识，训练规范的举止言行，培养学生良好的行为习惯，懂得自尊自爱、尊重他人、友好相处，为学生的全面发展奠定基础。</td>
 </tr>
 <tr height="100">
-<td height="100" style="width: 140px; height: 100px">
+<td height="100" style="width: 140px; height: 100px">
 				中国特色社会主义理论</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				朱玉红</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				本人毕业于东北师范大学政治系，现任大连市第二十四中学政治教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				本课将系统的讲解中国特色社会主义理论，包括经济理论，政治理论，文化理论等，对于社会主义理论爱好者来说是一次不可错过的机会，也将会为您的终生奠定良好的思想政治基础</td>
 </tr>
 <tr height="80">
-<td height="80" style="width: 140px; height: 80px">
+<td height="80" style="width: 140px; height: 80px">
 				服装的审美与流行</td>
-<td style="width: 67px">
+<td style="width: 67px">
 				张坪</td>
-<td style="width: 123px">
+<td style="width: 123px">
 				高中历史教师</td>
-<td style="width: 375px">
+<td style="width: 375px">
 				第一章  服装美学与设计美学；第二章 服装美的表现形式；第三章 服装美学的美感与心理；第四章 服装穿着的美学理念；第五章 服装艺术创作风格；第六章 中国服装审美</td>
 </tr>
 </tbody>

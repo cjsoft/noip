@@ -4,9 +4,9 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-          2013年3月1日开学第一天，大连市少儿图书馆与我校达成协议，在我校成立分馆。就此少儿图书馆的90万册藏书和电子书籍成为我校师生共享资源，并且少儿图书馆每年分期分批为我校图书馆提供4000册新书。这项举措为我校打造“书香校园”提供物质保障。
-      
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+          2013年3月1日开学第一天，大连市少儿图书馆与我校达成协议，在我校成立分馆。就此少儿图书馆的90万册藏书和电子书籍成为我校师生共享资源，并且少儿图书馆每年分期分批为我校图书馆提供4000册新书。这项举措为我校打造“书香校园”提供物质保障。
+      
       </td>
 </tr>
 </table>

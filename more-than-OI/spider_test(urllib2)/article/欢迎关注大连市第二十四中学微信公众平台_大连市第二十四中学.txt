@@ -6,12 +6,12 @@
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
 <div style="text-align: center">
-<strong><span style="font-size: 18px">大连市第二十四中学微信公众平台<br/>
+<strong><span style="font-size: 18px">大连市第二十四中学微信公众平台<br/>
 	微信号：ershisizhongxue</span><br/>
 <br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140624/1-140624094Q2115.jpg" style="height: 495px; width: 700px"http://www.dlhs24.com.cn/><br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140624/1-140624095011V9.jpg" style="height: 400px; width: 400px"http://www.dlhs24.com.cn/></strong><br/>
-<br/>
+<br/>
 	 </div>
 </td>
 </tr>

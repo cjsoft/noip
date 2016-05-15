@@ -4,14 +4,14 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
           又是一年申请季，随着英国申请逐步进入尾声，大连市第二十四中国际部英国申请捷报频传。高三十二班有三位同学分别获得了世界顶级名校剑桥大学和牛津大学的面试通知。其中，张厚博同学已于2014年10月30日，在上海顺利完成为期一天的剑桥大学中国区面试。面试分为笔试和口试两部分，张厚博同学在面试过程中运用扎实的学术知识沉着应对，表现出色。林镇瀛同学现已远赴牛津，将于2014年12月15日至17日，参加牛津大学University College的面试；王祖宇同学也将在同时间段通过SKYPE参加牛津大学Keble College的面试，祝愿他们在面试中发挥出色，过关斩将，最终获得梦想学府的录取通知书。<br/>
 <br/>
-<br/>
-附：
-<p style="text-align: center">
+<br/>
+附：
+<p style="text-align: center">
 	2014录取喜报</p>
-<p>
+<p>
 	    恭喜大连市第二十四中学国际部高三年级下列同学获得英国和美国大学预录取（截止至12月3日，按姓名拼音顺序）。其中张厚博同学获得剑桥大学面试并于10月30日顺利完成面试，同时顺利完成帝国理工大学第二轮笔试考核；林镇瀛同学获得牛津大学和帝国理工大学面试；王祖宇获得牛津大学面试；王曦晔同学于11月21日顺利完成达特茅斯大学面试；翟月于11月25日顺利完成康奈尔大学面试。让我们期待更多的好消息。</p>
 <br/>
 <table border="1" cellpadding="0" cellspacing="0" style="width: 644px" width="644" x:str="">
@@ -22,387 +22,387 @@
 </colgroup>
 <tbody>
 <tr height="38">
-<td height="58" rowspan="2" style="width: 147px; height: 58px">
+<td height="58" rowspan="2" style="width: 147px; height: 58px">
 				贾悦宁Fiona Jia</td>
-<td style="width: 253px">
+<td style="width: 253px">
 				曼彻斯特大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				经济与金融</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Manchester</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Economics and Finance</td>
 </tr>
 <tr height="19">
-<td height="117" rowspan="6" style="width: 147px; height: 117px">
+<td height="117" rowspan="6" style="width: 147px; height: 117px">
 				李婕Lucy</td>
-<td style="width: 253px">
+<td style="width: 253px">
 				兰卡斯特大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				会计与金融</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Lancaster</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Accounting and Finance</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 253px; height: 19px">
+<td height="19" style="width: 253px; height: 19px">
 				布里斯托大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				会计与金融</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Bristol</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Accounting and Finance</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 253px; height: 19px">
+<td height="19" style="width: 253px; height: 19px">
 				伦敦城市大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				会计与金融</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				City University London</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Accounting and Finance</td>
 </tr>
 <tr height="19">
-<td height="39" rowspan="2" style="width: 147px; height: 39px">
+<td height="39" rowspan="2" style="width: 147px; height: 39px">
 				林镇瀛Luke</td>
-<td style="width: 253px">
+<td style="width: 253px">
 				布里斯托大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				物理</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Bristol</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Physics</td>
 </tr>
 <tr height="19">
-<td height="97" rowspan="4" style="width: 147px; height: 97px">
+<td height="97" rowspan="4" style="width: 147px; height: 97px">
 				刘瀚文Peter</td>
-<td style="width: 253px">
+<td style="width: 253px">
 				莱斯特大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				商业和经济</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Leicester</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Business And Economics</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 253px; height: 19px">
+<td height="19" style="width: 253px; height: 19px">
 				肯特大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				商业和跨文化研究</td>
 </tr>
 <tr height="39">
-<td height="39" style="width: 253px; height: 39px">
+<td height="39" style="width: 253px; height: 39px">
 				University of Kent</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Business and Cross Cultural Studies</td>
 </tr>
 <tr height="19">
-<td height="117" rowspan="6" style="width: 147px; height: 117px">
+<td height="117" rowspan="6" style="width: 147px; height: 117px">
 				刘译遥Catherine</td>
-<td style="width: 253px">
+<td style="width: 253px">
 				伦敦城市大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				金融经济</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				City University London</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Finance and Economics</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 253px; height: 19px">
+<td height="19" style="width: 253px; height: 19px">
 				约克大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				管理</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of York</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Management</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 253px; height: 19px">
+<td height="19" style="width: 253px; height: 19px">
 				曼彻斯特大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				休闲管理</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Manchester</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Leisure Management</td>
 </tr>
 <tr height="19">
-<td height="117" rowspan="6" style="width: 147px; height: 117px">
+<td height="117" rowspan="6" style="width: 147px; height: 117px">
 				刘熙宸Frank</td>
-<td style="width: 253px">
+<td style="width: 253px">
 				萨里大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				土木工程</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Surrey</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Civil Engineering</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 253px; height: 19px">
+<td height="19" style="width: 253px; height: 19px">
 				南安普顿大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				土木工程</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Southampton</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Civil Engineering</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 253px; height: 19px">
+<td height="19" style="width: 253px; height: 19px">
 				布里斯托大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				土木工程</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Bristol</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Civil Engineering</td>
 </tr>
 <tr height="19">
-<td height="78" rowspan="4" style="width: 147px; height: 78px">
+<td height="78" rowspan="4" style="width: 147px; height: 78px">
 				南基银Abigail</td>
-<td style="width: 253px">
+<td style="width: 253px">
 				谢菲尔德大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				心理学</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Sheffield</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Psychology</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 253px; height: 19px">
+<td height="19" style="width: 253px; height: 19px">
 				拉夫堡大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				心理学</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				Loughborough University</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Psychology</td>
 </tr>
 <tr height="19">
-<td height="156" rowspan="8" style="width: 147px; height: 156px">
+<td height="156" rowspan="8" style="width: 147px; height: 156px">
 				秦立好Robert Qin</td>
-<td style="width: 253px">
+<td style="width: 253px">
 				曼彻斯特大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				机械工程</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Manchester</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Mechanical Engineering</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 253px; height: 19px">
+<td height="19" style="width: 253px; height: 19px">
 				兰卡斯特大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				机械工程</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Lancaster</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Mechanical Engineering</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 253px; height: 19px">
+<td height="19" style="width: 253px; height: 19px">
 				诺丁汉大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				机械工程</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Nottingham</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Mechanical Engineering</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 253px; height: 19px">
+<td height="19" style="width: 253px; height: 19px">
 				谢菲尔德大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				机械工程</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Sheffield</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Mechanical Engineering</td>
 </tr>
 <tr height="19">
-<td height="39" rowspan="2" style="width: 147px; height: 39px">
+<td height="39" rowspan="2" style="width: 147px; height: 39px">
 				孙轶凡Francis</td>
-<td style="width: 253px">
+<td style="width: 253px">
 				美国科罗拉多波尔得分校 （EA)</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				商科</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Corolado Boulder</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Business</td>
 </tr>
 <tr height="19">
-<td height="156" rowspan="8" style="width: 147px; height: 156px">
+<td height="156" rowspan="8" style="width: 147px; height: 156px">
 				史向嫄Sunny</td>
-<td style="width: 253px">
+<td style="width: 253px">
 				兰卡斯特大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				会计与金融</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Lancaster</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Accounting and Finance</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 253px; height: 19px">
+<td height="19" style="width: 253px; height: 19px">
 				南安普顿大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				会计与金融</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Southampton</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Accounting and Finance</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 253px; height: 19px">
+<td height="19" style="width: 253px; height: 19px">
 				肯特大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				会计与金融</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Kent</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Accounting and Finance</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 253px; height: 19px">
+<td height="19" style="width: 253px; height: 19px">
 				牛津布鲁克斯大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				会计与金融</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				Oxford Brooks University</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Accounting and Finance</td>
 </tr>
 <tr height="19">
-<td height="117" rowspan="6" style="width: 147px; height: 117px">
+<td height="117" rowspan="6" style="width: 147px; height: 117px">
 				王祖宇Zuyu</td>
-<td style="width: 253px">
+<td style="width: 253px">
 				曼彻斯特大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				数学</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Manchester</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Mathematics</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 253px; height: 19px">
+<td height="19" style="width: 253px; height: 19px">
 				伯明翰大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				数学</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Birmingham</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Mathematics</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 253px; height: 19px">
+<td height="19" style="width: 253px; height: 19px">
 				华威大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				数学</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Warwick</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Mathematics</td>
 </tr>
 <tr height="19">
-<td height="117" rowspan="6" style="width: 147px; height: 117px">
+<td height="117" rowspan="6" style="width: 147px; height: 117px">
 				张厚博Albert</td>
-<td style="width: 253px">
+<td style="width: 253px">
 				萨里大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				航空航天工程</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Surrey</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Aerospace Engineering</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 253px; height: 19px">
+<td height="19" style="width: 253px; height: 19px">
 				南安普顿大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				航空航天工程</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Southampton</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Aeronautical Engineering</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 253px; height: 19px">
+<td height="19" style="width: 253px; height: 19px">
 				布里斯托大学</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				航空航天工程</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 253px; height: 20px">
+<td height="20" style="width: 253px; height: 20px">
 				University of Bristol</td>
-<td style="width: 244px">
+<td style="width: 244px">
 				Aerospace Engineering</td>
 </tr>
 </tbody>
@@ -411,7 +411,7 @@
 <br/>
 <p style="text-align: center">
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/141204/1-141204140641503.jpg" style="width: 700px; height: 524px"http://www.dlhs24.com.cn/><br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/141204/1-141204140A1R3.jpg" style="width: 700px; height: 467px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/141204/1-141204140A1R3.jpg" style="width: 700px; height: 467px"http://www.dlhs24.com.cn/><br/>
 	 </p>
 </td>
 </tr>

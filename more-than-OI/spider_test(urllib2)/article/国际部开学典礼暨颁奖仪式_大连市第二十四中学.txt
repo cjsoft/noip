@@ -4,7 +4,7 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
             2012年9月3日,新学期开学第一天国际部召开了开学典礼暨颁奖仪式。学术校长Mr.Paul 对全体学生及教职员工致以新学期最诚挚的问候。同时也对所有学生提出了十条要求及新学期的期望。最后对上一学年度在剑桥统考及语言考试中取得优异成绩的同学进行颁奖。获奖名单如下：<br/>
 <br/>
 <strong>AS </strong><br/>

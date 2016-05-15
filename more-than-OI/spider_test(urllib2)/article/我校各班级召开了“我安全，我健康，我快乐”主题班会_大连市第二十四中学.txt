@@ -4,8 +4,8 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-          我校于3月31日下午第九节课，全校各班级召开了“我安全，我健康，我快乐”的主题班会。
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+          我校于3月31日下午第九节课，全校各班级召开了“我安全，我健康，我快乐”的主题班会。
 <div style="text-align: center">
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150401/1-150401143105206.jpg" style="height: 392px; width: 700px"http://www.dlhs24.com.cn/><br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150401/1-150401143114934.jpg" style="height: 392px; width: 700px"http://www.dlhs24.com.cn/><br/>
@@ -14,7 +14,7 @@
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150401/1-15040114313DF.jpg" style="height: 392px; width: 700px"http://www.dlhs24.com.cn/><br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150401/1-150401143146142.jpg" style="height: 392px; width: 700px"http://www.dlhs24.com.cn/><br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150401/1-150401143152230.jpg" style="height: 392px; width: 700px"http://www.dlhs24.com.cn/><br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150401/1-150401143159220.jpg" style="height: 392px; width: 700px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150401/1-150401143159220.jpg" style="height: 392px; width: 700px"http://www.dlhs24.com.cn/><br/>
 	 </div>
 </td>
 </tr>

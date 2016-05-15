@@ -4,8 +4,8 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-          2014年9月6日，第31届全国中学生奥林匹克物理竞赛（大连赛区）预赛在大连市第二十四中学举行，参赛学生为市内高中在校生，二十四中学考场有596人参赛，比赛按时举行，考生认真，考试顺利。二十四中全体师生预祝考生们取得优异的成绩。
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+          2014年9月6日，第31届全国中学生奥林匹克物理竞赛（大连赛区）预赛在大连市第二十四中学举行，参赛学生为市内高中在校生，二十四中学考场有596人参赛，比赛按时举行，考生认真，考试顺利。二十四中全体师生预祝考生们取得优异的成绩。
 <div style="text-align: center">
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140909/1-140Z9122403913.jpg" style="width: 700px; height: 393px"http://www.dlhs24.com.cn/></div>
 </td>

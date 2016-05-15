@@ -5,35 +5,35 @@
 <table width="100%">
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-<p>
+<p>
 	    4月16日早上8点30分，国际部的同学们已准时在本次滑铁卢大学欧几里得（Euclid）数学竞赛的考场外排队等候，这也已经是国际部举办的第二次欧几里得数学竞赛了。时间一到，同学们安静有序的进入考场坐好。本次数学竞赛共有国际部高一年级43名同学参加，高二年级9名同学参加。</p>
-<p>
+<p>
 	    正式考试从早上9点开始，11点30分结束，在这两个半小时中，同学们一共需要完成共十道题目，从同学们的反应来看，考试的难度不太大，前八道题目普遍评价就是“简单”，需要费时费力的只有最后两道题目，难度方面主要体现在解题思路部分。竞赛题目与国内高中的先学方法再解答问题的思路相逆，尤其是在最后的一两题中，更多是需要根据题目给出的内容进行尝试从而慢慢寻求到解题规律，题目的解答会随着每个小问题的深入逐步变得清晰。</p>
-<p>
+<p>
 	    预祝同学们在此次欧几里得数学竞赛中取得优异成绩！</p>
 <p style="text-align: center">
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150416/1-150416160522L7.JPG" style="height: 525px; width: 700px"http://www.dlhs24.com.cn/></p>
 <p style="text-align: center">
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150416/1-150416160TN12.JPG" style="height: 525px; width: 700px"http://www.dlhs24.com.cn/></p>
 <p>
-<br/>
-	 <br/>
-	滑铁卢大学欧几里得数学竞赛简介：<br/>
+<br/>
+	 <br/>
+	滑铁卢大学欧几里得数学竞赛简介：<br/>
 	    一年一度的滑铁卢大学数学欧几里德考试（Euclid Contest）是由世界上最大数学院，滑铁卢大学数学学院主办，至今已经成功举办过35届，每年大约有15,000人参加，目的是为测试学生解决数学问题能力，帮助和启迪下一代学生对数学或者计算机科学的兴趣及热爱。<br/>
-<br/>
-	考试形式<br/>
-	    考试时间为2.5小时，总共包括10道题，每题10分，总共100分。考题分为二部分，一部分为简答题，另一部分为大答题，没有选择题。评分标准不仅是以最终结果正确与否给分，也会根据答题步骤及方式来给分。如果答题步骤或方式过为散乱，即使最终结果是正确的也不会给予满分。<br/>
-	 <br/>
-	考试范围<br/>
-	    考题内容以高中数学课程为主包括高中最后一年课程内容，包括以下主题：<br/>
-	    Euclidean and analytic geometry 解析几何<br/>
-	    Trigonometry, including functions, graphs, identities, sine and cosine laws 三角函数<br/>
-	    Exponential and logarithmic functions 指数和对数函数<br/>
-	    Functional notation 函数记号<br/>
-	    Systems of equations 方程组<br/>
-	    Polynomials, including relationships involving the roots of quadratic and cubic equations, the remainder theorem 多项式，包括二次求根，三次方程式，余部定理<br/>
-	    Sequences and series 数列和级数<br/>
-	    Simple counting problems 简单计算题<br/>
+<br/>
+	考试形式<br/>
+	    考试时间为2.5小时，总共包括10道题，每题10分，总共100分。考题分为二部分，一部分为简答题，另一部分为大答题，没有选择题。评分标准不仅是以最终结果正确与否给分，也会根据答题步骤及方式来给分。如果答题步骤或方式过为散乱，即使最终结果是正确的也不会给予满分。<br/>
+	 <br/>
+	考试范围<br/>
+	    考题内容以高中数学课程为主包括高中最后一年课程内容，包括以下主题：<br/>
+	    Euclidean and analytic geometry 解析几何<br/>
+	    Trigonometry, including functions, graphs, identities, sine and cosine laws 三角函数<br/>
+	    Exponential and logarithmic functions 指数和对数函数<br/>
+	    Functional notation 函数记号<br/>
+	    Systems of equations 方程组<br/>
+	    Polynomials, including relationships involving the roots of quadratic and cubic equations, the remainder theorem 多项式，包括二次求根，三次方程式，余部定理<br/>
+	    Sequences and series 数列和级数<br/>
+	    Simple counting problems 简单计算题<br/>
 	    Properties of numbers 数字的性质</p>
 </td>
 </tr>

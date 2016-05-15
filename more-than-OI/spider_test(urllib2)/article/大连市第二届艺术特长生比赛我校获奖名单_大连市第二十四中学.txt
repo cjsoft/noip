@@ -5,7 +5,7 @@
 <table width="100%">
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-<div style="text-align: center">
+<div style="text-align: center">
 	 </div>
 <table border="1" cellpadding="0" cellspacing="0" style="width: 415px" width="414">
 <colgroup>
@@ -16,221 +16,221 @@
 </colgroup>
 <tbody>
 <tr height="19">
-<td height="19" style="text-align: center; width: 60px; height: 19px">
+<td height="19" style="text-align: center; width: 60px; height: 19px">
 				奖项</td>
-<td style="text-align: center; width: 76px">
+<td style="text-align: center; width: 76px">
 				姓名 </td>
-<td colspan="2" style="text-align: center; width: 279px">
+<td colspan="2" style="text-align: center; width: 279px">
 				作品</td>
 </tr>
 <tr height="19">
-<td colspan="4" height="19" style="text-align: center; height: 19px">
+<td colspan="4" height="19" style="text-align: center; height: 19px">
 				美术</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				崔志恒</td>
-<td colspan="2" style="text-align: center">
+<td colspan="2" style="text-align: center">
 				篆刻</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				迟轶然</td>
-<td colspan="2" style="text-align: center">
+<td colspan="2" style="text-align: center">
 				书法</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				张晓静</td>
-<td colspan="2" style="text-align: center">
+<td colspan="2" style="text-align: center">
 				篆刻</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				刘榕</td>
-<td colspan="2" style="text-align: center">
+<td colspan="2" style="text-align: center">
 				国画</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				阎奇锋</td>
-<td colspan="2" style="text-align: center">
+<td colspan="2" style="text-align: center">
 				书法</td>
 </tr>
 <tr height="19">
-<td colspan="4" height="19" style="text-align: center; height: 19px">
+<td colspan="4" height="19" style="text-align: center; height: 19px">
 				声乐</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center; width: 76px">
+<td style="text-align: center; width: 76px">
 				贾  璐</td>
-<td colspan="2" style="text-align: center; width: 279px">
+<td colspan="2" style="text-align: center; width: 279px">
 				玛依拉变奏曲</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center; width: 76px">
+<td style="text-align: center; width: 76px">
 				王静仪</td>
-<td colspan="2" style="text-align: center; width: 279px">
+<td colspan="2" style="text-align: center; width: 279px">
 				蓝色爱情海</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center; width: 76px">
+<td style="text-align: center; width: 76px">
 				韩明锦</td>
-<td colspan="2" style="text-align: center; width: 279px">
+<td colspan="2" style="text-align: center; width: 279px">
 				长鼓敲起来</td>
 </tr>
 <tr height="19">
-<td colspan="4" height="19" style="text-align: center; height: 19px">
+<td colspan="4" height="19" style="text-align: center; height: 19px">
 				民乐</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center; width: 76px">
+<td style="text-align: center; width: 76px">
 				赵崔泽昊</td>
-<td style="text-align: center; width: 60px">
+<td style="text-align: center; width: 60px">
 				竹笛</td>
-<td style="text-align: center; width: 219px">
+<td style="text-align: center; width: 219px">
 				绿洲</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center; width: 76px">
+<td style="text-align: center; width: 76px">
 				许晓凡</td>
-<td style="text-align: center; width: 60px">
+<td style="text-align: center; width: 60px">
 				古筝</td>
-<td style="text-align: center; width: 219px">
+<td style="text-align: center; width: 219px">
 				幸福渠水到俺村</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center; width: 76px">
+<td style="text-align: center; width: 76px">
 				程雅卓</td>
-<td style="text-align: center; width: 60px">
+<td style="text-align: center; width: 60px">
 				中阮</td>
-<td style="text-align: center; width: 219px">
+<td style="text-align: center; width: 219px">
 				满江红</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center; width: 76px">
+<td style="text-align: center; width: 76px">
 				王雪婷</td>
-<td style="text-align: center; width: 60px">
+<td style="text-align: center; width: 60px">
 				扬琴</td>
-<td style="text-align: center; width: 219px">
+<td style="text-align: center; width: 219px">
 				黄土情</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center; width: 76px">
+<td style="text-align: center; width: 76px">
 				周  越</td>
-<td style="text-align: center; width: 60px">
+<td style="text-align: center; width: 60px">
 				古筝</td>
-<td style="text-align: center; width: 219px">
+<td style="text-align: center; width: 219px">
 				临安遗恨</td>
 </tr>
 <tr height="19">
-<td colspan="4" height="19" style="text-align: center; height: 19px">
+<td colspan="4" height="19" style="text-align: center; height: 19px">
 				管乐</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center; width: 76px">
+<td style="text-align: center; width: 76px">
 				李沛阳</td>
-<td style="text-align: center; width: 60px">
+<td style="text-align: center; width: 60px">
 				大提琴</td>
-<td style="text-align: center; width: 219px">
+<td style="text-align: center; width: 219px">
 				塔兰泰拉舞曲</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center; width: 76px">
+<td style="text-align: center; width: 76px">
 				陈翰轩</td>
-<td style="text-align: center; width: 60px">
+<td style="text-align: center; width: 60px">
 				钢琴</td>
-<td style="text-align: center; width: 219px">
+<td style="text-align: center; width: 219px">
 				李斯特音乐会练习曲第三首</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center; width: 76px">
+<td style="text-align: center; width: 76px">
 				张倬豪</td>
-<td style="text-align: center; width: 60px">
+<td style="text-align: center; width: 60px">
 				单簧管</td>
-<td style="text-align: center; width: 219px">
+<td style="text-align: center; width: 219px">
 				第二协奏曲</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center; width: 76px">
+<td style="text-align: center; width: 76px">
 				于兆元</td>
-<td style="text-align: center; width: 60px">
+<td style="text-align: center; width: 60px">
 				钢琴</td>
-<td style="text-align: center; width: 219px">
+<td style="text-align: center; width: 219px">
 				梅菲斯特圆舞曲NO.1</td>
 </tr>
 <tr height="19">
-<td colspan="4" height="19" style="text-align: center; height: 19px">
+<td colspan="4" height="19" style="text-align: center; height: 19px">
 				舞蹈</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; width: 60px; height: 19px">
+<td height="19" style="text-align: center; width: 60px; height: 19px">
 				一等奖</td>
-<td style="text-align: center; width: 76px">
+<td style="text-align: center; width: 76px">
 				孙乐妍</td>
-<td colspan="2" style="text-align: center; width: 279px">
+<td colspan="2" style="text-align: center; width: 279px">
 				黑珍珠</td>
 </tr>
 <tr height="19">
-<td colspan="4" height="19" style="text-align: center; height: 19px">
+<td colspan="4" height="19" style="text-align: center; height: 19px">
 				朗诵</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				王  季</td>
-<td colspan="2" style="text-align: center; width: 279px">
+<td colspan="2" style="text-align: center; width: 279px">
 				 活出光明</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				陈佳成</td>
-<td colspan="2" style="text-align: center; width: 279px">
+<td colspan="2" style="text-align: center; width: 279px">
 				生如胡杨</td>
 </tr>
 <tr height="19">
-<td height="19" style="text-align: center; height: 19px">
+<td height="19" style="text-align: center; height: 19px">
 				一等奖</td>
-<td style="text-align: center; width: 76px">
+<td style="text-align: center; width: 76px">
 				周启航</td>
-<td colspan="2" style="text-align: center; width: 279px">
+<td colspan="2" style="text-align: center; width: 279px">
 				遥远的梦想</td>
 </tr>
 </tbody>

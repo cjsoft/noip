@@ -4,7 +4,7 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
           为了增强我校教师体质，营造健康和谐的校园氛围，教师太极拳学习班继上学期成功举办后，于2013年3月11日重新开班。本学期第一次学习活动于11日间操时间举行，教练认真传授，学员虚心学习。本学期继续由朱春利主任担任太极拳学习班教练，希望大家积极参与，共享运动带来的愉悦！<br/>
 </td>
 </tr>

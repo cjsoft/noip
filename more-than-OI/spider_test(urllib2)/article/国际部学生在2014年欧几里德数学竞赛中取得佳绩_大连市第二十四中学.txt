@@ -5,12 +5,12 @@
 <table width="100%">
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-<p>
+<p>
 	    我校国际部学生在2014年加拿大滑铁卢大学举办的欧几里德数学竞赛中成绩优异。国际部50名参赛者中有22名学生获得杰出奖证书，高二十二班林镇瀛同学获得滑铁卢大学颁发的校内最高成绩奖牌。加拿大境外共有1400个学校参加了今年的欧几里德数学竞赛，我校国际部总成绩名列第31名。</p>
-<p>
+<p>
 	    欧几里德数学竞赛（Euclid Contest）是由加拿大滑铁卢大学举办的国际年度数学竞赛，在世界范围内享有很高的声誉，被誉为加拿大的“数学托福”考试。</p>
 <p style="text-align: center">
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140528/1-14052PZ20b05.jpg" style="width: 500px; height: 375px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140528/1-14052PZ20b05.jpg" style="width: 500px; height: 375px"http://www.dlhs24.com.cn/><br/>
 	 </p>
 </td>
 </tr>

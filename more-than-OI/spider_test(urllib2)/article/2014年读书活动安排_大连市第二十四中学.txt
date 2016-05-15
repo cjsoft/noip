@@ -4,89 +4,89 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-          各教研组、处室：<br/>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+          各教研组、处室：<br/>
     为了进一步推动学校文化建设的发展，促进我校教师队伍形成良好的读书风气，提高群体素质，校科研室将配合大连市教科所组织全校教师开展“读百家经典，做幸福教师”的读书活动。活动内容包括，推荐好书、征集优秀读后感、召开读书报告会、举办读书演讲活动、举行读书活动经验总结交流会等。具体活动安排如下：<br/>
-<strong>    一、开展好书推荐</strong><br/>
-    将从3月1日至3月17日征集有利于促进教师专业发展和提升文化修养的经典书目，并从中遴选出重点研读的书目推荐给广大教师。具体要求如下：<br/>
-    1.征集数目：每教研组、处室最少推荐3本（套）<br/>
-    2.截止时间：3月17日<br/>
+<strong>    一、开展好书推荐</strong><br/>
+    将从3月1日至3月17日征集有利于促进教师专业发展和提升文化修养的经典书目，并从中遴选出重点研读的书目推荐给广大教师。具体要求如下：<br/>
+    1.征集数目：每教研组、处室最少推荐3本（套）<br/>
+    2.截止时间：3月17日<br/>
     3.报送方式：以教研组为单位，以电子文稿上传到 科研室<br/>
 <strong>    好书推荐表（样表）</strong><br/>
 <strong>    推荐单位：</strong><br/>
 <table border="1" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
-<td style="width:45px;height:41px;">
+<td style="width:45px;height:41px;">
 				序号</td>
-<td style="width:123px;height:41px;">
+<td style="width:123px;height:41px;">
 				书  名</td>
-<td style="width:47px;height:41px;">
+<td style="width:47px;height:41px;">
 				类别</td>
-<td style="width:94px;height:41px;">
+<td style="width:94px;height:41px;">
 				作者</td>
-<td style="width:95px;height:41px;">
+<td style="width:95px;height:41px;">
 				出版社</td>
-<td style="width:164px;height:41px;">
+<td style="width:164px;height:41px;">
 				推荐理由</td>
 </tr>
 <tr>
-<td style="width:45px;">
+<td style="width:45px;">
 				 </td>
-<td style="width:123px;">
+<td style="width:123px;">
 				 </td>
-<td style="width:47px;">
+<td style="width:47px;">
 				 </td>
-<td style="width:94px;">
+<td style="width:94px;">
 				 </td>
-<td style="width:95px;">
+<td style="width:95px;">
 				 </td>
-<td style="width:164px;">
-				 </td>
-</tr>
-<tr>
-<td style="width:45px;">
-				 </td>
-<td style="width:123px;">
-				 </td>
-<td style="width:47px;">
-				 </td>
-<td style="width:94px;">
-				 </td>
-<td style="width:95px;">
-				 </td>
-<td style="width:164px;">
+<td style="width:164px;">
 				 </td>
 </tr>
 <tr>
-<td style="width:45px;">
+<td style="width:45px;">
 				 </td>
-<td style="width:123px;">
+<td style="width:123px;">
 				 </td>
-<td style="width:47px;">
+<td style="width:47px;">
 				 </td>
-<td style="width:94px;">
+<td style="width:94px;">
 				 </td>
-<td style="width:95px;">
+<td style="width:95px;">
 				 </td>
-<td style="width:164px;">
+<td style="width:164px;">
+				 </td>
+</tr>
+<tr>
+<td style="width:45px;">
+				 </td>
+<td style="width:123px;">
+				 </td>
+<td style="width:47px;">
+				 </td>
+<td style="width:94px;">
+				 </td>
+<td style="width:95px;">
+				 </td>
+<td style="width:164px;">
 				 </td>
 </tr>
 </tbody>
-</table>
+</table>
     注：类别按“教育类” “哲学类” “文学类” “其它”4大类归类填写<br/>
-<strong>    二、征集优秀读后感</strong><br/>
-    从即日起，征集“百家经典”读后感。上交文章将刊登于校报、校刊、网站，并将推荐优秀作品参加大连市“百家经典”读后感评比活动。<br/>
-    具体要求如下：<br/>
-    1.征集数目：每教研组至少2篇<br/>
-    2.截止时间：5月10日<br/>
+<strong>    二、征集优秀读后感</strong><br/>
+    从即日起，征集“百家经典”读后感。上交文章将刊登于校报、校刊、网站，并将推荐优秀作品参加大连市“百家经典”读后感评比活动。<br/>
+    具体要求如下：<br/>
+    1.征集数目：每教研组至少2篇<br/>
+    2.截止时间：5月10日<br/>
     3.报送方式：以电子文稿发送到科研室<br/>
-<strong>    三、举行“读百家经典 做幸福教师”读书报告会</strong><br/>
+<strong>    三、举行“读百家经典 做幸福教师”读书报告会</strong><br/>
     为了更好的实现通过阅读促进教师专业发展和提升文化修养的目的，将在4月安排一场专题读书报告会。具体事宜届时通知，请关注Q群通知。<br/>
-<strong>    四、举办读书演讲会</strong><br/>
+<strong>    四、举办读书演讲会</strong><br/>
     将结合“教师节”庆祝活动，在9月上旬举办“读百家经典 做幸福教师”青年教师读书演讲会。具体事宜届时通知，请关注Q群通知。<br/>
-<strong>    五、举办读书汇报总结</strong><br/>
-    为进一步提升教师阅读质量，分享教师阅读活动的好经验，将于12月上旬，举办读书汇报交流总结会。具体事宜届时通知，请关注Q群通知。
+<strong>    五、举办读书汇报总结</strong><br/>
+    为进一步提升教师阅读质量，分享教师阅读活动的好经验，将于12月上旬，举办读书汇报交流总结会。具体事宜届时通知，请关注Q群通知。
 <div style="text-align: right; ">
 <strong>科研室</strong><br/>
 <strong>2014</strong><strong>年2月28日</strong></div>

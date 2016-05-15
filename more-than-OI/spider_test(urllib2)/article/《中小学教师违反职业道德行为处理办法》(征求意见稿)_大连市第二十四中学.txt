@@ -6,86 +6,86 @@
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
 <span style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; display: inline !important; font: bold 24px/26px 宋体; white-space: normal; orphans: 2; float: none; letter-spacing: normal; color: rgb(0,60,200); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">《中小学教师违反职业道德行为处理办法》征求意见</span><br/>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	 为贯彻落实《国务院关于加强教师队伍建设的意见》和《教育部关于建立健全中小学生师德建设长效机制的意见》，建立健全违反师德行为的惩处制度，切实解决当前存在的师德突出问题，教育部研究制定了《中小学教师违反职业道德行为处理办法》(征求意见稿)，现面向社会公开征求意见。欢迎有关单位、教师及社会各界人士提出宝贵意见和建议。</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    公开征求意见时间截止到12月18日，可通过以下途径和方式提出意见建议：</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    1、电子邮件：shide@moe.edu.cn</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    2、自动传真：010-66020522</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    3、信函邮寄：北京市西城区大木仓胡同35号教育部教师工作司师德建设处，邮编：100816。</p>
-<p align="right" style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p align="right" style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    中华人民共和国教育部</p>
-<p align="right" style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p align="right" style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    2013年11月29日</p>
-<p align="center" style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
-	  <strong><font size="1" style="font-size: 18pt">  中小学教师违反职业道德行为处理办法<br/>
+<p align="center" style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+	  <strong><font size="1" style="font-size: 18pt">  中小学教师违反职业道德行为处理办法<br/>
 	 (征求意见稿)</font></strong></p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    第一条 为规范教师职业行为，保障教师合法权益，根据《中华人民共和国教育法》、《中华人民共和国未成年人保护法》、《中华人民共和国教师法》、《教师资格条例》等法律法规，制定本办法。</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    第二条 本办法所称中小学教师是指幼儿园、特殊教育机构、普通中小学、中等职业学校、少年宫以及地方教研室、电化教育等机构的教师。</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    前款所称中小学教师包括民办学校教师。</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    第三条 本办法所称处分包括警告、记过、降低专业技术职务等级、撤销专业技术职务或者行政职务、开除。其中，警告期限为6个月，记过期限为12个月，降低专业技术职务等级、撤销专业技术职务或者行政职务期限为24个月。</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    第四条 教师有下列行为之一的，视情节轻重分别给予相应处分：</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    (一)在教育教学活动中有违背党和国家方针政策言行的;</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    (二)在教育教学活动中遇突发事件时，不履行保护学生人身安全职责的;</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    (三)在教育教学活动和学生管理、评价中不公平公正对待学生的;</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    (四)在招生、考试、考核评价、职务评审、教研科研中弄虚作假、营私舞弊的;</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    (五)体罚学生的;</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    (六)以侮辱、歧视、孤立等方式变相体罚学生，造成学生身心伤害的;</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    (七)骚扰学生或者与学生发生不正当关系的;</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    (八)索要或者违反规定收受家长、学生财物的;</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    (九)开展或者组织参与针对学生的经营性活动，或者强制学生订购教辅资料、报刊等谋取个人利益的;</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    (十)不听劝阻，组织、要求、诱导学生参加校外有偿补课，或者参与校外培训机构对学生有偿补课的;</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    (十一)其他违反职业道德应当给予相应处分的。</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    第五条 学校及学校主管教育部门发现教师可能存在第四条列举行为的，应当及时组织调查，核实有关事实。作出处分决定前，应当听取教师的陈述和申辩，也可听取学生、其他教师、家长委员会或者家长代表意见。必要时，可以组织听证。</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    第六条 给予教师处分按照以下权限决定：</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    (一)警告和记过处分，公办学校教师由所在学校提出建议，学校主管教育部门决定，民办学校教师由所在学校决定，报主管教育部门备案;</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    (二)降低专业技术职务等级、撤销专业技术职务或者行政职务处分，由教师所在学校提出建议，学校主管教育部门决定并报同级人事部门备案;</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    (三)开除处分，公办学校教师由所在学校提出建议，学校主管教育部门决定并报同级人事部门备案;民办学校教师或者未纳入人事编制管理的教师由所在学校决定并解除其聘任合同，报主管教育部门备案。</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    第七条 处分决定应当书面通知教师本人并载明认定的事实、理由、依据、期限及救济途径等内容。</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    处分决定应当在适当范围内公布，但涉及未成年人隐私的除外。确定处分决定公布范围时，应当坚持有利于维护教育教学正常秩序，保障教师合法权益的原则。</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    第八条 教师有第四条列举行为受到行政拘留处罚或者给予开除处分的，由县级以上教育行政部门依据《教师资格条例》第十九条撤销其教师资格。</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    教师受处分期间暂缓教师资格定期注册。依据《中华人民共和国教师法》第十四条规定丧失教师资格的，不能重新取得教师资格。</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    教师受降低专业技术职务等级处分期间不能申报高一级专业技术职务。教师受撤销专业技术职务处分期间不能重新申报专业技术职务。</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    第九条 教师不服处分决定的，可以向学校主管教育部门申请复核。对复核结果不服的，可以向学校主管教育部门的上一级行政部门提出申诉。</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    第十条 学校主管教育部门拒不处分、拖延处分或者推诿隐瞒造成不良影响或者严重后果的，上一级行政部门应当追究有关领导责任。</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    第十一条 外籍教师有第四条规定行为的，学校或者主管教育部门应当解除其聘任合同。</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    第十二条 教师被依法判处刑罚的，依据《事业单位工作人员处分暂行规定》给予撤销专业技术职务或者行政职务以上处分。教师受到剥夺政治权利或者故意犯罪受到有期徒刑以上刑事处罚的，丧失教师资格。</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    第十三条 省级教育行政部门应当结合当地实际情况制定实施细则，并报教育部备案。</p>
-<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<p style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; font: 16px/28px 宋体; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 	    第十四条 本办法自发布之日起施行。</p>
 </td>
 </tr>

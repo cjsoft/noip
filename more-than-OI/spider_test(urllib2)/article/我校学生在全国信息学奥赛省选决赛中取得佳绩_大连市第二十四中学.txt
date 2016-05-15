@@ -4,9 +4,9 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-          在刚刚结束的全国信息学奥赛辽宁省省队的决逐中我校由张新钢老师指导的高二八班于纪平，高二三班荆泽华，高二四班赵政昀，高二六班王继昆占据辽宁省前四名，并进入省队，辽宁一共六人。
-      
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+          在刚刚结束的全国信息学奥赛辽宁省省队的决逐中我校由张新钢老师指导的高二八班于纪平，高二三班荆泽华，高二四班赵政昀，高二六班王继昆占据辽宁省前四名，并进入省队，辽宁一共六人。
+      
       </td>
 </tr>
 </table>

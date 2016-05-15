@@ -4,13 +4,13 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
           此次Kangroo全英数学竞赛共有来自全球456所学校1500名中学生参加。目前竞赛成绩揭晓，我校 5名学生获得特等奖、8名学生获得优秀奖。<br/>
-<p>
+<p>
 	附：2011 Kangaroo数学竞赛成绩</p>
-<p>
+<p>
 	特等奖：金瑞，黄弘毅，陈晨，李敏赫，李清语<br/>
-<br/>
+<br/>
 	优秀奖：周天睿，孙巳晴，时子为，黄小楼，张旸，安明泽，唐润林，张楚卿</p>
 <p align="center">
 <a href="http://www.dlhs24.com.cn/uploads/allimg/120718/1A3435225-0.jpg" target="_blank"><img border="0" height="389" onload="resizepic(this)" onmousewheel="return bbimg(this)" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1A3435225-0.jpg" width="650"http://www.dlhs24.com.cn/> </a><br/>

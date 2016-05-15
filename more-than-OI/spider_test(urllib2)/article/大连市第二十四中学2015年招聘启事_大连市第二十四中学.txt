@@ -34,86 +34,86 @@
 <strong>其他条件</strong></td>
 </tr>
 <tr>
-<td rowspan="5" style="width: 84px; height: 43px">
-				 <br/>
-				 <br/>
-				 <br/>
-				 <br/>
+<td rowspan="5" style="width: 84px; height: 43px">
+				 <br/>
+				 <br/>
+				 <br/>
+				 <br/>
 				应届毕业生</td>
-<td style="width: 36px; height: 43px">
+<td style="width: 36px; height: 43px">
 				  1</td>
-<td style="width: 95px; height: 43px">
+<td style="width: 95px; height: 43px">
 				语文教师</td>
-<td style="width: 49px; height: 43px">
+<td style="width: 49px; height: 43px">
 				语文</td>
-<td style="width: 72px; height: 43px">
+<td style="width: 72px; height: 43px">
 				研究生</td>
-<td style="width: 60px; height: 43px">
+<td style="width: 60px; height: 43px">
 				硕士</td>
-<td style="width: 263px; height: 43px">
+<td style="width: 263px; height: 43px">
 				优先考虑大学期间担任校级主要学生干部</td>
 </tr>
 <tr>
-<td style="width: 36px; height: 43px">
+<td style="width: 36px; height: 43px">
 				  1</td>
-<td style="width: 95px; height: 43px">
+<td style="width: 95px; height: 43px">
 				生物教师</td>
-<td style="width: 49px; height: 43px">
+<td style="width: 49px; height: 43px">
 				生物</td>
-<td style="width: 72px; height: 43px">
+<td style="width: 72px; height: 43px">
 				研究生</td>
-<td style="width: 60px; height: 43px">
+<td style="width: 60px; height: 43px">
 				硕士</td>
-<td style="width: 263px; height: 43px">
+<td style="width: 263px; height: 43px">
 				优先考虑能够承担生物奥赛辅导，高中时有过竞赛的经历</td>
 </tr>
 <tr>
-<td style="width: 36px; height: 43px">
+<td style="width: 36px; height: 43px">
 				  1</td>
-<td style="width: 95px; height: 43px">
+<td style="width: 95px; height: 43px">
 				数学教师</td>
-<td style="width: 49px; height: 43px">
+<td style="width: 49px; height: 43px">
 				数学</td>
-<td style="width: 72px; height: 43px">
+<td style="width: 72px; height: 43px">
 				研究生</td>
-<td style="width: 60px; height: 43px">
+<td style="width: 60px; height: 43px">
 				硕士</td>
-<td style="width: 263px; height: 43px">
+<td style="width: 263px; height: 43px">
 				优先考虑承担数学竞赛辅导，数理化基础扎实，高中时有过竞赛的经历</td>
 </tr>
 <tr>
-<td style="width: 36px; height: 43px">
+<td style="width: 36px; height: 43px">
 				  1</td>
-<td style="width: 95px; height: 43px">
+<td style="width: 95px; height: 43px">
 				物理教师</td>
-<td style="width: 49px; height: 43px">
+<td style="width: 49px; height: 43px">
 				物理</td>
-<td style="width: 72px; height: 43px">
+<td style="width: 72px; height: 43px">
 				研究生</td>
-<td style="width: 60px; height: 43px">
+<td style="width: 60px; height: 43px">
 				硕士</td>
-<td style="width: 263px; height: 43px">
+<td style="width: 263px; height: 43px">
 				优先考虑承担物理竞赛辅导，数理化基础扎实，高中时有过竞赛的经历</td>
 </tr>
 <tr>
-<td style="width: 36px; height: 43px">
+<td style="width: 36px; height: 43px">
 				  1</td>
-<td style="width: 95px; height: 43px">
+<td style="width: 95px; height: 43px">
 				体育教师</td>
-<td style="width: 49px; height: 43px">
+<td style="width: 49px; height: 43px">
 				体育</td>
-<td style="width: 72px; height: 43px">
+<td style="width: 72px; height: 43px">
 				研究生</td>
-<td style="width: 60px; height: 43px">
+<td style="width: 60px; height: 43px">
 				硕士</td>
-<td style="width: 263px; height: 43px">
+<td style="width: 263px; height: 43px">
 				优先考虑大学期间担任校级主要学生干部</td>
 </tr>
 </tbody>
-</table>
- 
-<div style="text-align: right">
-	二○一四年九月二十五日<br/>
+</table>
+ 
+<div style="text-align: right">
+	二○一四年九月二十五日<br/>
 	 </div>
 </td>
 </tr>

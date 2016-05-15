@@ -5,19 +5,19 @@
 <table width="100%">
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-<h4>
+<h4>
 	男子组成绩：</h4>
-<h4>
+<h4>
 	                      第一名: 朱春利        第二名：金  辉</h4>
-<h4>
+<h4>
 	                      第三名：李振权        第四名：张新钢</h4>
-<h4>
+<h4>
 	女子组成绩：</h4>
-<h4>
+<h4>
 	                      第一名: 张凤君        第二名：刘玉梅</h4>
-<h4>
+<h4>
 	                      第三名：谭 萍         第四名：穆  滢</h4>
-<h4>
+<h4>
 	                                                                                               2010-3-17</h4>
 </td>
 </tr>

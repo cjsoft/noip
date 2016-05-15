@@ -4,18 +4,18 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-            “创造奇迹的双手无需赋予”，是奇迹魔方社的座右铭。自二零一零年十月建立以来，魔方社已经聚集了一批魔方爱好者，在这个缤纷的彩色世界里，我们互相学习，互相交流，互相切磋，共同进步。<br/>
-      魔方作为当今世界上最受欢迎的玩具，魔方社的社员可谓人才众多。有能在十几秒完成魔方的的人，有能闭着眼睛玩魔方的人，有能玩奇形怪状魔方的人，在这里，欢笑，新奇，创意一个不缺，在校园中 ，我们拥有一片欢乐的专属地。<br/>
-      同时，我们也时时关注魔方的发展，有8秒完成魔方的世界纪录，有新新的触控魔方，创新，是魔方社的一大特色。 魔方是一种拥有永恒价值的物品，它不仅是玩具，还是你想象力的开发者，是值得挑战的益智品，在魔方社，正是一颗颗颗颗热爱魔方的心，才让它在这一年多顺畅的走到了今天。一路走来，指尖下的不是别的，而是缤纷的色彩。<br/>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+            “创造奇迹的双手无需赋予”，是奇迹魔方社的座右铭。自二零一零年十月建立以来，魔方社已经聚集了一批魔方爱好者，在这个缤纷的彩色世界里，我们互相学习，互相交流，互相切磋，共同进步。<br/>
+      魔方作为当今世界上最受欢迎的玩具，魔方社的社员可谓人才众多。有能在十几秒完成魔方的的人，有能闭着眼睛玩魔方的人，有能玩奇形怪状魔方的人，在这里，欢笑，新奇，创意一个不缺，在校园中 ，我们拥有一片欢乐的专属地。<br/>
+      同时，我们也时时关注魔方的发展，有8秒完成魔方的世界纪录，有新新的触控魔方，创新，是魔方社的一大特色。 魔方是一种拥有永恒价值的物品，它不仅是玩具，还是你想象力的开发者，是值得挑战的益智品，在魔方社，正是一颗颗颗颗热爱魔方的心，才让它在这一年多顺畅的走到了今天。一路走来，指尖下的不是别的，而是缤纷的色彩。<br/>
       缤纷，无疑是魔方社最好的代名词，无穷的的乐趣，组成了奇妙的魔方社。它始终披着彩色的衣，创造、灵感与激情，发出奇异的光芒。<br/>
 <div style="text-align: center">
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/120730/1-120I0160415363.jpg" style="width: 700px; height: 525px"http://www.dlhs24.com.cn/></div>
-<div style="text-align: center">
+<div style="text-align: center">
 	社内活动</div>
 <div style="text-align: center">
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/120730/1-120I0160432I7.jpg" style="width: 700px; height: 525px"http://www.dlhs24.com.cn/></div>
-<div style="text-align: center">
+<div style="text-align: center">
 	社内活动</div>
 </td>
 </tr>

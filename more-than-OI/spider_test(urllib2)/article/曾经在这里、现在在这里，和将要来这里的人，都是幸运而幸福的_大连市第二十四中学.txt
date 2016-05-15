@@ -5,7 +5,7 @@
 <table width="100%">
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-<div style="text-align: center">
+<div style="text-align: center">
 	初夏，一场雨后，清新的空气混着槐花的芬芳，校园弥漫着让人沉醉而欣喜的味道。曾经在这里、现在在这里，和将要来这里的人，都是幸运而幸福的。<br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150518/1-15051QJZ5503.jpg" style="height: 706px; width: 500px"http://www.dlhs24.com.cn/><br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150518/1-15051QJ920Y7.jpg" style="height: 707px; width: 500px"http://www.dlhs24.com.cn/><br/>
@@ -37,7 +37,7 @@
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150518/1-15051QK445L7.jpg" style="height: 667px; width: 500px"http://www.dlhs24.com.cn/><br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150518/1-15051QK4525T.jpg" style="height: 525px; width: 700px"http://www.dlhs24.com.cn/><br/>
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150518/1-15051QK459516.jpg" style="height: 667px; width: 500px"http://www.dlhs24.com.cn/><br/>
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150518/1-15051QK5093U.jpg" style="height: 667px; width: 500px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/150518/1-15051QK5093U.jpg" style="height: 667px; width: 500px"http://www.dlhs24.com.cn/><br/>
 	 </div>
 </td>
 </tr>

@@ -5,7 +5,7 @@
 <table width="100%">
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-<div>
+<div>
 	    为与我校澳大利亚友好姊妹学校卡洛中学续签友好合作协议，进一步加两校之间的合作关系，我校拟定于2014年9月15日至9月19日期间，由黄启成校长带队，率领教师刘娱、穆滢赴澳大利亚新南威尔士卡洛中学进行为期5天的访问。赴澳航班为CZ3607、CZ325 ，返回航班为CZ302 、CZ6292。 </div>
 </td>
 </tr>

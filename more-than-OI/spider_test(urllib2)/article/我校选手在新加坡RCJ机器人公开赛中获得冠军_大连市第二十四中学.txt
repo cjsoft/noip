@@ -5,22 +5,22 @@
 <table width="100%">
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-<p>
+<p>
 	    2012年4月1日，在新加坡RCJ国际机器人世界杯公开赛中，我校代表中国参赛的三名队员获得了高级组舞蹈项目的冠军及超级联队亚军的傲人成绩。此项成绩填补了大连市青少年机器人领域在此方面的空白，是我市仿生学机器人的一个突破。<br/>
-<br/>
+<br/>
 	    RoboCup Junior (Robocup青少年世界杯，简称RCJ)，是RoboCup (Robot World Cup机器人世界杯)的重要组成部分，是面向青少年开展的一项以科技设计与实践为导向的国际性科普活动，其宗旨是培养青少年具有国际视野和科技创新能力，促进跨国界的科技和文化领域的友好交流合作。该活动已经成为目前规模最大的国际性青少年机器人竞赛，历年已经成功地在美国、日本、澳大利亚、意大利、葡萄牙、德国、中国举行多次盛大赛事。 <br/>
-<br/>
+<br/>
 	    作为第一次参加RCJ国际大赛的队伍，我校选手们精心设计的机器人、严谨的编程、大方优雅的表演，以及流利纯正的英语解说赢得了在座所有裁判及全场观众的一致好评。比赛过后，因表演精彩，被邀请在闭幕式上作为压轴节目再次展示，并且又一次在赛场上引起轰动。<br/>
-<br/>
+<br/>
 	    我校选手的优势为完美的人机互动过程，表演过程中音乐节奏明快，机器人走位精准，各个仿生学机器人运行稳定并且惟妙惟肖。设计以及搭建的过程中选手们大胆创新，充分利用物理以及机械知识，从建构美学的角度诠释了自己的设计理念。几个较有特色的“小动物”机器人得到当场的专业人士极高评价，是我校参赛选手实力的证明。<br/>
-<br/>
+<br/>
 	    对于本次中国队的表现，大赛总裁判周长久博士的评价是：“灵活、热情、充满活力、青春飞扬，表现出与其他队伍截然不同的风格，真正实现了参赛队员与机器人的智能互动，体现了大赛宗旨并将表演主题升华到保护环境的全新高度。”这也是对我校参赛选手以及指导老师长期以来所努力付出的认可。</p>
-<p>
+<p>
 	    大连第二十四中学参赛选手：李佳韵 时子为 杨 晨</p>
 <p align="center">
 <a href="http://www.dlhs24.com.cn/uploads/allimg/120718/1G341I94-0.jpg" target="_blank"><img border="0" height="487" onload="resizepic(this)" onmousewheel="return bbimg(this)" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1G341I94-0.jpg" style="zoom: 100%" width="650"http://www.dlhs24.com.cn/> </a><br/>
 <a href="http://www.dlhs24.com.cn/uploads/allimg/120718/1G3411235-1.jpg" target="_blank"><img border="0" height="487" onload="resizepic(this)" onmousewheel="return bbimg(this)" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1G3411235-1.jpg" width="650"http://www.dlhs24.com.cn/> </a><br/>
-<a href="http://www.dlhs24.com.cn/uploads/allimg/120718/1G3413M7-2.jpg" target="_blank"><img border="0" height="487" onload="resizepic(this)" onmousewheel="return bbimg(this)" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1G3413M7-2.jpg" width="650"http://www.dlhs24.com.cn/> </a><br/>
+<a href="http://www.dlhs24.com.cn/uploads/allimg/120718/1G3413M7-2.jpg" target="_blank"><img border="0" height="487" onload="resizepic(this)" onmousewheel="return bbimg(this)" src="http://www.dlhs24.com.cn/uploads/allimg/120718/1G3413M7-2.jpg" width="650"http://www.dlhs24.com.cn/> </a><br/>
 	后排右起：杨晨、时子为、李佳韵</p>
 </td>
 </tr>

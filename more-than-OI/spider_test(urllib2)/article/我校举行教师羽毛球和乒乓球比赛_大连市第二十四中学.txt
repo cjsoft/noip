@@ -5,7 +5,7 @@
 <table width="100%">
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-<h4>
+<h4>
 	    近日我校工会组织教师进行羽毛球和乒乓球比赛。羽毛球比赛结果如下：</h4>
 <br/>
 <table border="0" cellpadding="0" cellspacing="0" style="width: 392px" width="394" x:str="">
@@ -18,93 +18,93 @@
 </colgroup>
 <tbody>
 <tr height="29">
-<td colspan="2" height="29" style="width: 101px; height: 29px">
+<td colspan="2" height="29" style="width: 101px; height: 29px">
 				男单</td>
-<td style="width: 20px">
+<td style="width: 20px">
 				　</td>
-<td colspan="2" style="width: 101px">
+<td colspan="2" style="width: 101px">
 				女单</td>
-<td style="width: 17px">
+<td style="width: 17px">
 				　</td>
-<td colspan="3" style="width: 152px">
+<td colspan="3" style="width: 152px">
 				男子双打</td>
 </tr>
 <tr height="29">
-<td height="29" style="height: 29px">
+<td height="29" style="height: 29px">
 				第一名</td>
-<td>
+<td>
 				朱春利</td>
-<td>
+<td>
 				　</td>
-<td>
+<td>
 				第一名</td>
-<td>
+<td>
 				刘玉梅</td>
-<td>
+<td>
 				　</td>
-<td>
+<td>
 				第一名</td>
-<td>
+<td>
 				金辉</td>
-<td>
+<td>
 				王忠良</td>
 </tr>
 <tr height="29">
-<td height="29" style="height: 29px">
+<td height="29" style="height: 29px">
 				第二名</td>
-<td>
+<td>
 				金辉</td>
-<td>
+<td>
 				　</td>
-<td>
+<td>
 				第二名</td>
-<td>
+<td>
 				曹萌</td>
-<td>
+<td>
 				　</td>
-<td>
+<td>
 				第二名</td>
-<td>
+<td>
 				耿英年</td>
-<td>
+<td>
 				刘定珊</td>
 </tr>
 <tr height="29">
-<td height="58" rowspan="2" style="height: 58px">
+<td height="58" rowspan="2" style="height: 58px">
 				第三名</td>
-<td>
+<td>
 				耿英年</td>
-<td>
+<td>
 				　</td>
-<td rowspan="2">
+<td rowspan="2">
 				第三名</td>
-<td>
+<td>
 				谭萍</td>
-<td>
+<td>
 				　</td>
-<td rowspan="2">
+<td rowspan="2">
 				第三名</td>
-<td>
+<td>
 				朱春利</td>
-<td>
+<td>
 				王辉</td>
 </tr>
 <tr height="29">
-<td height="29" style="height: 29px">
+<td height="29" style="height: 29px">
 				王延文</td>
-<td>
+<td>
 				　</td>
-<td>
+<td>
 				韩秋</td>
-<td>
+<td>
 				　</td>
-<td>
+<td>
 				李健玮</td>
-<td>
+<td>
 				张新钢</td>
 </tr>
 </tbody>
-</table>
+</table>
  <br/>
 </td>
 </tr>

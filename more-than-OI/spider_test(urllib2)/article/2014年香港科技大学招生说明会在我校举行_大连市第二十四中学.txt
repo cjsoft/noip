@@ -4,9 +4,9 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-          4月14日下午16:30，香港科技大学本科招生既入学事务处李老师一行三人到我校对大连市高三学生及家长进行了招生说明。李老师等人主要对香港科技大学的教育理念、课程设置、招生政策等方面进行了说明，并现场接受高三学生及家长的咨询。
-      
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+          4月14日下午16:30，香港科技大学本科招生既入学事务处李老师一行三人到我校对大连市高三学生及家长进行了招生说明。李老师等人主要对香港科技大学的教育理念、课程设置、招生政策等方面进行了说明，并现场接受高三学生及家长的咨询。
+      
       </td>
 </tr>
 </table>

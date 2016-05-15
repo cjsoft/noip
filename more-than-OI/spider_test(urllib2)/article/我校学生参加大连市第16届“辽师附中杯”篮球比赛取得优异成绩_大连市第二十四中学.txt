@@ -7,9 +7,9 @@
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
 <div>
 <span style="font-size: 16px"><strong>        在刚刚结束的大连市第16届“辽师附中杯”篮球比赛中，我校女子篮球队经过艰苦训练，在比赛中发挥24中人的精神不畏强敌，努力拼搏，以顽强的意志取得了大连市高中女子组第三名的好成绩，并获得体育道德风尚奖。</strong></span></div>
-<h4 style="text-align: center">
+<h4 style="text-align: center">
 	我校参赛学生名单如下：</h4>
-<div style="text-align: center">
+<div style="text-align: center">
 	 </div>
 <table border="0" cellpadding="0" cellspacing="0" style="width: 341px" width="340" x:str="">
 <colgroup>
@@ -19,116 +19,116 @@
 </colgroup>
 <tbody>
 <tr height="20">
-<td height="20" style="width: 44px; height: 20px">
+<td height="20" style="width: 44px; height: 20px">
 				序号</td>
-<td style="width: 147px">
+<td style="width: 147px">
 				班级</td>
-<td style="width: 151px">
+<td style="width: 151px">
 				姓名</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 44px; height: 20px">
+<td height="20" style="width: 44px; height: 20px">
 				1</td>
-<td style="width: 147px">
+<td style="width: 147px">
 				2008级3.9</td>
-<td style="width: 151px">
+<td style="width: 151px">
 				王 宇</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 44px; height: 20px">
+<td height="20" style="width: 44px; height: 20px">
 				2</td>
-<td style="width: 147px">
+<td style="width: 147px">
 				2008级3.1</td>
-<td style="width: 151px">
+<td style="width: 151px">
 				王丝雨</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 44px; height: 20px">
+<td height="20" style="width: 44px; height: 20px">
 				3</td>
-<td style="width: 147px">
+<td style="width: 147px">
 				2009级2.2</td>
-<td style="width: 151px">
+<td style="width: 151px">
 				井 溪</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 44px; height: 20px">
+<td height="20" style="width: 44px; height: 20px">
 				4</td>
-<td style="width: 147px">
+<td style="width: 147px">
 				2009级2.4</td>
-<td style="width: 151px">
+<td style="width: 151px">
 				张子骄</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 44px; height: 20px">
+<td height="20" style="width: 44px; height: 20px">
 				5</td>
-<td style="width: 147px">
+<td style="width: 147px">
 				2009级2.4</td>
-<td style="width: 151px">
+<td style="width: 151px">
 				臧婉玉</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 44px; height: 20px">
+<td height="20" style="width: 44px; height: 20px">
 				6</td>
-<td style="width: 147px">
+<td style="width: 147px">
 				2009级2.7</td>
-<td style="width: 151px">
+<td style="width: 151px">
 				董 玥</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 44px; height: 20px">
+<td height="20" style="width: 44px; height: 20px">
 				7</td>
-<td style="width: 147px">
+<td style="width: 147px">
 				2009级2.6</td>
-<td style="width: 151px">
+<td style="width: 151px">
 				陈海鸥</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 44px; height: 20px">
+<td height="20" style="width: 44px; height: 20px">
 				8</td>
-<td style="width: 147px">
+<td style="width: 147px">
 				2009级2.7</td>
-<td style="width: 151px">
+<td style="width: 151px">
 				李佳蓓</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 44px; height: 20px">
+<td height="20" style="width: 44px; height: 20px">
 				9</td>
-<td style="width: 147px">
+<td style="width: 147px">
 				2009级2.3</td>
-<td style="width: 151px">
+<td style="width: 151px">
 				黄静宜</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 44px; height: 20px">
+<td height="20" style="width: 44px; height: 20px">
 				10</td>
-<td style="width: 147px">
+<td style="width: 147px">
 				2010级1.5</td>
-<td style="width: 151px">
+<td style="width: 151px">
 				曹艺欣</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 44px; height: 20px">
+<td height="20" style="width: 44px; height: 20px">
 				11</td>
-<td style="width: 147px">
+<td style="width: 147px">
 				2010级1.2</td>
-<td style="width: 151px">
+<td style="width: 151px">
 				郭静怡</td>
 </tr>
 <tr height="20">
-<td height="20" style="width: 44px; height: 20px">
+<td height="20" style="width: 44px; height: 20px">
 				12</td>
-<td style="width: 147px">
+<td style="width: 147px">
 				2010级1.4</td>
-<td style="width: 151px">
+<td style="width: 151px">
 				洪卫琳</td>
 </tr>
 </tbody>
 </table>
-<div style="text-align: center">
+<div style="text-align: center">
 	 <br/>
 <a href="http://www.dlhs24.com.cn/uploads/allimg/120718/135Za539-0.jpg" target="_blank"><img border="0" height="338" onmousewheel="return bbimg(this)" src="http://www.dlhs24.com.cn/uploads/allimg/120718/135Za539-0.jpg" width="600"http://www.dlhs24.com.cn/> </a><br/>
 <a href="http://www.dlhs24.com.cn/uploads/allimg/120718/135Z9EN-1.jpg" target="_blank"><img border="0" height="338" onmousewheel="return bbimg(this)" src="http://www.dlhs24.com.cn/uploads/allimg/120718/135Z9EN-1.jpg" width="600"http://www.dlhs24.com.cn/> </a><br/>
-<a href="http://www.dlhs24.com.cn/uploads/allimg/120718/135Z95F9-2.jpg" target="_blank"><img border="0" height="338" onmousewheel="return bbimg(this)" src="http://www.dlhs24.com.cn/uploads/allimg/120718/135Z95F9-2.jpg" width="600"http://www.dlhs24.com.cn/> </a><br/>
+<a href="http://www.dlhs24.com.cn/uploads/allimg/120718/135Z95F9-2.jpg" target="_blank"><img border="0" height="338" onmousewheel="return bbimg(this)" src="http://www.dlhs24.com.cn/uploads/allimg/120718/135Z95F9-2.jpg" width="600"http://www.dlhs24.com.cn/> </a><br/>
 	 </div>
 </td>
 </tr>

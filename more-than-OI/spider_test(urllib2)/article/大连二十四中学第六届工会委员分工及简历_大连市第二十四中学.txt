@@ -14,99 +14,99 @@
 </colgroup>
 <tbody>
 <tr height="54">
-<td height="54" style="width: 72px; height: 54px">
+<td height="54" style="width: 72px; height: 54px">
 				姓  名</td>
-<td style="width: 72px">
+<td style="width: 72px">
 				性别</td>
-<td style="width: 111px">
+<td style="width: 111px">
 				分  工</td>
-<td style="width: 112px">
+<td style="width: 112px">
 				职  称</td>
-<td style="width: 289px">
+<td style="width: 289px">
 				简    介</td>
 </tr>
 <tr height="54">
-<td height="54" style="height: 54px">
+<td height="54" style="height: 54px">
 				王延文</td>
-<td>
+<td>
 				男</td>
-<td style="width: 111px">
+<td style="width: 111px">
 				主席</td>
-<td>
+<td>
 				中学高级</td>
-<td style="width: 289px">
+<td style="width: 289px">
 				    大连市优秀教师,国家级骨干教师，辽宁省物理学会副秘书长，大连市物理学科带头人</td>
 </tr>
 <tr height="54">
-<td height="54" style="height: 54px">
+<td height="54" style="height: 54px">
 				范政润</td>
-<td>
+<td>
 				男</td>
-<td style="width: 111px">
+<td style="width: 111px">
 				副主席兼生活委员</td>
-<td>
+<td>
 				中学高级</td>
-<td style="width: 289px">
+<td style="width: 289px">
 				    辽宁省"贯彻两个条例"先进个人</td>
 </tr>
 <tr height="54">
-<td height="54" style="height: 54px">
+<td height="54" style="height: 54px">
 				孙爱民</td>
-<td>
+<td>
 				女</td>
-<td style="width: 111px">
+<td style="width: 111px">
 				女工委员</td>
-<td>
+<td>
 				中学高级</td>
-<td style="width: 289px">
+<td style="width: 289px">
 				    大连市老干部工作先进个人,中山区先进工作者</td>
 </tr>
 <tr height="54">
-<td height="54" style="height: 54px">
+<td height="54" style="height: 54px">
 				毕鸣娟</td>
-<td>
+<td>
 				女</td>
-<td style="width: 111px">
+<td style="width: 111px">
 				财经委员</td>
-<td>
+<td>
 				中学高级</td>
-<td style="width: 289px">
+<td style="width: 289px">
 				    二十四中学优秀党员,三八红旗手</td>
 </tr>
 <tr height="54">
-<td height="54" style="height: 54px">
+<td height="54" style="height: 54px">
 				吴晓文</td>
-<td>
+<td>
 				男</td>
-<td style="width: 111px">
+<td style="width: 111px">
 				文体兼宣传委员</td>
-<td>
+<td>
 				中学一级</td>
-<td style="width: 289px">
+<td style="width: 289px">
 				    大连市优秀团干部</td>
 </tr>
 <tr height="33">
-<td height="33" style="height: 33px">
+<td height="33" style="height: 33px">
 				 </td>
-<td>
+<td>
 				 </td>
-<td style="width: 111px">
+<td style="width: 111px">
 				 </td>
-<td>
+<td>
 				 </td>
-<td style="width: 289px">
+<td style="width: 289px">
 				大连市第二十四中学工会</td>
 </tr>
 <tr height="33">
-<td height="33" style="height: 33px">
+<td height="33" style="height: 33px">
 				 </td>
-<td>
+<td>
 				 </td>
-<td style="width: 111px">
+<td style="width: 111px">
 				 </td>
-<td>
+<td>
 				 </td>
-<td style="width: 289px">
+<td style="width: 289px">
 				2008年11月18日</td>
 </tr>
 </tbody>

@@ -4,7 +4,7 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
       教师校园摄影展：<br/>
 <a href="http://www.dlhs24.com.cn/a/xinwenzixun/24zhongxiangce/20140509/1851.html">http://www.dlhs24.com.cn/a/xinwenzixun/24zhongxiangce/20140509/1851.html</a>
 </td>

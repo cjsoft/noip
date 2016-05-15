@@ -34,215 +34,215 @@
 <strong>考号</strong></td>
 </tr>
 <tr height="33">
-<td height="33" style="height: 33px">
+<td height="33" style="height: 33px">
 				1</td>
-<td>
+<td>
 				大连市二十四中学</td>
-<td>
+<td>
 				刘子平</td>
-<td>
+<td>
 				男</td>
-<td>
+<td>
 				三十四中学</td>
-<td>
+<td>
 				二胡</td>
-<td>
+<td>
 				0203340524</td>
 </tr>
 <tr height="33">
-<td height="33" style="height: 33px">
+<td height="33" style="height: 33px">
 				2</td>
-<td>
+<td>
 				大连市二十四中学</td>
-<td>
+<td>
 				刘钰</td>
-<td>
+<td>
 				女</td>
-<td>
+<td>
 				理工附中</td>
-<td>
+<td>
 				二胡</td>
-<td>
+<td>
 				0216010522</td>
 </tr>
 <tr height="33">
-<td height="33" style="height: 33px">
+<td height="33" style="height: 33px">
 				3</td>
-<td>
+<td>
 				大连市二十四中学</td>
-<td>
+<td>
 				朱俊桥</td>
-<td>
+<td>
 				女</td>
-<td>
+<td>
 				嘉汇中学</td>
-<td>
+<td>
 				琵琶</td>
-<td>
+<td>
 				0202100428</td>
 </tr>
 <tr height="33">
-<td height="33" style="height: 33px">
+<td height="33" style="height: 33px">
 				4</td>
-<td>
+<td>
 				大连市二十四中学</td>
-<td>
+<td>
 				戴一宁</td>
-<td>
+<td>
 				女</td>
-<td>
+<td>
 				第九中学</td>
-<td>
+<td>
 				琵琶</td>
-<td>
+<td>
 				0202090348</td>
 </tr>
 <tr height="33">
-<td height="33" style="height: 33px">
+<td height="33" style="height: 33px">
 				5</td>
-<td>
+<td>
 				大连市二十四中学</td>
-<td>
+<td>
 				程雅卓</td>
-<td>
+<td>
 				女</td>
-<td>
+<td>
 				格致中学</td>
-<td>
+<td>
 				中阮</td>
-<td>
+<td>
 				0204550403</td>
 </tr>
 <tr height="33">
-<td height="33" style="height: 33px">
+<td height="33" style="height: 33px">
 				6</td>
-<td>
+<td>
 				大连市二十四中学</td>
-<td>
+<td>
 				蒋铄</td>
-<td>
+<td>
 				男</td>
-<td>
+<td>
 				四十四中学</td>
-<td>
+<td>
 				笙</td>
-<td>
+<td>
 				0202440702</td>
 </tr>
 <tr height="33">
-<td height="33" style="height: 33px">
+<td height="33" style="height: 33px">
 				7</td>
-<td>
+<td>
 				大连市二十四中学</td>
-<td>
+<td>
 				李婕</td>
-<td>
+<td>
 				女</td>
-<td>
+<td>
 				嘉汇中学</td>
-<td>
+<td>
 				古筝</td>
-<td>
+<td>
 				0202100631</td>
 </tr>
 <tr height="33">
-<td height="33" style="height: 33px">
+<td height="33" style="height: 33px">
 				8</td>
-<td>
+<td>
 				大连市二十四中学</td>
-<td>
+<td>
 				姜佳欣</td>
-<td>
+<td>
 				女</td>
-<td>
+<td>
 				格致中学</td>
-<td>
+<td>
 				古筝</td>
-<td>
+<td>
 				0204550132</td>
 </tr>
 <tr height="33">
-<td height="33" style="height: 33px">
+<td height="33" style="height: 33px">
 				9</td>
-<td>
+<td>
 				大连市二十四中学</td>
-<td>
+<td>
 				赵崔泽昊</td>
-<td>
+<td>
 				男</td>
-<td>
+<td>
 				格致中学</td>
-<td>
+<td>
 				笛子</td>
-<td>
+<td>
 				0204550150</td>
 </tr>
 <tr height="33">
-<td height="33" style="height: 33px">
+<td height="33" style="height: 33px">
 				10</td>
-<td>
+<td>
 				大连市二十四中学</td>
-<td>
+<td>
 				李沛阳</td>
-<td>
+<td>
 				男</td>
-<td>
+<td>
 				二十一中学</td>
-<td>
+<td>
 				大提琴</td>
-<td>
+<td>
 				0204210322</td>
 </tr>
 <tr height="33">
-<td height="33" style="height: 33px">
+<td height="33" style="height: 33px">
 				11</td>
-<td>
+<td>
 				大连市二十四中学</td>
-<td>
+<td>
 				张雨农</td>
-<td>
+<td>
 				男</td>
-<td>
+<td>
 				嘉汇中学</td>
-<td>
+<td>
 				声乐</td>
-<td>
+<td>
 				0202100512</td>
 </tr>
 <tr height="33">
-<td height="33" style="height: 33px">
+<td height="33" style="height: 33px">
 				12</td>
-<td>
+<td>
 				大连市二十四中学</td>
-<td>
+<td>
 				王静仪</td>
-<td>
+<td>
 				女</td>
-<td>
+<td>
 				四十四中学</td>
-<td>
+<td>
 				声乐</td>
-<td>
+<td>
 				0202440828</td>
 </tr>
 <tr height="33">
-<td height="33" style="height: 33px">
+<td height="33" style="height: 33px">
 				13</td>
-<td>
+<td>
 				大连市二十四中学</td>
-<td>
+<td>
 				刘品逸</td>
-<td>
+<td>
 				女</td>
-<td>
+<td>
 				第九中学</td>
-<td>
+<td>
 				舞蹈</td>
-<td>
+<td>
 				0202090333</td>
 </tr>
 </tbody>
-</table>
+</table>
  <br/>
 <strong>                                                                                                                                                                                              大连市第二十四中学</strong><br/>
 <strong>                                                                                                                                                                                                       2012年5月29日</strong><br/>

@@ -5,7 +5,7 @@
 <table width="100%">
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-<h4 align="center">
+<h4 align="center">
 	 </h4>
 <h4 align="center">
 <font color="#000000">提高 进步 成长</font></h4>

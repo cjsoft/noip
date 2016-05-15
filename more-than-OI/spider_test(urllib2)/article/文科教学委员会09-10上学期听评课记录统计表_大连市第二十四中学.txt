@@ -5,404 +5,404 @@
 <table width="100%">
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-<h4>
+<h4>
 	 </h4>
 <br/>
 <table align="left" border="1" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
 <td style="width: 114px">
-<h4 align="center">
+<h4 align="center">
 					时间</h4>
 </td>
 <td style="width: 50px">
-<h4>
+<h4>
 					组别</h4>
 </td>
 <td style="width: 216px">
-<h4>
+<h4>
 					课节</h4>
 </td>
 <td style="width: 75px">
-<h4>
+<h4>
 					授课人</h4>
 </td>
 <td style="width: 81px">
-<h4>
+<h4>
 					是否评课</h4>
 </td>
 </tr>
 <tr>
 <td style="width: 114px">
-<h4>
+<h4>
 					09、10、14</h4>
 </td>
 <td style="width: 50px">
-<h4>
+<h4>
 					政治</h4>
 </td>
 <td style="width: 216px">
-<h4>
+<h4>
 					3年11班   人民代表大会</h4>
 </td>
 <td style="width: 75px">
-<h4>
+<h4>
 					卞丽萍</h4>
 </td>
 <td style="width: 81px">
-<h4>
+<h4>
 					是</h4>
 </td>
 </tr>
 <tr>
 <td style="width: 114px">
-<h4>
+<h4>
 					09、10、20</h4>
 </td>
 <td style="width: 50px">
-<h4>
+<h4>
 					历史</h4>
 </td>
 <td style="width: 216px">
-<h4>
+<h4>
 					2年10班   电影电视艺术</h4>
 </td>
 <td style="width: 75px">
-<h4>
+<h4>
 					王晓辉</h4>
 </td>
 <td style="width: 81px">
-<h4>
+<h4>
 					是</h4>
 </td>
 </tr>
 <tr>
 <td style="width: 114px">
-<h4>
+<h4>
 					09、10、23</h4>
 </td>
 <td style="width: 50px">
-<h4>
+<h4>
 					语文</h4>
 </td>
 <td style="width: 216px">
-<h4>
+<h4>
 					2年4班     边城</h4>
 </td>
 <td style="width: 75px">
-<h4>
+<h4>
 					陈晓红</h4>
 </td>
 <td style="width: 81px">
-<h4>
+<h4>
 					是</h4>
 </td>
 </tr>
 <tr>
 <td style="width: 114px">
-<h4>
+<h4>
 					09、11、6</h4>
 </td>
 <td style="width: 50px">
-<h4>
+<h4>
 					语文</h4>
 </td>
 <td style="width: 216px">
-<h4>
+<h4>
 					3年3班     诗歌鉴赏</h4>
 </td>
 <td style="width: 75px">
-<h4>
+<h4>
 					刘艳艳</h4>
 </td>
 <td style="width: 81px">
-<h4>
+<h4>
 					是</h4>
 </td>
 </tr>
 <tr>
 <td style="width: 114px">
-<h4>
+<h4>
 					09、11、9</h4>
 </td>
 <td style="width: 50px">
-<h4>
+<h4>
 					地理</h4>
 </td>
 <td style="width: 216px">
-<h4>
+<h4>
 					2年9班     产业转移</h4>
 </td>
 <td style="width: 75px">
-<h4>
+<h4>
 					彭喜志</h4>
 </td>
 <td style="width: 81px">
-<h4>
+<h4>
 					是</h4>
 </td>
 </tr>
 <tr>
 <td style="width: 114px">
-<h4>
+<h4>
 					09、11、20</h4>
 </td>
 <td style="width: 50px">
-<h4>
+<h4>
 					语文</h4>
 </td>
 <td style="width: 216px">
-<h4>
+<h4>
 					1年7班     短歌行</h4>
 </td>
 <td style="width: 75px">
-<h4>
+<h4>
 					潘琳琳</h4>
 </td>
 <td style="width: 81px">
-<h4>
+<h4>
 					是</h4>
 </td>
 </tr>
 <tr>
 <td style="width: 114px">
-<h4>
+<h4>
 					09、11、20</h4>
 </td>
 <td style="width: 50px">
-<h4>
+<h4>
 					外语</h4>
 </td>
 <td style="width: 216px">
-<h4>
+<h4>
 					3年4班    复习知识点</h4>
 </td>
 <td style="width: 75px">
-<h4>
+<h4>
 					李季</h4>
 </td>
 <td style="width: 81px">
-<h4>
+<h4>
 					是</h4>
 </td>
 </tr>
 <tr>
 <td style="width: 114px">
-<h4>
+<h4>
 					09、11、24</h4>
 </td>
 <td style="width: 50px">
-<h4>
+<h4>
 					语文</h4>
 </td>
 <td style="width: 216px">
-<h4>
+<h4>
 					1年10班   归园田居</h4>
 </td>
 <td style="width: 75px">
-<h4>
+<h4>
 					陈立钧</h4>
 </td>
 <td style="width: 81px">
-<h4>
+<h4>
 					是</h4>
 </td>
 </tr>
 <tr>
 <td style="width: 114px">
-<h4>
+<h4>
 					09、11、25</h4>
 </td>
 <td style="width: 50px">
-<h4>
+<h4>
 					外语</h4>
 </td>
 <td style="width: 216px">
-<h4>
+<h4>
 					1年8班    music</h4>
 </td>
 <td style="width: 75px">
-<h4>
+<h4>
 					王忠良</h4>
 </td>
 <td style="width: 81px">
-<h4>
+<h4>
 					是</h4>
 </td>
 </tr>
 <tr>
 <td style="width: 114px">
-<h4>
+<h4>
 					09、11、25</h4>
 </td>
 <td style="width: 50px">
-<h4>
+<h4>
 					外语</h4>
 </td>
 <td style="width: 216px">
-<h4>
+<h4>
 					3年9班    写作</h4>
 </td>
 <td style="width: 75px">
-<h4>
+<h4>
 					李晓丹</h4>
 </td>
 <td style="width: 81px">
-<h4>
+<h4>
 					是</h4>
 </td>
 </tr>
 <tr>
 <td style="width: 114px">
-<h4>
+<h4>
 					09、11、26</h4>
 </td>
 <td style="width: 50px">
-<h4>
+<h4>
 					外语</h4>
 </td>
 <td style="width: 216px">
-<h4>
+<h4>
 					1年7班    远离毒品</h4>
 </td>
 <td style="width: 75px">
-<h4>
+<h4>
 					曹萌</h4>
 </td>
 <td style="width: 81px">
-<h4>
+<h4>
 					是</h4>
 </td>
 </tr>
 <tr>
 <td style="width: 114px">
-<h4>
+<h4>
 					09、11、27</h4>
 </td>
 <td style="width: 50px">
-<h4>
+<h4>
 					外语</h4>
 </td>
 <td style="width: 216px">
-<h4>
+<h4>
 					3年4班    交际用语</h4>
 </td>
 <td style="width: 75px">
-<h4>
+<h4>
 					李季</h4>
 </td>
 <td style="width: 81px">
-<h4>
+<h4>
 					是</h4>
 </td>
 </tr>
 <tr>
 <td style="width: 114px">
-<h4>
+<h4>
 					09、11、27</h4>
 </td>
 <td style="width: 50px">
-<h4>
+<h4>
 					外语</h4>
 </td>
 <td style="width: 216px">
-<h4>
+<h4>
 					2年5班    fantasy literature</h4>
 </td>
 <td style="width: 75px">
-<h4>
+<h4>
 					尹俊峰</h4>
 </td>
 <td style="width: 81px">
-<h4>
+<h4>
 					是</h4>
 </td>
 </tr>
 <tr>
 <td style="width: 114px">
-<h4>
+<h4>
 					09、11、27</h4>
 </td>
 <td style="width: 50px">
-<h4>
+<h4>
 					语文</h4>
 </td>
 <td style="width: 216px">
-<h4>
+<h4>
 					2年6班    将进酒</h4>
 </td>
 <td style="width: 75px">
-<h4>
+<h4>
 					孙胜男</h4>
 </td>
 <td style="width: 81px">
-<h4>
+<h4>
 					是</h4>
 </td>
 </tr>
 <tr>
 <td style="width: 114px">
-<h4>
+<h4>
 					09、12、14</h4>
 </td>
 <td style="width: 50px">
-<h4>
+<h4>
 					政治</h4>
 </td>
 <td style="width: 216px">
-<h4>
+<h4>
 					1年7班    又快又好，科学发展</h4>
 </td>
 <td style="width: 75px">
-<h4>
+<h4>
 					乔涛</h4>
 </td>
 <td style="width: 81px">
-<h4>
+<h4>
 					是</h4>
 </td>
 </tr>
 <tr>
 <td style="width: 114px">
-<h4>
+<h4>
 					09、12、18</h4>
 </td>
 <td style="width: 50px">
-<h4>
+<h4>
 					外语</h4>
 </td>
 <td style="width: 216px">
-<h4>
+<h4>
 					2年7班    module5</h4>
 </td>
 <td style="width: 75px">
-<h4>
+<h4>
 					韩洋</h4>
 </td>
 <td style="width: 81px">
-<h4>
+<h4>
 					是</h4>
 </td>
 </tr>
 <tr>
 <td style="width: 114px">
-<h4>
+<h4>
 					 </h4>
 </td>
 <td style="width: 50px">
-<h4>
+<h4>
 					 </h4>
 </td>
 <td style="width: 216px">
-<h4>
+<h4>
 					 </h4>
 </td>
 <td style="width: 75px">
-<h4>
+<h4>
 					 </h4>
 </td>
 <td style="width: 81px">
-<h4>
+<h4>
 					 </h4>
 </td>
 </tr>

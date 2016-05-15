@@ -1,488 +1,488 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>国家教育资源公共服务平台</title>
-<link href="http://211.153.75.13:10000/nation_statics/common/css/public.css" rel="stylesheet" type="text/css" />
-<link href="http://211.153.75.13:10000/nation_statics/common/css/layout.css?" rel="stylesheet" type="text/css" />
-<link href="http://211.153.75.13:10000/nation_statics/portal/css/base.css" rel="stylesheet" type="text/css" />
-<link href="http://211.153.75.13:10000/nation_statics/area/000000/css/base.css" rel="stylesheet" type="text/css" />
-<link href="http://211.153.75.13:10000/nation_statics/common/css/public.css" rel="stylesheet" type="text/css" />
-<link rel="stylesheet" type="text/css" href="http://211.153.75.13:10000/nation_statics/modules/artDialog5/skins/blue_two.css"/>
-<link rel="stylesheet" type="text/css" href="http://211.153.75.13:10000/nation_statics/modules/post/css/post.css">
-<script type="text/javascript" src="http://211.153.75.13:10000/nation_statics/common/js/jquery.js"></script>
-<script type="text/javascript" src="http://211.153.75.13:10000/nation_statics/common/js/fun.js"></script>
-<script type="text/javascript" src="http://211.153.75.13:10000/nation_statics/common/js/common.js?"></script>
-<script type="text/javascript" src="http://211.153.75.13:10000/nation_statics/common/js/jquery.kinMaxShow-1.0.min.js"></script>
-<script type="text/javascript" src="http://211.153.75.13:10000/nation_statics/common/js/jquery.artDialog.js"></script>
-<script type="text/javascript" src="http://211.153.75.13:10000/nation_statics/common/js/jquery.artDialog.plugins.js"></script>
-<script type="text/javascript" src="http://211.153.75.13:10000/nation_statics/modules/post/js/post.js"></script>
-<script type="text/javascript" src="http://211.153.75.13:10000/nation_statics/common/js/ajaxForm.js"></script>
-		<!--[if IE 6]>
-	<script src="common/js/DD_belatedPNG.js"> </script>
-    <script> DD_belatedPNG.fix('.png_bg');</script>
-	    <![endif]-->
-</head>
-  
-<body class="portal">
-<!--[if IE 6]>
-<script type="text/javascript" src="http://211.153.75.13:10000/nation_statics/common/js/ie6-tips.js?"></script>
-<![endif]--> 
- <!--#nation_portal_pub_head_js.start-->
-<!-- <script type="text/javascript" src="nation_portal_head.js"></script> -->
-<!--#nation_portal_pub_head_js.over-->
-    <!--#portal_pub_head.start-->
-<!--#control_tips.start-->
-<!-- <div class="control-tips">
-<div class="w1000"><div class="fl text">欢迎您进入国家教育资源公共服务平台，为了给你提供高效、安全��便捷的资源上传服务，请安装 <span>HTTP断点续传控件5(x86)</span><a href="#">在线安装</a> | <a href="#">下载到本�?/a></div> <div class="fl close"></div></div>
-
-</div> -->
-<!--#control_tips.over-->
-<!-- 2014-9-11.start -->
-<div class="portalTopBar_nation">
-    <div class="w1000 clearfix topbar_nation" path="protected/sites/000000/views/layouts/portal.php"> 
-        <!--#left_menu.start-->
-        <div class="menu fl">
-            <ul>
-            	<li class="m10"><a href="http://www.eduyun.cn/" title="国家教育资源公共服务平台"><img src="http://211.153.75.13:10000/nation_statics/area/000000/images/head/logo_min.png"  /></a></li>
-                <li><a href="http://www.eduyun.cn/" class="">首页</a></li>
-                <li><a href="http://news.eduyun.cn/ns/" class="">新闻</a></li>
-				<li><a href="http://so.eduyun.cn/" class="">资源</a></li>
-                <li class="topics">
-                  <a href="http://n.eduyun.cn:10003/cms_portal/resStore.html" class="">超市</a>
-                  <!-- <dl> 
-                    <dd><a href="http://so.eduyun.cn" class="">资源</a></dd>
-                    <dd><a href="/index.php?r=portal/app" class="">应用</a></dd>
-                  </dl> -->
-                </li>
-                
-                <li><a href="http://1s1k.eduyun.cn/portal/html/1s1k/index/1.html" class="">晒课</a></li>
-                <li><a href="http://1s1k.eduyun.cn/portal/sportal/studio.jsp?menuFlag=2" class="">教研</a></li>
-                <li><a href="http://1s1k.eduyun.cn/portal/sportal/bar.html?menuFlag=6" class="">话题</a></li>
-                <li><a href="http://1s1k.eduyun.cn/portal/sportal/faq.html?menuFlag=5" class="">问答</a></li>
-                <li class="topics">
-					<a href="javascript:;" class="">专题<i class="png_bg"></i></a>
-					<dl> 
-						<dd><a href="http://safety.eduyun.cn/ss/" class="">安全</a></dd>
-            <dd><a href="http://dy.eduyun.cn/dy/" class="">德育</a></dd>
-            <dd><a href="http://twy.eduyun.cn/twy/" class="">体卫�?/a></dd>
-						<dd><a href="/index.php?r=sns/square" class="">社区</a></dd>
-						<dd><a href="http://www.eduyun.cn/hwcd/index.html" class="">汉维词典</a></dd>
-						<dd><a href="http://www.eduyun.cn/hacd/index.html" class="">汉哈词典</a></dd>
-						
-					</dl>
-				</li>
-                <li><a href="http://yuer.eduyun.cn/ys/" class="">学前</a></li>
-                                                  	<li><a href="http://n.eduyun.cn/index.php?r=vocational/index/index" class="">职教</a></li>
-                             </ul>
-        </div>
-        <!--#left_menu.over-->
-        <!--#user_login.start-->
-        <!-- 区域用户判断 -->
-                    <!-- <div class="nav fr">
-                                <a href="#" title="前往空间" id="toUserLogin">请登�?/a>
-                <a href="/index.php?r=vocation/portal/register/index" title="注册">注册</a>
-                            </div> -->
-                    <div class="user fl">
-                        <a href="#" title="前往空间" id="toUserLogin">请登�?/a>
-            <a href="/index.php?r=vocation/portal/register/index" title="注册">注册</a>
-                        </div>
-            <div class="nav fr">
-                <a title="在线客服" href="javascript:;" onclick="javascript:window.open('http://b.qq.com/webc.htm?new=0&sid=4008980910&eid=218808P8z8p8K8x8y8x8Q&o=&q=7&ref='+document.location, '_blank', 'height=544, width=644,toolbar=no,scrollbars=no,menubar=no,status=no');">在线客服</a>
-                <a title="帮助中心" href="/index.php?r=portal/portal/helpindex&type=2&fenlei=1">帮助中心</a> 
-            </div>
-                
-        <!--#right_menu.over--> 
-    </div>
-</div>
-<!-- 2014-9-11.end -->
-
-	
-<!--#portal_platform_head.start-->
-<div class="portalHeader w1000 clearfix pdtb20"> <a class="logo" href="/"></a> 
-    <!--st.name.start--> 
-    <a class="btn-sub fl pdt20 pdl10"> <span class="gray-btn"></span> </a> 
-    <!--#st.name.over-->
-    <div class="slogan"></div>
-    <p>&nbsp;</p>
-</div>
-<!--#portal_platform_head.over-->
-<div class="portalMain w1000 clearfix">
-
-	<link href="http://211.153.75.13:10000/nation_statics/area/000000/css/zhuce.css" rel="stylesheet" type="text/css" />
-<div class="main">
-	<div class="crumb mgtb10">你的位置
-		<img src="http://211.153.75.13:10000/nation_statics/common/images/ico/crumb_clips0.png" width="27" height="36">
-		<span><a href="http://n.eduyun.cn">首页</a></span>
-		<img src="http://211.153.75.13:10000/nation_statics/common/images/ico/crumb_clips.png" width="27" height="36">
-		<span><a href="/index.php?r=portal/register/index">用户注册</a></span>
-		<em>已有账户�?a href="/index.php?r=portal/user/login">直接登录�?</a></em>
-	</div>
-	
-	<div class="registbox pt100 t_c">
-		<h2>尊敬的��，恭喜您注册成功！现在可以登录了�?/h2>
-		<p class="f14">您注册的账号�?span class="ca82929">kumcaqze（用户名�?/span></p>
-		<p class="mgt25"><a href="/index.php?r=center/person/JoinClass/Index" class="ABtn-Blue f12 mgr20">加入班级</a><a href="/index.php?r=center/person/index" class="ABtn-Gray f12 ">进入空间</a></p>
-	</div>
-	
-	
-</div>  
-</div>
-<script language="javascript">
-var Tips = {
-		check_orgid_exist:function(){
-			var _is_exist_org = false;		
-			if(_is_exist_org){
-				return _is_exist_org;
-			}
-			
-			art.confirm('您好，感谢您使用国家教育资源公共服务平台。您当前尚未加入任何学校或机构，属于非认证用户��?br />为了更好的使用平台功能，建议您先到空间个人中心中查找并加入学校或机构�?,
-				function(){
-					window.open('/index.php?r=center/person/JoinSchool/JoinSchool');   
-				},
-				function(){
-					   
-				},
-				'用户权限提示',
-				'马上加入'
-			);
-			return _is_exist_org;	
-		}
-	}
-</script><!--#portal_pub_foot_js.start-->
- <!--#nation_portal_pub_foot.Start-->
-<div class="w1000 portalFooter footer pdtb10">
-  <div>
-      <span class="fr"><a title="帮助中心" href="/index.php?r=portal/portal/helpindex&type=2&fenlei=1">帮助中心</a> | <a href="http://manager2.eduyun.cn:12000/aam/acl/" target="_blank">后台管理</a> | <a href="/index.php?r=portal/help/map">网站导航</a> | <script src="http://s19.cnzz.com/stat.php?id=5916476&web_id=5916476" language="JavaScript"></script></span><span>版权扢�有：中央电化教育�?/span>
-      <span class="pdl15">网站运维：中央电化教育馆</span><span class="pdl15">抢�术支持：武汉天喻信息产业股份有限公司</span>
-      </div>
-  <div>
-      <span class="fr">客服电话�?00-8980-910 QQ�?008980910 <span class="pdlr5">邮箱�?008980910@b.qq.com</span><img  style="CURSOR: pointer" onclick="javascript:window.open('http://b.qq.com/webc.htm?new=0&sid=4008980910&eid=218808P8z8p8K8x8y8x8Q&o=&q=7&ref='+document.location, '_blank', 'height=544, width=644,toolbar=no,scrollbars=no,menubar=no,status=no');"  border="0" SRC="http://im.bizapp.qq.com:8000/zx_qq.gif"></span>
-  <span>©2015 www.eduyun.cn All rights reserved</span><span class="pdl15">京ICP�?9059518�?3</span>
-  </div>
-</div>
-<!--#nation_portal_pub_foot.Over--> 
-
-
-<!-- <script type="text/javascript" src="nation_portal_foot.js"></script> -->
-<!--#portal_pub_foot_js.over-->
-<div class="Main clearfix" id="_user_login" style="display:none">
-  <div class="loginArea clearfix" style="padding:0">
-  <div class="l fl"><img src="http://211.153.75.13:10000/nation_statics/portal/images/user_pic1.jpg" width="350" height="267" /></div>
-  <div class="r fr"><div class="LoginBox-1">
-      <form action="/index.php?r=portal/user/artLogin" method="post" id="artLogin" name="artlogin"  onsubmit="return ajax_submit(this)" message_id="_user_login_tips">
-        <div class="inpLogin"><span class="loginIco form_user"></span>
-          <input type="text" name="account" id="info_username-1" value=""  placeholder="请输入您的账�? />
-        </div>
-        <div class="inpLogin mgtb10">
-          <input type="password" name="pwd" id="info_password-1"  value="" placeholder="请输入您的密�? >
-          <span class="loginIco form_psw"></span>
-        </div>
-
-        <div id='valcodediv' class="wsj_addBox clearfix dis_none">
-            <input id="valCode" name='valCode' class=" wsj_texting fl" type="text" placeholder="请输入验证码" tabindex="3">
-            <img src="/index.php?r=portal/register/getValCode&type=te&s=1450363740"  title="看不清，点击换一�? onclick='javascript:this.src="/index.php?r=portal/register/getValCode&type=te&s=1450363740&"+Math.random()' style="width: 110px; height: 37px;"/>
-        </div>
-
-        <p class="item">
-        <a href="/index.php?r=vocation/portal/register/index" class="reg fr">免费注册</a>
-          <label>
-            <input type="checkbox" value="1" name="remember" />
-          </label>下次自动登录
-          <a href="/index.php?r=portal/resetPassword" class="forget">忘记密码</a>
-        </p>
-        <p class="LoginTips" id="_user_login_tips"></p>
-		    <input type="hidden" value="" name="userAction" id="userAction"/>
-        <input type="hidden" value="te" name="type"/>
-        <input type="hidden" value="1450363740" name="s"/>
-        <input type="submit" value="" class="LoginSubmit" id="info_submit-1">
-      </form>
-    </div>
-  </div>
-  </div>
-</div>
-<script type="text/javascript">
-$(function($){
-  $('#toUserLogin').bind('click',function(){
-      userLogin();
-  })
-})
-
-$(function($){
-  $('#view_into_app').bind('click',function(){
-      userLogin($(this).attr('url'));
-  })
-})
-
-$(function($){
-  $('#view_add_app').bind('click',function(){
-      userLogin();
-  })
-})
-
-//用户登录弹窗
-function userLogin(userAction){
-	if(userAction==undefined){
-		//userAction = location.reload();
-	}else{
-		$('#userAction').val(userAction);
-	}
-  var url = '/index.php?r=portal/user/ajaxCheckLogin';
-  $.get(
-      url,
-      function(data){
-        if (data.code ==='000000') {
-          art.alert('您已登录!',function(){
-          		if(userAction==undefined){
-          			location.reload()
-          		}else{
-          			location.href = userAction;
-          		}
-      		  });
-        }else{
-          art.show({
-            id:'userLogin',
-            title:'用户登录',
-            content:'_user_login',
-            lock: true
-          });
-        }
-      },
-      'json'
-    );
-}
-</script><!-- feedback pop begin -->
- <!-- qq pop begin -->
-<div class="popWrap feedback-popbox" style="width:685px;position:absolute; display:none" id="qqfeedback">
-  <div class="popInner"> <a href="#" name="close" class="close" id="closebox"><img src="http://211.153.75.13:10000/nation_statics/space/images/ico/close-pop.png" width="19" height="19" /></a>
-    <h2>温馨提示</h2>
-    <div class="cj_userback">
-      <p class="cd18959">使用以下表格将您的意见或者使用中遇到的问题提交给我们，我们将会仔细阅读您的反馈��?/p>
-      <p class="line40 c000">反馈内容�?a style="text-decoration:none;">(限制5-1000�?</a><span class='ca82929'></span></p>
-      <div class="cj_userbackm clearfix">
-        <div class="fl">
-          <table border="0" cellspacing="0" cellpadding="0">
-            <tr>
-              <td colspan="2"><textarea name="content" cols="" rows="" class="inp"></textarea></td>
-            </tr>
-            <tr>
-              <td align="right" width="50">QQ号：</td>
-              <td><input name="qq" type="text" class="inp" id="qq" /><span class='ca82929'></span></td>
-            </tr>
-            <tr>
-              <td align="right">验证码：</td>
-              <td><input name="verify" type="text" class="inp" /><span class='ca82929'></span></td>
-            </tr>
-            <tr>
-              <td>&nbsp;</td>
-              <td><a href="#"><img src="/index.php?r=portal/site/verify" width="90" id="verify"/></a><a href="javascript:void(0);" id="chan" style="margin-left:10px;">换一�?/a></td>
-            </tr>
-            <tr>
-              <td>&nbsp;</td>
-              <td class="padt30"><a class="ABtn-Blue-14 view-state" href="javascript:void(0);" id="btn_14">确定</a>〢�<a href="javascript:void(0);" class="ABtn-Gray-14" id="gra_14">重置</a></td>
-            </tr>
-          </table>
-
-        </div>
-      </div>
-      
-    </div>
-  </div>
-</div>
-<!-- qq pop end --> 
-<!-- 弹窗背景遮罩.start -->
-<div class="dis_none" id="screen"></div>
-<!-- 弹窗背景遮罩.end -->
-<!--弹窗-反馈成功 start-->
-<div class="popWrap feedback-success-popbox" style="width:460px;position:absolute;display:none" id="successfeed">
-  <div class="popInner">
-  <a href="javascript:void(0);" class="close" name="close" id="close"><img src="http://211.153.75.13:10000/nation_statics/space/images/ico/close-pop.png" width="19" height="19" /></a>
-        <h2>系统提示</h2>
-        <div class="pd20 clearfix">
-            <div class="fl"><img src="http://211.153.75.13:10000/nation_statics/portal/images/ico/true.png"/></div>
-            <div class="fl f14 c555 pdl20"><p>反馈信息提交成功�?/p>
-            <p>衷心感谢您的宝贵意见，我们将尽快处理�?/p></div>
-        <p class="pdtb20 tc cl"><a  href="javascript:void(0);" class="ABtn-Blue-12" id="btn_12">确定</a></p>
-    </div>     
-  </div>
-</div>
-           
-<script type="text/javascript">
-var verify = {
-	verifyContent:function(){
-		if($('textarea[name=content]').val() == ''){
-      $(".line40").children("a").text("");
-      $(".line40").children("span").text("请输入反馈内容！");
-      $('textarea[name=content]').focus();
-	    $('textarea[name=content]').removeClass('focus');
-	    $('textarea[name=content]').addClass('focus');
-		  return false;
-    }else if($('textarea[name=content]').val().length<5 || $('textarea[name=content]').val().length>1000){
-      $(".line40").children("a").text("");
-      $(".line40").children("span").text("请输入反馈内容在5-1000字！");
-      $('textarea[name=content]').focus();
-      $('textarea[name=content]').removeClass('focus');
-      $('textarea[name=content]').addClass('focus');
-	    return false;
-    }else{
-      $('textarea[name=content]').removeClass('focus');
-      $(".line40").children("span").text("");
-      $(".line40").children("a").text("(限制5-1000�?");
-	    return true;
-    }
-	},
-	verifyQQ:function(){
-		if($('input[name=qq]').val() == ''){
-      $('input[name=qq]').next("span").text("请输入QQ号！");
-      $('input[name=qq]').focus();
-	    $('input[name=qq]').removeClass('focus');
-	    $('input[name=qq]').addClass('focus');
-		  return false;
-    }else if($('input[name=qq]').val().length < 5){
-      $('input[name=qq]').next("span").text("qq不能少于5�?);
-      $('input[name=qq]').focus();
-	    $('input[name=qq]').removeClass('focus');
-	    $('input[name=qq]').addClass('focus');
-		  return false;
-    }else if(!validate()){
-      $('input[name=qq]').next("span").text("请正确输入qq�?);
-      $('input[name=qq]').focus();
-	    $('input[name=qq]').removeClass('focus');
-	    $('input[name=qq]').addClass('focus');
-		  return false;
-    }else{
-      $('input[name=qq]').removeClass('focus');
-      $('input[name=qq]').next("span").text("");
-	    return true;
-    }
-	},
-	verifyNum:function(){
-		if($('input[name=verify]').val() == ''){
-			$('input[name=verify]').next("span").text("请输入验证码�?);
-      $('input[name=verify]').focus();
-			$('input[name=verify]').removeClass('focus');
-			$('input[name=verify]').addClass('focus');
-			return false;
-		}else{
-			 $.get('/index.php?r=portal/site/verifyNum'+'&verify='+$('input[name=verify]').val(),function(data){
-				
-				if(data!=1){
-					$('input[name=verify]').next("span").text("验证码错误！"); 
-                    $('input[name=verify]').focus();
-					$('input[name=verify]').removeClass('focus');
-					$('input[name=verify]').addClass('focus');
-					return false;
-				}else{ 
-					$('input[name=verify]').removeClass('focus');
-                    $('input[name=verify]').next("span").text("");
-					$('input[name=verify]').next("span").append('<img src="http://211.153.75.13:10000/nation_statics/portal/images/ico/ok.png"/>');
-					return true;
-				}
-			});
-			  
-		 
-		}
-	} 
-	
-}
-$('#qqfeedback textarea').blur(function(){
-  if(verify.verifyContent()){ 
-    $('textarea[name=content]').removeClass('focus');
-  }
-})
-$('input[name=qq]').blur(function(){
-	if(verify.verifyQQ()){ 
-		$('input[name=qq]').next("span").text('');
-		$('input[name=qq]').next("span").append('<img src="http://211.153.75.13:10000/nation_statics/portal/images/ico/ok.png"/>');
-		$('input[name=qq]').removeClass('focus');
-	}
-})
-$('input[name=verify]').blur(function(){
-	if(verify.verifyNum()){  
-		$('input[name=verify]').next("span").text('');
-		$('input[name=verify]').removeClass('focus');
-	}
-})
-
-
-  $("#btn_14").bind('click',function(){
-     verify.verifyContent();
-	   verify.verifyQQ();
-	   verify.verifyNum();
-    if($('textarea[name=content]').val() != '' && $('input[name=qq]').val() != '' && $('input[name=qq]').val().length >= 5 && validate() && $('input[name=verify]').val() != ''){
-      $.ajax({
-        type:'post',
-        url:'index.php?r=portal/site/addfeed',
-        data:'content='+$('textarea[name=content]').val()+'&qq='+$('input[name=qq]').val()+'&verify='+$('input[name=verify]').val(),
-        datatype:'json',
-        success:function(data){
-          if(data == 1){
-            var left = document.getElementById('qqfeedback').offsetLeft;
-            var top = document.getElementById('qqfeedback').offsetTop+document.body.scrollTop;
-            document.getElementById('successfeed').style.left = left+110+"px";
-            document.getElementById('successfeed').style.top = top+100+"px";
-            $("#successfeed").show();
-            document.getElementById('qqfeedback').style.display = "none";
-            $("#btn_12").click(function(){
-              window.location.href="index.php"+window.location.search; 
-            })
-            $("#close").click(function(){
-              window.location.href="index.php"+window.location.search; 
-            })
-          }else if(data == 0){
-            alert("反馈失败");
-          }else{
-            $('input[name=verify]').next("span").text("");
-            $('input[name=verify]').next("span").text("验证码错误！");
-			      $('input[name=verify]').focus();
-			      $('input[name=verify]').removeClass('focus');
-			      $('input[name=verify]').addClass('focus');
-			
-          }
-        }
-      })
-    }else{
-      return false;
-    }
-  })
- function validate(){
-    var reg = /^[1-9]\d{5,8}$/;
-    var obj = document.getElementById("qq");
-    if(!reg.test(obj.value)){
-        return false;
-    }else{
-      return true;
-    }
-  }
-
-  $('#gra_14').click(function(){
-    $('textarea[name=content]').val("");
-    $('input[name=qq]').val("");
-    $('input[name=verify]').val("");
-    $('.inp').removeClass('focus');
-  })
-  
-  $('#closebox').click(function(){
-    $('textarea[name=content]').val("");
-    $('input[name=qq]').val("");
-    $('input[name=verify]').val("");
-    $('.inp').removeClass('focus');
-  })
-
-  $("#chan").click(function(){   
-    //var img = document.getElementById("verify");
-    //var src = $("#verify").attr("src");
-    var src = "/index.php?r=portal/site/verify"+"&tm="+Math.random();
-    $("#verify").attr("src",src);
-     
-  })
-</script>
-<script type="text/javascript">
-  $(document).ready(function(){
-    //美化checkbox
-    $("input[type='checkbox']").checkboxFn();
-  })
-  </script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>国家教育资源公共服务平台</title>
+<link href="http://211.153.75.13:10000/nation_statics/common/css/public.css" rel="stylesheet" type="text/css" />
+<link href="http://211.153.75.13:10000/nation_statics/common/css/layout.css?" rel="stylesheet" type="text/css" />
+<link href="http://211.153.75.13:10000/nation_statics/portal/css/base.css" rel="stylesheet" type="text/css" />
+<link href="http://211.153.75.13:10000/nation_statics/area/000000/css/base.css" rel="stylesheet" type="text/css" />
+<link href="http://211.153.75.13:10000/nation_statics/common/css/public.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://211.153.75.13:10000/nation_statics/modules/artDialog5/skins/blue_two.css"/>
+<link rel="stylesheet" type="text/css" href="http://211.153.75.13:10000/nation_statics/modules/post/css/post.css">
+<script type="text/javascript" src="http://211.153.75.13:10000/nation_statics/common/js/jquery.js"></script>
+<script type="text/javascript" src="http://211.153.75.13:10000/nation_statics/common/js/fun.js"></script>
+<script type="text/javascript" src="http://211.153.75.13:10000/nation_statics/common/js/common.js?"></script>
+<script type="text/javascript" src="http://211.153.75.13:10000/nation_statics/common/js/jquery.kinMaxShow-1.0.min.js"></script>
+<script type="text/javascript" src="http://211.153.75.13:10000/nation_statics/common/js/jquery.artDialog.js"></script>
+<script type="text/javascript" src="http://211.153.75.13:10000/nation_statics/common/js/jquery.artDialog.plugins.js"></script>
+<script type="text/javascript" src="http://211.153.75.13:10000/nation_statics/modules/post/js/post.js"></script>
+<script type="text/javascript" src="http://211.153.75.13:10000/nation_statics/common/js/ajaxForm.js"></script>
+		<!--[if IE 6]>
+	<script src="common/js/DD_belatedPNG.js"> </script>
+    <script> DD_belatedPNG.fix('.png_bg');</script>
+	    <![endif]-->
+</head>
+  
+<body class="portal">
+<!--[if IE 6]>
+<script type="text/javascript" src="http://211.153.75.13:10000/nation_statics/common/js/ie6-tips.js?"></script>
+<![endif]--> 
+ <!--#nation_portal_pub_head_js.start-->
+<!-- <script type="text/javascript" src="nation_portal_head.js"></script> -->
+<!--#nation_portal_pub_head_js.over-->
+    <!--#portal_pub_head.start-->
+<!--#control_tips.start-->
+<!-- <div class="control-tips">
+<div class="w1000"><div class="fl text">欢迎您进入国家教育资源公共服务平台，为了给你提供高效、安全��便捷的资源上传服务，请安装 <span>HTTP断点续传控件5(x86)</span><a href="#">在线安装</a> | <a href="#">下载到本�?/a></div> <div class="fl close"></div></div>
+
+</div> -->
+<!--#control_tips.over-->
+<!-- 2014-9-11.start -->
+<div class="portalTopBar_nation">
+    <div class="w1000 clearfix topbar_nation" path="protected/sites/000000/views/layouts/portal.php"> 
+        <!--#left_menu.start-->
+        <div class="menu fl">
+            <ul>
+            	<li class="m10"><a href="http://www.eduyun.cn/" title="国家教育资源公共服务平台"><img src="http://211.153.75.13:10000/nation_statics/area/000000/images/head/logo_min.png"  /></a></li>
+                <li><a href="http://www.eduyun.cn/" class="">首页</a></li>
+                <li><a href="http://news.eduyun.cn/ns/" class="">新闻</a></li>
+				<li><a href="http://so.eduyun.cn/" class="">资源</a></li>
+                <li class="topics">
+                  <a href="http://n.eduyun.cn:10003/cms_portal/resStore.html" class="">超市</a>
+                  <!-- <dl> 
+                    <dd><a href="http://so.eduyun.cn" class="">资源</a></dd>
+                    <dd><a href="/index.php?r=portal/app" class="">应用</a></dd>
+                  </dl> -->
+                </li>
+                
+                <li><a href="http://1s1k.eduyun.cn/portal/html/1s1k/index/1.html" class="">晒课</a></li>
+                <li><a href="http://1s1k.eduyun.cn/portal/sportal/studio.jsp?menuFlag=2" class="">教研</a></li>
+                <li><a href="http://1s1k.eduyun.cn/portal/sportal/bar.html?menuFlag=6" class="">话题</a></li>
+                <li><a href="http://1s1k.eduyun.cn/portal/sportal/faq.html?menuFlag=5" class="">问答</a></li>
+                <li class="topics">
+					<a href="javascript:;" class="">专题<i class="png_bg"></i></a>
+					<dl> 
+						<dd><a href="http://safety.eduyun.cn/ss/" class="">安全</a></dd>
+            <dd><a href="http://dy.eduyun.cn/dy/" class="">德育</a></dd>
+            <dd><a href="http://twy.eduyun.cn/twy/" class="">体卫�?/a></dd>
+						<dd><a href="/index.php?r=sns/square" class="">社区</a></dd>
+						<dd><a href="http://www.eduyun.cn/hwcd/index.html" class="">汉维词典</a></dd>
+						<dd><a href="http://www.eduyun.cn/hacd/index.html" class="">汉哈词典</a></dd>
+						
+					</dl>
+				</li>
+                <li><a href="http://yuer.eduyun.cn/ys/" class="">学前</a></li>
+                                                  	<li><a href="http://n.eduyun.cn/index.php?r=vocational/index/index" class="">职教</a></li>
+                             </ul>
+        </div>
+        <!--#left_menu.over-->
+        <!--#user_login.start-->
+        <!-- 区域用户判断 -->
+                    <!-- <div class="nav fr">
+                                <a href="#" title="前往空间" id="toUserLogin">请登�?/a>
+                <a href="/index.php?r=vocation/portal/register/index" title="注册">注册</a>
+                            </div> -->
+                    <div class="user fl">
+                        <a href="#" title="前往空间" id="toUserLogin">请登�?/a>
+            <a href="/index.php?r=vocation/portal/register/index" title="注册">注册</a>
+                        </div>
+            <div class="nav fr">
+                <a title="在线客服" href="javascript:;" onclick="javascript:window.open('http://b.qq.com/webc.htm?new=0&sid=4008980910&eid=218808P8z8p8K8x8y8x8Q&o=&q=7&ref='+document.location, '_blank', 'height=544, width=644,toolbar=no,scrollbars=no,menubar=no,status=no');">在线客服</a>
+                <a title="帮助中心" href="/index.php?r=portal/portal/helpindex&type=2&fenlei=1">帮助中心</a> 
+            </div>
+                
+        <!--#right_menu.over--> 
+    </div>
+</div>
+<!-- 2014-9-11.end -->
+
+	
+<!--#portal_platform_head.start-->
+<div class="portalHeader w1000 clearfix pdtb20"> <a class="logo" href="/"></a> 
+    <!--st.name.start--> 
+    <a class="btn-sub fl pdt20 pdl10"> <span class="gray-btn"></span> </a> 
+    <!--#st.name.over-->
+    <div class="slogan"></div>
+    <p>&nbsp;</p>
+</div>
+<!--#portal_platform_head.over-->
+<div class="portalMain w1000 clearfix">
+
+	<link href="http://211.153.75.13:10000/nation_statics/area/000000/css/zhuce.css" rel="stylesheet" type="text/css" />
+<div class="main">
+	<div class="crumb mgtb10">你的位置
+		<img src="http://211.153.75.13:10000/nation_statics/common/images/ico/crumb_clips0.png" width="27" height="36">
+		<span><a href="http://n.eduyun.cn">首页</a></span>
+		<img src="http://211.153.75.13:10000/nation_statics/common/images/ico/crumb_clips.png" width="27" height="36">
+		<span><a href="/index.php?r=portal/register/index">用户注册</a></span>
+		<em>已有账户�?a href="/index.php?r=portal/user/login">直接登录�?</a></em>
+	</div>
+	
+	<div class="registbox pt100 t_c">
+		<h2>尊敬的��，恭喜您注册成功！现在可以登录了�?/h2>
+		<p class="f14">您注册的账号�?span class="ca82929">kumcaqze（用户名�?/span></p>
+		<p class="mgt25"><a href="/index.php?r=center/person/JoinClass/Index" class="ABtn-Blue f12 mgr20">加入班级</a><a href="/index.php?r=center/person/index" class="ABtn-Gray f12 ">进入空间</a></p>
+	</div>
+	
+	
+</div>  
+</div>
+<script language="javascript">
+var Tips = {
+		check_orgid_exist:function(){
+			var _is_exist_org = false;		
+			if(_is_exist_org){
+				return _is_exist_org;
+			}
+			
+			art.confirm('您好，感谢您使用国家教育资源公共服务平台。您当前尚未加入任何学校或机构，属于非认证用户��?br />为了更好的使用平台功能，建议您先到空间个人中心中查找并加入学校或机构�?,
+				function(){
+					window.open('/index.php?r=center/person/JoinSchool/JoinSchool');   
+				},
+				function(){
+					   
+				},
+				'用户权限提示',
+				'马上加入'
+			);
+			return _is_exist_org;	
+		}
+	}
+</script><!--#portal_pub_foot_js.start-->
+ <!--#nation_portal_pub_foot.Start-->
+<div class="w1000 portalFooter footer pdtb10">
+  <div>
+      <span class="fr"><a title="帮助中心" href="/index.php?r=portal/portal/helpindex&type=2&fenlei=1">帮助中心</a> | <a href="http://manager2.eduyun.cn:12000/aam/acl/" target="_blank">后台管理</a> | <a href="/index.php?r=portal/help/map">网站导航</a> | <script src="http://s19.cnzz.com/stat.php?id=5916476&web_id=5916476" language="JavaScript"></script></span><span>版权扢�有：中央电化教育�?/span>
+      <span class="pdl15">网站运维：中央电化教育馆</span><span class="pdl15">抢�术支持：武汉天喻信息产业股份有限公司</span>
+      </div>
+  <div>
+      <span class="fr">客服电话�?00-8980-910 QQ�?008980910 <span class="pdlr5">邮箱�?008980910@b.qq.com</span><img  style="CURSOR: pointer" onclick="javascript:window.open('http://b.qq.com/webc.htm?new=0&sid=4008980910&eid=218808P8z8p8K8x8y8x8Q&o=&q=7&ref='+document.location, '_blank', 'height=544, width=644,toolbar=no,scrollbars=no,menubar=no,status=no');"  border="0" SRC="http://im.bizapp.qq.com:8000/zx_qq.gif"></span>
+  <span>©2015 www.eduyun.cn All rights reserved</span><span class="pdl15">京ICP�?9059518�?3</span>
+  </div>
+</div>
+<!--#nation_portal_pub_foot.Over--> 
+
+
+<!-- <script type="text/javascript" src="nation_portal_foot.js"></script> -->
+<!--#portal_pub_foot_js.over-->
+<div class="Main clearfix" id="_user_login" style="display:none">
+  <div class="loginArea clearfix" style="padding:0">
+  <div class="l fl"><img src="http://211.153.75.13:10000/nation_statics/portal/images/user_pic1.jpg" width="350" height="267" /></div>
+  <div class="r fr"><div class="LoginBox-1">
+      <form action="/index.php?r=portal/user/artLogin" method="post" id="artLogin" name="artlogin"  onsubmit="return ajax_submit(this)" message_id="_user_login_tips">
+        <div class="inpLogin"><span class="loginIco form_user"></span>
+          <input type="text" name="account" id="info_username-1" value=""  placeholder="请输入您的账�? />
+        </div>
+        <div class="inpLogin mgtb10">
+          <input type="password" name="pwd" id="info_password-1"  value="" placeholder="请输入您的密�? >
+          <span class="loginIco form_psw"></span>
+        </div>
+
+        <div id='valcodediv' class="wsj_addBox clearfix dis_none">
+            <input id="valCode" name='valCode' class=" wsj_texting fl" type="text" placeholder="请输入验证码" tabindex="3">
+            <img src="/index.php?r=portal/register/getValCode&type=te&s=1450363740"  title="看不清，点击换一�? onclick='javascript:this.src="/index.php?r=portal/register/getValCode&type=te&s=1450363740&"+Math.random()' style="width: 110px; height: 37px;"/>
+        </div>
+
+        <p class="item">
+        <a href="/index.php?r=vocation/portal/register/index" class="reg fr">免费注册</a>
+          <label>
+            <input type="checkbox" value="1" name="remember" />
+          </label>下次自动登录
+          <a href="/index.php?r=portal/resetPassword" class="forget">忘记密码</a>
+        </p>
+        <p class="LoginTips" id="_user_login_tips"></p>
+		    <input type="hidden" value="" name="userAction" id="userAction"/>
+        <input type="hidden" value="te" name="type"/>
+        <input type="hidden" value="1450363740" name="s"/>
+        <input type="submit" value="" class="LoginSubmit" id="info_submit-1">
+      </form>
+    </div>
+  </div>
+  </div>
+</div>
+<script type="text/javascript">
+$(function($){
+  $('#toUserLogin').bind('click',function(){
+      userLogin();
+  })
+})
+
+$(function($){
+  $('#view_into_app').bind('click',function(){
+      userLogin($(this).attr('url'));
+  })
+})
+
+$(function($){
+  $('#view_add_app').bind('click',function(){
+      userLogin();
+  })
+})
+
+//用户登录弹窗
+function userLogin(userAction){
+	if(userAction==undefined){
+		//userAction = location.reload();
+	}else{
+		$('#userAction').val(userAction);
+	}
+  var url = '/index.php?r=portal/user/ajaxCheckLogin';
+  $.get(
+      url,
+      function(data){
+        if (data.code ==='000000') {
+          art.alert('您已登录!',function(){
+          		if(userAction==undefined){
+          			location.reload()
+          		}else{
+          			location.href = userAction;
+          		}
+      		  });
+        }else{
+          art.show({
+            id:'userLogin',
+            title:'用户登录',
+            content:'_user_login',
+            lock: true
+          });
+        }
+      },
+      'json'
+    );
+}
+</script><!-- feedback pop begin -->
+ <!-- qq pop begin -->
+<div class="popWrap feedback-popbox" style="width:685px;position:absolute; display:none" id="qqfeedback">
+  <div class="popInner"> <a href="#" name="close" class="close" id="closebox"><img src="http://211.153.75.13:10000/nation_statics/space/images/ico/close-pop.png" width="19" height="19" /></a>
+    <h2>温馨提示</h2>
+    <div class="cj_userback">
+      <p class="cd18959">使用以下表格将您的意见或者使用中遇到的问题提交给我们，我们将会仔细阅读您的反馈��?/p>
+      <p class="line40 c000">反馈内容�?a style="text-decoration:none;">(限制5-1000�?</a><span class='ca82929'></span></p>
+      <div class="cj_userbackm clearfix">
+        <div class="fl">
+          <table border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td colspan="2"><textarea name="content" cols="" rows="" class="inp"></textarea></td>
+            </tr>
+            <tr>
+              <td align="right" width="50">QQ号：</td>
+              <td><input name="qq" type="text" class="inp" id="qq" /><span class='ca82929'></span></td>
+            </tr>
+            <tr>
+              <td align="right">验证码：</td>
+              <td><input name="verify" type="text" class="inp" /><span class='ca82929'></span></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td><a href="#"><img src="/index.php?r=portal/site/verify" width="90" id="verify"/></a><a href="javascript:void(0);" id="chan" style="margin-left:10px;">换一�?/a></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td class="padt30"><a class="ABtn-Blue-14 view-state" href="javascript:void(0);" id="btn_14">确定</a>〢�<a href="javascript:void(0);" class="ABtn-Gray-14" id="gra_14">重置</a></td>
+            </tr>
+          </table>
+
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+<!-- qq pop end --> 
+<!-- 弹窗背景遮罩.start -->
+<div class="dis_none" id="screen"></div>
+<!-- 弹窗背景遮罩.end -->
+<!--弹窗-反馈成功 start-->
+<div class="popWrap feedback-success-popbox" style="width:460px;position:absolute;display:none" id="successfeed">
+  <div class="popInner">
+  <a href="javascript:void(0);" class="close" name="close" id="close"><img src="http://211.153.75.13:10000/nation_statics/space/images/ico/close-pop.png" width="19" height="19" /></a>
+        <h2>系统提示</h2>
+        <div class="pd20 clearfix">
+            <div class="fl"><img src="http://211.153.75.13:10000/nation_statics/portal/images/ico/true.png"/></div>
+            <div class="fl f14 c555 pdl20"><p>反馈信息提交成功�?/p>
+            <p>衷心感谢您的宝贵意见，我们将尽快处理�?/p></div>
+        <p class="pdtb20 tc cl"><a  href="javascript:void(0);" class="ABtn-Blue-12" id="btn_12">确定</a></p>
+    </div>     
+  </div>
+</div>
+           
+<script type="text/javascript">
+var verify = {
+	verifyContent:function(){
+		if($('textarea[name=content]').val() == ''){
+      $(".line40").children("a").text("");
+      $(".line40").children("span").text("请输入反馈内容！");
+      $('textarea[name=content]').focus();
+	    $('textarea[name=content]').removeClass('focus');
+	    $('textarea[name=content]').addClass('focus');
+		  return false;
+    }else if($('textarea[name=content]').val().length<5 || $('textarea[name=content]').val().length>1000){
+      $(".line40").children("a").text("");
+      $(".line40").children("span").text("请输入反馈内容在5-1000字！");
+      $('textarea[name=content]').focus();
+      $('textarea[name=content]').removeClass('focus');
+      $('textarea[name=content]').addClass('focus');
+	    return false;
+    }else{
+      $('textarea[name=content]').removeClass('focus');
+      $(".line40").children("span").text("");
+      $(".line40").children("a").text("(限制5-1000�?");
+	    return true;
+    }
+	},
+	verifyQQ:function(){
+		if($('input[name=qq]').val() == ''){
+      $('input[name=qq]').next("span").text("请输入QQ号！");
+      $('input[name=qq]').focus();
+	    $('input[name=qq]').removeClass('focus');
+	    $('input[name=qq]').addClass('focus');
+		  return false;
+    }else if($('input[name=qq]').val().length < 5){
+      $('input[name=qq]').next("span").text("qq不能少于5�?);
+      $('input[name=qq]').focus();
+	    $('input[name=qq]').removeClass('focus');
+	    $('input[name=qq]').addClass('focus');
+		  return false;
+    }else if(!validate()){
+      $('input[name=qq]').next("span").text("请正确输入qq�?);
+      $('input[name=qq]').focus();
+	    $('input[name=qq]').removeClass('focus');
+	    $('input[name=qq]').addClass('focus');
+		  return false;
+    }else{
+      $('input[name=qq]').removeClass('focus');
+      $('input[name=qq]').next("span").text("");
+	    return true;
+    }
+	},
+	verifyNum:function(){
+		if($('input[name=verify]').val() == ''){
+			$('input[name=verify]').next("span").text("请输入验证码�?);
+      $('input[name=verify]').focus();
+			$('input[name=verify]').removeClass('focus');
+			$('input[name=verify]').addClass('focus');
+			return false;
+		}else{
+			 $.get('/index.php?r=portal/site/verifyNum'+'&verify='+$('input[name=verify]').val(),function(data){
+				
+				if(data!=1){
+					$('input[name=verify]').next("span").text("验证码错误！"); 
+                    $('input[name=verify]').focus();
+					$('input[name=verify]').removeClass('focus');
+					$('input[name=verify]').addClass('focus');
+					return false;
+				}else{ 
+					$('input[name=verify]').removeClass('focus');
+                    $('input[name=verify]').next("span").text("");
+					$('input[name=verify]').next("span").append('<img src="http://211.153.75.13:10000/nation_statics/portal/images/ico/ok.png"/>');
+					return true;
+				}
+			});
+			  
+		 
+		}
+	} 
+	
+}
+$('#qqfeedback textarea').blur(function(){
+  if(verify.verifyContent()){ 
+    $('textarea[name=content]').removeClass('focus');
+  }
+})
+$('input[name=qq]').blur(function(){
+	if(verify.verifyQQ()){ 
+		$('input[name=qq]').next("span").text('');
+		$('input[name=qq]').next("span").append('<img src="http://211.153.75.13:10000/nation_statics/portal/images/ico/ok.png"/>');
+		$('input[name=qq]').removeClass('focus');
+	}
+})
+$('input[name=verify]').blur(function(){
+	if(verify.verifyNum()){  
+		$('input[name=verify]').next("span").text('');
+		$('input[name=verify]').removeClass('focus');
+	}
+})
+
+
+  $("#btn_14").bind('click',function(){
+     verify.verifyContent();
+	   verify.verifyQQ();
+	   verify.verifyNum();
+    if($('textarea[name=content]').val() != '' && $('input[name=qq]').val() != '' && $('input[name=qq]').val().length >= 5 && validate() && $('input[name=verify]').val() != ''){
+      $.ajax({
+        type:'post',
+        url:'index.php?r=portal/site/addfeed',
+        data:'content='+$('textarea[name=content]').val()+'&qq='+$('input[name=qq]').val()+'&verify='+$('input[name=verify]').val(),
+        datatype:'json',
+        success:function(data){
+          if(data == 1){
+            var left = document.getElementById('qqfeedback').offsetLeft;
+            var top = document.getElementById('qqfeedback').offsetTop+document.body.scrollTop;
+            document.getElementById('successfeed').style.left = left+110+"px";
+            document.getElementById('successfeed').style.top = top+100+"px";
+            $("#successfeed").show();
+            document.getElementById('qqfeedback').style.display = "none";
+            $("#btn_12").click(function(){
+              window.location.href="index.php"+window.location.search; 
+            })
+            $("#close").click(function(){
+              window.location.href="index.php"+window.location.search; 
+            })
+          }else if(data == 0){
+            alert("反馈失败");
+          }else{
+            $('input[name=verify]').next("span").text("");
+            $('input[name=verify]').next("span").text("验证码错误！");
+			      $('input[name=verify]').focus();
+			      $('input[name=verify]').removeClass('focus');
+			      $('input[name=verify]').addClass('focus');
+			
+          }
+        }
+      })
+    }else{
+      return false;
+    }
+  })
+ function validate(){
+    var reg = /^[1-9]\d{5,8}$/;
+    var obj = document.getElementById("qq");
+    if(!reg.test(obj.value)){
+        return false;
+    }else{
+      return true;
+    }
+  }
+
+  $('#gra_14').click(function(){
+    $('textarea[name=content]').val("");
+    $('input[name=qq]').val("");
+    $('input[name=verify]').val("");
+    $('.inp').removeClass('focus');
+  })
+  
+  $('#closebox').click(function(){
+    $('textarea[name=content]').val("");
+    $('input[name=qq]').val("");
+    $('input[name=verify]').val("");
+    $('.inp').removeClass('focus');
+  })
+
+  $("#chan").click(function(){   
+    //var img = document.getElementById("verify");
+    //var src = $("#verify").attr("src");
+    var src = "/index.php?r=portal/site/verify"+"&tm="+Math.random();
+    $("#verify").attr("src",src);
+     
+  })
+</script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    //美化checkbox
+    $("input[type='checkbox']").checkboxFn();
+  })
+  </script>
 <script type="text/javascript" src="http://n.eduyun.cn/protected/widgets/heartbeat/js/heartbeat.js?date=20151005&amp;url=http%3A%2F%2Fn.eduyun.cn"></script>
-</body>
+</body>
 </html>

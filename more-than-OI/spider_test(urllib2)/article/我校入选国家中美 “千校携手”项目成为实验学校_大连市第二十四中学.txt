@@ -4,9 +4,9 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-          我校入选国家中美 “千校携手”项目，成为实验学校。“千校携手”项目由中国教育部主办，全国妇联、共青团中央协办、中国教育国际交流协会执行，主要进行中美友好学校之间的环保项目的合作。首批实验校全国为454所，辽宁省有十所高中入选。
-      
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+          我校入选国家中美 “千校携手”项目，成为实验学校。“千校携手”项目由中国教育部主办，全国妇联、共青团中央协办、中国教育国际交流协会执行，主要进行中美友好学校之间的环保项目的合作。首批实验校全国为454所，辽宁省有十所高中入选。
+      
       </td>
 </tr>
 </table>

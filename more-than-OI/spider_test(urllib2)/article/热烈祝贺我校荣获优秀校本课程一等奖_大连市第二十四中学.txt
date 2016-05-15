@@ -4,9 +4,9 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-      日前结束的大连市高中优秀校本课程评选活动中，我校《国学》课程继《插花艺术》、《古诗词鉴赏》等课程后再次荣获大连市一等奖。
-      
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+      日前结束的大连市高中优秀校本课程评选活动中，我校《国学》课程继《插花艺术》、《古诗词鉴赏》等课程后再次荣获大连市一等奖。
+      
       </td>
 </tr>
 </table>

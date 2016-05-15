@@ -5,10 +5,10 @@
 <table width="100%">
 <tr>
 <td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-<p style="text-align: center">
-	 <br/>
+<p style="text-align: center">
+	 <br/>
 	 </p>
-<p>
+<p>
 	 </p>
 <table border="0" cellpadding="0" cellspacing="0" style="width: 668px" width="668" x:str="">
 <colgroup>
@@ -25,697 +25,697 @@
 </colgroup>
 <tbody>
 <tr height="19">
-<td colspan="5" height="19" style="width: 268px; height: 19px; text-align: center">
+<td colspan="5" height="19" style="width: 268px; height: 19px; text-align: center">
 				2010年中招重点中学录取分数线</td>
-<td id="fontzoom" style="width: 60px; text-align: center">
+<td id="fontzoom" style="width: 60px; text-align: center">
 				 </td>
-<td style="width: 72px; text-align: center">
+<td style="width: 72px; text-align: center">
 				 </td>
-<td colspan="5" style="width: 268px; text-align: center">
+<td colspan="5" style="width: 268px; text-align: center">
 				2009年中招重点中学录取分数线</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				学校</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				统招</td>
-<td style="text-align: center" u1:str="指标1 " x:str="指标1 ">
+<td style="text-align: center" u1:str="指标1 " x:str="指标1 ">
 				指标1 </td>
-<td style="text-align: center" u1:str="指标2 " x:str="指标2 ">
+<td style="text-align: center" u1:str="指标2 " x:str="指标2 ">
 				指标2 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				择校</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				学校</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				统招</td>
-<td style="text-align: center" u1:str="指标1 " x:str="指标1 ">
+<td style="text-align: center" u1:str="指标1 " x:str="指标1 ">
 				指标1 </td>
-<td style="text-align: center" u1:str="指标2 " x:str="指标2 ">
+<td style="text-align: center" u1:str="指标2 " x:str="指标2 ">
 				指标2 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				择校</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				1中</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				607</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				575.5</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				588.5</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				584.5</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				1中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				605.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				579.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				583</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				584</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				8中</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				617</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				585.5</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				601</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				595</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				8中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				617</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				581.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				594</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				594</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				11中</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				569</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				545</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				556</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				558.5</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				11中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				566.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				540</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				553</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				555</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				12中</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				583</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				553.5</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				568.5</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				574</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				12中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				584.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				552.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				561.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				564.5</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				20中</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				586.5</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				552</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				561</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				569</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				20中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				586.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				556</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				572.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				570</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				23中</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				595.5</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				564</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				573</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				582.5</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				23中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				592</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				561</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				572</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				571.5</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				24中</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				631.5</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				600.5</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				612.5</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				605.5</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				24中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				625.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				592</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				600</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				600</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				48中</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				582.5</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				551</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				572</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				568</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				48中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				578</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				547.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				556</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				562</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				育明</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				623</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				591</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				594.5</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				601.5</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				育明</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				612</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				581.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				583</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				585</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				辽附</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				601</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				567.5</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				578.5</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				583</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				辽附</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				594</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				567</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				567.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				574.5</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				理工</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				590</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				555</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				555.5</td>
-<td style="text-align: center" x:num="">
+<td style="text-align: center" x:num="">
 				569.5</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				理工</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				589.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				561.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				577.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				580.5</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
-				 </td>
-</tr>
-<tr height="19">
-<td height="19" style="height: 19px; text-align: center">
-				 </td>
-<td style="text-align: center">
-				 </td>
-<td style="text-align: center">
-				 </td>
-<td style="text-align: center">
-				 </td>
-<td style="text-align: center">
-				 </td>
-<td style="text-align: center">
-				 </td>
-<td style="text-align: center">
-				 </td>
-<td style="text-align: center">
-				 </td>
-<td style="text-align: center">
-				 </td>
-<td style="text-align: center">
-				 </td>
-<td style="text-align: center">
-				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
 </tr>
 <tr height="19">
-<td colspan="6" height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
+				 </td>
+<td style="text-align: center">
+				 </td>
+<td style="text-align: center">
+				 </td>
+<td style="text-align: center">
+				 </td>
+<td style="text-align: center">
+				 </td>
+<td style="text-align: center">
+				 </td>
+<td style="text-align: center">
+				 </td>
+<td style="text-align: center">
+				 </td>
+<td style="text-align: center">
+				 </td>
+<td style="text-align: center">
+				 </td>
+<td style="text-align: center">
+				 </td>
+<td style="text-align: center">
+				 </td>
+</tr>
+<tr height="19">
+<td colspan="6" height="19" style="height: 19px; text-align: center">
 				2008年中招重点中学录取分数线</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td colspan="5" style="text-align: center">
+<td colspan="5" style="text-align: center">
 				2007年中招重点中学录取分数线</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				学校</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				统招</td>
-<td style="text-align: center" u1:str="指标1 " x:str="指标1 ">
+<td style="text-align: center" u1:str="指标1 " x:str="指标1 ">
 				指标1 </td>
-<td style="text-align: center" u1:str="指标2 " x:str="指标2 ">
+<td style="text-align: center" u1:str="指标2 " x:str="指标2 ">
 				指标2 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				择校</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				招生数</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				学校</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				统招</td>
-<td style="text-align: center" u1:str="指标1 " x:str="指标1 ">
+<td style="text-align: center" u1:str="指标1 " x:str="指标1 ">
 				指标1 </td>
-<td style="text-align: center" u1:str="指标2 " x:str="指标2 ">
+<td style="text-align: center" u1:str="指标2 " x:str="指标2 ">
 				指标2 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				择校</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				1中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				594</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				560.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				585.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				578.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				450</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				1中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				577.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				554.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				562.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				556.5</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				8中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				606.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				575</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				593.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				587.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				500</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				8中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				587.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				556.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				574.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				563.5</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				11中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				557</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				526.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				550</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				548</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				500</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				11中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				537</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				510</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				529.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				528.5</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				12中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				574.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				543.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				561.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				567.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				450</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				12中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				557</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				525</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				537</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				536.5</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				20中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				579</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				548.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				566.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				558.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				400</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				20中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				562.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				531.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				552.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				549.5</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				23中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				584.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				563</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				564.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				566.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				600</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				23中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				566</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				541</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				552</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				543.5</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				24中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				616.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				585</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				602</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				595</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				500</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				24中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				598.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				565.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				579.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				560.5</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				48中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				574</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				545.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				565</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				559.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				400</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				48中</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				547</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				516.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				537.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				532</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				育明</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				611.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				578.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				584</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				580</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				600</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				育明</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				595</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				560.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				573.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				570</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				辽附</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				578</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				554</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				558</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				562</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				550</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				辽附</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				560.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				530</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				543.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				543</td>
 </tr>
 <tr height="19">
-<td height="19" style="height: 19px; text-align: center">
+<td height="19" style="height: 19px; text-align: center">
 				理工</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				565</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				540</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				569.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				556</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				350</td>
-<td style="text-align: center">
+<td style="text-align: center">
 				 </td>
-<td style="text-align: center">
+<td style="text-align: center">
 				理工</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				542</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				523</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				533.5</td>
-<td style="text-align: center" u1:num="" x:num="">
+<td style="text-align: center" u1:num="" x:num="">
 				536.5</td>
 </tr>
 </tbody>

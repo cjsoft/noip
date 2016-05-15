@@ -4,9 +4,9 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-      2008年5月26日，5月22日，校党总支向全体党员发出呼吁，以缴纳一次“特殊党费”的形式再次向灾区捐款，为灾区人民献爱心。全校共产党员积极响应，迅速行动，踊跃捐款，全校68名在职党员和7名退休教师党员缴纳“特殊党费”65550元。至此全校师生共为四川地震灾区捐款22.21万元。
-      
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+      2008年5月26日，5月22日，校党总支向全体党员发出呼吁，以缴纳一次“特殊党费”的形式再次向灾区捐款，为灾区人民献爱心。全校共产党员积极响应，迅速行动，踊跃捐款，全校68名在职党员和7名退休教师党员缴纳“特殊党费”65550元。至此全校师生共为四川地震灾区捐款22.21万元。
+      
       </td>
 </tr>
 </table>

@@ -16,493 +16,493 @@
 </colgroup>
 <tbody>
 <tr height="19">
-<td height="19" style="width: 39px; height: 19px">
+<td height="19" style="width: 39px; height: 19px">
 				序号</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				组别</td>
-<td style="width: 79px">
+<td style="width: 79px">
 				课题</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				授课人</td>
-<td style="width: 91px">
+<td style="width: 91px">
 				授课人简介</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				课程简介</td>
 </tr>
 <tr height="160">
-<td height="160" style="width: 39px; height: 160px" x:num="">
+<td height="160" style="width: 39px; height: 160px" x:num="">
 				1</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				语文</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				国学</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				耿英年</td>
-<td style="width: 91px">
+<td style="width: 91px">
 				高二语文老师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				近百年来，国学遇上了前所未有的危机，国学的地位由社会意识形态的巅峰迅速向下滑落，长期沉沦在遭否定、受针砭的尴尬境地。古语云“古之欲明明德而天下者，先治其国；欲治其国者，先齐其家；欲齐其家者，先修其身；欲修其身者，先正其心；欲正其心者，先诚其意；欲诚其意者，先致其知；致知在格物。”开设《国学》校本课程，旨在通过格物、致知以达到认知世界，诚意、正心、修身以实现完善人格，齐家、治国、平天下以敦促社会理想价值取向的目的。想通过“博学之、审问之、慎思之、明辨之、笃行之”这样一个完整的认知、思考、践行过程而实现人格的</td>
 </tr>
 <tr height="160">
-<td height="160" style="width: 39px; height: 160px" x:num="">
+<td height="160" style="width: 39px; height: 160px" x:num="">
 				2</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				语文</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				中国文化经典研究</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				刘艳华</td>
-<td style="width: 91px">
+<td style="width: 91px">
 				高二语文老师</td>
-<td>
+<td>
 				1．借助工具书、图书馆和互联网查找有关资料，了解论著作者情况、相关背景和论著中涉及的主要问题，排除阅读中遇到的障碍。在整体了解论著内容的基础上，细读教材提供的章节，有侧重地进行探究学习，把握论著的主要观点和基本倾向，了解用以支撑观点的关键材料。2．通过阅读中国古代文化经典，了解中国文化的发展与演进，体会其中蕴含的中华民族精神，为形成一定的传统文化底蕴奠定基础。3．学习从历史发展的角度理解古代文化经典，理解古人的现实处境，从中汲取人生智慧；学会以现代观念审视古代文化作品，评价其积极意义与历史局限，从中寻找现</td>
 </tr>
 <tr height="128">
-<td height="128" style="width: 39px; height: 128px" x:num="">
+<td height="128" style="width: 39px; height: 128px" x:num="">
 				3</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				语文</td>
-<td>
+<td>
 				汉语的词汇</td>
-<td>
+<td>
 				韩煜韬</td>
-<td>
+<td>
 				高一语文老师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				第六版《现代汉语词典》的出版，在我国社会引起了不小的反响，关于收录“宅男、宅女”、“剩男、剩女”等带有消极色彩的新兴词语，以及收录了“NBA、KTV”等西文字母词语等等作法，受到了不小的争议。我们暂且搁置这些，透过争议来看，国家和大众都日益重视汉语词汇的规范与发展已成为不争的事实，在中国国国际地位日益提高，汉语的国际影响力日益增强的大背景下，加强对本国公民尤其是青少年的汉语知识的教育以及汉语能力的培养就显得尤为重要了。</td>
 </tr>
 <tr height="80">
-<td height="80" style="width: 39px; height: 80px" x:num="">
+<td height="80" style="width: 39px; height: 80px" x:num="">
 				4</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				语文</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				当代台湾文学</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				宋  涛</td>
-<td style="width: 91px">
+<td style="width: 91px">
 				高三语文老师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				当代台湾文学始终贯穿着对抗强权、文化坚守、民族回归的文学精神,并成就了无以数计的优秀作家和作品,由此而极大地丰富了“一个中国”的文学历史。从台湾文学创作、文学现象中，了解当代台湾文学几十年的发展，解读其风格与精神，探究台湾文学的独特性与殊异性。</td>
 </tr>
 <tr height="96">
-<td height="96" style="width: 39px; height: 96px" x:num="">
+<td height="96" style="width: 39px; height: 96px" x:num="">
 				5</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				数学</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				数学史和数学文化漫谈</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				刘桂娟</td>
-<td style="width: 91px">
+<td style="width: 91px">
 				高二数学教师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				普通高中《数学课程标准》要求，通过在高中阶段数学文化，数学史的学习，学生将初步了解数学科学与人类社会发展之间的相互作用，体会数学的科学价值，应用价值，人文价值，开阔视野，寻求数学进步的历史轨迹，激发对于数学创新原动力的认识，受到优秀文化的熏陶，领会数学的美学价值，从而提高自身的文化素养和创新意识。</td>
 </tr>
 <tr height="64">
-<td height="64" style="width: 39px; height: 64px" x:num="">
+<td height="64" style="width: 39px; height: 64px" x:num="">
 				6</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				数学</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				数学分析</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				商广东</td>
-<td style="width: 91px">
+<td style="width: 91px">
 				高一数学老师</td>
-<td>
+<td>
 				《数学分析》可作为高等院校数学系攻读数学、应用数学、计算数学的本科生数学分析课程的教材或教学参考书，也可作为需要把数学当做重要工具的同学（例如攻读物理的同学）的教学参考书。</td>
 </tr>
 <tr height="128">
-<td height="128" style="width: 39px; height: 128px" x:num="">
+<td height="128" style="width: 39px; height: 128px" x:num="">
 				7</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				数学</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				数学与哲学</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				邰海峰 赵  炎</td>
-<td style="width: 91px">
+<td style="width: 91px">
 				高一数学老师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				数学和哲学中有相互渗透包容的地方，有些哲学，是可以通过数来解释。数学影响哲学，更大一些。数学的影响力越来越大，而哲学的影响力越来越小。哲学，在某种意义上是望远镜。当旅行者到达一个地方时，他不再用望远镜观察这个地方了，而是把它用于观察前方。数学则相反，它是最容易进入成熟的科学，获得了足够丰富事实的科学，能够提出规律性的假设的科学。它好像是显微镜，只有把对象拿到手中，甚至切成薄片，经过处理，才能用显微镜观察它。</td>
 </tr>
 <tr height="48">
-<td height="48" style="width: 39px; height: 48px" x:num="">
+<td height="48" style="width: 39px; height: 48px" x:num="">
 				8</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				数学</td>
-<td>
+<td>
 				数学思维</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				卢  静</td>
-<td style="width: 91px">
+<td style="width: 91px">
 				高二数学老师</td>
-<td>
+<td>
 				数学问题千变万化，要想既快又准的解题，总用一套固定的方案是行不通的，必须具有思维的多样性——善于根据题设的相关知识，提出灵活的设想和解题方案。</td>
 </tr>
 <tr height="32">
-<td height="32" style="width: 39px; height: 32px" x:num="">
+<td height="32" style="width: 39px; height: 32px" x:num="">
 				9</td>
-<td>
+<td>
 				数学</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				数学特别方法</td>
-<td>
+<td>
 				那绍周</td>
-<td>
+<td>
 				高二数学老师</td>
-<td>
+<td>
 				高中数学中特别元素与特别方法应用举例</td>
 </tr>
 <tr height="66">
-<td height="66" style="width: 39px; height: 66px" x:num="">
+<td height="66" style="width: 39px; height: 66px" x:num="">
 				10</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				数学</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				函数功能在图表中的应用</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				于学杰</td>
-<td style="width: 91px">
+<td style="width: 91px">
 				高一数学老师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				我们在使用Excel制作表格整理数据的时候，常常要用到它的函数功能来自动统计处理表格中的数据。本课旨在学会在Excel中使用频率最高的函数的功能、使用方法，以及这些函数在实际应用中的实例剖析。</td>
 </tr>
 <tr height="64">
-<td height="64" style="width: 39px; height: 64px" x:num="">
+<td height="64" style="width: 39px; height: 64px" x:num="">
 				11</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				数学</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				高中数学背景下的压轴题</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				王绍勇</td>
-<td style="width: 91px">
+<td style="width: 91px">
 				高一数学教师</td>
-<td>
+<td>
 				一、 利用洛比达法则求极限二、 利用拉格朗日中值定理解决斜率问题三、 利用二阶导数研究函数凸凹性四、 利用偏峰函数解决对称问题五、 利用导数的几何意义解决切线问题六、 利用图形解决含参数不等式</td>
 </tr>
 <tr height="80">
-<td height="80" style="width: 39px; height: 80px" x:num="">
+<td height="80" style="width: 39px; height: 80px" x:num="">
 				12</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				数学</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				数学美学</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				庄  杰   沙绿洲</td>
-<td style="width: 91px">
+<td style="width: 91px">
 				高二数学老师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				从学科分类来看，数学是理论自然科学中的重要分支——素有“科学之王”之美誉；从数学的起源来看，她是对客观事物的一种量的抽象——从客观存在的有限性演变为认识领域的无限性；从人文环境来看，数学有着无与伦比的美学情趣——古希腊有一句名言：“哪里有数，哪里就有美”。</td>
 </tr>
 <tr height="120">
-<td height="120" style="width: 39px; height: 120px" x:num="">
+<td height="120" style="width: 39px; height: 120px" x:num="">
 				13</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				英语</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				英美国家民俗欣赏</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				李季</td>
-<td style="width: 91px">
+<td style="width: 91px">
 				高一英语教师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				 通过这门课程的学习，学生可以（1） 提高对英美国家的人情风俗，文化历史背景和思维方式的认识；（2） 增强对西方文学作品的理解和提高对英语中一些不同与汉语的语言现象的认识；（3） 掌握西方人着装，社交和用餐等各方面的礼仪；（4） 掌握习语深层的意思和它的背景故事，并学会运用习语；（5） 了解西方民俗音乐，陶冶情操。（6） 能够运用地道的英语表达和肢体语言更好地与西方人士交流。</td>
 </tr>
 <tr height="32">
-<td height="32" style="width: 39px; height: 32px" x:num="">
+<td height="32" style="width: 39px; height: 32px" x:num="">
 				14</td>
-<td>
+<td>
 				英语</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				TED演讲欣赏</td>
-<td>
+<td>
 				林琳</td>
-<td>
+<td>
 				高一英语教师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				通过对TED演讲的欣赏，了解世界上关于科技，娱乐，设计等方面的先进思想，扩展学生的视野。</td>
 </tr>
 <tr height="96">
-<td height="96" style="width: 39px; height: 96px" x:num="">
+<td height="96" style="width: 39px; height: 96px" x:num="">
 				15</td>
-<td>
+<td>
 				英语</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				英语文化-英语国家概况</td>
-<td>
+<td>
 				范  华</td>
-<td>
+<td>
 				高一英语教师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				我们利用校本课程，以多种多样的节目形式，进行英语文化背景知识的介绍，以帮助学生增加对以英语为母语的国家的了解，增强对文化差异的敏感性，培养跨文化交际意识。对“交际文化”的了解，则能增强学生对文化差异的敏感性，培养他们跨文化交际意识，了解话题中所隐含的“交际文化”显性化。</td>
 </tr>
 <tr height="80">
-<td height="80" style="width: 39px; height: 80px" x:num="">
+<td height="80" style="width: 39px; height: 80px" x:num="">
 				16</td>
-<td>
+<td>
 				英语</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				影视作品欣赏</td>
-<td>
+<td>
 				曹  萌</td>
-<td>
+<td>
 				高二英语教师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				本课程主要介绍电影的发展史，电影的流派，影视创作基础知识，摄影创作基础知识等；并通过对在世界上享有较高声誉及具有较高艺术水平的几部影片的赏析，使学生对影视这门艺术知识有初步的了解，进一步的提高对影视的欣赏能力。</td>
 </tr>
 <tr height="99">
-<td height="99" style="width: 39px; height: 99px" x:num="">
+<td height="99" style="width: 39px; height: 99px" x:num="">
 				17</td>
-<td>
+<td>
 				英语</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				英语视听、听说</td>
-<td>
+<td>
 				穆  莹</td>
-<td>
+<td>
 				高二英语教师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				以《高中英语教学大纲》为指导，以全面贯彻落实课改精神为宗旨，开展英语视听、听说课程，对学生教授英语知识的同时提高学生的英语听说能力。1．通过教学，让学生掌握英语知识；2．通过教学，激发学生对英语学习的兴趣；3．通过教学，培养学生英语听说能力；4．通过教学，提高学生对英文影视的鉴赏能力；</td>
 </tr>
 <tr height="96">
-<td height="96" style="width: 39px; height: 96px" x:num="">
+<td height="96" style="width: 39px; height: 96px" x:num="">
 				18</td>
-<td>
+<td>
 				英语</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				英语演讲技巧</td>
-<td>
+<td>
 				韩  洋</td>
-<td>
+<td>
 				高一英语教师</td>
-<td style="width: 355px" x:str="本课程旨在使学生学会成功演讲的技巧，及演讲稿的写作方法，学会利用现代技术进行演讲，及不同类型的演讲风格及要求，从理论上与实践上提高学生在公共场合的英语演讲能力，使他们能够富有逻辑地、艺术性地、策略性地、感人地、幽默地、流利地表达清楚自己的观点，成功地感染和说服听众。 ">
+<td style="width: 355px" x:str="本课程旨在使学生学会成功演讲的技巧，及演讲稿的写作方法，学会利用现代技术进行演讲，及不同类型的演讲风格及要求，从理论上与实践上提高学生在公共场合的英语演讲能力，使他们能够富有逻辑地、艺术性地、策略性地、感人地、幽默地、流利地表达清楚自己的观点，成功地感染和说服听众。 ">
 				本课程旨在使学生学会成功演讲的技巧，及演讲稿的写作方法，学会利用现代技术进行演讲，及不同类型的演讲风格及要求，从理论上与实践上提高学生在公共场合的英语演讲能力，使他们能够富有逻辑地、艺术性地、策略性地、感人地、幽默地、流利地表达清楚自己的观点，成功地感染和说服听众。 </td>
 </tr>
 <tr height="115">
-<td height="115" style="width: 39px; height: 115px" x:num="">
+<td height="115" style="width: 39px; height: 115px" x:num="">
 				19</td>
-<td>
+<td>
 				英语</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				美文美句赏析及翻译</td>
-<td>
+<td>
 				姜秋莲</td>
-<td>
+<td>
 				高一英语教师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				以《高中英语教学大纲》为指导，以全面贯彻落实课改精神为宗旨，开设《美文美句赏析及翻译》的课程，引导学生理解英语美文的用词，提高学生英语阅读及鉴赏能力，促进英语水平的整体提高。1．通过教学，让学生掌握一定的英语词汇及语法知识；2．通过教学，激发学生对英语学习的兴趣；3．通过教学，培养学生英语阅读能力；4．通过教学，提高学生对英文佳句的鉴赏能力；</td>
 </tr>
 <tr height="99">
-<td height="99" style="width: 39px; height: 99px" x:num="">
+<td height="99" style="width: 39px; height: 99px" x:num="">
 				20</td>
-<td>
+<td>
 				英语</td>
-<td>
+<td>
 				英语词汇学</td>
-<td>
+<td>
 				唐丽丽</td>
-<td>
+<td>
 				高二英语教师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				以《高中英语教学大纲》为指导，以全面贯彻落实课改精神为宗旨，开展英语词汇学课程，对学生教授英语词汇运用的同时提高学生的词汇量。1．通过教学，让学生掌握构词法；2．通过教学，激发学生对英语学习的兴趣；3．通过教学，培养学生词汇运用能力；4．通过教学，提高学生对词汇量的掌握能力；</td>
 </tr>
 <tr height="80">
-<td height="80" style="width: 39px; height: 80px" x:num="">
+<td height="80" style="width: 39px; height: 80px" x:num="">
 				21</td>
-<td>
+<td>
 				英语</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				《老友记》中的美国文化</td>
-<td>
+<td>
 				田长岩</td>
-<td>
+<td>
 				高二英语教师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				本课程主要围绕经典美剧《老友记》（或《六人行》）进行，根据一定的教学需要，通过对影片的剪辑，并充分利用网络资源、多媒体等教学手段，从提高学生学习英语的兴趣入手，从而达到提高英语听说能力的目标，同时更好地了解美国文化、生活、民俗，从而开阔视野，提高鉴赏能力。</td>
 </tr>
 <tr height="33">
-<td height="33" style="width: 39px; height: 33px" x:num="">
+<td height="33" style="width: 39px; height: 33px" x:num="">
 				22</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				地理</td>
-<td>
+<td>
 				美食厨房---烘焙</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				于伟奇</td>
-<td style="width: 91px">
+<td style="width: 91px">
 				高二地理教师</td>
-<td>
+<td>
 				　</td>
 </tr>
 <tr height="80">
-<td height="80" style="width: 39px; height: 80px" x:num="">
+<td height="80" style="width: 39px; height: 80px" x:num="">
 				23</td>
-<td>
+<td>
 				历史</td>
-<td>
+<td>
 				中国服装史</td>
-<td>
+<td>
 				孙玉萍</td>
-<td>
+<td>
 				高一历史教师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				对于中国服装发展史来说，1949年，即中华人民共和国的成立，标志着它走入一个崭新的历史时期。这是一个以工人阶级为领导以工农联盟为基础的人民民主专政国家，所以从开国伊始，即与封建主义和资本主义划清界限，注意批判资产阶级生活方式，这自然会涉及服装以及着装方式。</td>
 </tr>
 <tr height="19">
-<td height="19" style="width: 39px; height: 19px" x:num="">
+<td height="19" style="width: 39px; height: 19px" x:num="">
 				24</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				历史</td>
-<td>
+<td>
 				史学概论</td>
-<td>
+<td>
 				缑艳君</td>
-<td>
+<td>
 				高一历史教师</td>
-<td>
+<td>
 				　</td>
 </tr>
 <tr height="32">
-<td height="32" style="width: 39px; height: 32px" x:num="">
+<td height="32" style="width: 39px; height: 32px" x:num="">
 				25</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				历史</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				服装的审美与流行</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				张  坪</td>
-<td style="width: 91px" x:str="高二历史教师 ">
+<td style="width: 91px" x:str="高二历史教师 ">
 				高二历史教师 </td>
-<td>
+<td>
 				　</td>
 </tr>
 <tr height="160">
-<td height="160" style="width: 39px; height: 160px" x:num="">
+<td height="160" style="width: 39px; height: 160px" x:num="">
 				26</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				政治</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				高中法制教育</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				乔  涛</td>
-<td style="width: 91px">
+<td style="width: 91px">
 				高二政治教师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				　　近年来，在检察机关办理的犯罪案件中，有不少是青少年，也有不少就是中学生，他们之所以会走上犯罪道路，就在于他们没有树立正确的人生观、价值观，充满义气、暴力等不该有的思想，发生纠纷以后不是通过正当途径来解决问题，而是通过武力等手段，最终导致双方聚集多人在一起相互斗殴，有的进行寻衅滋事，有的为了个人享乐进行盗窃、抢劫等犯罪，从而严重侵犯了社会管理秩序、败坏校园风气，他们的行为在给社会、给他人造成损害的同时，也使自己和家庭付出了极其惨痛的代价。纵观他们犯罪的过程，主要是人际交往过程发生毛病，因此，就中学生人际</td>
 </tr>
 <tr height="112">
-<td height="112" style="width: 39px; height: 112px" x:num="">
+<td height="112" style="width: 39px; height: 112px" x:num="">
 				27</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				政治</td>
-<td>
+<td>
 				礼仪教育</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				黄  彬</td>
-<td style="width: 91px">
+<td style="width: 91px">
 				高一政治老师</td>
-<td>
+<td>
 				校园礼仪：了解、掌握并使用校园礼仪，同学之间能够以礼相待、团结协作，建立融洽的师生关系，形成良好的校风校貌。家庭礼仪：了解、掌握并使用家庭礼仪，家庭成员和睦相处，享受温磬的家庭生活。社会礼仪：了解、掌握并使用社会礼仪，让学生更好地融入社会生活中，处处受到欢迎，得到尊重，使他们的社会生活充满快乐，培养积极健康的人生态度。</td>
 </tr>
 <tr height="64">
-<td height="64" style="width: 39px; height: 64px" x:num="">
+<td height="64" style="width: 39px; height: 64px" x:num="">
 				28</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				政治</td>
-<td>
+<td>
 				中西方哲学比较研究</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				卞丽萍</td>
-<td style="width: 91px">
+<td style="width: 91px">
 				高一政治教师</td>
-<td>
+<td>
 				我感觉,选修课要让同学们上得轻松愉快,同时又能学会点儿政治知识.这门课选取中西方哲学的名家的思维精华，是对中华传统文化的继承，同时希望大家从中外哲学家的理论中吸取有益成果，指导我们的学习、生活。</td>
 </tr>
 <tr height="48">
-<td height="48" style="width: 39px; height: 48px" x:num="">
+<td height="48" style="width: 39px; height: 48px" x:num="">
 				29</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				政治</td>
-<td>
+<td>
 				国家与国际组织</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				苏铁梅</td>
-<td style="width: 91px">
+<td style="width: 91px">
 				高二政治教师</td>
-<td>
+<td>
 				本课将介绍国家与国际组织的一些基本原理，增加学生对政治常识的了解，同时提升对国际社会政治现象的分析与辨别力。</td>
 </tr>
 <tr height="64">
-<td height="64" style="width: 39px; height: 64px" x:num="">
+<td height="64" style="width: 39px; height: 64px" x:num="">
 				30</td>
-<td>
+<td>
 				政治</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				中国特色社会主义理论教育</td>
-<td>
+<td>
 				朱玉红</td>
-<td>
+<td>
 				高二政治教师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				本课将系统的讲解中国特色社会主义理论，包括经济理论，政治理论，文化理论等，对于社会主义理论爱好者来说是一次不可错过的机会，也将会为您的终生奠定良好的思想政治基础。</td>
 </tr>
 <tr height="112">
-<td height="112" style="width: 39px; height: 112px" x:num="">
+<td height="112" style="width: 39px; height: 112px" x:num="">
 				31</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				化学</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				趣味化学实验</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				 </td>
-<td style="width: 91px">
+<td style="width: 91px">
 				高二化学教师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				　　　通过本课程的实施，能让每个学生根据不同发展需要，让学生经历探究过程，参与观察、思考、讨论，时刻让他们保留成功的欲望，享受成功的乐趣，以获得理解能力和深层次的情感体验，激发学生学习化学的浓厚兴趣，培养学生的创新精神和实践能力，帮助学生认识化学与人类生活的密切关系，关注人类面临的化学问题，培养学生的社会责任感和参与意识。</td>
 </tr>
 <tr height="112">
-<td height="112" style="width: 39px; height: 112px" x:num="">
+<td height="112" style="width: 39px; height: 112px" x:num="">
 				32</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				物理</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				物理学和哲学</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				张玉玲</td>
-<td style="width: 91px">
+<td style="width: 91px">
 				高二物理教师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				量子论与相对论的探究——当人们谈到现代物理学时，首先就想到原子武器。人人都认识到这些武器对现代世界政治结构的巨大影响，并且都心悦诚服地承认物理学对一般政治形势的影响比以往任何时期都要大。但是，现代物理学的政治方面真的是它的最重要的方面吗? 当世界上的政治结构已变得适应于新技术的种种可能性时，现代物理学还将留下什么影响呢？</td>
 </tr>
 <tr height="96">
-<td height="96" style="width: 39px; height: 96px" x:num="">
+<td height="96" style="width: 39px; height: 96px" x:num="">
 				33</td>
-<td style="width: 39px">
+<td style="width: 39px">
 				物理</td>
-<td>
+<td>
 				节肢动物观察与研究</td>
-<td style="width: 71px">
+<td style="width: 71px">
 				赵东风</td>
-<td style="width: 91px">
+<td style="width: 91px">
 				高二物理教师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				节肢动物门是动物界中最大的类别，包括一百多万种无脊椎动物，几乎占全部动物种数的84%。已记述879,000种以上，其中约86%是昆虫。对环境的适应力特强,生存地方包括海水、淡水、高山、空气、土壤,甚至是动物及植物的体内。下面是随便选举的几个节肢动物代表，分别属于昆虫纲、甲壳纲、蛛形纲、多足纲（七个纲里的四个）。</td>
 </tr>
 <tr height="96">
-<td height="96" style="width: 39px; height: 96px" x:num="">
+<td height="96" style="width: 39px; height: 96px" x:num="">
 				34</td>
-<td>
+<td>
 				物理</td>
-<td style="width: 77px">
+<td style="width: 77px">
 				历史上的物理学家</td>
-<td>
+<td>
 				繆向丽</td>
-<td>
+<td>
 				高二物理教师</td>
-<td style="width: 355px">
+<td style="width: 355px">
 				以哥白尼、伽利略、牛顿和爱因斯坦的贡献为主线，来描述自然科学的重大成就和重要思想。通过了解这些物理学家的生平、科学成就、逸闻趣事以及各学派间的争端和尚未解开的物理课题来激发学生学习物理的兴趣，让学生从中学习到物理学家严谨的科学态度和科学的思维方法，不断提高自身科学素质。</td>
 </tr>
 </tbody>

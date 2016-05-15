@@ -14,233 +14,233 @@
 </colgroup>
 <tbody>
 <tr height="30">
-<td height="30" style="height: 30px; width: 72px">
+<td height="30" style="height: 30px; width: 72px">
 				序号</td>
-<td style="width: 72px">
+<td style="width: 72px">
 				姓  名</td>
-<td style="width: 72px">
+<td style="width: 72px">
 				性别</td>
-<td style="width: 216px">
+<td style="width: 216px">
 				毕业学校</td>
-<td style="width: 149px">
+<td style="width: 149px">
 				特长项目</td>
-<td style="width: 189px">
+<td style="width: 189px">
 				中考流水号</td>
 </tr>
 <tr height="30">
-<td height="30" style="height: 30px">
+<td height="30" style="height: 30px">
 				1</td>
-<td>
+<td>
 				于镇浩</td>
-<td>
+<td>
 				男</td>
-<td>
+<td>
 				大连九中</td>
-<td>
+<td>
 				二胡</td>
-<td>
+<td>
 				150202090414</td>
 </tr>
 <tr height="30">
-<td height="30" style="height: 30px">
+<td height="30" style="height: 30px">
 				2</td>
-<td>
+<td>
 				丁宇飞</td>
-<td>
+<td>
 				男</td>
-<td>
+<td>
 				大连瑞格学校</td>
-<td>
+<td>
 				二胡</td>
-<td>
+<td>
 				150202110720</td>
 </tr>
 <tr height="30">
-<td height="30" style="height: 30px">
+<td height="30" style="height: 30px">
 				3</td>
-<td>
+<td>
 				郭楚滢</td>
-<td>
+<td>
 				女</td>
-<td>
+<td>
 				大连市第三十七中学</td>
-<td>
+<td>
 				琵琶</td>
-<td>
+<td>
 				150203370127</td>
 </tr>
 <tr height="30">
-<td height="30" style="height: 30px">
+<td height="30" style="height: 30px">
 				4</td>
-<td>
+<td>
 				张聪苓</td>
-<td>
+<td>
 				女</td>
-<td>
+<td>
 				大连八十中</td>
-<td>
+<td>
 				中阮</td>
-<td>
+<td>
 				150211800135</td>
 </tr>
 <tr height="30">
-<td height="30" style="height: 30px">
+<td height="30" style="height: 30px">
 				5</td>
-<td>
+<td>
 				冯雨晨</td>
-<td>
+<td>
 				女</td>
-<td>
+<td>
 				大连九中</td>
-<td>
+<td>
 				笙</td>
-<td>
+<td>
 				150202090139</td>
 </tr>
 <tr height="30">
-<td height="30" style="height: 30px">
+<td height="30" style="height: 30px">
 				6</td>
-<td>
+<td>
 				原浩洋</td>
-<td>
+<td>
 				男</td>
-<td>
+<td>
 				大连二十一中</td>
-<td>
+<td>
 				笙</td>
-<td>
+<td>
 				150204210528</td>
 </tr>
 <tr height="30">
-<td height="30" style="height: 30px">
+<td height="30" style="height: 30px">
 				7</td>
-<td>
+<td>
 				董长宇</td>
-<td>
+<td>
 				男</td>
-<td>
+<td>
 				大连格致中学</td>
-<td>
+<td>
 				竹笛</td>
-<td>
+<td>
 				150204550746</td>
 </tr>
 <tr height="30">
-<td height="30" style="height: 30px">
+<td height="30" style="height: 30px">
 				8</td>
-<td>
+<td>
 				陈婧宇</td>
-<td>
+<td>
 				女</td>
-<td>
+<td>
 				大连五十中学</td>
-<td>
+<td>
 				扬琴</td>
-<td>
+<td>
 				150204500324</td>
 </tr>
 <tr height="30">
-<td height="30" style="height: 30px">
+<td height="30" style="height: 30px">
 				9</td>
-<td>
+<td>
 				孙康烜</td>
-<td>
+<td>
 				男</td>
-<td>
+<td>
 				大连市第三十四中学</td>
-<td>
+<td>
 				大提琴</td>
-<td>
+<td>
 				150203340522</td>
 </tr>
 <tr height="30">
-<td height="30" style="height: 30px">
+<td height="30" style="height: 30px">
 				10</td>
-<td>
+<td>
 				张爱辰</td>
-<td>
+<td>
 				女</td>
-<td>
+<td>
 				大连七十九中</td>
-<td>
+<td>
 				低音提琴</td>
-<td>
+<td>
 				150204791008</td>
 </tr>
 <tr height="30">
-<td height="30" style="height: 30px">
+<td height="30" style="height: 30px">
 				11</td>
-<td>
+<td>
 				王俣涵</td>
-<td>
+<td>
 				男</td>
-<td>
+<td>
 				大连汇文学校</td>
-<td>
+<td>
 				打击乐</td>
-<td>
+<td>
 				150211600513</td>
 </tr>
 <tr height="30">
-<td height="30" style="height: 30px">
+<td height="30" style="height: 30px">
 				12</td>
-<td>
+<td>
 				喻飞鸿</td>
-<td>
+<td>
 				女</td>
-<td>
+<td>
 				大连市高新区第一中学</td>
-<td>
+<td>
 				声乐</td>
-<td>
+<td>
 				150216060427</td>
 </tr>
 <tr height="30">
-<td height="30" style="height: 30px">
+<td height="30" style="height: 30px">
 				13</td>
-<td>
+<td>
 				刘懿莹</td>
-<td>
+<td>
 				女</td>
-<td>
+<td>
 				育文中学</td>
-<td>
+<td>
 				声乐</td>
-<td>
+<td>
 				150211960326</td>
 </tr>
 <tr height="30">
-<td height="30" style="height: 30px">
+<td height="30" style="height: 30px">
 				14</td>
-<td>
+<td>
 				李铁晨</td>
-<td>
+<td>
 				女</td>
-<td>
+<td>
 				大连嘉汇学校</td>
-<td>
+<td>
 				舞蹈</td>
-<td>
+<td>
 				150202100132</td>
 </tr>
 <tr height="30">
-<td height="30" style="height: 30px">
+<td height="30" style="height: 30px">
 				15</td>
-<td>
+<td>
 				李熠宁</td>
-<td>
+<td>
 				女</td>
-<td>
+<td>
 				大连格致中学</td>
-<td>
+<td>
 				舞蹈</td>
-<td>
+<td>
 				150204550419</td>
 </tr>
 </tbody>
 </table>
-<div style="text-align: right">
-	大连市第二十四中学<br/>
+<div style="text-align: right">
+	大连市第二十四中学<br/>
 	2015年6月1日</div>
 </td>
 </tr>

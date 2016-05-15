@@ -4,8 +4,8 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-            国际部学术校长泰勒先生于1月16日第一节课召集学生举行英国利兹大学UKMT数学竞赛颁奖仪式。国际部有35位学生获得金奖，15位学生获得银奖，20位学生获得铜奖。
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+            国际部学术校长泰勒先生于1月16日第一节课召集学生举行英国利兹大学UKMT数学竞赛颁奖仪式。国际部有35位学生获得金奖，15位学生获得银奖，20位学生获得铜奖。
 <div style="text-align: center">
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140117/1-14011G13U3607.jpg" style="width: 700px; height: 525px"http://www.dlhs24.com.cn/></div>
 <div style="text-align: center">
@@ -13,7 +13,7 @@
 <div style="text-align: center">
 <img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140117/1-14011G13922F6.jpg" style="width: 700px; height: 525px"http://www.dlhs24.com.cn/></div>
 <div style="text-align: center">
-<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140117/1-14011G139324c.jpg" style="width: 500px; height: 667px"http://www.dlhs24.com.cn/><br/>
+<img alt="" src="http://www.dlhs24.com.cn/uploads/allimg/140117/1-14011G139324c.jpg" style="width: 500px; height: 667px"http://www.dlhs24.com.cn/><br/>
 	 </div>
 </td>
 </tr>

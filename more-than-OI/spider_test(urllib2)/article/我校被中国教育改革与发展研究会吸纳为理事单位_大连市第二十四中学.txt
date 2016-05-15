@@ -4,9 +4,9 @@
 
 <table width="100%">
 <tr>
-<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
-      我校被中国教育改革与发展研究会吸纳为理事单位。
-      
+<td><div id="contentMidPicAD" style="float:right; clear:both; top:0; vertical-align:top;"></div>
+      我校被中国教育改革与发展研究会吸纳为理事单位。
+      
       </td>
 </tr>
 </table>

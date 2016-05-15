@@ -26,381 +26,381 @@
 <strong>获奖等级</strong></td>
 </tr>
 <tr height="25">
-<td height="200" rowspan="8" style="height: 200px">
+<td height="200" rowspan="8" style="height: 200px">
 				国家级</td>
-<td>
+<td>
 				优质课</td>
-<td>
+<td>
 				物理</td>
-<td>
+<td>
 				赵东峰</td>
-<td>
+<td>
 				《双缝干涉》</td>
-<td>
+<td>
 				国家一等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				优质课</td>
-<td>
+<td>
 				地理</td>
-<td>
+<td>
 				彭喜治</td>
-<td>
+<td>
 				《产业转移》</td>
-<td>
+<td>
 				国家一等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				课件制作</td>
-<td>
+<td>
 				物理</td>
-<td>
+<td>
 				赵东峰</td>
-<td>
+<td>
 				《双缝干涉》</td>
-<td>
+<td>
 				国家唯一特等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				论文评比</td>
-<td>
+<td>
 				数学</td>
-<td>
+<td>
 				张军</td>
-<td>
+<td>
 				《一道课本例题在高考中的应用》</td>
-<td>
+<td>
 				国家一等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				论文评比</td>
-<td>
+<td>
 				数学</td>
-<td>
+<td>
 				张宁</td>
-<td>
+<td>
 				《如何读懂向量语言》</td>
-<td>
+<td>
 				国家一等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				论文评比</td>
-<td>
+<td>
 				物理</td>
-<td>
+<td>
 				张玉玲</td>
-<td>
+<td>
 				《电阻的测量》</td>
-<td>
+<td>
 				国家一等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				论文评比</td>
-<td>
+<td>
 				语文</td>
-<td>
+<td>
 				刘定珊</td>
-<td>
+<td>
 				《语文课堂的高效教学模式探究》</td>
-<td>
+<td>
 				国家二等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				论文评比</td>
-<td>
+<td>
 				政治</td>
-<td>
+<td>
 				黄启成</td>
-<td>
+<td>
 				《科技创新特色教育建设的研究》</td>
-<td>
+<td>
 				国家二等奖</td>
 </tr>
 <tr height="25">
-<td height="325" rowspan="13" style="height: 325px">
+<td height="325" rowspan="13" style="height: 325px">
 				省级</td>
-<td>
+<td>
 				优质课</td>
-<td>
+<td>
 				数学</td>
-<td>
+<td>
 				王辉</td>
-<td>
+<td>
 				《解三角形》</td>
-<td>
+<td>
 				省一等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				优质课</td>
-<td>
+<td>
 				语文</td>
-<td>
+<td>
 				柳金红</td>
-<td>
+<td>
 				《高三古典诗歌鉴赏》</td>
-<td>
+<td>
 				省一等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				优质课</td>
-<td>
+<td>
 				英语</td>
-<td>
+<td>
 				姜秋莲</td>
-<td>
+<td>
 				《 Reading&amp;Writing》</td>
-<td>
+<td>
 				省一等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				优质课</td>
-<td>
+<td>
 				化学</td>
-<td>
+<td>
 				刘艳</td>
-<td>
+<td>
 				《化学平衡常数的计算》</td>
-<td>
+<td>
 				省协作校一等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				优质课</td>
-<td>
+<td>
 				物理</td>
-<td>
+<td>
 				杨雨平</td>
-<td>
+<td>
 				《临界问题》</td>
-<td>
+<td>
 				省协作校一等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				优质课</td>
-<td>
+<td>
 				语文</td>
-<td>
+<td>
 				陈立钧</td>
-<td>
+<td>
 				《兰亭集序》</td>
-<td>
+<td>
 				省协作校特等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				课件制作</td>
-<td>
+<td>
 				生物</td>
-<td>
+<td>
 				韩志萍</td>
-<td>
+<td>
 				《植物体细胞杂交》</td>
-<td>
+<td>
 				省优秀奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				课件制作</td>
-<td>
+<td>
 				生物</td>
-<td>
+<td>
 				秦峰梅</td>
-<td>
+<td>
 				《基因突变及其他变异》</td>
-<td>
+<td>
 				省优秀奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				课件制作</td>
-<td>
+<td>
 				生物</td>
-<td>
+<td>
 				刘恒</td>
-<td>
+<td>
 				《生殖的类型》</td>
-<td>
+<td>
 				省优秀奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				课件制作</td>
-<td>
+<td>
 				生物</td>
-<td>
+<td>
 				厐巍</td>
-<td>
+<td>
 				《生态系统的信息传递》</td>
-<td>
+<td>
 				省优秀奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				论文评比</td>
-<td>
+<td>
 				数学</td>
-<td>
+<td>
 				庄杰</td>
-<td>
+<td>
 				《立体几何中易混易错诊断及归类解析》</td>
-<td>
+<td>
 				东三省一等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				论文评比</td>
-<td>
+<td>
 				语文</td>
-<td>
+<td>
 				董媛</td>
-<td>
+<td>
 				《功利与对话之教学反思》</td>
-<td>
+<td>
 				省一等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				论文评比</td>
-<td>
+<td>
 				化学</td>
-<td>
+<td>
 				杨春英</td>
-<td>
+<td>
 				《批评教育的必要性和艺术性》</td>
-<td>
+<td>
 				省协作校一等奖</td>
 </tr>
 <tr height="25">
-<td height="225" rowspan="9" style="height: 225px">
+<td height="225" rowspan="9" style="height: 225px">
 				市级</td>
-<td>
+<td>
 				优质课</td>
-<td>
+<td>
 				语文</td>
-<td>
+<td>
 				宋涛</td>
-<td>
+<td>
 				《囚绿记》</td>
-<td>
+<td>
 				市一等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				优质课</td>
-<td>
+<td>
 				物理</td>
-<td>
+<td>
 				程实</td>
-<td>
+<td>
 				《力的合成》</td>
-<td>
+<td>
 				市二等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				教学基本功</td>
-<td>
+<td>
 				物理</td>
-<td>
+<td>
 				佟魁星</td>
-<td>
+<td>
 				　</td>
-<td>
+<td>
 				市二等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				教学基本功</td>
-<td>
+<td>
 				地理</td>
-<td>
+<td>
 				刘驰罡</td>
-<td>
+<td>
 				　</td>
-<td>
+<td>
 				市一等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				教具制作</td>
-<td>
+<td>
 				物理</td>
-<td>
+<td>
 				孙宇光</td>
-<td>
+<td>
 				弹性势能演示仪</td>
-<td>
+<td>
 				大连市优秀奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				论文评比</td>
-<td>
+<td>
 				生物</td>
-<td>
+<td>
 				刘恒</td>
-<td>
+<td>
 				《新形势下如何开展生物学竞赛辅导》</td>
-<td>
+<td>
 				市一等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				论文评比</td>
-<td>
+<td>
 				生物</td>
-<td>
+<td>
 				韩志萍</td>
-<td>
+<td>
 				《浅谈概念图在生物复习及高考中的应用》</td>
-<td>
+<td>
 				市一等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				论文评比</td>
-<td>
+<td>
 				生物</td>
-<td>
+<td>
 				秦峰梅</td>
-<td>
+<td>
 				《在“伴性遗传”一节中实施探究性教学》</td>
-<td>
+<td>
 				市一等奖</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				论文评比</td>
-<td>
+<td>
 				生物</td>
-<td>
+<td>
 				厐巍</td>
-<td>
+<td>
 				《用“数据分析”和“假说演绎法”解决遗传题》</td>
-<td>
+<td>
 				市一等奖</td>
 </tr>
 <tr height="25">
 <td colspan="2" height="25" style="height: 25px">
 <strong>荣誉称号</strong></td>
-<td>
+<td>
 				 </td>
-<td>
+<td>
 				 </td>
-<td>
+<td>
 				 </td>
-<td>
+<td>
 				 </td>
 </tr>
 <tr height="25">
@@ -412,75 +412,75 @@
 <strong>获奖荣誉称号</strong></td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				省级</td>
-<td colspan="3">
+<td colspan="3">
 				田庆斌</td>
-<td colspan="2">
+<td colspan="2">
 				辽宁省优秀教师光荣称号</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				市级</td>
-<td colspan="3" x:str="王绍勇   ">
+<td colspan="3" x:str="王绍勇   ">
 				王绍勇   </td>
-<td colspan="2">
+<td colspan="2">
 				大连市第八届“三育人”先进个人光荣称号</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				市级</td>
-<td colspan="3" x:str="高凤海 ">
+<td colspan="3" x:str="高凤海 ">
 				高凤海 </td>
-<td colspan="2">
+<td colspan="2">
 				大连市优秀教育工作者光荣称号</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				市级</td>
-<td colspan="3" x:str=" 潘永久 ">
+<td colspan="3" x:str=" 潘永久 ">
 				 潘永久 </td>
-<td colspan="2">
+<td colspan="2">
 				大连市优秀教师光荣称号</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				市级</td>
-<td colspan="3" x:str="彭喜治 ">
+<td colspan="3" x:str="彭喜治 ">
 				彭喜治 </td>
-<td colspan="2">
+<td colspan="2">
 				 大连市社团工作先进个人光荣称号</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				市级</td>
-<td colspan="3" x:str=" 韩秋 ">
+<td colspan="3" x:str=" 韩秋 ">
 				 韩秋 </td>
-<td colspan="2">
+<td colspan="2">
 				大连市优秀德育工作者光荣称号</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				市级</td>
-<td colspan="3">
+<td colspan="3">
 				 黄彬</td>
-<td colspan="2">
+<td colspan="2">
 				大连市优秀班主任光荣称号</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				市级</td>
-<td colspan="3">
+<td colspan="3">
 				 金辉</td>
-<td colspan="2">
+<td colspan="2">
 				大连市优秀班主任光荣称号</td>
 </tr>
 <tr height="25">
-<td height="25" style="height: 25px">
+<td height="25" style="height: 25px">
 				市级</td>
-<td colspan="3">
+<td colspan="3">
 				张军</td>
-<td colspan="2">
+<td colspan="2">
 				大连市优秀班主任光荣称号</td>
 </tr>
 </tbody>
