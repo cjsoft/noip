@@ -37,7 +37,7 @@ int main() {
   for (int i = 0; i < l; ++i) {
     sequence[i] = s[i] + 1;
   }
-  getsa(sequence, sa, l + 1, 257);
+  getsa(sequence, sa, l + 1, 128);
   // getheight(sequence, sa, h, l);
   for (int i = 1; i <= l; ++i) {
     printf("%d\n", sa[i] + 1);
