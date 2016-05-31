@@ -54,7 +54,7 @@ void cut(node *a, node *b) {
 }
 node *findATRoot(node *a) {
     node *p = a; tot = 0;
-    for (; a != nil; p = p->parent) stk[tot++] = p;
+    for (; p != nil; p = p->parent) stk[tot++] = p;
     for (--tot; tot >= 0; --tot) pushdown(stk[tot]);
     while (a->parent != nil) a = a->parent;
     return a;
