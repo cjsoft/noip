@@ -4,9 +4,24 @@
 #include <algorithm>
 #define MXN 200007
 #define INF 0x3f3f3f3f
+#define iterate(x, i) for (edge *i = head[x]; i; i = i->prev)
 #define isrson(x) (x == x->parent->c[1])
 #define isroot(x) (!(x->parent->c[0] == x || x->parent->c[1] == x))
 struct node {int sz, sum, mmm, data; bool isrev; node *parent, *c[2];} *nil, _nil;
+struct edge {int to; edge *prev;} egs[MXN], *head[MXN], *cur;
+int fa[MXN];
+inline void addedge(int a, int b) {
+    cur->to = b;
+    cur->prev = head[a];
+    head[a] = cur++;
+}
+void dfs(int root) {
+    iterate(root, i) {
+        if (i->to == fa[root]) continue;
+        fa[i->to] = root;
+        dfs(i->to);
+    }
+}
 inline void update(node *x) {
     if (x == nil) return;
     x->sz = x->c[0]->sz + x->c[1]->sz + 1;
@@ -62,28 +77,37 @@ void cut(node *a, node *b) {
     b->c[0] = nil;
 }
 node *findATRoot(node *a) {
+    node *p = a; tot = 0;
+    for (; p != nil; p = p->parent) stk[tot++] = p;
+    for (--tot; tot >= 0; --tot) pushdown(stk[tot]);
     while (a->parent != nil) a = a->parent;
     return a;
 }
 inline int getint();
 node buf[MXN];
-int n, m, a[MXN], b[MXN], c, d; char input[11];
+int n, m, a, b, c, d; char input[11];
 inline void init();
 int main() {
+    cur = egs;
     n = getint();
     init();
     for (int i = 1; i < n; ++i) {
-        a[i] = getint(); b[i] =getint();
+        a = getint(); b =getint();
+        addedge(a, b);
+        addedge(b, a);
     }
+    dfs(1);
     for (int i = 1; i <= n; ++i) {
         buf[i].sum = buf[i].mmm = buf[i].data = getint();
         buf[i].sz = 1;
         buf[i].isrev = false;
-        buf[i].parent = buf[i].c[0] = buf[i].c[1] = nil;
+        buf[i].c[0] = buf[i].c[1] = nil;
+        buf[i].parent = buf + fa[i];
     }
-    for (int i = 1; i < n; ++i) link(buf + a[i], buf + b[i]);
-    makeroot(buf + 3);
-    expose(buf + 4);
+    buf[1].parent = nil;
+    // for (int i = 1; i < n; ++i) link(buf + a[i], buf + b[i]);
+    // makeroot(buf + 3);
+    // expose(buf + 4);
     m = getint();
     while (m--) {
         scanf("%s", input);
